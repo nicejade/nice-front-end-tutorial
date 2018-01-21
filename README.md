@@ -15,7 +15,7 @@
 
 - [大前端综合](https://github.com/nicejade/nice-front-end-tutorial/blob/master/tutorial/front-end-tutorial.md)
 - [EcmaScript](https://github.com/nicejade/nice-front-end-tutorial/blob/master/tutorial/ecmascript-tutorial.md)
-- [Css3](https://github.com/nicejade/nice-front-end-tutorial/blob/master/tutorial/css3-tutorial.md)
+- [Css(3)](https://github.com/nicejade/nice-front-end-tutorial/blob/master/tutorial/css3-tutorial.md)
 - [Framework News](https://github.com/nicejade/nice-front-end-tutorial/blob/master/tutorial/framework-news.md)
 - [Vue](https://github.com/nicejade/nice-front-end-tutorial/blob/master/tutorial/vue-tutorial.md)
 - [React](https://github.com/nicejade/nice-front-end-tutorial/blob/master/tutorial/react-tutorial.md)
@@ -30,6 +30,7 @@
 - [Nodejs](https://github.com/nicejade/nice-front-end-tutorial/blob/master/tutorial/nodejs-tutorial.md)
 - [Nginx](https://github.com/nicejade/nice-front-end-tutorial/blob/master/tutorial/nginx-tutorial.md)
 - [Mongodb](https://github.com/nicejade/nice-front-end-tutorial/blob/master/tutorial/mongodb-tutorial.md)
+- [Redis](https://github.com/nicejade/nice-front-end-tutorial/blob/master/tutorial/redis-tutorial.md)
 
 ### 🎣 Front-Back-End Tutorial
 - [Tools](https://github.com/nicejade/nice-front-end-tutorial/blob/master/tutorial/tools-tutorial.md)
@@ -39,7 +40,7 @@
 - [GraphQL](https://github.com/nicejade/nice-front-end-tutorial/blob/master/tutorial/graphql-tutorial.md)
 - [Web Security](https://github.com/nicejade/nice-front-end-tutorial/blob/master/tutorial/web-security-tutorial.md)
 
-### Other Wizards List
+### 🌷 Other Wizards List
 - [Front-end Channel](https://github.com/nicejade/nice-front-end-tutorial/blob/master/tutorial/front-end-channel.md)
 - [Interesting](https://github.com/nicejade/nice-front-end-tutorial/blob/master/tutorial/interesting-tutorial.md)
 

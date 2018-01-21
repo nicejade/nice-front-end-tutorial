@@ -20,6 +20,7 @@
 * [Mac 必备软件渐集之 ZSH－终极 Shell](http://www.jeffjade.com/2015/07/29/2015-07-29-mac-musthave-software/)
 * [Mac 多屏幕窗口管理神器](https://juejin.im/post/58538a068d6d81006597b4d6)
 * [开发者 MAC 电脑里的十八般兵器](http://www.figotan.org/2016/07/12/dev-macpro-arms/)
+* [MacOS Setup Guide](http://sourabhbajaj.com/mac-setup/)
 
 ### [Chrome](https://github.com/nicejade/nice-front-end-tutorial/blob/master/tutorial/chrome-tutorial.md)
 
