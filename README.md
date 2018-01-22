@@ -15,6 +15,7 @@
 
 - [大前端综合](https://github.com/nicejade/nice-front-end-tutorial/blob/master/tutorial/front-end-tutorial.md)
 - [EcmaScript](https://github.com/nicejade/nice-front-end-tutorial/blob/master/tutorial/ecmascript-tutorial.md)
+- [Html(5)](https://github.com/nicejade/nice-front-end-tutorial/blob/master/tutorial/html-tutorial.md)
 - [Css(3)](https://github.com/nicejade/nice-front-end-tutorial/blob/master/tutorial/css3-tutorial.md)
 - [Framework News](https://github.com/nicejade/nice-front-end-tutorial/blob/master/tutorial/framework-news.md)
 - [Vue](https://github.com/nicejade/nice-front-end-tutorial/blob/master/tutorial/vue-tutorial.md)
