@@ -86,5 +86,6 @@
 * [Line25 Web Design Blog](https://line25.com/)
 * [Find and Fix Node.js Security Flaws](https://blog.liftsecurity.io/)
 * [John Papa: John Papa](https://johnpapa.net/)
+* [Smashing Magazine — For Web Designers And Developers](https://www.smashingmagazine.com/)
 
 >**微注：** 显然，如今优质`个人博客`很多；但此间对其的收录，将秉承以下几点原则：内容以原创为主，多涉及前端范畴；并具有一定参考价值，且三月之内仍有更新；有自己个人品牌，而不依附于其他平台；网站响应迅速，板式布局干净舒爽；若有广告，当不影响阅读体验（另外，当有一定影响力，或者有一些积淀，如原创内容篇数大于 30+）；更多关于对这份收录的详细内情，请参见[『优质』前端频道汇聚](https://jeffjade.com/2017/11/29/133-high-quality-front-end-channel/)。

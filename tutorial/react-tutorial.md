@@ -13,13 +13,16 @@
 ## 资源篇
 
 * [Awesome React](https://github.com/enaqx/awesome-react)
+* [11 React Component Libraries You Should Know In 2018](https://blog.bitsrc.io/11-react-component-libraries-you-should-know-178eb1dd6aa4)
 
 ## UI 篇
 
 * [Ant Design](https://ant.design/)
 * [React material UI](http://material-ui.com/#)
 * [React amazeui UI](http://amazeui.org/react)
-* [RSUITE](https://rsuitejs.com/): 一套 React 的 UI 组件库
+* [PrimeReact UI](https://www.primefaces.org/primereact/#/): <sub>Your Favorite UI Framework
+for REACT</sub>
+* [RSUITE](https://rsuitejs.com/): <sub>一套 React 的 UI 组件库</sub>
 
 ## 进阶篇
 
