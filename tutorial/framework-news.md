@@ -2,6 +2,7 @@
 
 ## 第一季度
 
+* [2018 Developer Skills Report](https://research.hackerrank.com/developer-skills/2018/) 🌟🌟🌟🌟
 * [The Ultimate Guide to JavaScript Frameworks](https://javascriptreport.com/the-ultimate-guide-to-javascript-frameworks/) 🌟🌟🌟⭐️
 * [2017 VS 2016 前端使用数据对比](http://vanessa.b3log.org/2017-vs-2016-fe-data)
 * [JavaScript 2018: Things You Need To Know, and a Few You Can Skip](https://thenewstack.io/js-2018-things-need-know-can-skip/)  ⭐️⭐️⭐️
