@@ -147,6 +147,11 @@
 * [npm 模块安装机制简介](http://www.ruanyifeng.com/blog/2016/01/npm-install.html)
 * [淘宝 NPM 镜像](https://npm.taobao.org/)
 
+### Jade(Pug)
+
+- [Pug](https://github.com/pugjs/pug): <sub>Pug – robust, elegant, feature rich template engine for Node.js</sub>
+- [Jade 小书](https://www.gitbook.com/book/terrynie/jadecookbook/details): <sub>Jade - robust, elegant, feature rich template engine for nodejs http://jade-lang.com</sub>
+
 #### PM2
 
 > Advanced, production process manager for Node.js

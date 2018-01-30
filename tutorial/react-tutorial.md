@@ -9,6 +9,7 @@
 * [React Native 中文版](http://wiki.jikexueyuan.com/project/react-native)
 * [Webpack 和 React 小书 - gitbook](https://fakefish.github.io/react-webpack-cookbook)
 * [基于 webpack 搭建前端工程解决方案探索](http://segmentfault.com/a/1190000003499526)
+* [React.js 小书](https://github.com/huzidaha/react-naive-book): <sub>开源、免费、专业、简单的 React.js 在线教程 http://huziketang.com/books/react</sub>
 
 ## 资源篇
 
@@ -31,4 +32,5 @@ for REACT</sub>
 
 ## 周边篇
 
+* [React Navigation](https://reactnavigation.org/): <sub>Navigation for React Native</sub>
 * [Redux Form](https://redux-form.com/): <sub>The best way to manage your form state in Redux.</sub>
