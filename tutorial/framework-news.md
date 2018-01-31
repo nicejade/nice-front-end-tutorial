@@ -2,6 +2,7 @@
 
 ## 第一季度
 
+* [The Future of JavaScript Will Be Less JavaScript](https://codeburst.io/the-future-of-javascript-will-be-less-javascript-cea373eb57fd) 🌟🌟🌟⭐️
 * [2018 Developer Skills Report](https://research.hackerrank.com/developer-skills/2018/) 🌟🌟🌟🌟
 * [The Ultimate Guide to JavaScript Frameworks](https://javascriptreport.com/the-ultimate-guide-to-javascript-frameworks/) 🌟🌟🌟⭐️
 * [2017 VS 2016 前端使用数据对比](http://vanessa.b3log.org/2017-vs-2016-fe-data)
