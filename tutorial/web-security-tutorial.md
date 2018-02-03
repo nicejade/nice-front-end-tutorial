@@ -9,6 +9,7 @@
 * [Web 安全的三个攻防姿势](https://juejin.im/post/59e6b21bf265da43247f861d)
 * [HTTP 安全最佳实践](https://juejin.im/entry/59127ac32f301e0057ef7cfc)
 * [程序猿必读 - 防范 CSRF 跨站请求伪造](https://aicode.cc/cheng-xu-yuan-bi-dufang-fancsrf-kua-zhan-qing-qiu.html)
+* [Understanding CORS](https://medium.com/@baphemot/understanding-cors-18ad6b478e2b)
 
 ### 相关篇
 

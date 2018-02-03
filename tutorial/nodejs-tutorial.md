@@ -22,6 +22,10 @@
 - [Node Hero - Node.js Security Tutorial](https://blog.risingstack.com/node-hero-node-js-security-tutorial/)
 - **[Node.js Security Checklist](https://blog.risingstack.com/node-js-security-checklist/)**
 
+## Node.js Awesome List
+
+- [Awesome Awesome Node.js](https://github.com/bnb/awesome-awesome-nodejs): <sub>🐢🚀 An Awesome list of Awesome lists related to Node.js.</sub>
+
 ## 框架篇
 
 ### KoaJs
@@ -45,7 +49,7 @@
 
 - [Nestjs](https://nestjs.com/): A progressive Node.js framework for building efficient and scalable server-side applications on top of TypeScript & JavaScript (ES6 / ES7 / ES8) heavily inspired by Angular 🚀 ⚡️
 
-## 咨询篇
+## 资讯篇
 
 - [Node.js Best Practices - How to become a better Node.js developer in 2018](https://nemethgergely.com/nodejs-best-practices-how-to-become-a-better-developer-in-2018/)
 - [Node.js as Backend: Best Use Cases, Tools & Limitations](https://medium.com/dailyjs/node-js-as-backend-best-use-cases-tools-limitations-9c65165a5bac)
