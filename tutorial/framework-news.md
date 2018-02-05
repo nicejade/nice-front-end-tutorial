@@ -2,6 +2,7 @@
 
 ## 第一季度
 
+* [10 things I love about Vue](https://medium.com/@dalaidunc/10-things-i-love-about-vue-505886ddaff2): 🌟🌟🌟⭐️
 * [The Future of JavaScript Will Be Less JavaScript](https://codeburst.io/the-future-of-javascript-will-be-less-javascript-cea373eb57fd) 🌟🌟🌟⭐️
 * [2018 Developer Skills Report](https://research.hackerrank.com/developer-skills/2018/) 🌟🌟🌟🌟
 * [The Ultimate Guide to JavaScript Frameworks](https://javascriptreport.com/the-ultimate-guide-to-javascript-frameworks/) 🌟🌟🌟⭐️
