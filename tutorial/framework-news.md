@@ -2,6 +2,8 @@
 
 ## 第一季度
 
+* [2017 年崛起的 JS 项目](https://juejin.im/post/5a633babf265da3e2a0dadcc): <sub>英文原文地址：[2017 JavaScript Rising Stars](https://risingstars.js.org/2017/en/)</sub>
+* [2018 前端值得关注的技术](https://juejin.im/post/5a519d305188257327396da5)
 * [10 things I love about Vue](https://medium.com/@dalaidunc/10-things-i-love-about-vue-505886ddaff2): 🌟🌟🌟⭐️
 * [The Future of JavaScript Will Be Less JavaScript](https://codeburst.io/the-future-of-javascript-will-be-less-javascript-cea373eb57fd) 🌟🌟🌟⭐️
 * [2018 Developer Skills Report](https://research.hackerrank.com/developer-skills/2018/) 🌟🌟🌟🌟

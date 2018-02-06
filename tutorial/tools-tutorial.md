@@ -8,10 +8,6 @@
 * [少数派 | 效率工具](https://sspai.com/tag/%E6%95%88%E7%8E%87%E5%B7%A5%E5%85%B7#home)
 * [那些所倚靠的利器记载](https://www.jeffjade.com/2016/03/17/2016-03-17-jade-tools/#)
 
-## 框架
-
-* [Web Frameworks: Conclusions](https://www.sitepen.com/blog/2017/11/10/web-frameworks-conclusions/)
-
 ### Mac
 
 * [awesome-mac](https://github.com/jaywcjlove/awesome-mac)

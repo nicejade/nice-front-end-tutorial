@@ -4,6 +4,7 @@
 * [Some of the vue-tutorial](https://github.com/Wscats/vue-tutorial)
 * [从零搭建 vue2+vue-router2+webpack3 工程](http://www.qinshenxue.com/article/20161118151423.html)
 * [Vue.js 2.0 快速上手精华梳理](https://juejin.im/post/59aa1248518825392656a86a)
+* [Building a Modal Component with Vue.js](https://alligator.io/vuejs/vue-modal-component/)
 
 ## 进阶篇
 
