@@ -9,6 +9,7 @@
 
 ## 进阶篇
 
+* [Front-End-Checklist Javascript](https://github.com/thedaviddias/Front-End-Checklist#javascript)
 * [Web | Google Developers](https://developers.google.com/web/)
 * [How JavaScript works: inside the V8 engine + 5 tips on how to write optimized code](https://blog.sessionstack.com/how-javascript-works-inside-the-v8-engine-5-tips-on-how-to-write-optimized-code-ac089e62b12e)
 * [八段代码彻底掌握 Promise](https://juejin.im/post/597724c26fb9a06bb75260e8)
