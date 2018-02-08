@@ -1,6 +1,6 @@
 <h1 align="center">大前端综合教程、资源汇总</h1>
 
-> 这份汇总整理，很程度上参考了[GitHub最全前端资源汇总](https://helloqingfeng.github.io/front-end-index/index.html)；云集`前端教程`、`开发资源`、`免费书籍`、`手册规范`、`求职面试`等等，旨在为前端学习 & 技能提升提供方便。当然，并不期望这成为一个前端武学收藏夹；毕竟，只有自己掌握，才是真正拥有；况且前端发展如火如荼，日新月异。这里会尽量保持探索 & 学习 & 更新。关于我： 微博～ [@杨琼璞](http://weibo.com/jeffjade)； 博客～ [晚晴幽草轩](https:jeffjade.com)。
+> 这份汇总整理，一定程度上参考了 [GitHub 最全前端资源汇总](https://helloqingfeng.github.io/front-end-index/index.html)；云集`前端教程`、`开发资源`、`免费书籍`、`手册规范`、`求职面试`等等，旨在为前端学习 & 技能提升提供方便。当然，并不期望这成为一个前端武学收藏夹；毕竟，只有自己掌握，才是真正拥有；况且前端发展如火如荼，日新月异。这里会尽量保持探索 & 学习 & 更新。[关于我](https://about.me/nicejade/)： 微博～ [@杨琼璞](http://weibo.com/jeffjade)； 博客～ [晚晴幽草轩](https:jeffjade.com)。
 
 ## [与时俱进版前端资源教程](https://jeffjade.com/2017/09/28/127-nice-front-end-tutorial/)
 
@@ -224,53 +224,3 @@
 作者：https://github.com/fritx
 
 源地址：https://github.com/fritx/awesome-wechat
-
-<br>
-
-# 前端求职面试
-
-<br>
-
-## [关于程序员求职简历汇总（含优秀简历示例）](https://github.com/helloqingfeng/Awsome-Front-End-learning-resource/tree/master/19-about-resume)
-
-作者：Mingdong Luo https://github.com/mdluo
-
-源地址：https://mdluo.github.io/blog/about-resume/
-
-## [关于前端面试文章汇总](https://github.com/helloqingfeng/Awsome-Front-End-learning-resource/tree/master/20-about-front-end-interview)
-
-作者：Mingdong Luo https://github.com/mdluo
-
-源地址：https://mdluo.github.io/blog/about-front-end-interview/
-
-## [前端面试问题集锦](https://github.com/helloqingfeng/Awsome-Front-End-learning-resource/tree/master/21-Front-end-Interview-questions)
-
-作者： trigkit4    https://github.com/hawx1993
-
-源地址：https://github.com/hawx1993/Front-end-Interview-questions
-
-
-## [前端工作面试问题](https://github.com/helloqingfeng/Awsome-Front-End-learning-resource/tree/master/22-Front-end-Developer-Interview-Questions-master)
-
-作者：H5BP https://github.com/h5bp
-
-中文版作者：Liu Chao https://github.com/lc-soft
-
-源地址：https://github.com/h5bp/Front-end-Developer-Interview-Questions
-
-
-## [收集的前端面试题和答案](https://github.com/helloqingfeng/Awsome-Front-End-learning-resource/tree/master/23-FE-interview-master)
-
-作者：qiu https://github.com/qiu-deqing
-
-源地址：https://github.com/qiu-deqing/FE-interview
-
-## [一套完整的学习手册帮助自己准备 Google 的面试](https://github.com/helloqingfeng/Awsome-Front-End-learning-resource/tree/master/29-google-interview-university)
-
-原文作者：[John Washam](https://github.com/jwasham/google-interview-university)
-
-译文出自：[掘金翻译计划](https://github.com/xitu/gold-miner)
-
-译者：：[Aleen](https://github.com/aleen42)，[Newton](https://github.com/Newt0n)，[bobmayuze](https://github.com/bobmayuze)，[Jaeger](https://github.com/laobie)，[sqrthree](https://github.com/sqrthree)
-
-源地址：https://github.com/jwasham/google-interview-university

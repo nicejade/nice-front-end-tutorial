@@ -47,6 +47,7 @@
 * [WebOps Weekly ^subscribe](https://webopsweekly.com/issues)
 * [Node Weekly ^subscribe](https://nodeweekly.com/issues)
 * [Mobile Dev Weekly ^subscribe](https://mobilewebweekly.com/issues)
+* [Front-end Web Development, Chewed Up &larr; Alligator.io](https://alligator.io/)
 
 ## 个人博客
 
