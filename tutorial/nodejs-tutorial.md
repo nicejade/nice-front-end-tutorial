@@ -16,6 +16,7 @@
 - [Node.js with Microservices](https://blog.risingstack.com/tag/node-js-with-microservices/)
 - [Node.js Async Function Best Practices](https://nemethgergely.com/async-function-best-practices/)
 - [Implementing JavaScript Functors and Monads](https://medium.com/front-end-hacking/implementing-javascript-functors-and-monads-a87b6a4b4d9a)
+- [Node 定时器详解](http://www.ruanyifeng.com/blog/2018/02/node-event-loop.html)
 
 ## 安全篇
 
