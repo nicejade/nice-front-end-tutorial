@@ -13,6 +13,8 @@
 
 >Deep Learning — A Technique for Implementing Machine Learning.
 
+- [Deep Learning Book Chinese Translation](https://github.com/exacity/deeplearningbook-chinese)
+
 ### Related JS Libraries
 
 - [Synaptic](https://github.com/cazala/synaptic)：architecture-free neural network library for node.js and the browser http://caza.la/synaptic(node.js和浏览器的无架构神经网络库).
