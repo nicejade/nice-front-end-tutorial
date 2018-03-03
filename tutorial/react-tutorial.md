@@ -34,3 +34,4 @@ for REACT</sub>
 
 * [React Navigation](https://reactnavigation.org/): <sub>Navigation for React Native</sub>
 * [Redux Form](https://redux-form.com/): <sub>The best way to manage your form state in Redux.</sub>
+* [react-static](https://github.com/nozzle/react-static): <sub>⚛️ 🚀 A progressive static site generator for React. https://nozzle-react-static.netlify.com/</sub>

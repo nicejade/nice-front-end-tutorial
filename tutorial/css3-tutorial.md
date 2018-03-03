@@ -31,4 +31,5 @@
 ## 相关篇
 
 - [postcss-cssnext](https://github.com/MoOx/postcss-cssnext): <sub>🌀 PostCSS plugin to use tomorrow's CSS syntax, today. http://cssnext.io/</sub>
+- [30 Seconds of CSS](https://github.com/atomiks/30-seconds-of-css): <sub>A curated collection of useful CSS snippets.</sub>
 
