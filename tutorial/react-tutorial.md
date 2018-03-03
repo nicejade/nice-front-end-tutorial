@@ -29,6 +29,7 @@ for REACT</sub>
 
 * [How “Controllable” React components maximize reusability](https://medium.com/myheritage-engineering/how-controllable-react-components-maximize-reusability-86e3d233fa8e)
 * [REACT, REDUX AND JAVASCRIPT ARCHITECTURE](https://jrsinclair.com/articles/2018/react-redux-javascript-architecture/)
+* [Infinite scroll techniques in React](https://blog.logrocket.com/infinite-scroll-techniques-in-react-adcfd7ff32bd)
 
 ## 周边篇
 

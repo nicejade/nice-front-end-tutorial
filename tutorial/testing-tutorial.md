@@ -8,6 +8,7 @@
 
 > 用Python编写的可扩展的用户负载测试工具(Scalable user load testing tool written in Python) http://locust.io
 
+  - [Load Testing with Locust.io & Docker Swarm](https://wheniwork.engineering/load-testing-with-locust-io-docker-swarm-d78a2602997a)
   - [【LocustPlus序】漫谈服务端性能测试](http://debugtalk.com/post/locustplus-talk-about-performance-test/)
   - [深入浅出开源性能测试工具Locust（使用篇）](http://debugtalk.com/post/head-first-locust-user-guide/)
 

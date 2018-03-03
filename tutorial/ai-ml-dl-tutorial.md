@@ -7,9 +7,13 @@
 
 >Machine Learning —  An Approach to Achieve Artificial Intelligence
 
+- [Google 机器学习速成课程](https://developers.google.com/machine-learning/crash-course/)
+
 ## **Deep Learning**
 
 >Deep Learning — A Technique for Implementing Machine Learning.
+
+- [Deep Learning Book Chinese Translation](https://github.com/exacity/deeplearningbook-chinese)
 
 ### Related JS Libraries
 
