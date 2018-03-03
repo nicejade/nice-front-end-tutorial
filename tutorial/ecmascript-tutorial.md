@@ -6,6 +6,7 @@
 * [阮一峰 es6](http://es6.ruanyifeng.com)
 * [阮一峰 Javascript](http://javascript.ruanyifeng.com)
 * [ECMA-262，第 5 版](http://yanhaijing.com/es5)
+* [JavaScript Promise迷你书](https://github.com/liubin/promises-book/)
 
 ## 进阶篇
 
