@@ -12,6 +12,7 @@
 - [深入理解 HTML5 标签](https://segmentfault.com/a/1190000002695791)
 - [如何写出高效率的 HTML](https://segmentfault.com/a/1190000002680822)
 - [戏说 HTML5](http://www.cnblogs.com/dojo-lzz/p/5059316.html)
+- [从一个事件绑定说起 - DOM](https://qiutc.me/post/binding-event-of-dom.html)
 
 ## 周边篇
 

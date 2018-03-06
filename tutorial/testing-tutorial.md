@@ -12,6 +12,13 @@
   - [【LocustPlus序】漫谈服务端性能测试](http://debugtalk.com/post/locustplus-talk-about-performance-test/)
   - [深入浅出开源性能测试工具Locust（使用篇）](http://debugtalk.com/post/head-first-locust-user-guide/)
 
+## [Jest](https://github.com/facebook/jest)
+
+> 🃏令人愉快的JavaScript测试(🃏 Delightful JavaScript Testing) https://facebook.github.io/jest/
+
+  - [jest-puppeteer](https://github.com/smooth-code/jest-puppeteer): <sub>Run your tests using Jest & Puppeteer 🎪✨</sub>
+
+
 #### [Cypress ](https://github.com/cypress-io/cypress)
 
 >快速，简单和可靠的测试任何在浏览器中运行的任何东西。(The web has evolved. Finally, testing has too.Fast, easy and reliable testing for anything that runs in a browser.) https://www.cypress.io
