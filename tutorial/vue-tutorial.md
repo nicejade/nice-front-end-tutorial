@@ -37,3 +37,4 @@
 * [poi](https://github.com/egoist/poi)
 * [create-vue-app](https://github.com/vue-land/create-vue-app)
 * [vue-boilerplate-template](https://github.com/nicejade/vue-boilerplate-template)
+* [create-nuxt-app](https://github.com/nuxt-community/create-nuxt-app)

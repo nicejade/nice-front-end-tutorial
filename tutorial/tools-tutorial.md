@@ -168,6 +168,9 @@
 
   > JavaScript 3D library. https://threejs.org/ (JavaScript 3D 库。)
 
+* [three.ar.js](https://github.com/google-ar/three.ar.js)
+  >A helper three.js library for building AR web experiences that run in WebARonARKit and WebARonARCore(助手three.js库，用于构建在WebARonARKit和WebARonARCore中运行的AR Web体验)
+
 * [axios](https://github.com/axios/axios)
 
   > Promise based HTTP client for the browser and node.js ( 用于浏览器和 node.js
