@@ -68,12 +68,6 @@
 * [mavonEditor](https://github.com/hinesboy/mavonEditor)
 * [vue-simplemde](https://github.com/F-loat/vue-simplemde)
 
-### Docker
-
-* [Docker 官方文档](https://docs.docker.com/)
-* [Docker —— 从入门到实践](https://yeasy.gitbooks.io/docker_practice/content/)
-* [用 Docker 快速配置前端开发环境](http://numbbbbb.com/2016/09/26/20160926_%E7%94%A8%20Docker%20%E5%BF%AB%E9%80%9F%E9%85%8D%E7%BD%AE%E5%89%8D%E7%AB%AF%E5%BC%80%E5%8F%91%E7%8E%AF%E5%A2%83/)
-
 ### Jenkins
 
 * [Jenkins 官方文档](https://jenkins.io/doc/)

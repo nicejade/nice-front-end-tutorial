@@ -8,6 +8,8 @@
 ## Interviews
 
 - [Interviews](https://github.com/kdn251/interviews): <sub>Everything you need to know to get the job.</sub>
+- [CyC2018/Interview-Notebook](https://github.com/CyC2018/Interview-Notebook): <sub>📚 技术面试需要掌握的基础知识整理，持续更新中~
+</sub>
 - [前端开发面试题](https://github.com/markyun/My-blog/tree/master/Front-end-Developer-Questions)
 - [前端面试问题集锦](https://github.com/helloqingfeng/Awsome-Front-End-learning-resource/tree/master/21-Front-end-Interview-questions)
 - [收集的前端面试题和答案](https://github.com/helloqingfeng/Awsome-Front-End-learning-resource/tree/master/23-FE-interview-master)

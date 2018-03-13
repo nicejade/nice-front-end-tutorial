@@ -38,3 +38,4 @@
 * [create-vue-app](https://github.com/vue-land/create-vue-app)
 * [vue-boilerplate-template](https://github.com/nicejade/vue-boilerplate-template)
 * [create-nuxt-app](https://github.com/nuxt-community/create-nuxt-app)
+* [Meituan-Dianping/mpvue](https://github.com/Meituan-Dianping/mpvue): <sub>基于 Vue.js 的小程序开发框架，从底层支持 Vue.js 语法和构建工具体系。 http://mpvue.com</sub>
