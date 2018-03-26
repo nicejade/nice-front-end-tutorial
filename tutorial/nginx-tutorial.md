@@ -6,3 +6,5 @@
 - [加速nginx: 开启gzip和缓存](https://www.darrenfang.com/2015/01/setting-up-http-cache-and-gzip-with-nginx/)
 
 ## 进阶篇
+
+- [Nginx安装维护入门学习笔记，以及各种实例](https://github.com/jaywcjlove/nginx-tutorial)

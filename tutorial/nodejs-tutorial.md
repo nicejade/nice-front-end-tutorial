@@ -6,6 +6,7 @@
 - [从零开始 NodeJS 系列文章](http://blog.fens.me/series-nodejs)
 - [Node.js Tutorials for Beginners](https://blog.risingstack.com/tag/node-js-tutorials-for-beginners/)
 - [Nodejs学习笔记以及经验总结](https://github.com/chyingp/nodejs-learning-guide)
+- [[全文]如何正确的学习Node.js](https://github.com/i5ting/How-to-learn-node-correctly)
 
 ## 进阶篇
 

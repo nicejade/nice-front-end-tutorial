@@ -5,6 +5,8 @@
 - [Redis 命令参考](http://redisdoc.com/)
 - [Redis 菜鸟教程](http://www.runoob.com/redis/redis-tutorial.html)
 
-## 进阶篇
+## 实战篇
 
-- [thisDaveJ's Guide to Using Redis with Node.js](http://thisdavej.com/guides/redis-node/)
+- [API Caching with Redis and Node.js](https://www.compose.com/articles/api-caching-with-redis-and-nodejs/)
+
+## 进阶篇
