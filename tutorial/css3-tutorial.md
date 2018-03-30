@@ -23,6 +23,7 @@
 
 ## 周边篇  
 - [animate.css](https://daneden.github.io/animate.css)    
+- [popmotion](https://popmotion.io/): <sub>A functional, flexible JavaScript motion library</sub>
 - [bouncejs 触摸库](http://bouncejs.com)  
 - [browserhacks](http://browserhacks.com)
 - [腾讯css3动画制作工具](http://isux.tencent.com/css3/tools.html)
