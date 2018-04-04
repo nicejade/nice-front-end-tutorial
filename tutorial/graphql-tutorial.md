@@ -4,7 +4,9 @@ GraphQL 既是一种用于 API 的查询语言也是一个满足你数据查询�
 
 ---
 
+## 基础篇
+
+- [GraphQL: 一种用于 API 的查询语言](https://graphql.cn/)
 - [Github facebook/GraphQL](https://github.com/facebook/graphql)
-- [GraphQL: 一种用于 API 的查询语言](http://graphql.cn/)
 - [A Front End Developer’s Guide to GraphQL](https://css-tricks.com/front-end-developers-guide-graphql/)
 - [The future of state management](https://dev-blog.apollodata.com/the-future-of-state-management-dd410864cae2)
