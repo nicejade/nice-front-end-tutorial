@@ -303,3 +303,7 @@
 * [napa.js](https://github.com/Microsoft/napajs)
   > Napa.js: a multi-threaded JavaScript runtime (Napa.js：一个多线程 JavaScript
   > 运行时 )
+
+* [Hotkeys.js](https://github.com/jaywcjlove/hotkeys/)
+  >➷ A robust Javascript library for capturing keyboard input. It has no dependencies(➷强大的Javascript库，用于捕获键盘输入。它没有依赖关系。)https://git.io/hotkeys.js
+

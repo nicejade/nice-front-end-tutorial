@@ -1,6 +1,7 @@
 >The easiest way to think of their relationship is to visualize them as concentric circles with AI — the idea that came first — the largest, then machine learning — which blossomed later, and finally deep learning — which is driving today’s AI explosion —  fitting inside both. [What’s the Difference Between Artificial Intelligence, Machine Learning, and Deep Learning?](https://blogs.nvidia.com/blog/2016/07/29/whats-difference-artificial-intelligence-machine-learning-deep-learning-ai/)
 
 ## **Artificial Intelligence**
+
 >Artificial Intelligence  —  Human Intelligence Exhibited by Machines
 
 ## **Machine Learning**
@@ -8,6 +9,11 @@
 >Machine Learning —  An Approach to Achieve Artificial Intelligence
 
 - [Google 机器学习速成课程](https://developers.google.com/machine-learning/crash-course/)
+- [11 Javascript Machine Learning Libraries To Use In Your App](https://blog.bitsrc.io/11-javascript-machine-learning-libraries-to-use-in-your-app-c49772cca46c)
+
+### Related JS Libraries
+
+- [TensorFlow.js](https://github.com/tensorflow/tfjs): <sub>A WebGL accelerated, browser based JavaScript library for training and deploying ML models.(WebGL加速的基于浏览器的JavaScript库，用于培训和部署ML模型)https://js.tensorflow.org</sub>
 
 ## **Deep Learning**
 

@@ -15,6 +15,7 @@
 - [Webpack 打包优化之速度篇](http://jeffjade.com/2017/08/12/125-webpack-package-optimization-for-speed/)
 - [为什么Webpack 2的Tree Shaking不如你想象的那么有效](https://advancedweb.hu/2017/02/07/treeshaking/)
 - [Webpack 代码分割技巧](https://foio.github.io/wepack-code-spliting/)
+- [**Optimize your libraries with webpack**](https://github.com/GoogleChromeLabs/webpack-libs-optimizations): <sub>Using a library in your webpack project? Here’s how to optimize it</sub>
 
 ## 咨询篇
 
