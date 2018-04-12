@@ -30,6 +30,12 @@
 * [Familiarity Bias is Holding You Back: It’s Time to Embrace Arrow Functions](https://medium.com/javascript-scene/familiarity-bias-is-holding-you-back-its-time-to-embrace-arrow-functions-3d37e1a9bb75)
 * [Can (a ==1 && a== 2 && a==3) ever evaluate to true?](https://stackoverflow.com/questions/48270127/can-a-1-a-2-a-3-ever-evaluate-to-true)
 * [ES2018(ES9) Puzzlers](http://es2018puzzlers.justjavac.com/)
+* [Here are examples of everything new in ECMAScript 2016, 2017, and 2018](https://medium.freecodecamp.org/here-are-examples-of-everything-new-in-ecmascript-2016-2017-and-2018-d52fa3b5a70e)
+
+## 优化篇
+
+* [You Don't Need jQuery](https://github.com/nefe/You-Dont-Need-jQuery): <sub>Examples of how to do query, style, dom, ajax, event etc like jQuery with plain javascript.</sub>
+* [You don't (may not) need Lodash/Underscore](https://github.com/you-dont-need/You-Dont-Need-Lodash-Underscore): <sub>List of JavaScript methods which you can use natively + ESLint Plugin</sub>
 
 ---
 
