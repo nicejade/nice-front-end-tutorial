@@ -15,6 +15,7 @@
 - [CSS 动画简介](http://www.ruanyifeng.com/blog/2014/02/css_transition_and_animation.html)
 - [CSS3 动画实践](https://aotu.io/notes/2016/01/04/css3-animation/index.html)
 - [Using CSS Transitions on Auto Dimensions](https://css-tricks.com/using-css-transitions-auto-dimensions/)
+- [anime.js](https://github.com/juliangarnier/anime): <sub>JavaScript Animation Engine http://animejs.com</sub>
 
 ## 规范篇
 - [编写灵活、稳定、高质量的 HTML 和 CSS 代码的规范。](http://codeguide.bootcss.com/)
@@ -33,4 +34,5 @@
 
 - [postcss-cssnext](https://github.com/MoOx/postcss-cssnext): <sub>🌀 PostCSS plugin to use tomorrow's CSS syntax, today. http://cssnext.io/</sub>
 - [30 Seconds of CSS](https://github.com/atomiks/30-seconds-of-css): <sub>A curated collection of useful CSS snippets.</sub>
+- [Houdini：CSS 领域最令人振奋的革新](https://zhuanlan.zhihu.com/p/20939640)
 

@@ -39,6 +39,13 @@
 * [jekyllthemes](https://github.com/mattvh/jekyllthemes) - 一些好看的jekyll主题
 * [gitential.com](https://gitential.com/) - Analytics for Git
 
+## GitHub Rank
+
+* [GitHub Rank (China)](http://githubrank.com/) - GitHub上中国程序员的排名网站，根据follower
+* [GitHub Ranking | GitHub Awards](http://github-awards.com/) - GitHub上程序员的排名网站，根据star
+* [GitHub Ranking](https://github-ranking.com/) - GitHub用户和仓库排名，根据star，不区分语言
+* [diycode - GitHub Ranking](http://www.diycode.cc/trends) - GitHub 全球 Developers, Organizations and Repositories 排行榜
+
 ## 桌面工具
 * [ohmystar](http://www.ohmystarapp.com/) - Mac上管理你GitHub star的工具    
 * [GithubPulse](https://github.com/tadeuzagallo/GithubPulse) - OS X状态栏的APP，帮你记住你在GitHub每天的贡献
