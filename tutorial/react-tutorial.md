@@ -38,3 +38,4 @@ for REACT</sub>
 * [Redux Form](https://redux-form.com/): <sub>The best way to manage your form state in Redux.</sub>
 * [react-static](https://github.com/nozzle/react-static): <sub>⚛️ 🚀 A progressive static site generator for React. https://nozzle-react-static.netlify.com/</sub>
 * [react-virtualized](https://github.com/bvaughn/react-virtualized): <sub>React components for efficiently rendering large lists and tabular data http://www.reactvirtualized.com</sub>
+* [react-spring](https://github.com/drcmda/react-spring): <sub>🙌 Helping react-motion and animated to become best friends http://react-spring.surge.sh/</sub>

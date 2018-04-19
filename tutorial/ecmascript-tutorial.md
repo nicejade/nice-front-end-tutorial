@@ -39,8 +39,8 @@
 
 ---
 
-## [TypeScript](https://github.com/Microsoft/TypeScript)
+## [TypeScript](https://github.com/Microsoft/TypeScript)   
 
->TypeScript is a superset of JavaScript that compiles to clean JavaScript output. http://www.typescriptlang.org(TypeScript 是 JavaScript 的超集，它编译为纯 JavaScript: https://www.tslang.cn/index.html)
+> TypeScript is a superset of JavaScript that compiles to clean JavaScript output. http://www.typescriptlang.org(TypeScript 是 JavaScript 的超集，它编译为纯 JavaScript: https://www.tslang.cn/index.html)
 
 - [TypeScript 入门教程](https://ts.xcatliu.com/)
