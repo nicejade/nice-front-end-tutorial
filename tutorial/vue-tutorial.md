@@ -16,6 +16,7 @@
 * [Vue 源码解析：深入响应式原理](https://juejin.im/entry/5834992667f356006c395b31)
 * [Vue 中你不知道但却很实用的黑科技](https://juejin.im/post/5843dcad128fe100577876e1)
 * [Vue 源码详解之 v-for](https://chuckliu.me/#!/posts/58c650a0b5187d2fb51c04fa)
+* [深入浅出基于“依赖收集”的响应式原理](https://segmentfault.com/a/1190000011153487)
 
 ## 资源篇
 

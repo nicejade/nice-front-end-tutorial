@@ -1,4 +1,15 @@
-<h1 align="center">NICE FRONT-END TUTORIAL</h1>
+<p align="center"><img src="https://github.com/nicejade/nice-front-end-tutorial/blob/master/assets/images/lotus.svg" alt="mark text" width="100" height="100"></p>
+
+<h1 align="center">Nice Front-End Tutorial</h1>
+
+<div align="center">
+  <a href="https://twitter.com/intent/tweet?text=Cool:&url=https%3A%2F%2Fgithub.com%2Fnicejade%2Fnice-front-end-tutorial">
+    <img src="https://img.shields.io/twitter/url/https://github.com/nicejade/nice-front-end-tutorial/blob/master/assets/images/lotus.svg?style=for-the-badge" alt="twitter">
+  </a>
+</div>
+<div align="center">
+  <strong>🌍 Constantly updated front-end resources, tutorials, opinions. </strong>
+</div>
 
 ## 目标与哲学
 
