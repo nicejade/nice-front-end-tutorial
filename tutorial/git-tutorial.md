@@ -30,7 +30,6 @@
 ## 常用地址
 
 * [GitHub Trending](https://github.com/trending) - GitHub官方的仓库和开发者流行榜
-* [GitHuber.info](http://githuber.info/) - 最好用的GitHub人才挖掘工具
 * [Code Review](http://reviewcode.cn/) - 利用GitHub进行codereview的网站
 * [GitHub Resume](http://resume.github.io/) - 根据GitHub的信息生成简历
 * [GitBook](https://www.gitbook.com/) - Github上写书，发布到GitBook
@@ -57,9 +56,14 @@
 * [GitHubFolderDownloader](https://github.com/VahidN/GitHubFolderDownloader) - 可以下载一个仓库的单个文件夹的桌面工具
 
 ## Git 库
+
 - [husky](https://github.com/typicode/husky): 🐶 Git hooks made easy.
 
-## Github 插件
+## Git 终端插件
+
+- [gitmoji](https://github.com/carloscuesta/gitmoji): <sub>An emoji guide for your commit messages. 😜 https://gitmoji.carloscuesta.me</sub>
+
+## Github 浏览器插件
 
 * [octotree](https://github.com/buunguyen/octotree) -浏览器扩展，树状格式显示GitHub的代码
 * [octo-linker](https://github.com/octo-linker/chrome-extension) - 这款谷歌 Chrome 扩展允许您轻松地浏览 GitHub.com 上的文件和包。

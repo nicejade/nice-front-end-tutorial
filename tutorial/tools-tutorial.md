@@ -61,6 +61,7 @@
 * [lepture-editor](https://github.com/lepture/editor)
 * [markdown-editor](https://github.com/jbt/markdown-editor)
 * [作业部落 - 功能强大，速度流畅，全平台同步](https://www.zybuluo.com)
+* [**marktext**](https://github.com/marktext/marktext): <sub>📝Next generation markdown editor, running on platforms of MacOS Windows and Linux. https://marktext.github.io/website/</sub>
 
 ### 相关库
 
