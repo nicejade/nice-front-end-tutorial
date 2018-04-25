@@ -1,33 +1,37 @@
-## 基础篇
+**导语：**
 
-- [git-scm](http://git-scm.com)     
-- [廖雪峰-Git教程]( http://www.liaoxuefeng.com/wiki/0013739516305929606dd18361248578c67b8067c8c017b000)     
-- [git-for-windows](https://git-for-windows.github.io)     
-- [GitHub 添加 SSH keys](http://daemon369.github.io/git/2015/03/10/add-ssh-keys-for-github)     
-- [gogithub](http://www.worldhello.net/gotgithub/index.html)     
-- [git常规命令练习](http://pcottle.github.io/learnGitBranching)     
-- [git的资料整理](https://github.com/xirong/my-git)     
-- [我所记录的git命令（非常实用）](http://www.cnblogs.com/fanfan259/p/4810517.html)     
+## Git 基础篇
+
+- [Git - 简明指南](http://rogerdudler.github.io/git-guide/index.zh.html)
+- [Git常规命令练习](http://pcottle.github.io/learnGitBranching)     
+- [Git 的资料整理](https://github.com/xirong/my-git)         
+- [沉浸式学 Git](http://igit.linuxtoy.org/contents.html)
 - [企业开发git工作流模式探索部分休整](https://github.com/xirong/my-git/blob/master/git-workflow-tutorial.md)     
-- [GitHub 漫游指南](https://github.com/phodal/github-roam)     
-- [GitHub秘籍](https://github.com/tiimgreen/github-cheat-sheet/blob/master/README.zh-cn.md)      
-- [动画方式练习git](http://onlywei.github.io/explain-git-with-d3)     
-- [一篇文章，教你学会Git](http://www.jianshu.com/p/072587b47515)    
+- [动画方式练习 Git](http://onlywei.github.io/explain-git-with-d3)     
+- [一篇文章，教你学会Git](http://www.jianshu.com/p/072587b47515)
+- [常用 Git 命令清单](http://www.ruanyifeng.com/blog/2015/12/git-cheat-sheet.html): <sub>来自阮一峰的网络日志，列出了 Git 最常用的命令</sub>
+- [Git 常用命令备忘](https://jeffjade.com/2014/12/22/2014-12-22-gitmemo/)
+- [我所记录的git命令（非常实用）](http://www.cnblogs.com/fanfan259/p/4810517.html)    
 - [AntBranch/awesome-github ](https://github.com/AntBranch/awesome-github): <sub>A curated list of awesome GitHub guides, articles, sites, tools, projects and resources(收集这个列表，只是为了更好地使用亲爱的GitHub).</sub>
 
-## 进阶篇
+## Git 进阶篇
 - [Git 的奇技淫巧🙈](https://github.com/521xueweihan/git-tips)
 - [高质量的Git中文教程](https://github.com/geeeeeeeeek/git-recipes/wiki)
 
-## 周边篇
+## Github 技巧篇
 
+- [GitHub 漫游指南](https://github.com/phodal/github-roam)     
+- [GitHub 秘籍](https://github.com/tiimgreen/github-cheat-sheet/blob/master/README.zh-cn.md)      
 - [学习 Git 玩转 GitHub](http://www.extlight.com/2017/09/18/%E5%AD%A6%E4%B9%A0Git%E7%8E%A9%E8%BD%ACGitHub/)    
 - [使用git和github进行协同开发流程](http://livoras.com/post/28)    
-- [如何使用 Github](https://github.com/xirong/my-git/blob/master/how-to-use-github.md)    
+- [Github全程指南-如何高效使用？](https://github.com/xirong/my-git/blob/master/how-to-use-github.md)    
+- [怎样使用 GitHub？](https://www.zhihu.com/question/20070065/answer/79557687)
+- [GotGitHub](http://www.worldhello.net/gotgithub/index.html): <sub>全面介绍 GitHub 网站的书</sub>
+- [如何编辑 Wiki](https://github.com/g0v/dev/wiki/%E5%A6%82%E4%BD%95%E7%B7%A8%E8%BC%AF-Wiki): <sub>非常好的GitHub Wiki使用教程</sub>
+- [从0开始学习 GitHub 系列](http://stormzhang.com/github/2016/05/25/learn-github-from-zero1/): <sub>stormzhang写的GitHub教程</sub>
 - [强力推荐！那些你不能错过的 GitHub 插件和工具](https://juejin.im/post/59ade28051882538fd72fa2c)    
 
-
-## 常用地址
+## Github 常用地址
 
 * [GitHub Trending](https://github.com/trending) - GitHub官方的仓库和开发者流行榜
 * [Code Review](http://reviewcode.cn/) - 利用GitHub进行codereview的网站
