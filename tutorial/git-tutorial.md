@@ -7,7 +7,7 @@
 - [Git 的资料整理](https://github.com/xirong/my-git)         
 - [沉浸式学 Git](http://igit.linuxtoy.org/contents.html)
 - [企业开发git工作流模式探索部分休整](https://github.com/xirong/my-git/blob/master/git-workflow-tutorial.md)     
-- [动画方式练习 Git](http://onlywei.github.io/explain-git-with-d3)     
+- [动画方式练习 Git](https://learngitbranching.js.org/)     
 - [一篇文章，教你学会Git](http://www.jianshu.com/p/072587b47515)
 - [常用 Git 命令清单](http://www.ruanyifeng.com/blog/2015/12/git-cheat-sheet.html): <sub>来自阮一峰的网络日志，列出了 Git 最常用的命令</sub>
 - [Git 常用命令备忘](https://jeffjade.com/2014/12/22/2014-12-22-gitmemo/)

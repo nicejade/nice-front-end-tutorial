@@ -1,4 +1,4 @@
-<p align="center"><img src="https://github.com/nicejade/nice-front-end-tutorial/blob/master/assets/images/lotus.svg" alt="mark text" width="100" height="100"></p>
+<p align="center"><img src="https://github.com/nicejade/nice-front-end-tutorial/blob/master/assets/images/lotus.svg" alt="Nice Front-End Tutorial" width="100" height="100"></p>
 
 <h1 align="center">Nice Front-End Tutorial</h1>
 
