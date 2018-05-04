@@ -48,6 +48,7 @@
 - [Tools](https://github.com/nicejade/nice-front-end-tutorial/blob/master/tutorial/tools-tutorial.md)
 - [Chrome](https://github.com/nicejade/nice-front-end-tutorial/blob/master/tutorial/chrome-tutorial.md)
 - [Git & Github](https://github.com/nicejade/nice-front-end-tutorial/blob/master/tutorial/git-tutorial.md)
+- [Markdown](https://github.com/nicejade/nice-front-end-tutorial/blob/master/tutorial/markdown-tutorial.md)
 - [Docker](https://github.com/nicejade/nice-front-end-tutorial/blob/master/tutorial/docker-tutorial.md)
 - [GraphQL](https://github.com/nicejade/nice-front-end-tutorial/blob/master/tutorial/graphql-tutorial.md)
 - [Web Security](https://github.com/nicejade/nice-front-end-tutorial/blob/master/tutorial/web-security-tutorial.md)

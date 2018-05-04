@@ -41,34 +41,6 @@
 
 * [Visual Studio Code 配置指南](http://www.jianshu.com/p/64b3b9197945)
 
-### Markdown
-
-#### 入门技巧
-
-* [认识与入门 Markdown](https://sspai.com/post/25137)
-* [**Cmd Markdown 简明语法手册**](https://www.zybuluo.com/mdeditor?url=https://www.zybuluo.com/static/editor/md-help.markdown#cmd-markdown-简明语法手册)
-* [**Cmd Markdown 高阶语法手册**](https://www.zybuluo.com/mdeditor?url=https://www.zybuluo.com/static/editor/md-help.markdown#cmd-markdown-高阶语法手册)
-* [markdown 入门参考](https://github.com/LearnShare/Learning-Markdown/blob/master/README.md)
-* [Cmd Markdown 公式指导手册](https://www.zybuluo.com/codeep/note/163962)
-* [关于 Markdown 的一些奇技淫巧](https://github.com/mzlogin/mzlogin.github.io/blob/master/_posts/2017-09-01-markdown-odd-skills.md)
-
-#### 资源平台
-
-* [gitbook- 国外的在线 markdown 可编辑成书](https://www.gitbook.com)
-* [mdeditor- 一款国内的在线 markdown 编辑器](https://www.zybuluo.com/mdeditor)
-* [stackedit- 国外的在线 markdown 编辑器，功能强大，同步云盘](https://stackedit.io)
-* [mditor- 一款轻量级的 markdown 编辑器](http://bh-lay.github.io/mditor)
-* [lepture-editor](https://github.com/lepture/editor)
-* [markdown-editor](https://github.com/jbt/markdown-editor)
-* [作业部落 - 功能强大，速度流畅，全平台同步](https://www.zybuluo.com)
-* [**marktext**](https://github.com/marktext/marktext): <sub>📝Next generation markdown editor, running on platforms of MacOS Windows and Linux. https://marktext.github.io/website/</sub>
-
-### 相关库
-
-* [clean-mark](https://github.com/croqaz/clean-mark)
-* [mavonEditor](https://github.com/hinesboy/mavonEditor)
-* [vue-simplemde](https://github.com/F-loat/vue-simplemde)
-
 ### Jenkins
 
 * [Jenkins 官方文档](https://jenkins.io/doc/)
