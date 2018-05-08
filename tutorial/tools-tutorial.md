@@ -149,6 +149,10 @@
   > extras. https://lodash.com/ ( 一个现代的 JavaScript 实用程序库，提供模块化，
   > 性能和附加功能。)
 
+* [dayjs](https://github.com/xx45/dayjs)
+
+  >⏰Fast 2KB immutable date library alternative to Moment.js with the same modern API (使用相同的现代API替代Moment.js的快速2KB不可变日期库)https://github.com/xx45/dayjs
+
 * [velocity](https://github.com/julianshapiro/velocity)
 
   > Accelerated JavaScript animation. ( 加速 JavaScript 动画。)

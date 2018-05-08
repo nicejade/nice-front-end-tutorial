@@ -54,6 +54,7 @@
 
 ## 资讯篇
 
+- [NodeJS 10: The New, The Changed, and the Deprecated](https://auth0.com/blog/nodejs-10-new-changes-deprecations/)
 - [Node.js Best Practices - How to become a better Node.js developer in 2018](https://nemethgergely.com/nodejs-best-practices-how-to-become-a-better-developer-in-2018/)
 - [Node.js as Backend: Best Use Cases, Tools & Limitations](https://medium.com/dailyjs/node-js-as-backend-best-use-cases-tools-limitations-9c65165a5bac)
 - [12 common JavaScript questions answered](http://www.creativebloq.com/features/12-common-javascript-questions-answered)

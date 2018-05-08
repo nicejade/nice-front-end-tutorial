@@ -39,7 +39,7 @@
 - [Postcss](https://github.com/postcss/postcss): <sub>Transforming styles with JS plugins http://postcss.org/</sub>
 - [postcss-cssnext](https://github.com/MoOx/postcss-cssnext): <sub>🌀 PostCSS plugin to use tomorrow's CSS syntax, today. http://cssnext.io/</sub>
 - [30 Seconds of CSS](https://github.com/atomiks/30-seconds-of-css): <sub>A curated collection of useful CSS snippets.</sub>
-- [**You-need-to-know-css **](https://github.com/l-hammer/You-need-to-know-css): <sub>🖖CSS tricks web developers need to know~ https://lhammer.cn/You-need-to-know-css/</sub>
+- [**You-need-to-know-css**](https://github.com/l-hammer/You-need-to-know-css): <sub>🖖CSS tricks web developers need to know~ https://lhammer.cn/You-need-to-know-css/</sub>
 - [linkedin/css-blocks](https://github.com/linkedin/css-blocks): <sub>High performance, maintainable stylesheets. http://css-blocks.com/</sub>
 - [Houdini：CSS 领域最令人振奋的革新](https://zhuanlan.zhihu.com/p/20939640)
 
