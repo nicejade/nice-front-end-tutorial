@@ -10,6 +10,7 @@
 
 - [Google 机器学习速成课程](https://developers.google.com/machine-learning/crash-course/)
 - [11 Javascript Machine Learning Libraries To Use In Your App](https://blog.bitsrc.io/11-javascript-machine-learning-libraries-to-use-in-your-app-c49772cca46c)
+- [Awesome Marchine Learning](https://github.com/shenwei356/awesome/blob/master/machine-learning.md)
 
 ### Related JS Libraries
 

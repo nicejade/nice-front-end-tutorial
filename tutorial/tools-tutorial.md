@@ -11,6 +11,8 @@
 ### Mac
 
 * [awesome-mac](https://github.com/jaywcjlove/awesome-mac)
+* [open-source-mac-os-apps](https://github.com/serhii-londar/open-source-mac-os-apps#markdown): <sub>
+🚀 Awesome list of open source applications for macOS.</sub>
 * [开发效率提升之工具篇](https://github.com/Louiszhai/tool)
 * [前端程序員的必備工具清單（MacOS ）](https://calpa.me/2017/10/02/frontend-developer-tools-in-macos/)
 * [Mac 必备软件渐集之 ZSH－终极 Shell](http://www.jeffjade.com/2015/07/29/2015-07-29-mac-musthave-software/)
@@ -40,6 +42,10 @@
 #### [Vscode](https://code.visualstudio.com/)
 
 * [Visual Studio Code 配置指南](http://www.jianshu.com/p/64b3b9197945)
+
+### Terminal
+
+- [zeit/hyper](https://github.com/zeit/hyper): <sub>A terminal built on web technologies https://hyper.is</sub>
 
 ### Jenkins
 
