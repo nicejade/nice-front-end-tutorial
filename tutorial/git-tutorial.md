@@ -113,3 +113,4 @@
 * [GitDiff](https://github.com/johnno1962/GitDiff) - Xcode插件
 * [vim-gitgutter](https://github.com/airblade/vim-gitgutter) - git的vim 插件
 * [github-integration-plugin](https://github.com/KostyaSha/github-integration-plugin) - Jenkins的GitHub集成插件
+* [github-contributions-chart](https://github.com/sallar/github-contributions-chart): <sub>:octocat: Generate an image of all your Github contributions https://github-contributions.now.sh</sub>

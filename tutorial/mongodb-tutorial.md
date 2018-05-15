@@ -13,3 +13,9 @@
 ## 周边篇
 
 - [Mongoose](https://github.com/Automattic/mongoose): <sub>MongoDB object modeling designed to work in an asynchronous environment. http://mongoosejs.com</sub>
+
+---
+
+## 其他 DB
+
+- [louischatriot/nedb](https://github.com/louischatriot/nedb): <sub>The JavaScript Database, for Node.js, nw.js, electron and the browser</sub>

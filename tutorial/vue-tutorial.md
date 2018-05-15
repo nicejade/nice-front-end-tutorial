@@ -17,6 +17,7 @@
 * [Vue 中你不知道但却很实用的黑科技](https://juejin.im/post/5843dcad128fe100577876e1)
 * [Vue 源码详解之 v-for](https://chuckliu.me/#!/posts/58c650a0b5187d2fb51c04fa)
 * [深入浅出基于“依赖收集”的响应式原理](https://segmentfault.com/a/1190000011153487)
+* [XCel 项目总结 - Electron 与 Vue 的性能优化](https://aotu.io/notes/2016/11/15/xcel/index.html)
 
 ## 资源篇
 
