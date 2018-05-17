@@ -21,3 +21,7 @@
 ## 咨询篇
 
 - [webpack 4: released today!!✨](https://medium.com/webpack/webpack-4-released-today-6cdb994702d4): <sub>中文译版[🎼webpack 4 发布了！✨](https://zhuanlan.zhihu.com/p/34028750)</sub>
+
+## 插件篇
+
+- [guess-webpack](https://github.com/guess-js/guess/tree/master/packages/webpack): <sub>This package exports the GuessPlugin</sub>
