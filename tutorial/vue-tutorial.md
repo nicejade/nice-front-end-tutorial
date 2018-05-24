@@ -24,6 +24,7 @@
 * [vuejs/awesome-vue](https://github.com/vuejs/awesome-vue)
 * [VueJS 开发常见问题集锦](https://blog.beard.ink/JavaScript/VueJS-开发常见问题集锦/)
 * [11 Vue.js Component Libraries You Should Know In 2018](https://blog.bitsrc.io/11-vue-js-component-libraries-you-should-know-in-2018-3d35ad0ae37f)
+* [lusaxweb/vuesax](https://github.com/lusaxweb/vuesax): <sub>Frontend vue Components Framework for Vue.js 2 https://lusaxweb.github.io/vuesax/</sub>
 
 ## 周边篇
 
@@ -42,7 +43,8 @@
 * [poi](https://github.com/egoist/poi)
 * [create-vue-app](https://github.com/vue-land/create-vue-app)
 * [vuetifyjs](https://vuetifyjs.com/): <sub>Material Design Component Framework</sub>
-* [vue-boilerplate-template](https://github.com/nicejade/vue-boilerplate-template)
+* [vue-boilerplate-template](https://github.com/nicejade/vue-boilerplate-template): <sub>🍎 Efficient development of web SPA using Vue.js(2.*) + Webpack + Element-ui + Pwa + Vuex + Vuex-router + Vue-i18n + Dayjs + Lodash.</sub>
 * [create-nuxt-app](https://github.com/nuxt-community/create-nuxt-app)
 * [Meituan-Dianping/mpvue](https://github.com/Meituan-Dianping/mpvue): <sub>基于 Vue.js 的小程序开发框架，从底层支持 Vue.js 语法和构建工具体系。 http://mpvue.com</sub>
 * [electron-vue](https://github.com/SimulatedGREG/electron-vue): <sub>An Electron & Vue.js quick start boilerplate with vue-cli scaffolding, common Vue plugins, electron-packager/electron-builder, unit/e2e testing, vue-devtools, and webpack. </sub>
+* [vuido ](https://github.com/mimecorg/vuido): <sub>Native desktop applications using Vue.js.</sub>

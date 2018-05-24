@@ -19,6 +19,7 @@
 * [How JavaScript works: memory management + how to handle 4 common memory leaks](https://blog.sessionstack.com/how-javascript-works-memory-management-how-to-handle-4-common-memory-leaks-3f28b94cfbec)
 * [5 Tips and Thoughts on Async / Await Functions](https://start.jcolemorrison.com/5-tips-and-thoughts-on-async-await-functions/)
 * [Parallel programming in JavaScript](https://itnext.io/achieving-parallelism-in-javascript-using-web-workers-8f921f2d26db)
+* [The Comprehensive Guide to JavaScript Design Patterns](https://www.toptal.com/javascript/comprehensive-guide-javascript-design-patterns)
 
 ## 相关篇
 
