@@ -7,6 +7,9 @@
 - [用无后台的纯前端单页应用呈现你的leetcode源码吧!](https://chuckliu.me/#!/posts/585a490ba615fc14847bff57)
 - [Chartkick](https://www.chartkick.com/): <sub>Create beautiful JavaScript charts with one line of Ruby / Python/ Vue / React / JavaScript / ...</sub>
 - [unDraw](https://undraw.co/): <sub>MIT licensed illustrations for every project you can imagine and create.</sub>
+- [JavaScript 算法与数据结构](https://github.com/trekhleb/javascript-algorithms/blob/master/README.zh-CN.md): <sub>Algorithms and data structures implemented in JavaScript with explanations and links to further readings</sub>
+- [《后端架构师技术图谱》](https://github.com/xingshaocheng/architect-awesome?1527821329523)
+- [build-your-own-x](https://github.com/danistefanovic/build-your-own-x): <sub>Build your own (insert technology here) https://twitter.com/danistefanovic</sub>
 
 ## Github Repository
 
@@ -15,3 +18,5 @@
 - [chinese-independent-developer ](https://github.com/1c7/chinese-independent-developer): <sub>👩🏿‍💻👨🏾‍💻👩🏼‍💻👨🏽‍💻👩🏻‍💻中国独立开发者项目列表 -- 分享大家都在做什么</sub>
 - [withspectrum/spectrum ](https://github.com/withspectrum/spectrum): <sub>Simple, powerful online communities. https://spectrum.chat</sub>
 - [QingWei-Li/docsify](https://github.com/QingWei-Li/docsify): <sub>🃏 A magical documentation site generator. https://docsify.js.org</sub>
+- [yangxuanxc/wechat_friends](https://github.com/yangxuanxc/wechat_friends): <sub>微信好友信息分析并可视化以及自动回复微信消息</sub>
+- [Douyin-Bot](https://github.com/wangshub/Douyin-Bot): <sub>Python 抖音机器人，论如何在抖音上找到漂亮小姐姐？😍</sub>

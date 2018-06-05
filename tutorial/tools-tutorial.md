@@ -19,6 +19,7 @@
 * [Mac 多屏幕窗口管理神器](https://juejin.im/post/58538a068d6d81006597b4d6)
 * [开发者 MAC 电脑里的十八般兵器](http://www.figotan.org/2016/07/12/dev-macpro-arms/)
 * [MacOS Setup Guide](http://sourabhbajaj.com/mac-setup/)
+* [Best-App ](https://github.com/hzlzh/Best-App): <sub>收集&推荐优秀的 Apps/硬件/技巧/周边等</sub>
 
 ### [Chrome](https://github.com/nicejade/nice-front-end-tutorial/blob/master/tutorial/chrome-tutorial.md)
 
@@ -289,4 +290,7 @@
 
 * [Hotkeys.js](https://github.com/jaywcjlove/hotkeys/)
   >➷ A robust Javascript library for capturing keyboard input. It has no dependencies(➷强大的Javascript库，用于捕获键盘输入。它没有依赖关系。)https://git.io/hotkeys.js
+
+* [xterm.js](https://github.com/xtermjs/xterm.js)
+  >A terminal for the web. (Xterm.js是用JavaScript编写的终端前端组件，可在浏览器中使用) https://xtermjs.org/
 

@@ -15,3 +15,4 @@
 - [[译] Google Interview University](https://github.com/helloqingfeng/Awsome-Front-End-learning-resource/tree/master/29-google-interview-university)：<sub>原文地址：https://github.com/jwasham/coding-interview-university</sub>
 - [几道高级前端面试题解析](https://juejin.im/post/5aa8a07cf265da238a3022a4)
 - [Front-end-Developer-Interview-Questions](https://github.com/h5bp/Front-end-Developer-Interview-Questions): <sub>https://github.com/h5bp/Front-end-Developer-Interview-Questions</sub>
+- [30-seconds-of-interviews](https://github.com/fejes713/30-seconds-of-interviews): <sub>A curated collection of common interview questions to help you prepare for your next interview. https://30secondsofinterviews.org</sub>

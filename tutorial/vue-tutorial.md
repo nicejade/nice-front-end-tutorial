@@ -47,4 +47,4 @@
 * [create-nuxt-app](https://github.com/nuxt-community/create-nuxt-app)
 * [Meituan-Dianping/mpvue](https://github.com/Meituan-Dianping/mpvue): <sub>基于 Vue.js 的小程序开发框架，从底层支持 Vue.js 语法和构建工具体系。 http://mpvue.com</sub>
 * [electron-vue](https://github.com/SimulatedGREG/electron-vue): <sub>An Electron & Vue.js quick start boilerplate with vue-cli scaffolding, common Vue plugins, electron-packager/electron-builder, unit/e2e testing, vue-devtools, and webpack. </sub>
-* [vuido ](https://github.com/mimecorg/vuido): <sub>Native desktop applications using Vue.js.</sub>
+* [vuido](https://github.com/mimecorg/vuido): <sub>Native desktop applications using Vue.js.</sub>

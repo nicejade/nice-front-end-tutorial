@@ -18,6 +18,7 @@
 * [练习黑客技术的在线网站大全](https://blog.lovejade.cn/2017/10/22/online-website-for-hacking-techniques.html)
 * [The Internet: Encryption & Public Keys(Video)](https://www.youtube.com/watch?v=ZghMPWGXexs&index=6&list=PLzdnOPI1iJNfMRZm5DDxco3UdsFegvuB7)
 * [The Internet: Cybersecurity & Crime(Video)](https://www.youtube.com/watch?v=AuYNXgO_f3Y&list=PLzdnOPI1iJNfMRZm5DDxco3UdsFegvuB7&index=7)
+* [awesome-static-analysis](https://github.com/mre/awesome-static-analysis): <sub>A curated list of static analysis tools, linters and code quality checkers for various programming languages</sub>
 
 ### 相关库
 
