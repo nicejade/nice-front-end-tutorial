@@ -71,4 +71,9 @@
 - [Twitter](https://twitter.com/jeffjade2)
 - [Facebook](https://www.facebook.com/yang.gang.jade)
 
-<div align="center"><img src="https://raw.githubusercontent.com/nicejade/nice-front-end-tutorial/master/assets/images/静晴轩.jpg" alt="静晴轩"><p>微信公众号-静晴轩</p></div>
+---
+
+| 微信公众号 | 前端微信群 | 推荐 Web 应用 |
+| :---: | :---: | :---: |
+| 😉静晴轩 | ✨大前端联盟 | 🎉倾城之链 |
+| ![静晴轩](https://raw.githubusercontent.com/nicejade/nice-front-end-tutorial/master/assets/images/静晴轩.jpg) | ![大前端联盟](https://image.nicelinks.site/wqycx-weixin.png?ver=1.0) | <img src="https://image.nicelinks.site/nice-links.png" width="300px" alt="倾城之链"> |
