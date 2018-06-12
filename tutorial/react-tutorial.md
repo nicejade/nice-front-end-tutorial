@@ -40,3 +40,4 @@ for REACT</sub>
 * [react-virtualized](https://github.com/bvaughn/react-virtualized): <sub>React components for efficiently rendering large lists and tabular data http://www.reactvirtualized.com</sub>
 * [react-spring](https://github.com/drcmda/react-spring): <sub>🙌 Helping react-motion and animated to become best friends http://react-spring.surge.sh/</sub>
 * [jamiebuilds/react-loadable](https://github.com/jamiebuilds/react-loadable): <sub>⏳ A higher order component for loading components with promises.</sub>
+* [Reach Router](https://github.com/reach/router): <sub>Next Generation Routing for React</sub>

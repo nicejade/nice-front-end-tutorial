@@ -18,6 +18,7 @@
 * [Vue 源码详解之 v-for](https://chuckliu.me/#!/posts/58c650a0b5187d2fb51c04fa)
 * [深入浅出基于“依赖收集”的响应式原理](https://segmentfault.com/a/1190000011153487)
 * [XCel 项目总结 - Electron 与 Vue 的性能优化](https://aotu.io/notes/2016/11/15/xcel/index.html)
+* [逐行级别的源码分析](https://github.com/HcySunYang/vue-design): <sub>逐行级别的源码分析 http://hcysun.me/vue-design/</sub>
 
 ## 资源篇
 

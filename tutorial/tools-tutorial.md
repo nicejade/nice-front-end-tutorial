@@ -73,6 +73,7 @@
 * [**reveal**](https://github.com/hakimel/reveal.js)
 * [bespoke-fx](https://github.com/ebow/bespoke-fx)
 * [slippy](https://github.com/Seldaek/slippy)
+* [big](https://github.com/tmcw/big): <sub>presentations for busy messy hackers http://macwright.org/big/demo.html</sub>
 
 ### Kindle
 

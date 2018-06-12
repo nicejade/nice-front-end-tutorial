@@ -8,3 +8,7 @@
 ## 进阶篇
 
 - [Nginx安装维护入门学习笔记，以及各种实例](https://github.com/jaywcjlove/nginx-tutorial)
+
+## 工具库
+
+- [yandex/gixy](https://github.com/yandex/gixy): <sub>Nginx configuration static analyzer</sub>
