@@ -32,6 +32,10 @@
 
 ## 框架篇
 
+### fastify
+
+- [fastify](https://github.com/fastify/fastify): <sub>Fast and low overhead web framework, for Node.js https://www.fastify.io</sub>
+
 ### KoaJs
 
 - [Koajs](http://koajs.com/): next generation web framework for node.js

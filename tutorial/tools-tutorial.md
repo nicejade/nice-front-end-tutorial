@@ -7,6 +7,7 @@
   [67 个拯救前端开发者的工具、库和资源 ( 中文翻译 )](http://www.zcfy.cc/article/67-useful-tools-libraries-and-resources-for-saving-your-time-as-a-web-developer-4174.html?t=new)
 * [少数派 | 效率工具](https://sspai.com/tag/%E6%95%88%E7%8E%87%E5%B7%A5%E5%85%B7#home)
 * [那些所倚靠的利器记载](https://www.jeffjade.com/2016/03/17/2016-03-17-jade-tools/#)
+* [quick-look-plugins](https://github.com/sindresorhus/quick-look-plugins): <sub>List of useful Quick Look plugins for developers</sub>
 
 ### Mac
 
@@ -47,10 +48,13 @@
 ### 建站工具
 
 * [Docz](https://github.com/pedronauck/docz): <sub>✍🏻It has never been so easy to document your things! https://docz.site</sub>
-* [docsify](https://github.com/docsifyjs/docsify): <sub>🃏 A magical documentation site generator. https://docsify.js.org</sub>
 * [vuepress](https://github.com/vuejs/vuepress): <sub>Minimalistic Vue-powered static site generator https://vuepress.vuejs.org/</sub>
 * [react-static](https://github.com/nozzle/react-static): <sub>⚛️ 🚀 A progressive static site generator for React. https://nozzle-react-static.netlify.com/</sub>
-
+* [docsify](https://github.com/docsifyjs/docsify): <sub>🃏 A magical documentation site generator. https://docsify.js.org</sub>
+* [Hexo](https://github.com/hexojs/hexo): <sub>A fast, simple & powerful blog framework, powered by Node.js. https://hexo.io</sub>
+* [jekyll](https://github.com/jekyll/jekyll): <sub>🌐 Jekyll is a blog-aware, static site generator in Ruby https://jekyllrb.com</sub>
+* [Ghost](https://github.com/TryGhost/Ghost): <sub>The platform for professional publishers https://ghost.org</sub>
+* [WordPress](https://wordpress.org/): <sub>WordPress is open source software you can use to create a beautiful website, blog, or app.</sub>
 
 ### Terminal
 
