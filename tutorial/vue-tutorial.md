@@ -32,6 +32,7 @@
 * [vue-cli](https://github.com/vuejs/vue-cli): <sub>🛠️ CLI for rapid Vue.js development</sub>
 * [Vue Router](https://router.vuejs.org/)
 * [Vuex](https://vuex.vuejs.org/)
+* [Vue SSR](https://ssr.vuejs.org/)
 * [vue-test-utils ](https://github.com/vuejs/vue-test-utils): <sub>🔬 Utilities for testing Vue components https://vue-test-utils.vuejs.org</sub>
 * [vuepress](https://github.com/vuejs/vuepress): <sub>Minimalistic Vue-powered static site generator https://vuepress.vuejs.org/</sub>
 * [vue-syntax-highlight ](https://github.com/vuejs/vue-syntax-highlight)
