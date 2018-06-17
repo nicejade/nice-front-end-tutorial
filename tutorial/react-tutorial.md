@@ -34,6 +34,8 @@ for REACT</sub>
 
 ## 周边篇
 
+* [create-react-app](https://github.com/facebook/create-react-app): <sub>Create React apps with no build configuration.</sub>
+* [create-react-app-typescript](https://github.com/wmonk/create-react-app-typescript): <sub>Create React apps using typescript with no build configuration. </sub>
 * [React Navigation](https://reactnavigation.org/): <sub>Navigation for React Native</sub>
 * [Redux Form](https://redux-form.com/): <sub>The best way to manage your form state in Redux.</sub>
 * [react-static](https://github.com/nozzle/react-static): <sub>⚛️ 🚀 A progressive static site generator for React. https://nozzle-react-static.netlify.com/</sub>

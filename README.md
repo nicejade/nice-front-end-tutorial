@@ -71,7 +71,6 @@
 - [Twitter](https://twitter.com/jeffjade2)
 - [Facebook](https://www.facebook.com/yang.gang.jade)
 
----
 
 | 微信公众号 | 前端微信群 | 推荐 Web 应用 |
 | :---: | :---: | :---: |

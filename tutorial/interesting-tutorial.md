@@ -10,6 +10,7 @@
 - [JavaScript 算法与数据结构](https://github.com/trekhleb/javascript-algorithms/blob/master/README.zh-CN.md): <sub>Algorithms and data structures implemented in JavaScript with explanations and links to further readings</sub>
 - [《后端架构师技术图谱》](https://github.com/xingshaocheng/architect-awesome?1527821329523)
 - [build-your-own-x](https://github.com/danistefanovic/build-your-own-x): <sub>Build your own (insert technology here) https://twitter.com/danistefanovic</sub>
+- [crash-course-computer-science-chinese](https://github.com/1c7/crash-course-computer-science-chinese): <sub>💻 计算机速成课 | Crash Course 字幕组</sub>
 
 ## Github Repository
 

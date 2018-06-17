@@ -307,3 +307,5 @@
 * [xterm.js](https://github.com/xtermjs/xterm.js)
   >A terminal for the web. (Xterm.js是用JavaScript编写的终端前端组件，可在浏览器中使用) https://xtermjs.org/
 
+* [signale](https://github.com/klauscfhq/signale)
+  >👋 Hackable console logger
