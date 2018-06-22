@@ -20,6 +20,12 @@
 
 源地址：https://github.com/FrontendMasters/front-end-handbook-2017
 
+## [现代 Web 开发基础与工程实践](https://github.com/wxyyxc1992/Web-Series)
+
+作者：https://github.com/wxyyxc1992
+
+源地址：https://github.com/wxyyxc1992/Web-Series
+
 ## [结合个人经历总结的前端入门方法](https://github.com/helloqingfeng/Awsome-Front-End-learning-resource/tree/master/01-FE-learning-master)
 
 作者：qiu https://github.com/qiu-deqing

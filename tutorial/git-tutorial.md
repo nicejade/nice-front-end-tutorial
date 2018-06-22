@@ -114,3 +114,4 @@
 * [vim-gitgutter](https://github.com/airblade/vim-gitgutter) - git的vim 插件
 * [github-integration-plugin](https://github.com/KostyaSha/github-integration-plugin) - Jenkins的GitHub集成插件
 * [github-contributions-chart](https://github.com/sallar/github-contributions-chart): <sub>:octocat: Generate an image of all your Github contributions https://github-contributions.now.sh</sub>
+* [GitHub-Dark](https://github.com/StylishThemes/GitHub-Dark): <sub>:octocat: Dark GitHub style http://userstyles.org/styles/37035</sub>

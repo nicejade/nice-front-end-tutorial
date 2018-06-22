@@ -31,6 +31,8 @@
 
 ### Related JS Libraries
 
+- [tensorlayer](https://github.com/tensorlayer/tensorlayer): <sub>Deep Learning for Researchers and Engineers http://tensorlayer.readthedocs.io</sub>
+
 - [Synaptic](https://github.com/cazala/synaptic)：<sub>architecture-free neural network library for node.js and the browser http://caza.la/synaptic(node.js和浏览器的无架构神经网络库).</sub>
 
 - [Deeplearnjs](https://github.com/PAIR-code/deeplearnjs)：<sub>Hardware-accelerated deep learning and linear algebra (NumPy) library for the web.( 用于网络的硬件加速深度学习和线性代数（NumPy ）库 )</sub>

@@ -309,3 +309,6 @@
 
 * [signale](https://github.com/klauscfhq/signale)
   >👋 Hackable console logger
+
+* [spritejs](https://github.com/spritejs/spritejs)
+  >A cross-platform lightweight 2D render object model. http://spritejs.org
