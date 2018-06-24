@@ -19,8 +19,20 @@
 - [CSS 动画简介](http://www.ruanyifeng.com/blog/2014/02/css_transition_and_animation.html)
 - [CSS3 动画实践](https://aotu.io/notes/2016/01/04/css3-animation/index.html)
 - [Using CSS Transitions on Auto Dimensions](https://css-tricks.com/using-css-transitions-auto-dimensions/)
-- [anime.js](https://github.com/juliangarnier/anime): <sub>JavaScript Animation Engine http://animejs.com</sub>
+
+### CSS 动画库
+
+---
+
 - [**animate.css**](https://daneden.github.io/animate.css): <sub>Just-add-water CSS animations</sub>
+
+### JS 动画库
+
+- [**anime.js**](https://github.com/juliangarnier/anime): <sub>JavaScript Animation Engine http://animejs.com</sub>
+- [animateplus](https://github.com/bendc/animateplus): <sub>A+ animation module for the modern web</sub>
+- [VelocityJS](https://github.com/julianshapiro/velocity): <sub>Accelerated JavaScript animation. http://VelocityJS.org</sub>
+- [tween.js](https://github.com/tweenjs/tween.js): <sub>JavaScript tweening engine for easy animations, incorporating optimised Robert Penner's equations.</sub>
+- [WOW](https://github.com/matthieua/WOW): <sub>Reveal CSS animation as you scroll down a page http://mynameismatthieu.com/WOW/</sub>
 
 ## 规范篇
 
