@@ -22,9 +22,8 @@
 
 ### CSS 动画库
 
----
-
 - [**animate.css**](https://daneden.github.io/animate.css): <sub>Just-add-water CSS animations</sub>
+- [Hover](https://github.com/IanLunn/Hover): <sub>A collection of CSS3 powered hover effects to be applied to links, buttons, logos, SVG, featured images and so on. Easily apply to your own elements, modify or just use for inspiration. Available in CSS, Sass, and LESS. http://ianlunn.github.io/Hover/</sub>
 
 ### JS 动画库
 
@@ -44,6 +43,8 @@
 ## 周边篇  
 
 - [popmotion](https://popmotion.io/): <sub>A functional, flexible JavaScript motion library</sub>
+- [uncss](https://github.com/uncss/uncss): <sub>Remove unused styles from CSS</sub>
+- [css-blocks](https://github.com/linkedin/css-blocks): <sub>High performance, maintainable stylesheets. http://css-blocks.com/</sub>
 - [bouncejs 触摸库](http://bouncejs.com)  
 - [browserhacks](http://browserhacks.com)
 - [腾讯css3动画制作工具](http://isux.tencent.com/css3/tools.html)
