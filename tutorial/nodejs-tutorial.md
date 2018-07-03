@@ -63,3 +63,8 @@
 - [Node.js Best Practices - How to become a better Node.js developer in 2018](https://nemethgergely.com/nodejs-best-practices-how-to-become-a-better-developer-in-2018/)
 - [Node.js as Backend: Best Use Cases, Tools & Limitations](https://medium.com/dailyjs/node-js-as-backend-best-use-cases-tools-limitations-9c65165a5bac)
 - [12 common JavaScript questions answered](http://www.creativebloq.com/features/12-common-javascript-questions-answered)
+
+## 有用的库
+
+- [yargs](https://github.com/yargs/yargs): <sub>yargs the modern, pirate-themed successor to optimist. http://yargs.js.org/</sub>
+- [commander.js](https://github.com/tj/commander.js/): <sub>node.js command-line interfaces made easy</sub>

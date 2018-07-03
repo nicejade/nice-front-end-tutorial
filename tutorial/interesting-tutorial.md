@@ -21,3 +21,4 @@
 - [QingWei-Li/docsify](https://github.com/QingWei-Li/docsify): <sub>🃏 A magical documentation site generator. https://docsify.js.org</sub>
 - [yangxuanxc/wechat_friends](https://github.com/yangxuanxc/wechat_friends): <sub>微信好友信息分析并可视化以及自动回复微信消息</sub>
 - [Douyin-Bot](https://github.com/wangshub/Douyin-Bot): <sub>Python 抖音机器人，论如何在抖音上找到漂亮小姐姐？😍</sub>
+- [aframe](https://github.com/aframevr/aframe): <sub>🅰️ web framework for building virtual reality experiences. https://aframe.io/</sub>
