@@ -15,3 +15,4 @@ GraphQL 既是一种用于 API 的查询语言也是一个满足你数据查询�
 
 - [banterfm/graphql-crunch](https://github.com/banterfm/graphql-crunch): <sub>Reduces the size of GraphQL responses by consolidating duplicate values</sub>
 - [graphql/graphql-js](https://github.com/graphql/graphql-js): <sub>A reference implementation of GraphQL for JavaScript http://graphql.org/graphql-js/</sub>
+- [Canner/canner](https://github.com/Canner/canner): <sub>📡 Universal CMS framework using React & Apollo GraphQL for Firebase, Prisma, GraphQL, Restful API https://www.canner.io</sub>
