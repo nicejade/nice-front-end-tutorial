@@ -127,9 +127,9 @@ Speed Tracer由Google开发的一款测试网页性能分析插件，而且开�
 
 ## 其他
 
-#### TestCafé
+#### [TestCafé](https://github.com/DevExpress/testcafe)
 
-TestCafé是DevExpress最新开发的一款革命性的Web测试框架。它支持所有主流浏览器，操作系统和移动平台，支持远程设备，多浏览器并行测试。TestCafé内置一个可视化测试记录器，支持持续集成，脚本标记分析等强大功能。
+TestCafé 是 DevExpress 最新开发的一款革命性的Web测试框架。它支持所有主流浏览器，操作系统和移动平台，支持远程设备，多浏览器并行测试。TestCafé内置一个可视化测试记录器，支持持续集成，脚本标记分析等强大功能。
 
 #### VB Watch
 

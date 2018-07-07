@@ -29,6 +29,7 @@
 
 - [**anime.js**](https://github.com/juliangarnier/anime): <sub>JavaScript Animation Engine http://animejs.com</sub>
 - [animateplus](https://github.com/bendc/animateplus): <sub>A+ animation module for the modern web</sub>
+- [airbnb/lottie](https://github.com/airbnb/lottie/): <sub>Lottie for Android, iOS, React Native, and Web</sub>
 - [popmotion](https://github.com/Popmotion/popmotion): <sub>Monorepo for Popmotion and Pose animation packages https://popmotion.io</sub>
 - [VelocityJS](https://github.com/julianshapiro/velocity): <sub>Accelerated JavaScript animation. http://VelocityJS.org</sub>
 - [tween.js](https://github.com/tweenjs/tween.js): <sub>JavaScript tweening engine for easy animations, incorporating optimised Robert Penner's equations.</sub>

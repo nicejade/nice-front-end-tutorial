@@ -23,6 +23,7 @@
 * [Atom](https://atom.io/): <sub>A hackable text editor for the 21st Century. 具体可参见: [新编码神器Atom使用纪要](https://jeffjade.com/2016/03/03/2016-03-02-how-to-use-atom/)</sub>
 * [Sublime Text](https://www.sublimetext.com/): <sub>A sophisticated text editor for code, markup and prose. 具体可参见 [SublimeText下写作利器之MarkdownEditing](https://jeffjade.com/2015/08/28/2015-08-28-Write-Morkdown/)</sub>
 * [Dillinger](https://dillinger.io/): <sub>Dillinger is an online cloud based HTML5 filled Markdown Editor. Sync with Dropbox, Github, Google Drive or OneDrive. Convert HTML to Markdown. 100% Open Source!</sub>
+* [vnote](https://github.com/tamlok/vnote): <sub>A Vim-inspired note-taking application that knows programmers and Markdown better. https://tamlok.github.io/vnote</sub>
 * [小书匠编辑器](http://soft.xiaoshujiang.com/)
 
 ### 相关库
