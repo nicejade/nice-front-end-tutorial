@@ -39,6 +39,7 @@
 * [You Don't Need jQuery](https://github.com/nefe/You-Dont-Need-jQuery): <sub>Examples of how to do query, style, dom, ajax, event etc like jQuery with plain javascript.</sub>
 * [You don't (may not) need Lodash/Underscore](https://github.com/you-dont-need/You-Dont-Need-Lodash-Underscore): <sub>List of JavaScript methods which you can use natively + ESLint Plugin</sub>
 * [getify/You-Dont-Know-JS](https://github.com/getify/You-Dont-Know-JS): <sub>A book series on JavaScript. @YDKJS on twitter.</sub>
+* [😇 你可能不知道的前端知识点](https://github.com/justjavac/the-front-end-knowledge-you-may-not-know)
 
 ---
 
