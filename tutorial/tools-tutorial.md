@@ -162,14 +162,15 @@
 
 * [axios](https://github.com/axios/axios)
 
-  > Promise based HTTP client for the browser and node.js ( 用于浏览器和 node.js
-  > 的基于 Promise 的 HTTP 客户端 )
+  > Promise based HTTP client for the browser and node.js ( 用于浏览器和 node.js 的基于 Promise 的 HTTP 客户端 )
 
 * [lodash](https://github.com/lodash/lodash)
 
-  > A modern JavaScript utility library delivering modularity, performance, &
-  > extras. https://lodash.com/ ( 一个现代的 JavaScript 实用程序库，提供模块化，
-  > 性能和附加功能。)
+  > A modern JavaScript utility library delivering modularity, performance, & extras. https://lodash.com/ ( 一个现代的 JavaScript 实用程序库，提供模块化，性能和附加功能。)
+
+* [fullPage.js](https://github.com/alvarotrigo/fullpage.js)
+
+  >fullPage plugin by Alvaro Trigo. Create full screen pages fast and simple (Alvaro Trigo的fullPage插件。快速简单地创建全屏页面) http://alvarotrigo.com/fullPage/
 
 * [dayjs](https://github.com/xx45/dayjs)
 
