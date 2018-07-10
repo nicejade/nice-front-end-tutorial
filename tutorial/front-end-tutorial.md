@@ -26,6 +26,12 @@
 
 源地址：https://github.com/wxyyxc1992/Web-Series
 
+## [免费的编程中文书籍索引](https://github.com/justjavac/free-programming-books-zh_CN)
+
+作者：https://github.com/justjavac/
+
+源地址：https://github.com/justjavac/free-programming-books-zh_CN
+
 ## [结合个人经历总结的前端入门方法](https://github.com/helloqingfeng/Awsome-Front-End-learning-resource/tree/master/01-FE-learning-master)
 
 作者：qiu https://github.com/qiu-deqing
