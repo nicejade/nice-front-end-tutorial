@@ -12,6 +12,7 @@
 - [CSS征途之Background点滴](https://jeffjade.com/2015/06/29/2015-06-29-css-background/)
 - [使用纯 CSS 实现 Google Photos 照片列表布局](https://github.com/xieranmaya/blog/issues/4)
 - [How I started drawing CSS Images](https://blog.prototypr.io/how-i-started-drawing-css-images-3fd878675c89)
+- [The Shapes of CSS | CSS-TRICKS](https://css-tricks.com/examples/ShapesOfCSS/)
 
 ## 动画篇
 

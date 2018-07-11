@@ -60,6 +60,7 @@
 
 - [zeit/hyper](https://github.com/zeit/hyper): <sub>A terminal built on web technologies https://hyper.is</sub>
 - [pod4g/hiper](https://github.com/pod4g/hiper): <sub>🚀 A statistical analysis tool for performance testing</sub>
+- [mixn/carbon-now-cli](https://github.com/mixn/carbon-now-cli): <sub>🎨 Beautiful images of your code — from right inside your terminal.</sub>
 - [youtube-dl](https://github.com/rg3/youtube-dl): <sub>Command-line program to download videos from YouTube.com and other video sites http://rg3.github.io/youtube-dl/</sub>
 
 ### Jenkins
