@@ -63,6 +63,18 @@
 - [mixn/carbon-now-cli](https://github.com/mixn/carbon-now-cli): <sub>🎨 Beautiful images of your code — from right inside your terminal.</sub>
 - [youtube-dl](https://github.com/rg3/youtube-dl): <sub>Command-line program to download videos from YouTube.com and other video sites http://rg3.github.io/youtube-dl/</sub>
 
+### 在线 PPT 制作
+
+* [adamzap/landslide](https://github.com/adamzap/landslide): <sub>Generate HTML5 slideshows from markdown, ReST, or textile</sub>
+* [nodePPT](https://github.com/ksky521/nodeppt)
+* [**Cleaver 快速制作网页 PPT**](http://www.jeffjade.com/2015/10/15/2015-10-16-cleaver-make-ppt/)
+* [**impress.js** ](https://github.com/impress/impress.js/)
+* [PPT](https://github.com/ksky521/nodePPT)
+* [**reveal**](https://github.com/hakimel/reveal.js)
+* [bespoke-fx](https://github.com/ebow/bespoke-fx)
+* [slippy](https://github.com/Seldaek/slippy)
+* [big](https://github.com/tmcw/big): <sub>presentations for busy messy hackers http://macwright.org/big/demo.html</sub>
+
 ### Jenkins
 
 * [Jenkins 官方文档](https://jenkins.io/doc/)
@@ -78,17 +90,6 @@
 * [Fiddler 调式使用知多少 ( 一深入研究](http://www.cnblogs.com/tugenhua0707/)p/4623317.html
 * [微信 fiddle](http://www.cnblogs.com/strick/p/4570006.html)
 * [微信 fiddle](http://gaoboy.com/article/26.html)
-
-### 在线 PPT 制作
-
-* [nodePPT](https://github.com/ksky521/nodeppt)
-* [**Cleaver 快速制作网页 PPT**](http://www.jeffjade.com/2015/10/15/2015-10-16-cleaver-make-ppt/)
-* [**impress.js** ](https://github.com/impress/impress.js/)
-* [PPT](https://github.com/ksky521/nodePPT)
-* [**reveal**](https://github.com/hakimel/reveal.js)
-* [bespoke-fx](https://github.com/ebow/bespoke-fx)
-* [slippy](https://github.com/Seldaek/slippy)
-* [big](https://github.com/tmcw/big): <sub>presentations for busy messy hackers http://macwright.org/big/demo.html</sub>
 
 ### Kindle
 

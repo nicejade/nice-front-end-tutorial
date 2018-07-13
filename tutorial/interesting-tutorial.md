@@ -23,3 +23,4 @@
 - [Douyin-Bot](https://github.com/wangshub/Douyin-Bot): <sub>Python 抖音机器人，论如何在抖音上找到漂亮小姐姐？😍</sub>
 - [aframe](https://github.com/aframevr/aframe): <sub>🅰️ web framework for building virtual reality experiences. https://aframe.io/</sub>
 - [awesome-design-patterns](https://github.com/DovAmir/awesome-design-patterns): <sub>A curated list of software and architecture related design patterns.</sub>
+- [desandro/imagesloaded](https://github.com/desandro/imagesloaded): <sub>📷 JavaScript is all like "You images done yet or what?" https://imagesloaded.desandro.com</sub>
