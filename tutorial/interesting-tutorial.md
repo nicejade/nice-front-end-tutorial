@@ -11,6 +11,7 @@
 - [《后端架构师技术图谱》](https://github.com/xingshaocheng/architect-awesome?1527821329523)
 - [build-your-own-x](https://github.com/danistefanovic/build-your-own-x): <sub>Build your own (insert technology here) https://twitter.com/danistefanovic</sub>
 - [crash-course-computer-science-chinese](https://github.com/1c7/crash-course-computer-science-chinese): <sub>💻 计算机速成课 | Crash Course 字幕组</sub>
+- [system-design-primer](https://github.com/donnemartin/system-design-primer): <sub>Learn how to design large-scale systems. Prep for the system design interview. Includes Anki flashcards.</sub>
 
 ## Github Repository
 
