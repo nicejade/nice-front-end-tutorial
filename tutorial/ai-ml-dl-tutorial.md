@@ -28,6 +28,7 @@
 >Deep Learning — A Technique for Implementing Machine Learning.
 
 - [Deep Learning Book Chinese Translation](https://github.com/exacity/deeplearningbook-chinese)
+- [simplified-deeplearning](https://github.com/exacity/simplified-deeplearning): <sub>Simplified implementations of deep learning related works(DeepLearningBook读书笔记)</sub>
 
 ### Related JS Libraries
 
