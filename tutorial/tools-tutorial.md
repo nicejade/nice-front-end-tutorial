@@ -49,6 +49,7 @@
 
 * [Docz](https://github.com/pedronauck/docz): <sub>✍🏻It has never been so easy to document your things! https://docz.site</sub>
 * [vuepress](https://github.com/vuejs/vuepress): <sub>Minimalistic Vue-powered static site generator https://vuepress.vuejs.org/</sub>
+* [letterpad/letterpad](https://github.com/letterpad/letterpad): <sub>Letterpad is an open-source and a high performant publishing engine for blogs built with react & graphql and runs ridiculously fast 🚀 https://letterpad.app/docs</sub>
 * [react-static](https://github.com/nozzle/react-static): <sub>⚛️ 🚀 A progressive static site generator for React. https://nozzle-react-static.netlify.com/</sub>
 * [docsify](https://github.com/docsifyjs/docsify): <sub>🃏 A magical documentation site generator. https://docsify.js.org</sub>
 * [Hexo](https://github.com/hexojs/hexo): <sub>A fast, simple & powerful blog framework, powered by Node.js. https://hexo.io</sub>
@@ -66,6 +67,7 @@
 ### 在线 PPT 制作
 
 * [adamzap/landslide](https://github.com/adamzap/landslide): <sub>Generate HTML5 slideshows from markdown, ReST, or textile</sub>
+* [fusuma](https://github.com/hiroppy/fusuma): <sub>✍️Easily make slides with markdown.</sub>
 * [nodePPT](https://github.com/ksky521/nodeppt)
 * [**Cleaver 快速制作网页 PPT**](http://www.jeffjade.com/2015/10/15/2015-10-16-cleaver-make-ppt/)
 * [**impress.js** ](https://github.com/impress/impress.js/)

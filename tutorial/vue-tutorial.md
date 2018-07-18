@@ -32,24 +32,24 @@
 ## 周边篇
 
 * [vue-cli](https://github.com/vuejs/vue-cli): <sub>🛠️ CLI for rapid Vue.js development</sub>
-* [Vue Router](https://router.vuejs.org/)
+* [Vue Router](https://router.vuejs.org/): <sub>🚦 The official router for Vue.js. http://router.vuejs.org/</sub>
 * [Vuex](https://vuex.vuejs.org/)
-* [Vue SSR](https://ssr.vuejs.org/)
+* [Vue SSR](https://ssr.vuejs.org/): <sub>Vue.js Server-Side Rendering Guide</sub>
 * [vue-test-utils ](https://github.com/vuejs/vue-test-utils): <sub>🔬 Utilities for testing Vue components https://vue-test-utils.vuejs.org</sub>
 * [vuepress](https://github.com/vuejs/vuepress): <sub>Minimalistic Vue-powered static site generator https://vuepress.vuejs.org/</sub>
-* [vue-syntax-highlight ](https://github.com/vuejs/vue-syntax-highlight)
+* [vue-syntax-highlight ](https://github.com/vuejs/vue-syntax-highlight): <sub>💡 Sublime Text syntax highlighting for single-file Vue components</sub>
 * [Vue 论坛](http://forum.vuejs.org)
 * [Vue 聊天室](https://gitter.im/vuejs/vue)
 
 ## 搭建 Vue 应用
 
-* [Vue-Cli](https://github.com/vuejs/vue-cli)
-* [poi](https://github.com/egoist/poi)
-* [create-vue-app](https://github.com/vue-land/create-vue-app)
+* [Vue-Cli](https://github.com/vuejs/vue-cli): <sub>🛠️ Standard Tooling for Vue.js Development</sub>
+* [poi](https://github.com/egoist/poi): <sub>⚡️ A zero-config bundler for JavaScript applications. https://poi.js.org</sub>
 * [vuetifyjs](https://vuetifyjs.com/): <sub>Material Design Component Framework</sub>
 * [awesome-vue-cli3-example](https://github.com/nicejade/awesome-vue-cli3-example): <sub>🍑Awesome example for rapid Vue.js development using vue-cli3 .</sub>
 * [vue-boilerplate-template](https://github.com/nicejade/vue-boilerplate-template): <sub>🍎 Efficient development of web SPA using Vue.js(2.*) + Webpack + Element-ui + Pwa + Vuex + Vuex-router + Vue-i18n + Dayjs + Lodash.</sub>
-* [create-nuxt-app](https://github.com/nuxt-community/create-nuxt-app)
+* [create-nuxt-app](https://github.com/nuxt-community/create-nuxt-app): <sub>Create Nuxt.js App in seconds.</sub>
+* [create-vue-app](https://github.com/vue-land/create-vue-app): <sub>Create Vue apps with no build configuration.</sub>
 * [Meituan-Dianping/mpvue](https://github.com/Meituan-Dianping/mpvue): <sub>基于 Vue.js 的小程序开发框架，从底层支持 Vue.js 语法和构建工具体系。 http://mpvue.com</sub>
 * [electron-vue](https://github.com/SimulatedGREG/electron-vue): <sub>An Electron & Vue.js quick start boilerplate with vue-cli scaffolding, common Vue plugins, electron-packager/electron-builder, unit/e2e testing, vue-devtools, and webpack. </sub>
 * [vuido](https://github.com/mimecorg/vuido): <sub>Native desktop applications using Vue.js.</sub>

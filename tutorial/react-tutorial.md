@@ -34,6 +34,9 @@
 * [deepsweet/hocs](https://github.com/deepsweet/hocs): <sub>🍱 A collection of Higher-Order Components for React and React Native</sub>
 * [jaredpalmer/after.js](https://github.com/jaredpalmer/after.js): <sub>Next.js-like framework for server-rendered React apps built with React Router 4</sub>
 * [react-flame-graph](https://github.com/bvaughn/react-flame-graph): <sub>React component for visualizing profiling data</sub>
+* [joshwcomeau/guppy](https://github.com/joshwcomeau/guppy): <sub>🐠A friendly application manager and task runner for React.js</sub>
+* [alidcastano/rogue.js](https://github.com/alidcastano/rogue.js): <sub>Rogue.js - a nearly invisible framework for creating server-rendered React applications
+</sub>
 
 ## UI 篇
 

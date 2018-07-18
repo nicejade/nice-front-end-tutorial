@@ -19,6 +19,7 @@
 - [Node.js Async Function Best Practices](https://nemethgergely.com/async-function-best-practices/)
 - [Implementing JavaScript Functors and Monads](https://medium.com/front-end-hacking/implementing-javascript-functors-and-monads-a87b6a4b4d9a)
 - [Node 定时器详解](http://www.ruanyifeng.com/blog/2018/02/node-event-loop.html)
+- [Node.js 专栏](https://yuque.com/egg/nodejs): <sub>来自 egg.js 团队的 Node.js 经验分享</sub>
 
 ## 安全篇
 
@@ -68,6 +69,7 @@
 
 - [yargs](https://github.com/yargs/yargs): <sub>yargs the modern, pirate-themed successor to optimist. http://yargs.js.org/</sub>
 - [commander.js](https://github.com/tj/commander.js/): <sub>node.js command-line interfaces made easy</sub>
+
 - [nodejs-dashboard ](https://github.com/FormidableLabs/nodejs-dashboard): <sub>Telemetry dashboard for node.js apps from the terminal!</sub>
 - [server.js](https://github.com/franciscop/server): <sub>🖥 Simple and powerful server for Node.js https://serverjs.io/</sub>
 - [node-qrcode](https://github.com/soldair/node-qrcode): <sub>qr code generator</sub>
