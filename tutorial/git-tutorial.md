@@ -13,6 +13,7 @@
 - [Git 常用命令备忘](https://jeffjade.com/2014/12/22/2014-12-22-gitmemo/)
 - [我所记录的git命令（非常实用）](http://www.cnblogs.com/fanfan259/p/4810517.html)    
 - [AntBranch/awesome-github ](https://github.com/AntBranch/awesome-github): <sub>A curated list of awesome GitHub guides, articles, sites, tools, projects and resources(收集这个列表，只是为了更好地使用亲爱的GitHub).</sub>
+- [Github 替代品列表](https://tutswiki.com/github-alternatives/)
 
 ## Git 进阶篇
 - [Git 的奇技淫巧🙈](https://github.com/521xueweihan/git-tips)

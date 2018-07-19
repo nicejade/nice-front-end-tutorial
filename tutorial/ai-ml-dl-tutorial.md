@@ -1,7 +1,7 @@
 >The easiest way to think of their relationship is to visualize them as concentric circles with AI — the idea that came first — the largest, then machine learning — which blossomed later, and finally deep learning — which is driving today’s AI explosion —  fitting inside both. [What’s the Difference Between Artificial Intelligence, Machine Learning, and Deep Learning?](https://blogs.nvidia.com/blog/2016/07/29/whats-difference-artificial-intelligence-machine-learning-deep-learning-ai/)
 
 - [机器学习与人工智能](https://www.bilibili.com/video/av20922906), 原版地址：[Machine Learning & Artificial Intelligence](https://www.youtube.com/watch?v=z-EtmaFJieY)
-
+- 
 
 ## **Artificial Intelligence**
 
@@ -12,8 +12,10 @@
 >Machine Learning —  An Approach to Achieve Artificial Intelligence
 
 - [Google 机器学习速成课程](https://developers.google.com/machine-learning/crash-course/)
+- [Introducing the Facebook Field Guide to Machine Learning video series](https://research.fb.com/the-facebook-field-guide-to-machine-learning-video-series/)
 - [11 Javascript Machine Learning Libraries To Use In Your App](https://blog.bitsrc.io/11-javascript-machine-learning-libraries-to-use-in-your-app-c49772cca46c)
 - [Awesome Marchine Learning](https://github.com/shenwei356/awesome/blob/master/machine-learning.md)
+
 
 ### Related JS Libraries
 
