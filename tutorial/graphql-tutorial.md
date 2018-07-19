@@ -12,6 +12,10 @@ GraphQL 既是一种用于 API 的查询语言也是一个满足你数据查询�
 - [A Front End Developer’s Guide to GraphQL](https://css-tricks.com/front-end-developers-guide-graphql/)
 - [The future of state management](https://dev-blog.apollodata.com/the-future-of-state-management-dd410864cae2)
 
+## 资源篇
+
+- [awesome-graphql](https://github.com/chentsulin/awesome-graphql): <sub>Awesome list of GraphQL & Relay</sub>
+
 ## 插件篇
 
 - [banterfm/graphql-crunch](https://github.com/banterfm/graphql-crunch): <sub>Reduces the size of GraphQL responses by consolidating duplicate values</sub>
