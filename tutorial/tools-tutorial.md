@@ -68,13 +68,13 @@
 
 * [adamzap/landslide](https://github.com/adamzap/landslide): <sub>Generate HTML5 slideshows from markdown, ReST, or textile</sub>
 * [fusuma](https://github.com/hiroppy/fusuma): <sub>✍️Easily make slides with markdown.</sub>
-* [nodePPT](https://github.com/ksky521/nodeppt)
-* [**Cleaver 快速制作网页 PPT**](http://www.jeffjade.com/2015/10/15/2015-10-16-cleaver-make-ppt/)
-* [**impress.js** ](https://github.com/impress/impress.js/)
-* [PPT](https://github.com/ksky521/nodePPT)
-* [**reveal**](https://github.com/hakimel/reveal.js)
-* [bespoke-fx](https://github.com/ebow/bespoke-fx)
-* [slippy](https://github.com/Seldaek/slippy)
+* [nodePPT](https://github.com/ksky521/nodeppt)： <sub>This is probably the best web presentation tool so far! http://js8.in/nodeppt</sub>
+* [**Cleaver 快速制作网页 PPT**](http://www.jeffjade.com/2015/10/15/2015-10-16-cleaver-make-ppt/): <sub>30-second slideshows for hackers http://jdan.github.io/cleaver</sub>
+* [**impress.js** ](https://github.com/impress/impress.js/): <sub>It's a presentation framework based on the power of CSS3 transforms and transitions in modern browsers and inspired by the idea behind prezi.com. http://impress.js.org</sub>
+* [**reveal**](https://github.com/hakimel/reveal.js): <sub>The HTML Presentation Framework https://revealjs.com</sub>
+* [bespoke-fx](https://github.com/ebow/bespoke-fx): <sub>CSS slide transitions for Bespoke.js
+</sub>
+* [slippy](https://github.com/Seldaek/slippy): <sub>HTML Presentations</sub>
 * [big](https://github.com/tmcw/big): <sub>presentations for busy messy hackers http://macwright.org/big/demo.html</sub>
 
 ### Jenkins
@@ -258,6 +258,9 @@
 
   > Auditing, performance metrics, and best practices for Progressive Web Apps
   > (Progressive Web Apps 的审计，性能指标和最佳做法 )
+
+* [intro.js](https://github.com/usablica/intro.js)
+  >A better way for new feature introduction and step-by-step users guide for your website and project. (为您的网站和项目提供新功能介绍和分步用户指南的更好方法) http://introjs.com
 
 * [chalk](https://github.com/chalk/chalk)
 
