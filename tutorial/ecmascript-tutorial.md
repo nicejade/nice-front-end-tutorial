@@ -36,14 +36,15 @@
 
 ## 优化篇
 
+* [Front-End-Performance-Checklist](https://github.com/thedaviddias/Front-End-Performance-Checklist): <sub>🎮The only Front-End Performance Checklist that runs faster than the others https://frontendchecklist.io(soon on)</sub>
 * [You Don't Need jQuery](https://github.com/nefe/You-Dont-Need-jQuery): <sub>Examples of how to do query, style, dom, ajax, event etc like jQuery with plain javascript.</sub>
 * [You don't (may not) need Lodash/Underscore](https://github.com/you-dont-need/You-Dont-Need-Lodash-Underscore): <sub>List of JavaScript methods which you can use natively + ESLint Plugin</sub>
 * [getify/You-Dont-Know-JS](https://github.com/getify/You-Dont-Know-JS): <sub>A book series on JavaScript. @YDKJS on twitter.</sub>
 * [😇 你可能不知道的前端知识点](https://github.com/justjavac/the-front-end-knowledge-you-may-not-know)
 
-
 ## Pack JavaScript
 
+- [parcel](https://github.com/parcel-bundler/parcel): <sub>📦🚀 Blazing fast, zero configuration web application bundler https://parceljs.org</sub>
 - [rollup](https://github.com/rollup/rollup): <sub>Next-generation ES module bundler https://rollupjs.org</sub>
 - [fastpack](https://github.com/fastpack/fastpack): <sub>Pack JS code fast & easy http://fastpack.io</sub>
 

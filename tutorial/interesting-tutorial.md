@@ -25,3 +25,4 @@
 - [aframe](https://github.com/aframevr/aframe): <sub>🅰️ web framework for building virtual reality experiences. https://aframe.io/</sub>
 - [awesome-design-patterns](https://github.com/DovAmir/awesome-design-patterns): <sub>A curated list of software and architecture related design patterns.</sub>
 - [desandro/imagesloaded](https://github.com/desandro/imagesloaded): <sub>📷 JavaScript is all like "You images done yet or what?" https://imagesloaded.desandro.com</sub>
+- [javascript-algorithms](https://github.com/trekhleb/javascript-algorithms): <sub>Algorithms and data structures implemented in JavaScript with explanations and links to further readings.</sub>
