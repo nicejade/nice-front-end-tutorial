@@ -51,6 +51,8 @@
 * [diycode - GitHub Ranking](http://www.diycode.cc/trends) - GitHub 全球 Developers, Organizations and Repositories 排行榜
 
 ## 桌面工具
+
+* [desktop](https://github.com/desktop/desktop): <sub>Simple collaboration from your desktop https://desktop.github.com</sub>
 * [ohmystar](http://www.ohmystarapp.com/) - Mac上管理你GitHub star的工具    
 * [GithubPulse](https://github.com/tadeuzagallo/GithubPulse) - OS X状态栏的APP，帮你记住你在GitHub每天的贡献
 * [githubtrending](http://www.githubtrending.com/) - OS X状态栏的APP，显示GitHub Trending，也有iOS端

@@ -322,3 +322,6 @@
 
 * [spritejs](https://github.com/spritejs/spritejs)
   >A cross-platform lightweight 2D render object model. http://spritejs.org
+
+* [mousetrap](https://github.com/ccampbell/mousetrap)
+  >Simple library for handling keyboard shortcuts in Javascript（用于处理键盘快捷键的简单库）https://craig.is/killing/mice
