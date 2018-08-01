@@ -325,3 +325,6 @@
 
 * [mousetrap](https://github.com/ccampbell/mousetrap)
   >Simple library for handling keyboard shortcuts in Javascript（用于处理键盘快捷键的简单库）https://craig.is/killing/mice
+
+* [v8n](https://github.com/imbrn/v8n)
+  >☑️ JavaScript fluent validation library（JavaScript流畅的验证库。）. https://imbrn.github.io/v8n

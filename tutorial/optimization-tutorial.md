@@ -36,6 +36,7 @@
 * [Front-End-Checklist | Images](https://github.com/thedaviddias/Front-End-Checklist#images)
 * [web 前端优化之图片优化](https://juejin.im/post/59a7725b6fb9a02497170459)
 * [实现图片懒加载 (lazyload)](https://i.jakeyu.top//2016/11/26/实现图片懒加载/)
+* [HTML5 file API加canvas实现图片前端JS压缩并上传](https://www.zhangxinxu.com/wordpress/2017/07/html5-canvas-image-compress-upload/)
 
 ### 图片压缩
 

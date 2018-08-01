@@ -17,6 +17,7 @@
 
 - [Carbon](https://github.com/dawnlabs/carbon): <sub>🎨 Create and share beautiful images of your source code https://dawnlabs.io/carbon</sub>
 - [Gatsby](https://github.com/gatsbyjs/gatsby): <sub>atom_symbol📄🚀 Blazing fast static site generator for React https://www.gatsbyjs.org</sub>
+- [taskbook](https://github.com/klauscfhq/taskbook): <sub>📓 Tasks, boards & notes for the command-line habitat</sub>
 - [chinese-independent-developer ](https://github.com/1c7/chinese-independent-developer): <sub>👩🏿‍💻👨🏾‍💻👩🏼‍💻👨🏽‍💻👩🏻‍💻中国独立开发者项目列表 -- 分享大家都在做什么</sub>
 - [withspectrum/spectrum ](https://github.com/withspectrum/spectrum): <sub>Simple, powerful online communities. https://spectrum.chat</sub>
 - [QingWei-Li/docsify](https://github.com/QingWei-Li/docsify): <sub>🃏 A magical documentation site generator. https://docsify.js.org</sub>
