@@ -27,6 +27,7 @@
 * [vuejs/awesome-vue](https://github.com/vuejs/awesome-vue)
 * [VueJS 开发常见问题集锦](https://blog.beard.ink/JavaScript/VueJS-开发常见问题集锦/)
 * [11 Vue.js Component Libraries You Should Know In 2018](https://blog.bitsrc.io/11-vue-js-component-libraries-you-should-know-in-2018-3d35ad0ae37f)
+* [mand-mobile](https://github.com/didi/mand-mobile): <sub>💰 A mobile UI toolkit, based on Vue.js 2, designed for financial scenarios. https://didi.github.io/mand-mobile</sub>
 * [lusaxweb/vuesax](https://github.com/lusaxweb/vuesax): <sub>Frontend vue Components Framework for Vue.js 2 https://lusaxweb.github.io/vuesax/</sub>
 * [vue-storefront](https://github.com/DivanteLtd/vue-storefront): <sub>Vue Storefront - PWA for eCommerce. 100% offline, platform agnostic, headless, Magento 2 supported. Always Open Source, MIT license. Join us as contributor (contributors@vuestorefront.io). http://vuestorefront.io</sub>
 
