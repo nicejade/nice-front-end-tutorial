@@ -27,3 +27,4 @@
 - [awesome-design-patterns](https://github.com/DovAmir/awesome-design-patterns): <sub>A curated list of software and architecture related design patterns.</sub>
 - [desandro/imagesloaded](https://github.com/desandro/imagesloaded): <sub>📷 JavaScript is all like "You images done yet or what?" https://imagesloaded.desandro.com</sub>
 - [javascript-algorithms](https://github.com/trekhleb/javascript-algorithms): <sub>Algorithms and data structures implemented in JavaScript with explanations and links to further readings.</sub>
+- [(The System Design Primer)系统设计入门](https://github.com/donnemartin/system-design-primer): <sub>Learn how to design large-scale systems. Prep for the system design interview. Includes Anki flashcards.</sub>

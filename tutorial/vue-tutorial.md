@@ -22,6 +22,18 @@
 * [Useful Vue patterns, techniques, tips and tricks and helpful curated links.
 ](https://github.com/learn-vuejs/vue-patterns)
 
+## 周边篇
+
+* [vue-cli](https://github.com/vuejs/vue-cli): <sub>🛠️ CLI for rapid Vue.js development</sub>
+* [Vue Router](https://router.vuejs.org/): <sub>🚦 The official router for Vue.js. http://router.vuejs.org/</sub>
+* [Vuex](https://vuex.vuejs.org/): <sub>🗃️ Centralized State Management for Vue.js. https://vuex.vuejs.org</sub>
+* [Vue SSR](https://ssr.vuejs.org/): <sub>Vue.js Server-Side Rendering Guide</sub>
+* [vue-test-utils ](https://github.com/vuejs/vue-test-utils): <sub>🔬 Utilities for testing Vue components https://vue-test-utils.vuejs.org</sub>
+* [vuepress](https://github.com/vuejs/vuepress): <sub>Minimalistic Vue-powered static site generator https://vuepress.vuejs.org/</sub>
+* [vue-syntax-highlight ](https://github.com/vuejs/vue-syntax-highlight): <sub>💡 Sublime Text syntax highlighting for single-file Vue components</sub>
+* [Vue 论坛](http://forum.vuejs.org)
+* [Vue 聊天室](https://gitter.im/vuejs/vue)
+
 ## 资源篇
 
 * [vuejs/awesome-vue](https://github.com/vuejs/awesome-vue)
@@ -30,18 +42,7 @@
 * [mand-mobile](https://github.com/didi/mand-mobile): <sub>💰 A mobile UI toolkit, based on Vue.js 2, designed for financial scenarios. https://didi.github.io/mand-mobile</sub>
 * [lusaxweb/vuesax](https://github.com/lusaxweb/vuesax): <sub>Frontend vue Components Framework for Vue.js 2 https://lusaxweb.github.io/vuesax/</sub>
 * [vue-storefront](https://github.com/DivanteLtd/vue-storefront): <sub>Vue Storefront - PWA for eCommerce. 100% offline, platform agnostic, headless, Magento 2 supported. Always Open Source, MIT license. Join us as contributor (contributors@vuestorefront.io). http://vuestorefront.io</sub>
-
-## 周边篇
-
-* [vue-cli](https://github.com/vuejs/vue-cli): <sub>🛠️ CLI for rapid Vue.js development</sub>
-* [Vue Router](https://router.vuejs.org/): <sub>🚦 The official router for Vue.js. http://router.vuejs.org/</sub>
-* [Vuex](https://vuex.vuejs.org/)
-* [Vue SSR](https://ssr.vuejs.org/): <sub>Vue.js Server-Side Rendering Guide</sub>
-* [vue-test-utils ](https://github.com/vuejs/vue-test-utils): <sub>🔬 Utilities for testing Vue components https://vue-test-utils.vuejs.org</sub>
-* [vuepress](https://github.com/vuejs/vuepress): <sub>Minimalistic Vue-powered static site generator https://vuepress.vuejs.org/</sub>
-* [vue-syntax-highlight ](https://github.com/vuejs/vue-syntax-highlight): <sub>💡 Sublime Text syntax highlighting for single-file Vue components</sub>
-* [Vue 论坛](http://forum.vuejs.org)
-* [Vue 聊天室](https://gitter.im/vuejs/vue)
+* [vue-cli-plugin-apollo](https://github.com/Akryum/vue-cli-plugin-apollo): <sub>🚀 vue-cli 3.x plugin for Apollo and GraphQL</sub>
 
 ## 搭建 Vue 应用
 
