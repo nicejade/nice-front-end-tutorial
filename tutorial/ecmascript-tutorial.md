@@ -20,6 +20,7 @@
 * [5 Tips and Thoughts on Async / Await Functions](https://start.jcolemorrison.com/5-tips-and-thoughts-on-async-await-functions/)
 * [Parallel programming in JavaScript](https://itnext.io/achieving-parallelism-in-javascript-using-web-workers-8f921f2d26db)
 * [The Comprehensive Guide to JavaScript Design Patterns](https://www.toptal.com/javascript/comprehensive-guide-javascript-design-patterns)
+* [javascript-design-patterns-for-humans](https://github.com/sohamkamani/javascript-design-patterns-for-humans): <sub>An ultra-simplified explanation of design patterns implemented in javascript</sub>
 
 ## 相关篇
 

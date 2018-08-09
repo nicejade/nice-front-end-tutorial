@@ -5,3 +5,4 @@
 - [Kubernetes 官网](https://kubernetes.io/)
 - [Kubernetes 中文社区](https://www.kubernetes.org.cn/)
 - [Kubernetes教程简介（英）](http://okigiveup.net/a-tutorial-introduction-to-kubernetes/)
+- [为什么Kubernetes是新的应用服务器（英）](https://developers.redhat.com/blog/2018/06/28/why-kubernetes-is-the-new-application-server/)
