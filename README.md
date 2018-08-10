@@ -32,6 +32,8 @@
 - [Vue](https://github.com/nicejade/nice-front-end-tutorial/blob/master/tutorial/vue-tutorial.md)
 - [React](https://github.com/nicejade/nice-front-end-tutorial/blob/master/tutorial/react-tutorial.md)
 - [Angular](https://github.com/nicejade/nice-front-end-tutorial/blob/master/tutorial/angular-tutorial.md)
+- [快应用](https://github.com/nicejade/nice-front-end-tutorial/blob/master/tutorial/quickapp-tutorial.md)
+- [微信小程序](https://github.com/nicejade/nice-front-end-tutorial/blob/master/tutorial/wechat-mini-program-tutorial.md)
 - [Webpack](https://github.com/nicejade/nice-front-end-tutorial/blob/master/tutorial/webpack-tutorial.md)
 - [Gulp](https://github.com/nicejade/nice-front-end-tutorial/blob/master/tutorial/gulp-tutorial.md)
 - [UI](https://github.com/nicejade/nice-front-end-tutorial/blob/master/tutorial/ui-tutorial.md)
