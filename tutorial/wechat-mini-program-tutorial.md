@@ -14,6 +14,7 @@
 - [mpvue](https://github.com/Meituan-Dianping/mpvue): <sub>基于 Vue.js 的小程序开发框架，从底层支持 Vue.js 语法和构建工具体系。 http://mpvue.com</sub>
 - [weui-wxss](https://github.com/Tencent/weui-wxss): <sub>A UI library by WeChat official design team, includes the most useful widgets/modules.</sub>
 - [tina](https://github.com/tinajs/tina): <sub>💃 一款轻巧的渐进式微信小程序框架 https://tina.js.org</sub>
+- [labrador](https://github.com/maichong/labrador): <sub>微信小程序模块化开发框架</sub>
 
 ### 工具
 
