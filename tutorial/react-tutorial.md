@@ -36,6 +36,7 @@
 * [react-flame-graph](https://github.com/bvaughn/react-flame-graph): <sub>React component for visualizing profiling data</sub>
 * [joshwcomeau/guppy](https://github.com/joshwcomeau/guppy): <sub>🐠A friendly application manager and task runner for React.js</sub>
 * [alidcastano/rogue.js](https://github.com/alidcastano/rogue.js): <sub>Rogue.js - a nearly invisible framework for creating server-rendered React applications</sub>
+* [react-color](https://github.com/casesandberg/react-color): <sub>🎨 Color Pickers from Sketch, Photoshop, Chrome, Github, Twitter & more</sub>
 
 ## UI 篇
 
