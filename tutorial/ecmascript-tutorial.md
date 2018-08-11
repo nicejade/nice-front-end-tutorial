@@ -7,6 +7,7 @@
 * [阮一峰 Javascript](http://javascript.ruanyifeng.com)
 * [ECMA-262，第 5 版](http://yanhaijing.com/es5)
 * [JavaScript Promise迷你书](https://github.com/liubin/promises-book/)
+* [awesome-javascript](https://github.com/sorrycc/awesome-javascript): <sub>🐢 A collection of awesome browser-side JavaScript libraries, resources and shiny things.</sub>
 
 ## 进阶篇
 

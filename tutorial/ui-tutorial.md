@@ -26,6 +26,10 @@
 - [wiredjs/wired-elements](https://github.com/wiredjs/wired-elements)：<sub>Collection of elements that appear hand drawn. Great for wireframes. https://wiredjs.com</sub>
 - [nhnent/tui.calendar](https://github.com/nhnent/tui.calendar): <sub>🍞📅A JavaScript calendar that everything you need. http://ui.toast.com/tui-calendar</sub>
 
+### 可视化
+
+- [williamngan/pts](https://github.com/williamngan/pts): <sub>A library for visualization and creative-coding https://ptsjs.org</sub>
+
 ###  其他篇
 
 - [JS 触屏教程之 Hammer.js](http://www.cnblogs.com/iamlilinfeng/p/4239957.html)

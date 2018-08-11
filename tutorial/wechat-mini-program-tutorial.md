@@ -21,3 +21,8 @@
 - [wept](https://github.com/chemzqm/wept): <sub>微信小程序 web 端实时运行工具 https://chemzqm.github.io/wept/</sub>
 - [weapp-doc](https://github.com/tencentyun/weapp-doc): <sub>小程序配置指引、升级方案</sub>
 - [微信小程序可视化设计工具](http://www.coolsite360.com/wxapp/): <sub>集成小程序所有组件，在线进行小程序UI设计，支持Flex布局，可导出符合小程序标准的代码供后续开发</sub>
+
+## 小程序商店
+
+- [微信小程序商店 | w3cschool](https://www.w3cschool.cn/miniapp#)
+- [小程序商店 | 知晓程序](https://minapp.com/miniapp/)
