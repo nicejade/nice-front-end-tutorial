@@ -20,6 +20,7 @@
 - [Implementing JavaScript Functors and Monads](https://medium.com/front-end-hacking/implementing-javascript-functors-and-monads-a87b6a4b4d9a)
 - [Node 定时器详解](http://www.ruanyifeng.com/blog/2018/02/node-event-loop.html)
 - [Node.js 专栏](https://yuque.com/egg/nodejs): <sub>来自 egg.js 团队的 Node.js 经验分享</sub>
+- [stream-handbook](https://github.com/substack/stream-handbook): <sub>how to write node programs with streams</sub>
 
 ## 安全篇
 
