@@ -38,6 +38,7 @@
 * [alidcastano/rogue.js](https://github.com/alidcastano/rogue.js): <sub>Rogue.js - a nearly invisible framework for creating server-rendered React applications</sub>
 * [react-color](https://github.com/casesandberg/react-color): <sub>🎨 Color Pickers from Sketch, Photoshop, Chrome, Github, Twitter & more</sub>
 * [grid-styled](https://github.com/jxnblk/grid-styled): <sub>Responsive React grid system built with styled-system https://jxnblk.com/grid-styled/ </sub>
+* [react-google-charts](https://github.com/rakannimer/react-google-charts): <sub>A thin, typed, React wrapper over Google Charts Visualization and Charts API. https://react-google-charts.com/</sub>
 
 ## UI 篇
 
