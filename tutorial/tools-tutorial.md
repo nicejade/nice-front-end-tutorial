@@ -49,13 +49,23 @@
 
 * [Docz](https://github.com/pedronauck/docz): <sub>✍🏻It has never been so easy to document your things! https://docz.site</sub>
 * [vuepress](https://github.com/vuejs/vuepress): <sub>Minimalistic Vue-powered static site generator https://vuepress.vuejs.org/</sub>
+* [gohugo](https://gohugo.io/): <sub>The world’s fastest framework for building websites</sub>
 * [letterpad/letterpad](https://github.com/letterpad/letterpad): <sub>Letterpad is an open-source and a high performant publishing engine for blogs built with react & graphql and runs ridiculously fast 🚀 https://letterpad.app/docs</sub>
 * [react-static](https://github.com/nozzle/react-static): <sub>⚛️ 🚀 A progressive static site generator for React. https://nozzle-react-static.netlify.com/</sub>
 * [docsify](https://github.com/docsifyjs/docsify): <sub>🃏 A magical documentation site generator. https://docsify.js.org</sub>
+* [b3log/solo](https://github.com/b3log/solo): <sub>🎸 A small and beautiful Java blogging system. 一款小而美的 Java 博客系统。 https://solo.b3log.org</sub>
 * [Hexo](https://github.com/hexojs/hexo): <sub>A fast, simple & powerful blog framework, powered by Node.js. https://hexo.io</sub>
 * [jekyll](https://github.com/jekyll/jekyll): <sub>🌐 Jekyll is a blog-aware, static site generator in Ruby https://jekyllrb.com</sub>
 * [Ghost](https://github.com/TryGhost/Ghost): <sub>The platform for professional publishers https://ghost.org</sub>
 * [WordPress](https://wordpress.org/): <sub>WordPress is open source software you can use to create a beautiful website, blog, or app.</sub>
+
+### 打造桌面应用
+
+- [electron](https://github.com/electron/electron): <sub>Build cross-platform desktop apps with JavaScript, HTML, and CSS https://electronjs.org(使用JavaScript，HTML和CSS构建跨平台桌面应用程序https://electronjs.org)</sub>
+- [nativefier](https://github.com/jiahaog/nativefier): <sub>Make any web page a desktop application(使任何网页成为桌面应用程序)</sub>
+- [react-native](https://github.com/facebook/react-native): <sub>A framework for building native apps with React. https://facebook.github.io/react-native/</sub>
+- [vuido](https://github.com/mimecorg/vuido): <sub>Native desktop applications using Vue.js(使用Vue.js的本机桌面应用程序). https://vuido.mimec.org/</sub>
+- [nw.js](https://github.com/nwjs/nw.js): <sub>直接从DOM / WebWorker调用所有Node.js模块，并启用一种使用所有Web技术编写应用程序的新方法。 https://nwjs.io</sub>
 
 ### Terminal
 
