@@ -8,7 +8,7 @@
 - [Docker 入门教程(By 阮一峰)](http://www.ruanyifeng.com/blog/2018/02/docker-tutorial.html)
 - [Docker 菜鸟教程](http://www.runoob.com/docker/docker-tutorial.html)
 - [Getting Started with Docker](https://scotch.io/tutorials/getting-started-with-docker)
-- [Docker — 从入门到实践](https://yeasy.gitbooks.io/docker_practice/content/): <sub>[Docker — 从入门到实践.pdf](https://github.com/nicejade/nice-front-end-tutorial/blob/master/resources/Docker — 从入门到实践.pdf)</sub>
+- [Docker — 从入门到实践](https://yeasy.gitbooks.io/docker_practice/content/): <sub>[Docker — 从入门到实践.pdf](https://legacy.gitbook.com/download/pdf/book/yeasy/docker_practice)</sub>
 
 ## 进阶篇
 

@@ -71,6 +71,7 @@
 
 - [zeit/hyper](https://github.com/zeit/hyper): <sub>A terminal built on web technologies https://hyper.is</sub>
 - [pod4g/hiper](https://github.com/pod4g/hiper): <sub>🚀 A statistical analysis tool for performance testing</sub>
+- [concurrently](https://github.com/kimmobrunfeldt/concurrently): <sub>Run commands concurrently. Like `npm run watch-js & npm run watch-less` but better.</sub>
 - [mixn/carbon-now-cli](https://github.com/mixn/carbon-now-cli): <sub>🎨 Beautiful images of your code — from right inside your terminal.</sub>
 - [youtube-dl](https://github.com/rg3/youtube-dl): <sub>Command-line program to download videos from YouTube.com and other video sites http://rg3.github.io/youtube-dl/</sub>
 
@@ -111,6 +112,7 @@
 
 * [SparkPost/heml](https://github.com/SparkPost/heml)
 * [mjmlio/mjml](https://github.com/mjmlio/mjml)
+* [Cerberus](https://github.com/TedGoas/Cerberus): <sub>A few simple, but solid patterns for responsive HTML email templates and newsletters. Even in Outlook and Gmail. http://tedgoas.github.io/Cerberus</sub>
 * [Responsive Email Template](https://github.com/nicejade/responsive-email-template)
 * [Open Source Email Templates](https://www.sendwithus.com/resources/templates)
 

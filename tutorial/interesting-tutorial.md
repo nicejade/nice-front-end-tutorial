@@ -29,3 +29,4 @@
 - [javascript-algorithms](https://github.com/trekhleb/javascript-algorithms): <sub>Algorithms and data structures implemented in JavaScript with explanations and links to further readings.</sub>
 - [(The System Design Primer)系统设计入门](https://github.com/donnemartin/system-design-primer): <sub>Learn how to design large-scale systems. Prep for the system design interview. Includes Anki flashcards.</sub>
 - [pseweryn/learning](https://github.com/pseweryn/learning): <sub>A repository of links to various tech learning resources</sub>
+- [d3-cloud](https://github.com/jasondavies/d3-cloud): <sub>Create word clouds in JavaScript. https://www.jasondavies.com/wordcloud/ </sub>

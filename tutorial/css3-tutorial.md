@@ -13,6 +13,7 @@
 - [使用纯 CSS 实现 Google Photos 照片列表布局](https://github.com/xieranmaya/blog/issues/4)
 - [How I started drawing CSS Images](https://blog.prototypr.io/how-i-started-drawing-css-images-3fd878675c89)
 - [The Shapes of CSS | CSS-TRICKS](https://css-tricks.com/examples/ShapesOfCSS/)
+- [半深入理解CSS3 object-position/object-fit属性](https://www.zhangxinxu.com/wordpress/2015/03/css3-object-position-object-fit/)
 
 ## 动画篇
 
@@ -61,6 +62,7 @@
 - [**You-need-to-know-css**](https://github.com/l-hammer/You-need-to-know-css): <sub>🖖CSS tricks web developers need to know~ https://lhammer.cn/You-need-to-know-css/</sub>
 - [linkedin/css-blocks](https://github.com/linkedin/css-blocks): <sub>High performance, maintainable stylesheets. http://css-blocks.com/</sub>
 - [AllThingsSmitty/css-protips](https://github.com/AllThingsSmitty/css-protips): <sub>A collection of tips to help take your CSS skills pro</sub>
+- [谈谈一些有趣的 CSS 话题](https://github.com/chokcoco/iCSS): <sub>https://github.com/chokcoco/iCSS</sub>
 - [Houdini：CSS 领域最令人振奋的革新](https://zhuanlan.zhihu.com/p/20939640)
 - [linaria](https://github.com/callstack/linaria): <sub>Zero-runtime CSS in JS library https://linaria.now.sh</sub>
 
