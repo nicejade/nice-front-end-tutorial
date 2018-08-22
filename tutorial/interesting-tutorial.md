@@ -33,3 +33,4 @@
 - [d3-cloud](https://github.com/jasondavies/d3-cloud): <sub>Create word clouds in JavaScript. https://www.jasondavies.com/wordcloud/ </sub>
 - [Fcmam5/nightly.js](https://github.com/Fcmam5/nightly.js): <sub>A zero dependency javascript library that enables the night mode in your website easily</sub>
 - [micromatch](https://github.com/micromatch/micromatch): <sub>Highly optimized wildcard and glob matching library. Faster, drop-in replacement to minimatch and multimatch. Used by babel core, yarn, jest, browser-sync, documentation.js, stylelint, nyc, and many others! </sub>
+- [tracking.js](https://github.com/eduardolundgren/tracking.js): <sub>A modern approach for Computer Vision on the web http://trackingjs.com</sub>

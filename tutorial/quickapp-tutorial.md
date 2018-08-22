@@ -18,3 +18,4 @@
 - [华为 快应用分发](https://developer.huawei.com/consumer/cn/service/hms/fastapp.html)
 - [OPPO 快应用分发](https://open.oppomobile.com/service/distribute#id=4)
 - [小米 快应用分发](https://dev.mi.com/console/app/newapp.html)
+- [魅族开放平台](https://open.flyme.cn/)
