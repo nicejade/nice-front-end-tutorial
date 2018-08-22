@@ -31,3 +31,5 @@
 - [(The System Design Primer)系统设计入门](https://github.com/donnemartin/system-design-primer): <sub>Learn how to design large-scale systems. Prep for the system design interview. Includes Anki flashcards.</sub>
 - [pseweryn/learning](https://github.com/pseweryn/learning): <sub>A repository of links to various tech learning resources</sub>
 - [d3-cloud](https://github.com/jasondavies/d3-cloud): <sub>Create word clouds in JavaScript. https://www.jasondavies.com/wordcloud/ </sub>
+- [Fcmam5/nightly.js](https://github.com/Fcmam5/nightly.js): <sub>A zero dependency javascript library that enables the night mode in your website easily</sub>
+- [micromatch](https://github.com/micromatch/micromatch): <sub>Highly optimized wildcard and glob matching library. Faster, drop-in replacement to minimatch and multimatch. Used by babel core, yarn, jest, browser-sync, documentation.js, stylelint, nyc, and many others! </sub>
