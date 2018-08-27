@@ -4,8 +4,14 @@
 ## 基础篇
 
 - [快应用官方网站](https://www.quickapp.cn/)
-- [快应用开发文档](https://doc.quickapp.cn/)
 - [快应用开发论坛](https://bbs.quickapp.cn/)
+- [快应用开发文档](https://doc.quickapp.cn/)
+    - [开发文档 | 框架概述](https://doc.quickapp.cn/framework/)
+    - [开发文档 | 组件](https://doc.quickapp.cn/widgets/common-events.html)
+    - [开发文档 | 接口概述](https://doc.quickapp.cn/features/)
+- [「快应用」开发体验纪要](https://nice.lovejade.cn/zh/article/develop-quick-app-experience-notes.html)
+- [快应用快速入门教程](https://juejin.im/post/5ab27d8e518825557e78485e)
+- [对标小程序 ? "快应用"开发入门指南](https://juejin.im/post/5ab26a1e6fb9a028b547c675)
 
 ## 示例篇
 
