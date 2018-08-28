@@ -22,6 +22,20 @@
 
 * [Awesome React](https://github.com/enaqx/awesome-react)
 * [11 React Component Libraries You Should Know In 2018](https://blog.bitsrc.io/11-react-component-libraries-you-should-know-178eb1dd6aa4)
+
+### UI 组件框架
+
+* [Ant Design](https://ant.design/)
+* [React material UI](http://material-ui.com/#)
+* [React amazeui UI](http://amazeui.org/react)
+* [PrimeReact UI](https://www.primefaces.org/primereact/#/): <sub>Your Favorite UI Framework
+for REACT</sub>
+* [RSUITE](https://rsuitejs.com/): <sub>一套 React 的 UI 组件库</sub>
+* [react-native-elements](https://github.com/react-native-training/react-native-elements): <sub>Cross Platform React Native UI Toolkit</sub>
+* [evergreen](https://github.com/segmentio/evergreen): <sub>🌲 Evergreen React UI Framework by Segment https://evergreen.surge.sh/</sub>
+
+### 工具类插件
+
 * [react-beautiful-dnd](https://github.com/atlassian/react-beautiful-dnd): <sub>Beautiful, accessible drag and drop for lists with React.js</sub>
 * [Redux Form](https://redux-form.com/): <sub>The best way to manage your form state in Redux.</sub>
 * [React Navigation](https://reactnavigation.org/): <sub>Navigation for React Native</sub>
@@ -40,17 +54,6 @@
 * [grid-styled](https://github.com/jxnblk/grid-styled): <sub>Responsive React grid system built with styled-system https://jxnblk.com/grid-styled/ </sub>
 * [react-google-charts](https://github.com/rakannimer/react-google-charts): <sub>A thin, typed, React wrapper over Google Charts Visualization and Charts API. https://react-google-charts.com/</sub>
 * [react-move](https://github.com/react-tools/react-move): <sub>React Move 🌀 Beautiful, data-driven animations for React https://react-move.js.org</sub>
-
-## UI 篇
-
-* [Ant Design](https://ant.design/)
-* [React material UI](http://material-ui.com/#)
-* [React amazeui UI](http://amazeui.org/react)
-* [PrimeReact UI](https://www.primefaces.org/primereact/#/): <sub>Your Favorite UI Framework
-for REACT</sub>
-* [RSUITE](https://rsuitejs.com/): <sub>一套 React 的 UI 组件库</sub>
-* [react-native-elements](https://github.com/react-native-training/react-native-elements): <sub>Cross Platform React Native UI Toolkit</sub>
-* [evergreen](https://github.com/segmentio/evergreen): <sub>🌲 Evergreen React UI Framework by Segment https://evergreen.surge.sh/</sub>
 
 ## 周边篇
 
