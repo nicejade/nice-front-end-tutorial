@@ -28,6 +28,7 @@
 
 ### 相关库
 
+* [mdx-deck](https://github.com/jxnblk/mdx-deck): <sub>♠️ MDX-based presentation decks https://jxnblk.com/mdx-deck</sub>
 * [**mdx-js/mdx**](https://github.com/mdx-js/mdx): <sub>MDX is a JSX in Markdown loader, parser, and renderer for ambitious projects. It combines the readability of Markdown with the expressivity of JSX. The best of both worlds. 🌐</sub>
 * [**markedjs/marked**](https://github.com/markedjs/marked): <sub>A markdown parser and compiler. Built for speed. https://marked.js.org/</sub>
 * [**clean-mark**](https://github.com/croqaz/clean-mark): <sub>Convert an article into a clean text</sub>

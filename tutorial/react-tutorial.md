@@ -54,6 +54,7 @@ for REACT</sub>
 * [grid-styled](https://github.com/jxnblk/grid-styled): <sub>Responsive React grid system built with styled-system https://jxnblk.com/grid-styled/ </sub>
 * [react-google-charts](https://github.com/rakannimer/react-google-charts): <sub>A thin, typed, React wrapper over Google Charts Visualization and Charts API. https://react-google-charts.com/</sub>
 * [react-move](https://github.com/react-tools/react-move): <sub>React Move 🌀 Beautiful, data-driven animations for React https://react-move.js.org</sub>
+* [react-motion](https://github.com/chenglou/react-motion): <sub>A spring that solves your animation problems.</sub>
 
 ## 周边篇
 

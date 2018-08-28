@@ -71,7 +71,8 @@
 - [gitmoji](https://github.com/carloscuesta/gitmoji): <sub>An emoji guide for your commit messages. 😜 https://gitmoji.carloscuesta.me</sub>
 - [git-secret](https://github.com/sobolevn/git-secret): <sub>👥 A bash-tool to store your private data inside a git repository. http://git-secret.io</sub>
 - [grip](https://github.com/joeyespo/grip): <sub>Preview GitHub Markdown files like Readme locally before committing them.</sub>
-- [lazygit](https://github.com/jesseduffield/lazygit): <sub>simple terminal UI for git commands</sub>
+- [**lazygit**](https://github.com/jesseduffield/lazygit): <sub>simple terminal UI for git commands</sub>
+- [tig](https://github.com/jonas/tig): <sub>Text-mode interface for git https://jonas.github.io/tig/</sub>
 
 ## Github 浏览器插件
 
