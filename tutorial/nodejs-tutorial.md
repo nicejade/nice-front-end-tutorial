@@ -34,6 +34,10 @@
 
 ## 框架篇
 
+### EggJs
+
+- [eggjs](https://github.com/eggjs/egg): <sub>🥚 Born to build better enterprise frameworks and apps with Node.js & Koa https://eggjs.org</sub>
+
 ### fastify
 
 - [fastify](https://github.com/fastify/fastify): <sub>Fast and low overhead web framework, for Node.js https://www.fastify.io</sub>
