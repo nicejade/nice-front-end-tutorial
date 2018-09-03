@@ -2,6 +2,20 @@
 
 >关于该主题的资源清单：视觉回归测试（A curated list of resources around the topic: visual regression testing）: https://github.com/mojoaxel/awesome-regression-testing
 
+## [MochaJs](https://mochajs.org/)
+
+>☕️ simple, flexible, fun javascript test framework for node.js & the browser （node.js和浏览器的简单，灵活，有趣的javascript测试框架）https://mochajs.org
+    - [测试框架 Mocha 实例教程](https://www.ruanyifeng.com/blog/2015/12/a-mocha-tutorial-of-examples.html)
+    - [用Mocha和Chai对JavaScript进行单元测试](https://github.com/JChehe/blog/blob/master/translation/%E7%94%A8Mocha%E5%92%8CChai%E5%AF%B9JavaScript%E8%BF%9B%E8%A1%8C%E5%8D%95%E5%85%83%E6%B5%8B%E8%AF%95.md)
+
+
+#### [Jest](https://github.com/facebook/jest)
+
+> 🃏令人愉快的JavaScript测试(🃏 Delightful JavaScript Testing) https://facebook.github.io/jest/
+
+  - [jest-puppeteer](https://github.com/smooth-code/jest-puppeteer): <sub>Run your tests using Jest & Puppeteer 🎪✨</sub>
+
+
 ## 负载测试
 
 #### [Locust](https://github.com/locustio/locust)
@@ -11,13 +25,6 @@
   - [Load Testing with Locust.io & Docker Swarm](https://wheniwork.engineering/load-testing-with-locust-io-docker-swarm-d78a2602997a)
   - [【LocustPlus序】漫谈服务端性能测试](http://debugtalk.com/post/locustplus-talk-about-performance-test/)
   - [深入浅出开源性能测试工具Locust（使用篇）](http://debugtalk.com/post/head-first-locust-user-guide/)
-
-## [Jest](https://github.com/facebook/jest)
-
-> 🃏令人愉快的JavaScript测试(🃏 Delightful JavaScript Testing) https://facebook.github.io/jest/
-
-  - [jest-puppeteer](https://github.com/smooth-code/jest-puppeteer): <sub>Run your tests using Jest & Puppeteer 🎪✨</sub>
-
 
 #### [Cypress ](https://github.com/cypress-io/cypress)
 
