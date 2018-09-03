@@ -36,7 +36,7 @@
 - [微信小程序 ✨](https://github.com/nicejade/nice-front-end-tutorial/blob/master/tutorial/wechat-mini-program-tutorial.md)
 - [Webpack](https://github.com/nicejade/nice-front-end-tutorial/blob/master/tutorial/webpack-tutorial.md)
 - [Gulp](https://github.com/nicejade/nice-front-end-tutorial/blob/master/tutorial/gulp-tutorial.md)
-- [UI](https://github.com/nicejade/nice-front-end-tutorial/blob/master/tutorial/ui-tutorial.md)
+- [UI UI UI](https://github.com/nicejade/nice-front-end-tutorial/blob/master/tutorial/ui-tutorial.md)
 - [Optimization](https://github.com/nicejade/nice-front-end-tutorial/blob/master/tutorial/optimization-tutorial.md)
 - [Testing](https://github.com/nicejade/nice-front-end-tutorial/blob/master/tutorial/testing-tutorial.md)
 
