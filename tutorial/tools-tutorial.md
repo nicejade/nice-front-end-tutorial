@@ -343,3 +343,6 @@
 
 * [vialer-js](https://github.com/vialer/vialer-js)
   > Pluggable WebRTC communication platform(可插拔的WebRTC通信平台). https://vialer-js.io
+
+* [between.js](https://github.com/sasha240100/between.js)
+  > Lightweight JavaScript (ES6) tweening engine https://between.js.org/

@@ -62,4 +62,5 @@ for REACT</sub>
 * [create-react-app-typescript](https://github.com/wmonk/create-react-app-typescript): <sub>Create React apps using typescript with no build configuration. </sub>
 * [roadhog](https://github.com/sorrycc/roadhog): <sub>🐷 Cli tool for creating react apps, configurable version of create-react-app.</sub>
 * [react-static](https://github.com/nozzle/react-static): <sub>⚛️ 🚀 A progressive static site generator for React. https://nozzle-react-static.netlify.com/</sub>
+* [create-react-app-buildpack](https://github.com/mars/create-react-app-buildpack): <sub>⚛️ Heroku Buildpack for create-react-app: static hosting for React.js web apps</sub>
 
