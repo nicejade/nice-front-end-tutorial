@@ -69,6 +69,7 @@
 
 ### Terminal
 
+- [fish-shell](https://github.com/fish-shell/fish-shell): <sub>The user-friendly command line shell. http://fishshell.com</sub>
 - [zeit/hyper](https://github.com/zeit/hyper): <sub>A terminal built on web technologies https://hyper.is</sub>
 - [pod4g/hiper](https://github.com/pod4g/hiper): <sub>🚀 A statistical analysis tool for performance testing</sub>
 - [concurrently](https://github.com/kimmobrunfeldt/concurrently): <sub>Run commands concurrently. Like `npm run watch-js & npm run watch-less` but better.</sub>
