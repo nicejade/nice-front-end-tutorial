@@ -69,6 +69,7 @@
 
 ### Terminal
 
+- [oh-my-zsh](https://github.com/robbyrussell/oh-my-zsh): <sub>A delightful community-driven (with 1,200+ contributors) framework for managing your zsh configuration. Includes 200+ optional plugins (rails, git, OSX, hub, capistrano, brew, ant, php, python, etc), over 140 themes to spice up your morning, and an auto-update tool so that makes it easy to keep up with the latest updates from the community. https://ohmyz.sh/</sub>
 - [fish-shell](https://github.com/fish-shell/fish-shell): <sub>The user-friendly command line shell. http://fishshell.com</sub>
 - [zeit/hyper](https://github.com/zeit/hyper): <sub>A terminal built on web technologies https://hyper.is</sub>
 - [pod4g/hiper](https://github.com/pod4g/hiper): <sub>🚀 A statistical analysis tool for performance testing</sub>
