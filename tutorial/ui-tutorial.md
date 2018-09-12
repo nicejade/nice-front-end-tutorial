@@ -23,33 +23,18 @@
 
 ## 组件篇
 
-* [wiredjs/wired-elements](https://github.com/wiredjs/wired-elements)：<sub>Collection
-  of elements that appear hand drawn. Great for wireframes.
-  https://wiredjs.com</sub>
-* [nhnent/tui.calendar](https://github.com/nhnent/tui.calendar): <sub>🍞📅A
-  JavaScript calendar that everything you need.
-  http://ui.toast.com/tui-calendar</sub>
+* [wiredjs/wired-elements](https://github.com/wiredjs/wired-elements)：<sub>Collection of elements that appear hand drawn. Great for wireframes. https://wiredjs.com</sub>
+* [nhnent/tui.calendar](https://github.com/nhnent/tui.calendar): <sub>🍞📅A JavaScript calendar that everything you need. http://ui.toast.com/tui-calendar</sub>
 
 ### 可视化
 
-* [d3](https://github.com/d3/d3): <sub>Bring data to life with SVG, Canvas and
-  HTML. 📊📈🎉 https://d3js.org</sub>
-* [incubator-echarts](https://github.com/apache/incubator-echarts): <sub>A
-  powerful, interactive charting and visualization library for browser
-  http://echarts.baidu.com/</sub>
-* [highcharts](https://www.highcharts.com/): <sub>Make your data come alive.
-  Highcharts makes it easy for developers to set up interactive charts in their
-  web pages</sub>
-* [anychart](https://www.anychart.com/): <sub>AnyChart is a lightweight and
-  robust JavaScript charting solution with great API and documentation. The
-  chart types and unique features are numerous, and the library works easily
-  with any development stack.</sub>
-* [Leaflet](https://github.com/Leaflet/Leaflet): <sub>🍃 JavaScript library for
-  mobile-friendly interactive maps https://leafletjs.com</sub>
-* [williamngan/pts](https://github.com/williamngan/pts): <sub>A library for
-  visualization and creative-coding https://ptsjs.org</sub>
-* [apexcharts.js](https://github.com/apexcharts/apexcharts.js): <sub>📊
-  Interactive and Modern SVG Charts https://apexcharts.com</sub>
+* [d3](https://github.com/d3/d3): <sub>Bring data to life with SVG, Canvas and HTML. 📊📈🎉 https://d3js.org</sub>
+* [incubator-echarts](https://github.com/apache/incubator-echarts): <sub>A powerful, interactive charting and visualization library for browser http://echarts.baidu.com/</sub>
+* [highcharts](https://www.highcharts.com/): <sub>Make your data come alive. Highcharts makes it easy for developers to set up interactive charts in their web pages</sub>
+* [anychart](https://www.anychart.com/): <sub>AnyChart is a lightweight and robust JavaScript charting solution with great API and documentation. The chart types and unique features are numerous, and the library works easily with any development stack.</sub>
+* [Leaflet](https://github.com/Leaflet/Leaflet): <sub>🍃 JavaScript library for mobile-friendly interactive maps https://leafletjs.com</sub>
+* [williamngan/pts](https://github.com/williamngan/pts): <sub>A library for visualization and creative-coding https://ptsjs.org</sub>
+* [apexcharts.js](https://github.com/apexcharts/apexcharts.js): <sub>📊 Interactive and Modern SVG Charts https://apexcharts.com</sub>
 
 ### 其他篇
 

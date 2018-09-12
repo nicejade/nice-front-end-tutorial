@@ -7,9 +7,7 @@
 * [chrome 开发者工具的 15 个小技巧](http://frontenddev.org/link/15-tips-of-chrome-developer-tools.html)
 * [Chrome 开发者工具不完全指南](http://1ke.co/course/361)
 * [Chrome 开发者工具使用技巧](http://segmentfault.com/a/1190000003882567)
-* [ChromeDevTools/awesome-chrome-devtools](https://github.com/ChromeDevTools/awesome-chrome-devtools):
-  <sub>Awesome tooling and resources in the Chrome DevTools & DevTools Protocol
-  ecosystem</sub>
+* [ChromeDevTools/awesome-chrome-devtools](https://github.com/ChromeDevTools/awesome-chrome-devtools): <sub>Awesome tooling and resources in the Chrome DevTools & DevTools Protocol ecosystem</sub>
 
 ## 进阶篇
 

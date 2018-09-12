@@ -17,29 +17,17 @@
 * [Webpack 打包优化之速度篇](http://jeffjade.com/2017/08/12/125-webpack-package-optimization-for-speed/)
 * [为什么 Webpack 2 的 Tree Shaking 不如你想象的那么有效](https://advancedweb.hu/2017/02/07/treeshaking/)
 * [Webpack 代码分割技巧](https://foio.github.io/wepack-code-spliting/)
-* [**Optimize your libraries with webpack**](https://github.com/GoogleChromeLabs/webpack-libs-optimizations):
-  <sub>Using a library in your webpack project? Here’s how to optimize it</sub>
+* [**Optimize your libraries with webpack**](https://github.com/GoogleChromeLabs/webpack-libs-optimizations): <sub>Using a library in your webpack project? Here’s how to optimize it</sub>
 
 ## 咨询篇
 
-* [webpack 4: released today!!✨](https://medium.com/webpack/webpack-4-released-today-6cdb994702d4):
-  <sub>中文译
-  版[🎼webpack 4 发布了！✨](https://zhuanlan.zhihu.com/p/34028750)</sub>
+* [webpack 4: released today!!✨](https://medium.com/webpack/webpack-4-released-today-6cdb994702d4): <sub>中文译版[🎼webpack 4 发布了！✨](https://zhuanlan.zhihu.com/p/34028750)</sub>
 
 ## 插件篇
 
-* [prerender-loader](https://github.com/GoogleChromeLabs/prerender-loader):
-  <sub>📰 Painless universal pre-rendering for Webpack.
-  https://npm.im/prerender-loader</sub>
-* [guess-webpack](https://github.com/guess-js/guess/tree/master/packages/webpack):
-  <sub>This package exports the GuessPlugin</sub>
-* [vuejs-templates/webpack](https://github.com/vuejs-templates/webpack): <sub>A
-  full-featured Webpack + vue-loader setup with hot reload, linting, testing &
-  css extraction.</sub>
-* [size-limit](https://github.com/ai/size-limit): <sub>Prevent JS libraries
-  bloat. If you accidentally add a massive dependency, Size Limit will throw an
-  error.</sub>
-* [image-webpack-loader](https://github.com/tcoopman/image-webpack-loader):
-  <sub>Image loader module for webpack</sub>
-* [size-plugin](https://github.com/GoogleChromeLabs/size-plugin): <sub>Track
-  compressed Webpack asset sizes over time. https://npm.im/size-plugin</sub>
+* [prerender-loader](https://github.com/GoogleChromeLabs/prerender-loader): <sub>📰 Painless universal pre-rendering for Webpack. https://npm.im/prerender-loader</sub>
+* [guess-webpack](https://github.com/guess-js/guess/tree/master/packages/webpack): <sub>This package exports the GuessPlugin</sub>
+* [vuejs-templates/webpack](https://github.com/vuejs-templates/webpack): <sub>A full-featured Webpack + vue-loader setup with hot reload, linting, testing & css extraction.</sub>
+* [size-limit](https://github.com/ai/size-limit): <sub>Prevent JS libraries bloat. If you accidentally add a massive dependency, Size Limit will throw an error.</sub>
+* [image-webpack-loader](https://github.com/tcoopman/image-webpack-loader): <sub>Image loader module for webpack</sub>
+* [size-plugin](https://github.com/GoogleChromeLabs/size-plugin): <sub>Track compressed Webpack asset sizes over time. https://npm.im/size-plugin</sub>

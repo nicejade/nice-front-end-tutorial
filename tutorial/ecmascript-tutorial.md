@@ -7,9 +7,7 @@
 * [阮一峰 Javascript](http://javascript.ruanyifeng.com)
 * [ECMA-262，第 5 版](http://yanhaijing.com/es5)
 * [JavaScript Promise 迷你书](https://github.com/liubin/promises-book/)
-* [awesome-javascript](https://github.com/sorrycc/awesome-javascript): <sub>🐢 A
-  collection of awesome browser-side JavaScript libraries, resources and shiny
-  things.</sub>
+* [awesome-javascript](https://github.com/sorrycc/awesome-javascript): <sub>🐢 A collection of awesome browser-side JavaScript libraries, resources and shiny things.</sub>
 
 ## 进阶篇
 
@@ -23,16 +21,12 @@
 * [5 Tips and Thoughts on Async / Await Functions](https://start.jcolemorrison.com/5-tips-and-thoughts-on-async-await-functions/)
 * [Parallel programming in JavaScript](https://itnext.io/achieving-parallelism-in-javascript-using-web-workers-8f921f2d26db)
 * [The Comprehensive Guide to JavaScript Design Patterns](https://www.toptal.com/javascript/comprehensive-guide-javascript-design-patterns)
-* [javascript-design-patterns-for-humans](https://github.com/sohamkamani/javascript-design-patterns-for-humans):
-  <sub>An ultra-simplified explanation of design patterns implemented in
-  javascript</sub>
+* [javascript-design-patterns-for-humans](https://github.com/sohamkamani/javascript-design-patterns-for-humans): <sub>An ultra-simplified explanation of design patterns implemented in javascript</sub>
 
 ## 相关篇
 
 * [A list of funny and tricky JavaScript examples](https://github.com/denysdovhan/wtfjs#readme)
-* [30 seconds of code](https://github.com/Chalarangelo/30-seconds-of-code):
-  <sub>Curated collection of useful Javascript snippets that you can understand
-  in 30 seconds or less. https://30secondsofcode.org/</sub>
+* [30 seconds of code](https://github.com/Chalarangelo/30-seconds-of-code): <sub>Curated collection of useful Javascript snippets that you can understand in 30 seconds or less. https://30secondsofcode.org/</sub>
 * [JavaScript Factory Functions with ES6+](https://medium.com/javascript-scene/javascript-factory-functions-with-es6-4d224591a8b1)
 * [Dynamic import()](https://developers.google.com/web/updates/2017/11/dynamic-import)
 * [Why we have banned default exports in Javascript and you should do the same](https://blog.neufund.org/why-we-have-banned-default-exports-and-you-should-do-the-same-d51fdc2cf2ad)
@@ -44,39 +38,23 @@
 
 ## 优化篇
 
-* [Front-End-Performance-Checklist](https://github.com/thedaviddias/Front-End-Performance-Checklist):
-  <sub>🎮The only Front-End Performance Checklist that runs faster than the
-  others https://frontendchecklist.io(soon on)</sub>
-* [You Don't Need jQuery](https://github.com/nefe/You-Dont-Need-jQuery):
-  <sub>Examples of how to do query, style, dom, ajax, event etc like jQuery with
-  plain javascript.</sub>
-* [You don't (may not) need Lodash/Underscore](https://github.com/you-dont-need/You-Dont-Need-Lodash-Underscore):
-  <sub>List of JavaScript methods which you can use natively + ESLint
-  Plugin</sub>
-* [getify/You-Dont-Know-JS](https://github.com/getify/You-Dont-Know-JS): <sub>A
-  book series on JavaScript. @YDKJS on twitter.</sub>
+* [Front-End-Performance-Checklist](https://github.com/thedaviddias/Front-End-Performance-Checklist): <sub>🎮The only Front-End Performance Checklist that runs faster than the others https://frontendchecklist.io(soon on)</sub>
+* [You Don't Need jQuery](https://github.com/nefe/You-Dont-Need-jQuery): <sub>Examples of how to do query, style, dom, ajax, event etc like jQuery with plain javascript.</sub>
+* [You don't (may not) need Lodash/Underscore](https://github.com/you-dont-need/You-Dont-Need-Lodash-Underscore): <sub>List of JavaScript methods which you can use natively + ESLint Plugin</sub>
+* [getify/You-Dont-Know-JS](https://github.com/getify/You-Dont-Know-JS): <sub>A book series on JavaScript. @YDKJS on twitter.</sub>
 * [😇 你可能不知道的前端知识点](https://github.com/justjavac/the-front-end-knowledge-you-may-not-know)
 
 ## Pack JavaScript
 
-* [parcel](https://github.com/parcel-bundler/parcel): <sub>📦🚀 Blazing fast,
-  zero configuration web application bundler https://parceljs.org</sub>
-* [rollup](https://github.com/rollup/rollup): <sub>Next-generation ES module
-  bundler https://rollupjs.org</sub>
-* [fastpack](https://github.com/fastpack/fastpack): <sub>Pack JS code fast &
-  easy http://fastpack.io</sub>
+* [parcel](https://github.com/parcel-bundler/parcel): <sub>📦🚀 Blazing fast, zero configuration web application bundler https://parceljs.org</sub>
+* [rollup](https://github.com/rollup/rollup): <sub>Next-generation ES module bundler https://rollupjs.org</sub>
+* [fastpack](https://github.com/fastpack/fastpack): <sub>Pack JS code fast & easy http://fastpack.io</sub>
 
 ---
 
 ## [TypeScript](https://github.com/Microsoft/TypeScript)
 
-* [TypeScript - JavaScript that scales.](http://www.typescriptlang.org/):
-  <sub>TypeScript is a superset of JavaScript that compiles to clean JavaScript
-  output. </sub>
-* [TypeScript 中文网](https://www.tslang.cn/index.html): <sub>TypeScript 是
-  JavaScript 的超集，它编译为纯 JavaScript</sub>
-* [TypeScript 入门教程](https://ts.xcatliu.com/)：<sub>从 JavaScript 程序员的角
-  度总结思考，循序渐进的理解 TypeScript。</sub>
-* [typescript-book](https://github.com/basarat/typescript-book): <sub>📚 The
-  definitive guide to TypeScript and possibly the best TypeScript book 📖. Free
-  and Open Source 🌹</sub>
+* [TypeScript - JavaScript that scales.](http://www.typescriptlang.org/): <sub>TypeScript is a superset of JavaScript that compiles to clean JavaScript output. </sub>
+* [TypeScript 中文网](https://www.tslang.cn/index.html): <sub>TypeScript 是 JavaScript 的超集，它编译为纯 JavaScript</sub>
+* [TypeScript 入门教程](https://ts.xcatliu.com/)：<sub>从 JavaScript 程序员的角度总结思考，循序渐进的理解 TypeScript。</sub>
+* [typescript-book](https://github.com/basarat/typescript-book): <sub>📚 The definitive guide to TypeScript and possibly the best TypeScript book 📖. Free and Open Source 🌹</sub>

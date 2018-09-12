@@ -24,30 +24,18 @@
 
 ### CSS 动画库
 
-* [**animate.css**](https://daneden.github.io/animate.css): <sub>Just-add-water
-  CSS animations</sub>
-* [Hover](https://github.com/IanLunn/Hover): <sub>A collection of CSS3 powered
-  hover effects to be applied to links, buttons, logos, SVG, featured images and
-  so on. Easily apply to your own elements, modify or just use for inspiration.
-  Available in CSS, Sass, and LESS. http://ianlunn.github.io/Hover/</sub>
+* [**animate.css**](https://daneden.github.io/animate.css): <sub>Just-add-water CSS animations</sub>
+* [Hover](https://github.com/IanLunn/Hover): <sub>A collection of CSS3 powered hover effects to be applied to links, buttons, logos, SVG, featured images and so on. Easily apply to your own elements, modify or just use for inspiration. Available in CSS, Sass, and LESS. http://ianlunn.github.io/Hover/</sub>
 
 ### JS 动画库
 
-* [**anime.js**](https://github.com/juliangarnier/anime): <sub>JavaScript
-  Animation Engine http://animejs.com</sub>
-* [animateplus](https://github.com/bendc/animateplus): <sub>A+ animation module
-  for the modern web</sub>
-* [airbnb/lottie](https://github.com/airbnb/lottie/): <sub>Lottie for Android,
-  iOS, React Native, and Web</sub>
-* [popmotion](https://github.com/Popmotion/popmotion): <sub>Monorepo for
-  Popmotion and Pose animation packages https://popmotion.io</sub>
-* [VelocityJS](https://github.com/julianshapiro/velocity): <sub>Accelerated
-  JavaScript animation. http://VelocityJS.org</sub>
-* [tween.js](https://github.com/tweenjs/tween.js): <sub>JavaScript tweening
-  engine for easy animations, incorporating optimised Robert Penner's
-  equations.</sub>
-* [WOW](https://github.com/matthieua/WOW): <sub>Reveal CSS animation as you
-  scroll down a page http://mynameismatthieu.com/WOW/</sub>
+* [**anime.js**](https://github.com/juliangarnier/anime): <sub>JavaScript Animation Engine http://animejs.com</sub>
+* [animateplus](https://github.com/bendc/animateplus): <sub>A+ animation module for the modern web</sub>
+* [airbnb/lottie](https://github.com/airbnb/lottie/): <sub>Lottie for Android, iOS, React Native, and Web</sub>
+* [popmotion](https://github.com/Popmotion/popmotion): <sub>Monorepo for Popmotion and Pose animation packages https://popmotion.io</sub>
+* [VelocityJS](https://github.com/julianshapiro/velocity): <sub>Accelerated JavaScript animation. http://VelocityJS.org</sub>
+* [tween.js](https://github.com/tweenjs/tween.js): <sub>JavaScript tweening engine for easy animations, incorporating optimised Robert Penner's equations.</sub>
+* [WOW](https://github.com/matthieua/WOW): <sub>Reveal CSS animation as you scroll down a page http://mynameismatthieu.com/WOW/</sub>
 
 ## 规范篇
 
@@ -57,12 +45,9 @@
 
 ## 周边篇
 
-* [popmotion](https://popmotion.io/): <sub>A functional, flexible JavaScript
-  motion library</sub>
-* [uncss](https://github.com/uncss/uncss): <sub>Remove unused styles from
-  CSS</sub>
-* [css-blocks](https://github.com/linkedin/css-blocks): <sub>High performance,
-  maintainable stylesheets. http://css-blocks.com/</sub>
+* [popmotion](https://popmotion.io/): <sub>A functional, flexible JavaScript motion library</sub>
+* [uncss](https://github.com/uncss/uncss): <sub>Remove unused styles from CSS</sub>
+* [css-blocks](https://github.com/linkedin/css-blocks): <sub>High performance, maintainable stylesheets. http://css-blocks.com/</sub>
 * [bouncejs 触摸库](http://bouncejs.com)
 * [browserhacks](http://browserhacks.com)
 * [腾讯 css3 动画制作工具](http://isux.tencent.com/css3/tools.html)
@@ -70,25 +55,14 @@
 
 ## 相关篇
 
-* [Postcss](https://github.com/postcss/postcss): <sub>Transforming styles with
-  JS plugins http://postcss.org/</sub>
-* [bulma](https://github.com/jgthms/bulma): <sub>Modern CSS framework based on
-  Flexbox https://bulma.io</sub>
-* [postcss-cssnext](https://github.com/MoOx/postcss-cssnext): <sub>🌀 PostCSS
-  plugin to use tomorrow's CSS syntax, today. http://cssnext.io/</sub>
-* [normalize.css](https://github.com/necolas/normalize.css/): <sub>A modern
-  alternative to CSS resets http://necolas.github.io/normalize.css/ </sub>
-* [30 Seconds of CSS](https://github.com/atomiks/30-seconds-of-css): <sub>A
-  curated collection of useful CSS snippets.</sub>
-* [**You-need-to-know-css**](https://github.com/l-hammer/You-need-to-know-css):
-  <sub>🖖CSS tricks web developers need to know~
-  https://lhammer.cn/You-need-to-know-css/</sub>
-* [linkedin/css-blocks](https://github.com/linkedin/css-blocks): <sub>High
-  performance, maintainable stylesheets. http://css-blocks.com/</sub>
-* [AllThingsSmitty/css-protips](https://github.com/AllThingsSmitty/css-protips):
-  <sub>A collection of tips to help take your CSS skills pro</sub>
-* [谈谈一些有趣的 CSS 话题](https://github.com/chokcoco/iCSS):
-  <sub>https://github.com/chokcoco/iCSS</sub>
+* [Postcss](https://github.com/postcss/postcss): <sub>Transforming styles with JS plugins http://postcss.org/</sub>
+* [bulma](https://github.com/jgthms/bulma): <sub>Modern CSS framework based on Flexbox https://bulma.io</sub>
+* [postcss-cssnext](https://github.com/MoOx/postcss-cssnext): <sub>🌀 PostCSS plugin to use tomorrow's CSS syntax, today. http://cssnext.io/</sub>
+* [normalize.css](https://github.com/necolas/normalize.css/): <sub>A modern alternative to CSS resets http://necolas.github.io/normalize.css/ </sub>
+* [30 Seconds of CSS](https://github.com/atomiks/30-seconds-of-css): <sub>A curated collection of useful CSS snippets.</sub>
+* [**You-need-to-know-css**](https://github.com/l-hammer/You-need-to-know-css): <sub>🖖CSS tricks web developers need to know~ https://lhammer.cn/You-need-to-know-css/</sub>
+* [linkedin/css-blocks](https://github.com/linkedin/css-blocks): <sub>High performance, maintainable stylesheets. http://css-blocks.com/</sub>
+* [AllThingsSmitty/css-protips](https://github.com/AllThingsSmitty/css-protips): <sub>A collection of tips to help take your CSS skills pro</sub>
+* [谈谈一些有趣的 CSS 话题](https://github.com/chokcoco/iCSS): <sub>https://github.com/chokcoco/iCSS</sub>
 * [Houdini：CSS 领域最令人振奋的革新](https://zhuanlan.zhihu.com/p/20939640)
-* [linaria](https://github.com/callstack/linaria): <sub>Zero-runtime CSS in JS
-  library https://linaria.now.sh</sub>
+* [linaria](https://github.com/callstack/linaria): <sub>Zero-runtime CSS in JS library https://linaria.now.sh</sub>

@@ -17,6 +17,12 @@
       "git add"
     ]
   },
+  "prettier": {
+    "singleQuote": true,
+    "semi": false,
+    "printWidth": 120,
+    "proseWrap": false
+  },
   "devDependencies": {
     "husky": "^0.14.3",
     "lint-staged": "^5.0.0",

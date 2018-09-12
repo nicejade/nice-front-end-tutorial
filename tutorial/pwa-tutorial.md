@@ -17,9 +17,7 @@
 
 ## News
 
-* [Progressive Web Apps on the Desktop](https://developers.google.com/web/updates/2018/05/dpwa):
-  <sub>自 Chrome 67 开始，提供了桌面 PWA 功能，即可以把网页变成桌面应用，能够离
-  线使用，并且 Windows 和 Mac 都支持。</sub>
+* [Progressive Web Apps on the Desktop](https://developers.google.com/web/updates/2018/05/dpwa): <sub>自 Chrome 67 开始，提供了桌面 PWA 功能，即可以把网页变成桌面应用，能够离线使用，并且 Windows 和 Mac 都支持。</sub>
 
 ## 周边篇
 

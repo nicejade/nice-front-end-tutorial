@@ -1,13 +1,6 @@
 <h1 align="center">大前端综合教程、资源汇总</h1>
 
-> 这份汇总整理，一定程度上参考了
-> [GitHub 最全前端资源汇总](https://helloqingfeng.github.io/front-end-index/index.html)；
-> 云集`前端教程`、`开发资源`、`免费书籍`、`手册规范`、`求职面试`等等，旨在为前端
-> 学习 & 技能提升提供方便。当然，并不期望这成为一个前端武学收藏夹；毕竟，只有自
-> 己掌握，才是真正拥有；况且前端发展如火如荼，日新月异。这里会尽量保持探索 & 学
-> 习 & 更新。[关于我](https://about.me/nicejade/)： 微博～
-> [@ 杨琼璞](http://weibo.com/jeffjade)； 博客～
-> [晚晴幽草轩](https:jeffjade.com)。
+> 这份汇总整理，一定程度上参考了 [GitHub 最全前端资源汇总](https://helloqingfeng.github.io/front-end-index/index.html)；云集`前端教程`、`开发资源`、`免费书籍`、`手册规范`、`求职面试`等等，旨在为前端学习 & 技能提升提供方便。当然，并不期望这成为一个前端武学收藏夹；毕竟，只有自己掌握，才是真正拥有；况且前端发展如火如荼，日新月异。这里会尽量保持探索 & 学习 & 更新。[关于我](https://about.me/nicejade/)： 微博～ [@ 杨琼璞](http://weibo.com/jeffjade)； 博客～ [晚晴幽草轩](https:jeffjade.com)。
 
 ## [与时俱进版前端资源教程](https://jeffjade.com/2017/09/28/127-nice-front-end-tutorial/)
 
@@ -92,8 +85,7 @@
 
 阅读地址：http://li-xinyang.gitbooks.io/frontend-notebook/
 
-资源下载 :
-[PDF 版](https://www.gitbook.com/download/pdf/book/li-xinyang/frontend-notebook)
+资源下载 : [PDF 版](https://www.gitbook.com/download/pdf/book/li-xinyang/frontend-notebook)
 
 ## [最全的资源教程 —— 前端涉及的所有知识体系](https://github.com/helloqingfeng/Awsome-Front-End-learning-resource/tree/master/04-Front-end-tutorial-master)
 
