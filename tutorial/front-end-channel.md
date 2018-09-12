@@ -20,11 +20,11 @@
 * [前端观察 ( 腾讯 )](https://www.qianduan.net/)
 * [前端外刊评论](https://qianduan.group/)
 * [Awesomes-Web 前端开发资源库](https://www.awesomes.cn/)
-* [掘进|发现|前端](https://juejin.im/explore/frontend)
-* [Segmentfault|头条|前端](https://segmentfault.com/news/frontend)
-* [开发者头条|前端](https://toutiao.io/c/fe)
-* [伯乐在线| Web 前端](http://web.jobbole.com/)
-* [F2EX.cn web前端开发|web前端资源库](http://f2ex.cn/)
+* [掘进 | 发现 | 前端](https://juejin.im/explore/frontend)
+* [Segmentfault| 头条 | 前端](https://segmentfault.com/news/frontend)
+* [开发者头条 | 前端](https://toutiao.io/c/fe)
+* [伯乐在线 | Web 前端](http://web.jobbole.com/)
+* [F2EX.cn web 前端开发 |web 前端资源库](http://f2ex.cn/)
 
 ### 国外
 
@@ -89,4 +89,9 @@
 * [John Papa: John Papa](https://johnpapa.net/)
 * [Smashing Magazine — For Web Designers And Developers](https://www.smashingmagazine.com/)
 
->**微注：** 显然，如今优质`个人博客`很多；但此间对其的收录，将秉承以下几点原则：内容以原创为主，多涉及前端范畴；并具有一定参考价值，且三月之内仍有更新；有自己个人品牌，而不依附于其他平台；网站响应迅速，板式布局干净舒爽；若有广告，当不影响阅读体验（另外，当有一定影响力，或者有一些积淀，如原创内容篇数大于 30+）；更多关于对这份收录的详细内情，请参见[『优质』前端频道汇聚](https://jeffjade.com/2017/11/29/133-high-quality-front-end-channel/)。
+> **微注：** 显然，如今优质`个人博客`很多；但此间对其的收录，将秉承以下几点原则
+> ：内容以原创为主，多涉及前端范畴；并具有一定参考价值，且三月之内仍有更新；有自
+> 己个人品牌，而不依附于其他平台；网站响应迅速，板式布局干净舒爽；若有广告，当不
+> 影响阅读体验（另外，当有一定影响力，或者有一些积淀，如原创内容篇数大于 30+）；
+> 更多关于对这份收录的详细内情，请参
+> 见[『优质』前端频道汇聚](https://jeffjade.com/2017/11/29/133-high-quality-front-end-channel/)。

@@ -1,6 +1,13 @@
 <h1 align="center">大前端综合教程、资源汇总</h1>
 
-> 这份汇总整理，一定程度上参考了 [GitHub 最全前端资源汇总](https://helloqingfeng.github.io/front-end-index/index.html)；云集`前端教程`、`开发资源`、`免费书籍`、`手册规范`、`求职面试`等等，旨在为前端学习 & 技能提升提供方便。当然，并不期望这成为一个前端武学收藏夹；毕竟，只有自己掌握，才是真正拥有；况且前端发展如火如荼，日新月异。这里会尽量保持探索 & 学习 & 更新。[关于我](https://about.me/nicejade/)： 微博～ [@杨琼璞](http://weibo.com/jeffjade)； 博客～ [晚晴幽草轩](https:jeffjade.com)。
+> 这份汇总整理，一定程度上参考了
+> [GitHub 最全前端资源汇总](https://helloqingfeng.github.io/front-end-index/index.html)；
+> 云集`前端教程`、`开发资源`、`免费书籍`、`手册规范`、`求职面试`等等，旨在为前端
+> 学习 & 技能提升提供方便。当然，并不期望这成为一个前端武学收藏夹；毕竟，只有自
+> 己掌握，才是真正拥有；况且前端发展如火如荼，日新月异。这里会尽量保持探索 & 学
+> 习 & 更新。[关于我](https://about.me/nicejade/)： 微博～
+> [@ 杨琼璞](http://weibo.com/jeffjade)； 博客～
+> [晚晴幽草轩](https:jeffjade.com)。
 
 ## [与时俱进版前端资源教程](https://jeffjade.com/2017/09/28/127-nice-front-end-tutorial/)
 
@@ -57,11 +64,12 @@
 源地址：https://zhuanlan.zhihu.com/p/21935921
 
 ## [JavaScript 全栈工程师培训教程](https://github.com/helloqingfeng/Awsome-Front-End-learning-resource/tree/master/30-jstraining)
+
 作者： 阮一峰 https://github.com/ruanyf
 
 源地址：https://github.com/ruanyf/jstraining
 
-## [前端开发者手册](https://github.com/helloqingfeng/Awsome-Front-End-learning-resource/tree/master/02-fedHandlebook-master)(学习前端的实践手册)
+## [前端开发者手册](https://github.com/helloqingfeng/Awsome-Front-End-learning-resource/tree/master/02-fedHandlebook-master)( 学习前端的实践手册 )
 
 作者：Pomy https://github.com/dwqs
 
@@ -71,9 +79,10 @@
 
 英文原版地址：https://www.frontendhandbook.com/
 
-资源下载:
-- [PDF版](http://pan.baidu.com/s/1c0frhIS)
-- [MOBI版](https://www.gitbook.com/book/dwqs/frontenddevhandbook/details)
+资源下载 :
+
+* [PDF 版](http://pan.baidu.com/s/1c0frhIS)
+* [MOBI 版](https://www.gitbook.com/book/dwqs/frontenddevhandbook/details)
 
 ## [前端开发笔记本](https://github.com/helloqingfeng/Awsome-Front-End-learning-resource/tree/master/03-FEND_Note-master)
 
@@ -83,22 +92,24 @@
 
 阅读地址：http://li-xinyang.gitbooks.io/frontend-notebook/
 
-资源下载: [PDF版](https://www.gitbook.com/download/pdf/book/li-xinyang/frontend-notebook)
+资源下载 :
+[PDF 版](https://www.gitbook.com/download/pdf/book/li-xinyang/frontend-notebook)
 
-## [最全的资源教程——前端涉及的所有知识体系](https://github.com/helloqingfeng/Awsome-Front-End-learning-resource/tree/master/04-Front-end-tutorial-master)
+## [最全的资源教程 —— 前端涉及的所有知识体系](https://github.com/helloqingfeng/Awsome-Front-End-learning-resource/tree/master/04-Front-end-tutorial-master)
 
 作者：JadeYang https://github.com/nicejade
 
 源地址：https://github.com/nicejade/Front-end-tutorial
 
-## [大前端工具集——程序猿的百宝箱](https://github.com/helloqingfeng/Awsome-Front-End-learning-resource/tree/master/28-fetool-master)
+## [大前端工具集 —— 程序猿的百宝箱](https://github.com/helloqingfeng/Awsome-Front-End-learning-resource/tree/master/28-fetool-master)
+
 作者：聂微东 https://github.com/nieweidong
 
 源地址：https://github.com/nieweidong/fetool
 
 阅读地址：http://www.fefork.com/fetool
 
-## [100+ 超全的web开发工具和资源](https://github.com/helloqingfeng/Awsome-Front-End-learning-resource/tree/master/24-100+Web-Development-Tools-and-Resources)
+## [100+ 超全的 web 开发工具和资源](https://github.com/helloqingfeng/Awsome-Front-End-learning-resource/tree/master/24-100+Web-Development-Tools-and-Resources)
 
 译者：稀土区 https://xituqu.com/
 
@@ -118,12 +129,11 @@
 
 阅读地址：http://html5ify.com/fks/
 
-## [Web前端开发技术栈](https://github.com/helloqingfeng/Awsome-Front-End-learning-resource/tree/master/06-WebFrontEndStack-master)
+## [Web 前端开发技术栈](https://github.com/helloqingfeng/Awsome-Front-End-learning-resource/tree/master/06-WebFrontEndStack-master)
 
 作者：Wilson Chen https://github.com/unruledboy
 
 源地址：https://github.com/unruledboy/WebFrontEndStack
-
 
 ## [前端开发所使用语言的主流学习资源汇集指南](https://github.com/helloqingfeng/Awsome-Front-End-learning-resource/tree/master/07-Front-End-Develop-Guide-master)
 
@@ -131,13 +141,13 @@
 
 源地址：https://github.com/icepy/Front-End-Develop-Guide
 
-## [GitHub上值得关注的前端项目](https://github.com/helloqingfeng/Awsome-Front-End-learning-resource/tree/master/08-github-FE-project-master)
+## [GitHub 上值得关注的前端项目](https://github.com/helloqingfeng/Awsome-Front-End-learning-resource/tree/master/08-github-FE-project-master)
 
-作者： trigkit4    https://github.com/hawx1993
+作者： trigkit4 https://github.com/hawx1993
 
 源地址：https://github.com/hawx1993/github-FE-project
 
-## [Awesomes-Web前端开发资源库](https://www.awesomes.cn/)
+## [Awesomes-Web 前端开发资源库](https://www.awesomes.cn/)
 
 作者： Awesomes-cn https://github.com/awesomes-cn
 
@@ -149,19 +159,19 @@
 
 源地址：https://github.com/foru17/front-end-collect
 
-## [国内知名 IT 公司前端团队 (排名不分先后)](https://github.com/helloqingfeng/Awsome-Front-End-learning-resource/tree/master/08-github-FE-project-master)
+## [国内知名 IT 公司前端团队 ( 排名不分先后 )](https://github.com/helloqingfeng/Awsome-Front-End-learning-resource/tree/master/08-github-FE-project-master)
 
 作者：Mingdong Luo https://github.com/mdluo
 
 源地址：https://github.com/mdluo/awesome-fe-team
 
-## [关于程序员读书-大牛们的书单汇总](https://github.com/helloqingfeng/Awsome-Front-End-learning-resource/tree/master/11-about-reading)
+## [关于程序员读书 - 大牛们的书单汇总](https://github.com/helloqingfeng/Awsome-Front-End-learning-resource/tree/master/11-about-reading)
 
 作者：Mingdong Luo https://github.com/mdluo
 
 源地址：https://mdluo.github.io/blog/about-reading/
 
-## [Github个人收集的优秀JavaScript项目](https://github.com/helloqingfeng/Awsome-Front-End-learning-resource/tree/master/12-JavaScript-project)
+## [Github 个人收集的优秀 JavaScript 项目](https://github.com/helloqingfeng/Awsome-Front-End-learning-resource/tree/master/12-JavaScript-project)
 
 作者：Daiyichen https://github.com/Daiyichen
 
@@ -206,22 +216,22 @@
 源地址：https://github.com/yujiangshui/front-end-code-checklist
 
 ## [前端开发规范手册](https://github.com/helloqingfeng/Awsome-Front-End-learning-resource/tree/master/27-front-end-style-guide)
+
 作者：阿树 https://github.com/Aaaaaashu
 
 源地址：https://github.com/Aaaaaashu/Guide
 
 阅读地址：http://zhibimo.com/read/Ashu/front-end-style-guide/
 
-## [Web前端导航(腾讯AlloyTeam)](http://www.alloyteam.com/nav/)
+## [Web 前端导航 ( 腾讯 AlloyTeam)](http://www.alloyteam.com/nav/)
 
-作者：腾讯AlloyTeam http://www.alloyteam.com/
+作者：腾讯 AlloyTeam http://www.alloyteam.com/
 
-##  [Web前端开发规范文档](https://github.com/helloqingfeng/Awsome-Front-End-learning-resource/tree/master/25-web-develop-standard-master)
+## [Web 前端开发规范文档](https://github.com/helloqingfeng/Awsome-Front-End-learning-resource/tree/master/25-web-develop-standard-master)
 
 作者：kc https://github.com/kangcafe
 
 源地址：https://github.com/kangcafe/web_develop_standard
-
 
 ## [适用于小团队的前端规范](https://github.com/helloqingfeng/Awsome-Front-End-learning-resource/tree/master/18-fun-front-end-tutorials-master)
 
@@ -231,7 +241,7 @@
 
 阅读地址：http://front-end-standards.com/
 
-## [微信个人号/公众号相关项目整理](https://github.com/fritx/awesome-wechat)
+## [微信个人号 / 公众号相关项目整理](https://github.com/fritx/awesome-wechat)
 
 作者：https://github.com/fritx
 
