@@ -67,6 +67,7 @@
 
 ### Terminal
 
+* [awesome-shell](https://github.com/alebcay/awesome-shell): <sub>A curated list of awesome command-line frameworks, toolkits, guides and gizmos. Inspired by awesome-php.</sub>
 * [oh-my-zsh](https://github.com/robbyrussell/oh-my-zsh): <sub>A delightful community-driven (with 1,200+ contributors) framework for managing your zsh configuration. Includes 200+ optional plugins (rails, git, OSX, hub, capistrano, brew, ant, php, python, etc), over 140 themes to spice up your morning, and an auto-update tool so that makes it easy to keep up with the latest updates from the community. https://ohmyz.sh/</sub>
 * [fish-shell](https://github.com/fish-shell/fish-shell): <sub>The user-friendly command line shell. http://fishshell.com</sub>
 * [zeit/hyper](https://github.com/zeit/hyper): <sub>A terminal built on web technologies https://hyper.is</sub>
@@ -74,6 +75,11 @@
 * [concurrently](https://github.com/kimmobrunfeldt/concurrently): <sub>Run commands concurrently. Like `npm run watch-js & npm run watch-less` but better.</sub>
 * [mixn/carbon-now-cli](https://github.com/mixn/carbon-now-cli): <sub>🎨 Beautiful images of your code — from right inside your terminal.</sub>
 * [youtube-dl](https://github.com/rg3/youtube-dl): <sub>Command-line program to download videos from YouTube.com and other video sites http://rg3.github.io/youtube-dl/</sub>
+
+#### Terminal Search/finder
+
+* [fzf](https://github.com/junegunn/fzf): <sub>🌸 A command-line fuzzy finder</sub>
+* [the_silver_searcher ](https://github.com/ggreer/the_silver_searcher): <sub>A code-searching tool similar to ack, but faster. http://geoff.greer.fm/ag/</sub>
 
 ### 在线 PPT 制作
 
