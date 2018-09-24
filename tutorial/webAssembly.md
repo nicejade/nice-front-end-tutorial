@@ -18,3 +18,7 @@
 * [人脸、人眼检测 (WebAssembly ASM JS)](https://websightjs.com/index.html)
 * [Unity tutorial game ](http://webassembly.org/demo/)
 * [A minimal WebAssembly virtual DOM to build C++ SPA](https://github.com/mbasso/asm-dom)
+
+## 工具篇
+
+* [wasm-pack ](https://github.com/rustwasm/wasm-pack): <sub>📦✨ your favorite rust -> wasm workflow tool! rustwasm.github.io/wasm-pack</sub>

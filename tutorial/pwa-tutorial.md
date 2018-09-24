@@ -7,6 +7,7 @@
 * [Progressive Web Apps(PWA)|MDN](https://developer.mozilla.org/zh-CN/Apps/Progressive)
 * [百度搜索对 PWA 的探索和初步实践](http://www.infoq.com/cn/articles/exploration-and-practice-of-baidu-search-for-pwa)
 * [如何看待 Progressive Web Apps 的发展前景？](https://www.zhihu.com/question/46690207)
+* [借助Service Worker和cacheStorage缓存及离线开发](https://www.zhangxinxu.com/wordpress/2017/07/service-worker-cachestorage-offline-develop/)
 
 ## **进阶篇**
 

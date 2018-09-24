@@ -11,9 +11,11 @@
 
 #### 资源平台
 
-* [Gitbook- 国外的在线 markdown 可编辑成书](https://www.gitbook.com)
+* [MarkEditor](https://www.markeditor.com/): <sub>好的写作体验，更好的效率利器</sub>
 * [作业部落 - 功能强大，速度流畅，全平台同步](https://www.zybuluo.com)
 * [Stackedit- 国外的在线 markdown 编辑器，功能强大，同步云盘](https://stackedit.io)
+* [Gitbook- 国外的在线 markdown 可编辑成书](https://www.gitbook.com)
+* [vnote](https://github.com/tamlok/vnote): <sub>A Vim-inspired note-taking application that knows programmers and Markdown better. https://tamlok.github.io/vnote</sub>
 * [Mditor- 一款轻量级的 markdown 编辑器](http://bh-lay.github.io/mditor)
 * [lepture-editor](https://github.com/lepture/editor)
 * [Markdown-editor](https://github.com/jbt/markdown-editor)
@@ -23,7 +25,6 @@
 * [Atom](https://atom.io/): <sub>A hackable text editor for the 21st Century. 具体可参见 : [新编码神器 Atom 使用纪要](https://jeffjade.com/2016/03/03/2016-03-02-how-to-use-atom/)</sub>
 * [Sublime Text](https://www.sublimetext.com/): <sub>A sophisticated text editor for code, markup and prose. 具体可参见 [SublimeText 下写作利器之 MarkdownEditing](https://jeffjade.com/2015/08/28/2015-08-28-Write-Morkdown/)</sub>
 * [Dillinger](https://dillinger.io/): <sub>Dillinger is an online cloud based HTML5 filled Markdown Editor. Sync with Dropbox, Github, Google Drive or OneDrive. Convert HTML to Markdown. 100% Open Source!</sub>
-* [vnote](https://github.com/tamlok/vnote): <sub>A Vim-inspired note-taking application that knows programmers and Markdown better. https://tamlok.github.io/vnote</sub>
 * [小书匠编辑器](http://soft.xiaoshujiang.com/)
 
 ### 相关库
