@@ -80,3 +80,4 @@
 * [server.js](https://github.com/franciscop/server): <sub>🖥 Simple and powerful server for Node.js https://serverjs.io/</sub>
 * [node-qrcode](https://github.com/soldair/node-qrcode): <sub>qr code generator</sub>
 * [jsdom](https://github.com/jsdom/jsdom): <sub>A JavaScript implementation of the WHATWG DOM and HTML standards, for use with node.js</sub>
+* [taiko](https://github.com/getgauge/taiko): <sub>A node.js library to automate chrome/chromium browser https://taiko.gauge.org/</sub>

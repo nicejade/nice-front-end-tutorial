@@ -24,3 +24,7 @@
 * [OPPO 快应用分发](https://open.oppomobile.com/service/distribute#id=4)
 * [小米 快应用分发](https://dev.mi.com/console/app/newapp.html)
 * [魅族开放平台](https://open.flyme.cn/)
+
+## 工具篇
+
+* [vue-hap-tools](https://github.com/Youjingyu/vue-hap-tools): <sub>一个抹平 vue.js 与快应用差异性的工具，现已支持vue.js的大部分常用特性、vue-router、vuex。</sub>

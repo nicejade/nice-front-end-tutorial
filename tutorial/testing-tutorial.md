@@ -67,6 +67,12 @@
 
 > JSLint 是一个 JavaScript 验证工具 ( 非开源 ), 可以扫描 JavaScript 源代码来查找问题
 
+## UI 测试
+
+#### [axe-core](https://github.com/dequelabs/axe-core)
+
+>Accessibility engine for automated Web UI testing（Axe 是一个用于可访问性测试的开源规则库。它的开发旨在使开发人员能够自行进行自动化可访问性测试，并避免其他自动化辅助功能工具的常见缺陷） http://cn.vuejs.org/v2/guide/
+
 ## 网页抓包
 
 #### Fiddler

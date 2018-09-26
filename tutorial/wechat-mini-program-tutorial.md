@@ -10,6 +10,7 @@
 ### 框架
 
 * [taro](https://github.com/NervJS/taro): <sub>多端统一开发框架，支持用 React 的开发方式编写一次代码，生成能运行在微信小程序、H5 、 React Native 等的应用。 https://taro.aotu.io</sub>
+* [westore](https://github.com/dntzhang/westore): <sub>世界上最小却强大的小程序框架? - 100多行代码搞定全局状态管理和跨页通讯</sub>
 * [minapp](https://github.com/qiu8310/minapp): <sub>重新定义微信小程序的开发 https://qiu8310.github.io/minapp/</sub>
 * [wepy](https://github.com/Tencent/wepy): <sub>小程序组件化开发框架 https://tencent.github.io/wepy/</sub>
 * [mpvue](https://github.com/Meituan-Dianping/mpvue): <sub>基于 Vue.js 的小程序开发框架，从底层支持 Vue.js 语法和构建工具体系。 http://mpvue.com</sub>
