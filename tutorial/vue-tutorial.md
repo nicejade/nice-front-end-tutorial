@@ -21,18 +21,6 @@
 * [逐行级别的源码分析](https://github.com/HcySunYang/vue-design): <sub>逐行级别的源码分析 http://hcysun.me/vue-design/</sub>
 * [Useful Vue patterns, techniques, tips and tricks and helpful curated links. ](https://github.com/learn-vuejs/vue-patterns)
 
-## 周边篇
-
-* [vue-cli](https://github.com/vuejs/vue-cli): <sub>🛠️ CLI for rapid Vue.js development</sub>
-* [Vue Router](https://router.vuejs.org/): <sub>🚦 The official router for Vue.js. http://router.vuejs.org/</sub>
-* [Vuex](https://vuex.vuejs.org/): <sub>🗃️ Centralized State Management for Vue.js. https://vuex.vuejs.org</sub>
-* [Vue SSR](https://ssr.vuejs.org/): <sub>Vue.js Server-Side Rendering Guide</sub>
-* [vue-test-utils ](https://github.com/vuejs/vue-test-utils): <sub>🔬 Utilities for testing Vue components https://vue-test-utils.vuejs.org</sub>
-* [vuepress](https://github.com/vuejs/vuepress): <sub>Minimalistic Vue-powered static site generator https://vuepress.vuejs.org/</sub>
-* [vue-syntax-highlight ](https://github.com/vuejs/vue-syntax-highlight): <sub>💡 Sublime Text syntax highlighting for single-file Vue components</sub>
-* [Vue 论坛](http://forum.vuejs.org)
-* [Vue 聊天室](https://gitter.im/vuejs/vue)
-
 ## 资源篇
 
 * [vuejs/awesome-vue](https://github.com/vuejs/awesome-vue)
@@ -47,13 +35,6 @@
 * [mand-mobile](https://github.com/didi/mand-mobile): <sub>💰 A mobile UI toolkit, based on Vue.js 2, designed for financial scenarios. https://didi.github.io/mand-mobile</sub>
 * [lusaxweb/vuesax](https://github.com/lusaxweb/vuesax): <sub>Frontend vue Components Framework for Vue.js 2 https://lusaxweb.github.io/vuesax/</sub>
 
-### 工具类插件
-
-* [vue-storefront](https://github.com/DivanteLtd/vue-storefront): <sub>Vue Storefront - PWA for eCommerce. 100% offline, platform agnostic, headless, Magento 2 supported. Always Open Source, MIT license. Join us as contributor (contributors@vuestorefront.io). http://vuestorefront.io</sub>
-* [vue-cli-plugin-apollo](https://github.com/Akryum/vue-cli-plugin-apollo): <sub>🚀 vue-cli 3.x plugin for Apollo and GraphQL</sub>
-* [vue-lazyload](https://github.com/hilongjw/vue-lazyload): <sub>A Vue.js plugin for lazyload your Image or Component in your application. http://hilongjw.github.io/vue-lazyload/</sub>
-* [vue-infinite-loading](https://github.com/PeachScript/vue-infinite-loading): <sub>An infinite scroll plugin for Vue.js. </sub>
-
 ## 搭建 Vue 应用
 
 * [Vue-Cli](https://github.com/vuejs/vue-cli): <sub>🛠️ Standard Tooling for Vue.js Development</sub>
@@ -67,3 +48,23 @@
 * [Meituan-Dianping/mpvue](https://github.com/Meituan-Dianping/mpvue): <sub>基于 Vue.js 的小程序开发框架，从底层支持 Vue.js 语法和构建工具体系。 http://mpvue.com</sub>
 * [electron-vue](https://github.com/SimulatedGREG/electron-vue): <sub>An Electron & Vue.js quick start boilerplate with vue-cli scaffolding, common Vue plugins, electron-packager/electron-builder, unit/e2e testing, vue-devtools, and webpack. </sub>
 * [vuido](https://github.com/mimecorg/vuido): <sub>Native desktop applications using Vue.js.</sub>
+
+## 周边篇
+
+* [vue-cli](https://github.com/vuejs/vue-cli): <sub>🛠️ CLI for rapid Vue.js development</sub>
+* [Vue Router](https://router.vuejs.org/): <sub>🚦 The official router for Vue.js. http://router.vuejs.org/</sub>
+* [Vuex](https://vuex.vuejs.org/): <sub>🗃️ Centralized State Management for Vue.js. https://vuex.vuejs.org</sub>
+* [Vue SSR](https://ssr.vuejs.org/): <sub>Vue.js Server-Side Rendering Guide</sub>
+* [vue-test-utils ](https://github.com/vuejs/vue-test-utils): <sub>🔬 Utilities for testing Vue components https://vue-test-utils.vuejs.org</sub>
+* [vuepress](https://github.com/vuejs/vuepress): <sub>Minimalistic Vue-powered static site generator https://vuepress.vuejs.org/</sub>
+* [vue-syntax-highlight ](https://github.com/vuejs/vue-syntax-highlight): <sub>💡 Sublime Text syntax highlighting for single-file Vue components</sub>
+* [Vue 论坛](http://forum.vuejs.org)
+* [Vue 聊天室](https://gitter.im/vuejs/vue)
+
+### 工具类插件
+
+* [vue-meta](https://github.com/declandewet/vue-meta): <sub>Manage page meta info in Vue 2.0 components. SSR + Streaming supported.</sub>
+* [vue-storefront](https://github.com/DivanteLtd/vue-storefront): <sub>Vue Storefront - PWA for eCommerce. 100% offline, platform agnostic, headless, Magento 2 supported. Always Open Source, MIT license. Join us as contributor (contributors@vuestorefront.io). http://vuestorefront.io</sub>
+* [vue-cli-plugin-apollo](https://github.com/Akryum/vue-cli-plugin-apollo): <sub>🚀 vue-cli 3.x plugin for Apollo and GraphQL</sub>
+* [vue-lazyload](https://github.com/hilongjw/vue-lazyload): <sub>A Vue.js plugin for lazyload your Image or Component in your application. http://hilongjw.github.io/vue-lazyload/</sub>
+* [vue-infinite-loading](https://github.com/PeachScript/vue-infinite-loading): <sub>An infinite scroll plugin for Vue.js. </sub>

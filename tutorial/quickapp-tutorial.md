@@ -16,6 +16,7 @@
 
 * [nicelinks-quick-app](https://github.com/nicejade/nicelinks-quick-app): <sub>🌪Awesome NICE LINKS（倾城之链 ) client built with quickapp. https://nicelinks.site/ </sub>
 * [quickappcn/sample](https://github.com/quickappcn/sample): <sub>A project to demonstrate the use of quickapp, including demos of components and apis. https://www.quickapp.cn/ </sub>
+* [v2ex-quickapp](https://github.com/wotermelon/v2ex-quickapp): <sub>V2ex - 快应用</sub>
 
 ## 应用分发
 
