@@ -106,6 +106,8 @@
 * Create an up-to-date, automated testing environment. Run your tests directly in the latest version of Chrome using the latest JavaScript and browser features.
 * Capture a timeline trace of your site to help diagnose performance issues.
 
+  * [awesome-puppeteer](https://github.com/transitive-bullshit/awesome-puppeteer): <sub>A curated list of awesome puppeteer resources.</sub>
+
 #### [lighthouse](https://github.com/GoogleChrome/lighthouse)
 
 > Lighthouse analyzes web apps and web pages, collecting modern performance metrics and insights on developer best practices.( 灯塔分析网络应用程序和网页，收集现代性能指标和开发人员最佳实践的见解。)
