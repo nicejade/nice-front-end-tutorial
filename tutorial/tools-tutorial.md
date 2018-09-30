@@ -116,6 +116,7 @@
 
 ### Email Templates
 
+* [styled-email-components](https://github.com/sergeybekrin/styled-email-components): <sub>💌 styled-components for emails</sub>
 * [SparkPost/heml](https://github.com/SparkPost/heml)
 * [mjmlio/mjml](https://github.com/mjmlio/mjml)
 * [Cerberus](https://github.com/TedGoas/Cerberus): <sub>A few simple, but solid patterns for responsive HTML email templates and newsletters. Even in Outlook and Gmail. http://tedgoas.github.io/Cerberus</sub>

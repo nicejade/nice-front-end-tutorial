@@ -44,6 +44,11 @@
 * [getify/You-Dont-Know-JS](https://github.com/getify/You-Dont-Know-JS): <sub>A book series on JavaScript. @YDKJS on twitter.</sub>
 * [😇 你可能不知道的前端知识点](https://github.com/justjavac/the-front-end-knowledge-you-may-not-know)
 
+### 规范篇
+
+- [idiomatic.js](https://github.com/rwaldron/idiomatic.js): <sub>Principles of Writing Consistent, Idiomatic JavaScript</sub>
+- [js-the-right-way](https://github.com/braziljs/js-the-right-way): <sub>An easy-to-read, quick reference for JS best practices, accepted coding standards, and links around the Web http://jstherightway.org</sub>
+
 ## Pack JavaScript
 
 * [parcel](https://github.com/parcel-bundler/parcel): <sub>📦🚀 Blazing fast, zero configuration web application bundler https://parceljs.org</sub>
