@@ -43,6 +43,10 @@
 
 * [fastify](https://github.com/fastify/fastify): <sub>Fast and low overhead web framework, for Node.js https://www.fastify.io</sub>
 
+### Hapi
+
+* [Hapi.js](https://github.com/hapijs/hapi): <sub>Server Framework for Node.js https://hapijs.com</sub>
+
 ### KoaJs
 
 * [Koajs](http://koajs.com/): next generation web framework for node.js
@@ -73,6 +77,7 @@
 
 ## 有用的库
 
+* [microjob](https://github.com/wilk/microjob): <sub>A tiny wrapper for turning Node.js worker threads into easy-to-use routines for heavy CPU loads. https://wilk.github.io/microjob/</sub>
 * [yargs](https://github.com/yargs/yargs): <sub>yargs the modern, pirate-themed successor to optimist. http://yargs.js.org/</sub>
 * [commander.js](https://github.com/tj/commander.js/): <sub>node.js command-line interfaces made easy</sub>
 * [shelljs](https://github.com/shelljs/shelljs): <sub>🐚 Portable Unix shell commands for Node.js http://shelljs.org</sub>
