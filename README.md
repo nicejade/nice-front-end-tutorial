@@ -69,13 +69,14 @@
 
 * [**倾城之链**](https://nicelinks.site?from=github)
 * [About Me](https://about.me/nicejade)
+* [静晴轩别苑](https://nice.lovejade.cn/)
 * [个人博客](https://jeffjade.com/nicelinks)
 * [辅助博客](https://blog.lovejade.cn/)
 * [新浪微博](https://weibo.com/jeffjade)
 * [知乎主页](https://www.zhihu.com/people/yang-qiong-pu/)
 * [简书主页](https://www.jianshu.com/u/9aae3d8f4c3d)
 * [SegmentFault](https://segmentfault.com/u/jeffjade)
-* [Twitter](https://twitter.com/jeffjade2)
+* [Twitter](https://twitter.com/nicejadeyang)
 * [Facebook](https://www.facebook.com/yang.gang.jade)
 
 |                                                  微信公众号                                                   |                              前端微信群                              |                                    推荐 Web 应用                                     |
