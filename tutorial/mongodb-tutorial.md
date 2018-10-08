@@ -17,4 +17,5 @@
 
 ## 其他 DB
 
+* [pouchdb](https://github.com/pouchdb/pouchdb): <sub>🐨 - PouchDB is a pocket-sized database. </sub>
 * [louischatriot/nedb](https://github.com/louischatriot/nedb): <sub>The JavaScript Database, for Node.js, nw.js, electron and the browser</sub>
