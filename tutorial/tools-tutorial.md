@@ -41,6 +41,7 @@
 
 #### [Vscode](https://code.visualstudio.com/)
 
+* [awesome-vscode](https://github.com/viatsko/awesome-vscode): <sub>🎨 A curated list of delightful VS Code packages and resources.</sub>
 * [Visual Studio Code 配置指南](http://www.jianshu.com/p/64b3b9197945)
 
 ### 建站工具
