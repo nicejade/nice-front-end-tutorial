@@ -61,6 +61,7 @@
 
 ### 🌷 Other Wizards List
 
+* [Awesome List 👏](https://github.com/nicejade/nice-front-end-tutorial/blob/master/tutorial/awesome-list.md)
 * [Front-end Channel](https://github.com/nicejade/nice-front-end-tutorial/blob/master/tutorial/front-end-channel.md)
 * [Resume & Interviews](https://github.com/nicejade/nice-front-end-tutorial/blob/master/tutorial/resume-interviews-tutorial.md)
 * [Interesting](https://github.com/nicejade/nice-front-end-tutorial/blob/master/tutorial/interesting-tutorial.md)
