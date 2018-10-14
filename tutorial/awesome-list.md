@@ -1,4 +1,6 @@
-## 🐉 Awesome Future  Technology List
+**导语：**正值如今这信息爆炸的年代，如何能从中汲取精华，于有限时间内，成为更高效的学习者，从而在激烈的竞争中更具优势，是当下每个人或企业都该思虑的问题；先前创立的 `Web` 应用：[「倾城之链」](https://nicelinks.site/?from=awesome-list)，就是为改善这一困扰的探索尝试，具体可参见[关于 | 「倾城之链」](https://nice.lovejade.cn/zh/application/)。这份为**前端开发者**而精心维护的超棒列表，就是为解决**信息过剩**问题的具体实践：旨在为`前端学习`，`技能提升`，`视野扩展`，`资料查找`等提供价值性参考。目前选择性收录优质仓库近百个，涉及 Web 前端、后台、流行技术以及其他魔力清单。将会持续更新，尽可能使之全而不杂，以避免信息过重而无用，这或将成为你从事现代 `Web` 开发之路的重要参考，你值得拥有，实可典藏。
+
+## 🐉 Awesome Future Technology List
 
 - [Awesome-Bots](https://github.com/GetStoryline/awesome-bots): <sub>The most awesome list about bots ⭐️🤖</sub>
 - [Awesome-Deep-Learning](https://github.com/ChristosChristofidis/awesome-deep-learning): <sub>A curated list of awesome Deep Learning tutorials, projects and communities.</sub>
@@ -8,6 +10,7 @@
 - [Awesome-Machine-Learning-Cn](https://github.com/jobbole/awesome-machine-learning-cn): <sub>机器学习资源大全中文版，包括机器学习领域的框架、
 库以及软件</sub>
 - [Awesome-Machine-Learning-On-Source-Code](https://github.com/src-d/awesome-machine-learning-on-source-code): <sub>Cool links & research papers related to Machine Learning applied to source code (MLonCode)</sub>
+- [Awesome-Nlp](https://github.com/keon/awesome-nlp): <sub>📖 A curated list of resources dedicated to Natural Language Processing (NLP)</sub>
 - [Awesome-Project-Ideas](https://github.com/NirantK/awesome-project-ideas): <sub>Curated list of Machine Learning, NLP, Vision, Recommender Systems Project Ideas</sub>
 
 ## 🎨 Awesome Front-End List
@@ -76,7 +79,9 @@
 
 - [Awesome-Docker](https://github.com/veggiemonk/awesome-docker): <sub>🐳 A curated list of Docker resources and projects</sub>
 - [Awesome-Graphql](https://github.com/chentsulin/awesome-graphql): <sub>Awesome list of GraphQL & Relay.</sub>
+- [Awesome-Honeypots](https://github.com/paralax/awesome-honeypots): <sub>an awesome list of honeypot resources</sub>
 - [Awesome-Kubernetes](https://github.com/ramitsurana/awesome-kubernetes/branches): <sub>A curated list for awesome kubernetes sources 🚢🎉 </sub>
+- [Awesome-Pentest](https://github.com/enaqx/awesome-pentest): <sub>A collection of awesome penetration testing resources, tools and other shiny things</sub>
 - [Awesome-Web-Security](https://github.com/qazbnm456/awesome-web-security): <sub>🐶 A curated list of Web Security materials and resources. </sub>
 - [Awesome-Security](https://github.com/sbilly/awesome-security): <sub>A collection of awesome software, libraries, documents, books, resources and cools stuffs about security.</sub>
 
@@ -87,7 +92,7 @@
 - [Awesome-AutoHotkey](https://github.com/ahkscript/awesome-AutoHotkey): <sub>A curated list of awesome AutoHotkey libraries, library distributions, scripts, tools and resources.</sub>
 - [Awesome-Atom](https://github.com/mehcode/awesome-atom): <sub>A curated list of delightful Atom packages and resources.</sub>
 - [Awesome-Cheatsheets](https://github.com/LeCoupa/awesome-cheatsheets): <sub>📚 Awesome cheatsheets for popular programming languages, frameworks and development tools. They include everything you should know in one single file.</sub>
-- [Awesome-Macos-Command-Line](https://github.com/herrbischoff/awesome-macos-command-line): <sub>Use your macOS terminal shell to do awesome things.</sub>
+- [Awesome-Chrome-Devtools](https://github.com/ChromeDevTools/awesome-chrome-devtools): <sub>Awesome tooling and resources in the Chrome DevTools & DevTools Protocol ecosystem</sub>
 - [Awesome-Markdown](https://github.com/BubuAnabelas/awesome-markdown): <sub>📝 Delightful Markdown stuff.</sub>
 - [Awesome-Haskell](https://github.com/krispo/awesome-haskell): <sub>A collection of awesome Haskell links, frameworks, libraries and software. Inspired by awesome projects line.</sub>
 - [Awesome-Hyper](https://github.com/bnb/awesome-hyper): <sub>🖥 Delightful Hyper plugins, themes, and resources</sub>
@@ -101,20 +106,26 @@
 </sub>
 - [Awesome-Mac](https://github.com/jaywcjlove/awesome-mac): <sub> Now we have become very big, Different from the original idea. Collect premium software in various categories.</sub>
 - [Awesome-MacOS](https://github.com/iCHAIT/awesome-macOS): <sub> A curated list of awesome applications, softwares, tools and shiny things for macOS.</sub>
+- [Awesome-Macos-Command-Line](https://github.com/herrbischoff/awesome-macos-command-line): <sub>Use your macOS terminal shell to do awesome things.</sub>
 - [Awesome-Windows](https://github.com/Awesome-Windows/Awesome): <sub>💻 An awesome & curated list of best applications and tools for Windows.</sub>
 
 ## 🌷 Awesome Other Wizards List
 
 - [Awesome-Algolia](https://github.com/algolia/awesome-algolia): <sub>🔍👋 START HERE! A curated list of Algolia libraries, resources and projects.</sub>
 - [Awesome-Awesome](https://github.com/emijrp/awesome-awesome): <sub>A curated list of awesome curated lists of many topics.</sub>
+- [Awesome-Checklist-Checklist](https://github.com/huyingjie/Checklist-Checklist): <sub>🌈 A Curated List of Checklists ✔︎✔︎ http://checklist.yingjiehu.com</sub>
 - [Awesome-Creative-Coding](https://github.com/terkelg/awesome-creative-coding): <sub>🎨 Creative Coding: Generative Art, Data visualization, Interaction Design, Resources.</sub>
 - [Awesome-Cli-Apps](https://github.com/agarrharr/awesome-cli-apps): <sub>🖥 📊 🕹 🛠 A curated list of command line apps</sub>
+- [Awesome-Developer-Streams](https://github.com/bnb/awesome-developer-streams): <sub>👩🏿‍💻👨🏾‍💻👩🏼‍💻👨🏽‍💻👩🏻‍💻 Awesome Developers, Streaming</sub>
+- [Awesome-For-Beginners](https://github.com/MunGell/awesome-for-beginners): <sub>A list of awesome beginners-friendly projects.</sub>
 - [Awesome-List](https://github.com/sindresorhus/awesome): <sub>😎 Curated list of awesome lists</sub>
 - [Awesome-Hacking](https://github.com/carpedm20/awesome-hacking): <sub>A curated list of awesome Hacking tutorials, tools and resources</sub>
 - [Awesome-Health](https://github.com/prabhic/awesome-health): <sub>A curated list of health resources</sub>
 - [Awesome-Interview-Questions](https://github.com/MaximAbramchuck/awesome-interview-questions): <sub>:octocat: A curated awesome list of lists of interview questions. Feel free to contribute! 🎓 </sub>
+- [Awesome-Math](https://github.com/rossant/awesome-math): <sub>A curated list of awesome mathematics resources</sub>
 - [Awesome-Flutter](https://github.com/Solido/awesome-flutter): <sub>An awesome list that curates the best Flutter libraries, tools, tutorials, articles and more.</sub>
 - [Awesome-Github](https://github.com/Kikobeats/awesome-github): <sub>An exquisite list of awesome :octocat: secrets.</sub>
 - [Awesome-Github-Vue](https://github.com/opendigg/awesome-github-vue): <sub>Vue相关开源项目库汇总</sub>
+- [Awesome-README](https://github.com/matiassingers/awesome-readme): <sub>A curated list of awesome READMEs</sub>
 - [Awesome-Resources](https://github.com/lyfeyaj/awesome-resources): <sub>Awesome resources for coding and learning: open source projects, websites, books e.g.</sub>
 - [Awesome-Talks](https://github.com/JanVanRyswyck/awesome-talks): <sub>Awesome online talks and screencasts</sub>
