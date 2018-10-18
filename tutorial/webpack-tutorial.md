@@ -31,3 +31,8 @@
 * [size-limit](https://github.com/ai/size-limit): <sub>Prevent JS libraries bloat. If you accidentally add a massive dependency, Size Limit will throw an error.</sub>
 * [image-webpack-loader](https://github.com/tcoopman/image-webpack-loader): <sub>Image loader module for webpack</sub>
 * [size-plugin](https://github.com/GoogleChromeLabs/size-plugin): <sub>Track compressed Webpack asset sizes over time. https://npm.im/size-plugin</sub>
+
+### 提升构建速度
+
+* [happypack](https://github.com/amireh/happypack): <sub>Happiness in the form of faster webpack build times.</sub>
+* [hard-source-webpack-plugin](https://github.com/mzgoddard/hard-source-webpack-plugin): <sub>make the second build will be signficantly faster.</sub>
