@@ -111,6 +111,8 @@
 
 ## 🌷 Awesome Other Wizards List
 
+- [Awesome-Actions](https://github.com/sdras/awesome-actions): <sub>A curated list of awesome actions to use on GitHub</sub>
+- [Awesome-Piracy](https://github.com/Igglybuff/awesome-piracy): <sub>A curated list of awesome warez and piracy links</sub>
 - [Awesome-Algolia](https://github.com/algolia/awesome-algolia): <sub>🔍👋 START HERE! A curated list of Algolia libraries, resources and projects.</sub>
 - [Awesome-Awesome](https://github.com/emijrp/awesome-awesome): <sub>A curated list of awesome curated lists of many topics.</sub>
 - [Awesome-Checklist-Checklist](https://github.com/huyingjie/Checklist-Checklist): <sub>🌈 A Curated List of Checklists ✔︎✔︎ http://checklist.yingjiehu.com</sub>

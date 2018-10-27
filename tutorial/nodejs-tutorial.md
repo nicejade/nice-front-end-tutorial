@@ -81,6 +81,7 @@
 * [yargs](https://github.com/yargs/yargs): <sub>yargs the modern, pirate-themed successor to optimist. http://yargs.js.org/</sub>
 * [commander.js](https://github.com/tj/commander.js/): <sub>node.js command-line interfaces made easy</sub>
 * [shelljs](https://github.com/shelljs/shelljs): <sub>🐚 Portable Unix shell commands for Node.js http://shelljs.org</sub>
+* [how2](https://github.com/santinic/how2): <sub>stackoverflow from the terminal</sub>
 * [nodejs-dashboard ](https://github.com/FormidableLabs/nodejs-dashboard): <sub>Telemetry dashboard for node.js apps from the terminal!</sub>
 * [server.js](https://github.com/franciscop/server): <sub>🖥 Simple and powerful server for Node.js https://serverjs.io/</sub>
 * [node-qrcode](https://github.com/soldair/node-qrcode): <sub>qr code generator</sub>
