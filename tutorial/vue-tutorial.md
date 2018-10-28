@@ -20,6 +20,7 @@
 * [XCel 项目总结 - Electron 与 Vue 的性能优化](https://aotu.io/notes/2016/11/15/xcel/index.html)
 * [逐行级别的源码分析](https://github.com/HcySunYang/vue-design): <sub>逐行级别的源码分析 http://hcysun.me/vue-design/</sub>
 * [Useful Vue patterns, techniques, tips and tricks and helpful curated links. ](https://github.com/learn-vuejs/vue-patterns)
+* [Vue.js Authentication System with Node.js Backend](https://blog.jscrambler.com/vue-js-authentication-system-with-node-js-backend/): <sub>In this tutorial, ll explore different authentication types for JavaScript applications and build a Vue authentication system with a Node.js backend.</sub>
 
 ## 资源篇
 

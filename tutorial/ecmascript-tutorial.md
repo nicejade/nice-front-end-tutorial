@@ -11,6 +11,7 @@
 
 ## 进阶篇
 
+* [33-js-concepts](https://github.com/leonardomso/33-js-concepts): <sub>📜 33 concepts every JavaScript developer should know. [📜 每个 JavaScript 工程师都应懂的33个概念](https://github.com/stephentian/33-js-concepts). </sub>
 * [Front-End-Checklist Javascript](https://github.com/thedaviddias/Front-End-Checklist#javascript)
 * [Web | Google Developers](https://developers.google.com/web/)
 * [How JavaScript works: inside the V8 engine + 5 tips on how to write optimized code](https://blog.sessionstack.com/how-javascript-works-inside-the-v8-engine-5-tips-on-how-to-write-optimized-code-ac089e62b12e)
@@ -43,6 +44,7 @@
 * [You don't (may not) need Lodash/Underscore](https://github.com/you-dont-need/You-Dont-Need-Lodash-Underscore): <sub>List of JavaScript methods which you can use natively + ESLint Plugin</sub>
 * [getify/You-Dont-Know-JS](https://github.com/getify/You-Dont-Know-JS): <sub>A book series on JavaScript. @YDKJS on twitter.</sub>
 * [😇 你可能不知道的前端知识点](https://github.com/justjavac/the-front-end-knowledge-you-may-not-know)
+* [5 Tips to Write Better Conditionals in JavaScript](https://scotch.io/bar-talk/5-tips-to-write-better-conditionals-in-javascript)
 
 ### 规范篇
 

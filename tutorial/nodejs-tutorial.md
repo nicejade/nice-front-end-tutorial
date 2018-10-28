@@ -22,6 +22,7 @@
 * [Node 定时器详解](http://www.ruanyifeng.com/blog/2018/02/node-event-loop.html)
 * [Node.js 专栏](https://yuque.com/egg/nodejs): <sub>来自 egg.js 团队的 Node.js 经验分享</sub>
 * [stream-handbook](https://github.com/substack/stream-handbook): <sub>how to write node programs with streams</sub>
+* [Authenticate a Node ES6 API with JSON Web Tokens](https://scotch.io/tutorials/authenticate-a-node-es6-api-with-json-web-tokens)
 
 ## 安全篇
 
