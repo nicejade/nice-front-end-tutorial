@@ -10,6 +10,8 @@
   * [开发文档 | 接口概述](https://doc.quickapp.cn/features/)
 * [「快应用」开发体验纪要](https://nice.lovejade.cn/zh/article/develop-quick-app-experience-notes.html)
 * [快应用快速入门教程](https://juejin.im/post/5ab27d8e518825557e78485e)
+* [快应用常见问题和技术帖子汇总](https://bbs.quickapp.cn/forum.php?mod=viewthread&tid=838)
+* [快应用账号注册流程](https://www.quickapp.cn/docCenter/post/71)
 * [对标小程序 ? " 快应用 " 开发入门指南](https://juejin.im/post/5ab26a1e6fb9a028b547c675)
 
 ## 示例篇
@@ -28,4 +30,5 @@
 
 ## 工具篇
 
+* [快应用开发工具使用说明文档](https://bbs.quickapp.cn/forum.php?mod=viewthread&tid=1052): <sub>快应用【官方IDE】使用说明文档</sub>
 * [vue-hap-tools](https://github.com/Youjingyu/vue-hap-tools): <sub>一个抹平 vue.js 与快应用差异性的工具，现已支持vue.js的大部分常用特性、vue-router、vuex。</sub>
