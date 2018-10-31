@@ -14,11 +14,21 @@
 * [快应用账号注册流程](https://www.quickapp.cn/docCenter/post/71)
 * [对标小程序 ? " 快应用 " 开发入门指南](https://juejin.im/post/5ab26a1e6fb9a028b547c675)
 
+## 生态篇
+
+* [快统计 - 轻粒子](http://www.qinglizi.cn/): <sub>专注于快应用数据统计分析；数据监控；渠道识别；人群分析；事件/转化漏斗；</sub>
+* [友盟快应用统计 SDK 集成文档](https://developer.umeng.com/docs/84810/detail/84811): <sub>接入友盟快应用统计 SDK，可以在U-App官网中查看应用新增用户、活跃用户、启动次数、使用时长等基本数据。</sub>
+
 ## 示例篇
 
 * [nicelinks-quick-app](https://github.com/nicejade/nicelinks-quick-app): <sub>🌪Awesome NICE LINKS（倾城之链 ) client built with quickapp. https://nicelinks.site/ </sub>
 * [quickappcn/sample](https://github.com/quickappcn/sample): <sub>A project to demonstrate the use of quickapp, including demos of components and apis. https://www.quickapp.cn/ </sub>
 * [v2ex-quickapp](https://github.com/wotermelon/v2ex-quickapp): <sub>V2ex - 快应用</sub>
+
+## 工具篇
+
+* [快应用开发工具使用说明文档](https://bbs.quickapp.cn/forum.php?mod=viewthread&tid=1052): <sub>快应用【官方IDE】使用说明文档</sub>
+* [vue-hap-tools](https://github.com/Youjingyu/vue-hap-tools): <sub>一个抹平 vue.js 与快应用差异性的工具，现已支持vue.js的大部分常用特性、vue-router、vuex。</sub>
 
 ## 应用分发
 
@@ -27,8 +37,3 @@
 * [OPPO 快应用分发](https://open.oppomobile.com/service/distribute#id=4)
 * [小米 快应用分发](https://dev.mi.com/console/app/newapp.html)
 * [魅族开放平台](https://open.flyme.cn/)
-
-## 工具篇
-
-* [快应用开发工具使用说明文档](https://bbs.quickapp.cn/forum.php?mod=viewthread&tid=1052): <sub>快应用【官方IDE】使用说明文档</sub>
-* [vue-hap-tools](https://github.com/Youjingyu/vue-hap-tools): <sub>一个抹平 vue.js 与快应用差异性的工具，现已支持vue.js的大部分常用特性、vue-router、vuex。</sub>
