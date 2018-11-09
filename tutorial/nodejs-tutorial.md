@@ -78,14 +78,20 @@
 
 ## 有用的库
 
+### 终端
+
+* [antonmedv/fx](https://github.com/antonmedv/fx): <sub>Command-line JSON processing tool 🔥</sub>
+* [nodejs-dashboard ](https://github.com/FormidableLabs/nodejs-dashboard): <sub>Telemetry dashboard for node.js apps from the terminal!</sub>
+* [local-web-server](https://github.com/lwsjs/local-web-server): <sub>The modular HTTP2 web server for productive full-stack development</sub>
+* [how2](https://github.com/santinic/how2): <sub>stackoverflow from the terminal</sub>
+* [is-up-cli](https://github.com/sindresorhus/is-up-cli): <sub>Check whether a website is up or down</sub>
+
 * [microjob](https://github.com/wilk/microjob): <sub>A tiny wrapper for turning Node.js worker threads into easy-to-use routines for heavy CPU loads. https://wilk.github.io/microjob/</sub>
 * [yargs](https://github.com/yargs/yargs): <sub>yargs the modern, pirate-themed successor to optimist. http://yargs.js.org/</sub>
 * [commander.js](https://github.com/tj/commander.js/): <sub>node.js command-line interfaces made easy</sub>
 * [shelljs](https://github.com/shelljs/shelljs): <sub>🐚 Portable Unix shell commands for Node.js http://shelljs.org</sub>
-* [how2](https://github.com/santinic/how2): <sub>stackoverflow from the terminal</sub>
-* [nodejs-dashboard ](https://github.com/FormidableLabs/nodejs-dashboard): <sub>Telemetry dashboard for node.js apps from the terminal!</sub>
 * [server.js](https://github.com/franciscop/server): <sub>🖥 Simple and powerful server for Node.js https://serverjs.io/</sub>
 * [node-qrcode](https://github.com/soldair/node-qrcode): <sub>qr code generator</sub>
 * [jsdom](https://github.com/jsdom/jsdom): <sub>A JavaScript implementation of the WHATWG DOM and HTML standards, for use with node.js</sub>
 * [taiko](https://github.com/getgauge/taiko): <sub>A node.js library to automate chrome/chromium browser https://taiko.gauge.org/</sub>
-* [local-web-server](https://github.com/lwsjs/local-web-server): <sub>The modular HTTP2 web server for productive full-stack development</sub>
+* [randexp.js](https://github.com/fent/randexp.js): <sub>Create random strings that match a given regular expression. </sub>

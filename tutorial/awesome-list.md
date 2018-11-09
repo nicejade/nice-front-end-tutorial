@@ -84,6 +84,7 @@
 - [Awesome-Pentest](https://github.com/enaqx/awesome-pentest): <sub>A collection of awesome penetration testing resources, tools and other shiny things</sub>
 - [Awesome-Web-Security](https://github.com/qazbnm456/awesome-web-security): <sub>🐶 A curated list of Web Security materials and resources. </sub>
 - [Awesome-Security](https://github.com/sbilly/awesome-security): <sub>A collection of awesome software, libraries, documents, books, resources and cools stuffs about security.</sub>
+- [Awesome-XSS](https://github.com/s0md3v/AwesomeXSS): <sub>Awesome XSS stuff</sub>
 
 ### 🛠 Tools
 

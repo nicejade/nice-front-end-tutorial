@@ -12,6 +12,7 @@
 ## 周边篇
 
 * [Mongoose](https://github.com/Automattic/mongoose): <sub>MongoDB object modeling designed to work in an asynchronous environment. http://mongoosejs.com</sub>
+* [mongodb-backup](https://github.com/hex7c0/mongodb-backup): <sub>backup data for mongodb for Nodejs</sub>
 
 ---
 
