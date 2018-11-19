@@ -18,6 +18,11 @@
 
 * [快统计 - 轻粒子](http://www.qinglizi.cn/): <sub>专注于快应用数据统计分析；数据监控；渠道识别；人群分析；事件/转化漏斗；</sub>
 * [友盟快应用统计 SDK 集成文档](https://developer.umeng.com/docs/84810/detail/84811): <sub>接入友盟快应用统计 SDK，可以在U-App官网中查看应用新增用户、活跃用户、启动次数、使用时长等基本数据。</sub>
+* [快应用入口合集](https://bbs.quickapp.cn/forum.php?mod=viewthread&tid=552&fromuid=139)
+
+#### UI 组件
+
+* [Quist-UI | 快应用 UI 组件库](https://github.com/JDsecretFE/quist-ui)
 
 ## 示例篇
 
@@ -30,6 +35,7 @@
 
 * [快应用开发工具使用说明文档](https://bbs.quickapp.cn/forum.php?mod=viewthread&tid=1052): <sub>快应用【官方IDE】使用说明文档</sub>
 * [vue-hap-tools](https://github.com/Youjingyu/vue-hap-tools): <sub>一个抹平 vue.js 与快应用差异性的工具，现已支持vue.js的大部分常用特性、vue-router、vuex。</sub>
+* [娜娜奇 | 基于 React 的多端小程序转译框架](https://rubylouvre.github.io/nanachi/documents/install.html)
 
 ## 应用分发
 
