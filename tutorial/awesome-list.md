@@ -132,3 +132,4 @@
 - [Awesome-README](https://github.com/matiassingers/awesome-readme): <sub>A curated list of awesome READMEs</sub>
 - [Awesome-Resources](https://github.com/lyfeyaj/awesome-resources): <sub>Awesome resources for coding and learning: open source projects, websites, books e.g.</sub>
 - [Awesome-Talks](https://github.com/JanVanRyswyck/awesome-talks): <sub>Awesome online talks and screencasts</sub>
+- [Awesome-Docsify](https://github.com/docsifyjs/awesome-docsify): <sub>💖 A curated list of awesome things related to docsify</sub>
