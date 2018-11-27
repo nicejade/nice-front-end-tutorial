@@ -35,6 +35,7 @@
 * [cube-ui](https://github.com/didi/cube-ui): <sub>🔶 A fantastic mobile ui lib implement by Vue https://didi.github.io/cube-ui/</sub>
 * [mand-mobile](https://github.com/didi/mand-mobile): <sub>💰 A mobile UI toolkit, based on Vue.js 2, designed for financial scenarios. https://didi.github.io/mand-mobile</sub>
 * [lusaxweb/vuesax](https://github.com/lusaxweb/vuesax): <sub>Frontend vue Components Framework for Vue.js 2 https://lusaxweb.github.io/vuesax/</sub>
+* [ant-design-vue](https://github.com/vueComponent/ant-design-vue): <sub>An enterprise-class UI components based on Ant Design and Vue. 🐜</sub>
 
 ## 搭建 Vue 应用
 

@@ -20,13 +20,17 @@
 * [友盟快应用统计 SDK 集成文档](https://developer.umeng.com/docs/84810/detail/84811): <sub>接入友盟快应用统计 SDK，可以在U-App官网中查看应用新增用户、活跃用户、启动次数、使用时长等基本数据。</sub>
 * [快应用入口合集](https://bbs.quickapp.cn/forum.php?mod=viewthread&tid=552&fromuid=139)
 
-#### UI 组件
+### 脚手架
+
+* [quickapp-boilerplate-template](https://github.com/nicejade/quickapp-boilerplate-template): <sub>🔨致力于构建更为优雅的快应用开发脚手架模板。</sub>
+
+### UI 组件
 
 * [Quist-UI | 快应用 UI 组件库](https://github.com/JDsecretFE/quist-ui)
 
 ## 示例篇
 
-* [quickapp-boilerplate-template](https://github.com/nicejade/quickapp-boilerplate-template): <sub>🔨致力于构建更为优雅的快应用开发脚手架模板。</sub>
+* [appreciate-poetry-quickapp](https://github.com/TheHumanComedy/appreciate-poetry-quickapp): <sub>🌊一款精致用于欣赏古诗文的快应用。</sub>
 * [nicelinks-quick-app](https://github.com/nicejade/nicelinks-quick-app): <sub>🌪Awesome NICE LINKS（倾城之链 ) client built with quickapp. https://nicelinks.site/ </sub>
 * [quickappcn/sample](https://github.com/quickappcn/sample): <sub>A project to demonstrate the use of quickapp, including demos of components and apis. https://www.quickapp.cn/ </sub>
 * [v2ex-quickapp](https://github.com/wotermelon/v2ex-quickapp): <sub>V2ex - 快应用</sub>

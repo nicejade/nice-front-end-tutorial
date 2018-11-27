@@ -45,6 +45,7 @@
 
 ## 周边篇
 
+* [css-doodle](https://github.com/css-doodle/css-doodle): <sub>🎨 A web component for drawing patterns with CSS. </sub>
 * [popmotion](https://popmotion.io/): <sub>A functional, flexible JavaScript motion library</sub>
 * [uncss](https://github.com/uncss/uncss): <sub>Remove unused styles from CSS</sub>
 * [css-blocks](https://github.com/linkedin/css-blocks): <sub>High performance, maintainable stylesheets. http://css-blocks.com/</sub>
