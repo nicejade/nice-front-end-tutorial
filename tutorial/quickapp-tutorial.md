@@ -32,6 +32,7 @@
 
 * [appreciate-poetry-quickapp](https://github.com/TheHumanComedy/appreciate-poetry-quickapp): <sub>🌊一款精致用于欣赏古诗文的快应用。</sub>
 * [nicelinks-quick-app](https://github.com/nicejade/nicelinks-quick-app): <sub>🌪Awesome NICE LINKS（倾城之链 ) client built with quickapp. https://nicelinks.site/ </sub>
+* [babySongQuickapp](https://github.com/lishuaixingNewBee/babySongQuickapp): <sub>熊宝儿歌故事集音乐、视频、育儿信息流的快应用。</sub>
 * [quickappcn/sample](https://github.com/quickappcn/sample): <sub>A project to demonstrate the use of quickapp, including demos of components and apis. https://www.quickapp.cn/ </sub>
 * [v2ex-quickapp](https://github.com/wotermelon/v2ex-quickapp): <sub>V2ex - 快应用</sub>
 
@@ -48,3 +49,9 @@
 * [OPPO 快应用分发](https://open.oppomobile.com/service/distribute#id=4)
 * [小米 快应用分发](https://dev.mi.com/console/app/newapp.html)
 * [魅族开放平台](https://open.flyme.cn/)
+
+## 快应用新闻
+
+* [快应用 v1030 上线](https://doc.quickapp.cn/changelog/1030.html)： <sub>2018-11-28</sub>
+
+
