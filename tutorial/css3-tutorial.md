@@ -17,6 +17,7 @@
 
 ## 动画篇
 
+* [css-animation-101](https://github.com/cssanimation/css-animation-101): <sub>Learn how to bring animation to your web projet. https://cssanimation.rocks/</sub>
 * [Using CSS animations](https://developer.mozilla.org/en-US/docs/Web/CSS/CSS_Animations/Using_CSS_animations)
 * [CSS 动画简介](http://www.ruanyifeng.com/blog/2014/02/css_transition_and_animation.html)
 * [CSS3 动画实践](https://aotu.io/notes/2016/01/04/css3-animation/index.html)

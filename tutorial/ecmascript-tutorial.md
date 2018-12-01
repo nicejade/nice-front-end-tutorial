@@ -50,6 +50,8 @@
 
 - [idiomatic.js](https://github.com/rwaldron/idiomatic.js): <sub>Principles of Writing Consistent, Idiomatic JavaScript</sub>
 - [js-the-right-way](https://github.com/braziljs/js-the-right-way): <sub>An easy-to-read, quick reference for JS best practices, accepted coding standards, and links around the Web http://jstherightway.org</sub>
+- [clean-code-javascript](https://github.com/ryanmcdermott/clean-code-javascript): <sub>🛁 Clean Code concepts adapted for JavaScript
+</sub>
 
 ## Pack JavaScript
 
