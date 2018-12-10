@@ -80,6 +80,8 @@
 
 ### 终端
 
+* [updtr](https://github.com/peerigon/updtr): <sub>Update outdated npm modules with zero pain™</sub>
+* [screenshoteer](https://github.com/vladocar/screenshoteer): <sub>Makes web screenshots and mobile emulations from the command line.</sub>
 * [antonmedv/fx](https://github.com/antonmedv/fx): <sub>Command-line JSON processing tool 🔥</sub>
 * [nodejs-dashboard ](https://github.com/FormidableLabs/nodejs-dashboard): <sub>Telemetry dashboard for node.js apps from the terminal!</sub>
 * [local-web-server](https://github.com/lwsjs/local-web-server): <sub>The modular HTTP2 web server for productive full-stack development</sub>
