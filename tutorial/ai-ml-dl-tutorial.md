@@ -19,6 +19,7 @@
 
 ### Related JS Libraries
 
+* [guess](https://github.com/guess-js/guess): <sub>Libraries & tools for enabling Machine Learning driven user-experiences on the web https://guess-js.github.io/</sub>
 * [ml5-library ](https://github.com/ml5js/ml5-library): <sub>Friendly machine learning for the web! 🤖 https://ml5js.org</sub>
 
 ### Related JS Libraries

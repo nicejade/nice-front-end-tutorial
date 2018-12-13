@@ -338,3 +338,6 @@
 
 * [between.js](https://github.com/sasha240100/between.js)
   > Lightweight JavaScript (ES6) tweening engine https://between.js.org/
+
+* [jsPDF](https://github.com/MrRio/jsPDF)
+  > Client-side JavaScript PDF generation for everyone. https://parall.ax/products/jspdf
