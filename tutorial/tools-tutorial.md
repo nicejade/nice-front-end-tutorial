@@ -341,3 +341,9 @@
 
 * [jsPDF](https://github.com/MrRio/jsPDF)
   > Client-side JavaScript PDF generation for everyone. https://parall.ax/products/jspdf
+
+* [clipboardy](https://github.com/sindresorhus/clipboardy)
+  > Access the system clipboard (copy/paste)
+
+* [forgJs](https://github.com/oussamahamdaoui/forgJs)
+  > ForgJs is a javascript lightweight object validator. Go check the Quick start section and start coding with love
