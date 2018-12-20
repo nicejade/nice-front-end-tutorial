@@ -27,6 +27,11 @@
 * [【LocustPlus 序】漫谈服务端性能测试](http://debugtalk.com/post/locustplus-talk-about-performance-test/)
 * [深入浅出开源性能测试工具 Locust（使用篇）](http://debugtalk.com/post/head-first-locust-user-guide/)
 
+#### [vegeta](https://github.com/tsenart/vegeta)
+
+>Vegeta是一种多功能的HTTP负载测试工具，需要以恒定的请求率来钻取HTTP服务。它既可以用作命令行实用程序，也可以用作库。 (Vegeta is a versatile HTTP load testing tool built out of a need to drill HTTP services with a constant request rate. It can be used both as a command line utility and a library).
+
+
 #### [Cypress](https://github.com/cypress-io/cypress)
 
 > 快速，简单和可靠的测试任何在浏览器中运行的任何东西。(The web has evolved. Finally, testing has too.Fast, easy and reliable testing for anything that runs in a browser.) https://www.cypress.io

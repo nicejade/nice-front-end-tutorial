@@ -31,6 +31,7 @@
 - [Awesome-Angular](https://github.com/gdi2290/awesome-angular): <sub>📄 A curated list of awesome Angular resources.</sub>
 - [Awesome-Design](https://github.com/gztchan/awesome-design): <sub>🎏 Creative Resources for Developer and Designer</sub>
 - [Awesome-Electron](https://github.com/sindresorhus/awesome-electron): <sub>Useful resources for creating apps with Electron</sub>
+- [Awesome-Quickapp](https://github.com/nicejade/awesome-quickapp): <sub>🚀 A curated list of awesome quickapp tutorials, articles, projects and resources.</sub>
 - [Awesome-React](https://github.com/enaqx/awesome-react): <sub>A collection of awesome things regarding React ecosystem.</sub>
 - [Awesome-React-Components](https://github.com/brillout/awesome-react-components): <sub>Catalog of React Components & Libraries</sub>
 - [Awesome-React-Native](https://github.com/jondot/awesome-react-native): <sub>Awesome React Native components, news, tools, and learning material!</sub>

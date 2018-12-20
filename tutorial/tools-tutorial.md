@@ -84,6 +84,7 @@
 
 #### Terminal Search/finder
 
+* [skim](https://github.com/lotabout/skim): <sub>Fuzzy Finder in rust!</sub>
 * [fzf](https://github.com/junegunn/fzf): <sub>🌸 A command-line fuzzy finder</sub>
 * [the_silver_searcher ](https://github.com/ggreer/the_silver_searcher): <sub>A code-searching tool similar to ack, but faster. http://geoff.greer.fm/ag/</sub>
 
