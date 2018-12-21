@@ -65,6 +65,7 @@
 
 ### 工具类插件
 
+* [handsontable](https://github.com/handsontable/handsontable): <sub>Handsontable Community Edition - JavaScript/HTML5 Data Grid Component with Spreadsheet Look & Feel. Available for React, Vue and Angular.</sub>
 * [vue-meta](https://github.com/declandewet/vue-meta): <sub>Manage page meta info in Vue 2.0 components. SSR + Streaming supported.</sub>
 * [vue-storefront](https://github.com/DivanteLtd/vue-storefront): <sub>Vue Storefront - PWA for eCommerce. 100% offline, platform agnostic, headless, Magento 2 supported. Always Open Source, MIT license. Join us as contributor (contributors@vuestorefront.io). http://vuestorefront.io</sub>
 * [vue-cli-plugin-apollo](https://github.com/Akryum/vue-cli-plugin-apollo): <sub>🚀 vue-cli 3.x plugin for Apollo and GraphQL</sub>
