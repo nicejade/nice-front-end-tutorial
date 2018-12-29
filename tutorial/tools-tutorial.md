@@ -1,5 +1,6 @@
 ### 综合
 
+* [the-book-of-secret-knowledge](https://github.com/trimstray/the-book-of-secret-knowledge): <sub>💫 A collection of awesome lists, manuals, blogs, hacks, one-liners, cli/web tools and more. Especially for System and Network Administrators, DevOps, Pentesters or Security Researchers.</sub>
 * [工具武装的前端开发工程师](https://juejin.im/post/57dc98532e958a00545eace9)
 * [GitHub 上整理的一些工具，求补充](https://segmentfault.com/q/1010000002404545)
 * [unruledboy/WebFrontEndStack](https://github.com/unruledboy/WebFrontEndStack)
@@ -348,3 +349,6 @@
 
 * [forgJs](https://github.com/oussamahamdaoui/forgJs)
   > ForgJs is a javascript lightweight object validator. Go check the Quick start section and start coding with love
+
+* [quicklink](https://github.com/GoogleChromeLabs/quicklink)
+  > ⚡️Faster subsequent page-loads by prefetching in-viewport links during idle time

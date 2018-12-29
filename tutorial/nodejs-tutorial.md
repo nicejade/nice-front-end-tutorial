@@ -88,6 +88,7 @@
 * [how2](https://github.com/santinic/how2): <sub>stackoverflow from the terminal</sub>
 * [is-up-cli](https://github.com/sindresorhus/is-up-cli): <sub>Check whether a website is up or down</sub>
 
+* [carlo](https://github.com/GoogleChromeLabs/carlo): <sub>Web rendering surface for Node applications</sub>
 * [microjob](https://github.com/wilk/microjob): <sub>A tiny wrapper for turning Node.js worker threads into easy-to-use routines for heavy CPU loads. https://wilk.github.io/microjob/</sub>
 * [yargs](https://github.com/yargs/yargs): <sub>yargs the modern, pirate-themed successor to optimist. http://yargs.js.org/</sub>
 * [commander.js](https://github.com/tj/commander.js/): <sub>node.js command-line interfaces made easy</sub>

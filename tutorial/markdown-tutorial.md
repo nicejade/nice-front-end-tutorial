@@ -19,6 +19,7 @@
 * [Mditor- 一款轻量级的 markdown 编辑器](http://bh-lay.github.io/mditor)
 * [lepture-editor](https://github.com/lepture/editor)
 * [Markdown-editor](https://github.com/jbt/markdown-editor)
+* [notable](https://github.com/fabiospampinato/notable): <sub>The markdown-based note-taking app that doesn't suck.</sub>
 * [简书 - 创作社区](https://www.jianshu.com/)
 * [**marktext**](https://github.com/marktext/marktext): <sub>📝Next generation markdown editor, running on platforms of MacOS Windows and Linux. https://marktext.github.io/website/</sub>
 * [FarBox](https://www.farbox.com/): <sub>The Best Blog Platform for Humans.FarBox, Dropbox Blog, Blog on Cloud </sub>

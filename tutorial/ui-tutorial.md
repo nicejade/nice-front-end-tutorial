@@ -39,6 +39,10 @@
 * [williamngan/pts](https://github.com/williamngan/pts): <sub>A library for visualization and creative-coding https://ptsjs.org</sub>
 * [apexcharts.js](https://github.com/apexcharts/apexcharts.js): <sub>📊 Interactive and Modern SVG Charts https://apexcharts.com</sub>
 
+### 布局篇
+
+* [Magic-Grid](https://github.com/e-oj/Magic-Grid): <sub>A simple, lightweight Javascript library for dynamic grid layouts</sub>
+
 ### 其他篇
 
 * [JS 触屏教程之 Hammer.js](http://www.cnblogs.com/iamlilinfeng/p/4239957.html)
