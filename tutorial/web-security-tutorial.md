@@ -11,6 +11,7 @@
 * [程序猿必读 - 防范 CSRF 跨站请求伪造](https://aicode.cc/cheng-xu-yuan-bi-dufang-fancsrf-kua-zhan-qing-qiu.html)
 * [Understanding CORS](https://medium.com/@baphemot/understanding-cors-18ad6b478e2b)
 * [黑客 & 网络攻击 (video)](https://www.bilibili.com/video/av20831479/), 原视频地址：[Hackers & Cyber Attacks](https://www.youtube.com/watch?v=_GzE99AmAQU)
+* [Web-Security-Learning](https://github.com/CHYbeta/Web-Security-Learning): <sub>Web-Security-Learning</sub>
 
 ### 相关篇
 

@@ -71,3 +71,4 @@
 * [vue-cli-plugin-apollo](https://github.com/Akryum/vue-cli-plugin-apollo): <sub>🚀 vue-cli 3.x plugin for Apollo and GraphQL</sub>
 * [vue-lazyload](https://github.com/hilongjw/vue-lazyload): <sub>A Vue.js plugin for lazyload your Image or Component in your application. http://hilongjw.github.io/vue-lazyload/</sub>
 * [vue-infinite-loading](https://github.com/PeachScript/vue-infinite-loading): <sub>An infinite scroll plugin for Vue.js. </sub>
+* [tiptap](https://github.com/scrumpy/tiptap): <sub>A rich-text editor for Vue.js https://tiptap.scrumpy.io/</sub>
