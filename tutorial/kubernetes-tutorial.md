@@ -6,3 +6,7 @@
 * [Kubernetes 中文社区](https://www.kubernetes.org.cn/)
 * [Kubernetes 教程简介（英）](http://okigiveup.net/a-tutorial-introduction-to-kubernetes/)
 * [为什么 Kubernetes 是新的应用服务器（英）](https://developers.redhat.com/blog/2018/06/28/why-kubernetes-is-the-new-application-server/)
+
+## 资源篇
+
+* [Tilt](https://github.com/windmilleng/tilt): <sub>Local Kubernetes development with no stress https://tilt.build/</sub>

@@ -24,6 +24,7 @@
 
 ## 组件篇
 
+* [PhotoSwipe](https://github.com/dimsemenov/PhotoSwipe): <sub>JavaScript image gallery for mobile and desktop, modular, framework independent</sub>
 * [handsontable](https://github.com/handsontable/handsontable): <sub>Handsontable Community Edition - JavaScript/HTML5 Data Grid Component with Spreadsheet Look & Feel. Available for React, Vue and Angular. https://handsontable.com/</sub>
 * [wiredjs/wired-elements](https://github.com/wiredjs/wired-elements)：<sub>Collection of elements that appear hand drawn. Great for wireframes. https://wiredjs.com</sub>
 * [nhnent/tui.calendar](https://github.com/nhnent/tui.calendar): <sub>🍞📅A JavaScript calendar that everything you need. http://ui.toast.com/tui-calendar</sub>

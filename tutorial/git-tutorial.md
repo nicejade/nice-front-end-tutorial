@@ -53,6 +53,7 @@
 
 ## 桌面工具
 
+* [GitUp](https://github.com/git-up/GitUp): <sub>The Git interface you've been missing all your life has finally arrived. http://gitup.co</sub>
 * [desktop](https://github.com/desktop/desktop): <sub>Simple collaboration from your desktop https://desktop.github.com</sub>
 * [ohmystar](http://www.ohmystarapp.com/) - Mac 上管理你 GitHub star 的工具
 * [GithubPulse](https://github.com/tadeuzagallo/GithubPulse) - OS X 状态栏的 APP，帮你记住你在 GitHub 每天的贡献

@@ -56,6 +56,7 @@
 
 - [Awesome-Audio-Visualization](https://github.com/willianjusten/awesome-audio-visualization): <sub>A curated list about Audio Visualization.</sub>
 - [Awesome-Fonts](https://github.com/brabadu/awesome-fonts): <sub>Curated list of fonts and everything</sub>
+- [Font-Awesome](https://github.com/FortAwesome/Font-Awesome): <sub>The iconic SVG, font, and CSS toolkit</sub>
 - [Awesome-Images](https://github.com/heyalexej/awesome-images/commits/master): <sub>A curated list of amazingly awesome free (stock) photo resources inspired by all the other awesomes.</sub>
 - [Awesome-Gif](https://github.com/davisonio/awesome-gif): <sub>😎 A curated list of awesome GIF resources</sub>
 
@@ -127,6 +128,7 @@
 - [Awesome-Hacking](https://github.com/carpedm20/awesome-hacking): <sub>A curated list of awesome Hacking tutorials, tools and resources</sub>
 - [Awesome-Health](https://github.com/prabhic/awesome-health): <sub>A curated list of health resources</sub>
 - [Awesome-Interview-Questions](https://github.com/MaximAbramchuck/awesome-interview-questions): <sub>:octocat: A curated awesome list of lists of interview questions. Feel free to contribute! 🎓 </sub>
+- [Awesome-Jamstack](https://github.com/automata/awesome-jamstack): <sub>Carefully curated list of awesome JAMstack resources</sub>
 - [Awesome-Math](https://github.com/rossant/awesome-math): <sub>A curated list of awesome mathematics resources</sub>
 - [Awesome-Flutter](https://github.com/Solido/awesome-flutter): <sub>An awesome list that curates the best Flutter libraries, tools, tutorials, articles and more.</sub>
 - [Awesome-Github](https://github.com/Kikobeats/awesome-github): <sub>An exquisite list of awesome :octocat: secrets.</sub>
