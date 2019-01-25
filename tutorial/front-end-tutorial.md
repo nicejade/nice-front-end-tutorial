@@ -8,6 +8,12 @@
 
 源地址：https://github.com/nicejade/nice-front-end-tutorial
 
+## [The Book Of Secret Knowledge](https://github.com/trimstray/the-book-of-secret-knowledge)
+
+作者： trimstray https://github.com/trimstray/the-book-of-secret-knowledge
+
+源地址：https://github.com/trimstray/the-book-of-secret-knowledge
+
 ## [Roadmap to becoming a web developer in 2018](https://github.com/kamranahmedse/developer-roadmap)
 
 作者： Kamran Ahmed https://github.com/kamranahmedse
