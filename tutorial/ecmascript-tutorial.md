@@ -5,6 +5,7 @@
 * [exploring-es6 翻译后预览](http://es6-org.github.io/exploring-es6)
 * [阮一峰 es6](http://es6.ruanyifeng.com)
 * [阮一峰 Javascript](http://javascript.ruanyifeng.com)
+* [ECMAScript 6 Learning](https://github.com/ericdouglas/ES6-Learning)
 * [ECMA-262，第 5 版](http://yanhaijing.com/es5)
 * [JavaScript Promise 迷你书](https://github.com/liubin/promises-book/)
 * [awesome-javascript](https://github.com/sorrycc/awesome-javascript): <sub>🐢 A collection of awesome browser-side JavaScript libraries, resources and shiny things.</sub>

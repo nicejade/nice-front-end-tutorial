@@ -66,6 +66,7 @@
 * [颜海镜的博客](http://yanhaijing.com/)
 * [志文工作室](https://lzw.me/)
 * [晚晴幽草轩](https://jeffjade.com/)
+* [静轩之别苑](https://quickapp.lovejade.cn/)
 * [Chuck Liu 的博客](https://chuckliu.me/)
 * [Calpa's Blog](https://calpa.me/)
 * [轩枫阁 – 前端开发](https://www.xuanfengge.com/)
