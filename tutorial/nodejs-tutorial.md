@@ -99,4 +99,6 @@
 * [taiko](https://github.com/getgauge/taiko): <sub>A node.js library to automate chrome/chromium browser https://taiko.gauge.org/</sub>
 * [randexp.js](https://github.com/fent/randexp.js): <sub>Create random strings that match a given regular expression. </sub>
 
+* [capture-website](https://github.com/sindresorhus/capture-website): <sub>Capture screenshots of websites</sub>
+
 * [depcheck](https://github.com/depcheck/depcheck): <sub>Check your npm module for unused dependencies</sub>

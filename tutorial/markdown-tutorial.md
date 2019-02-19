@@ -16,7 +16,6 @@
 * [Stackedit- 国外的在线 markdown 编辑器，功能强大，同步云盘](https://stackedit.io)
 * [Gitbook- 国外的在线 markdown 可编辑成书](https://www.gitbook.com)
 * [vnote](https://github.com/tamlok/vnote): <sub>A Vim-inspired note-taking application that knows programmers and Markdown better. https://tamlok.github.io/vnote</sub>
-* [Mditor- 一款轻量级的 markdown 编辑器](http://bh-lay.github.io/mditor)
 * [lepture-editor](https://github.com/lepture/editor)
 * [Markdown-editor](https://github.com/jbt/markdown-editor)
 * [notable](https://github.com/fabiospampinato/notable): <sub>The markdown-based note-taking app that doesn't suck.</sub>
@@ -38,6 +37,7 @@
 
 #### Markdown component
 
+* [vditor](https://github.com/b3log/vditor): <sub>♏ 一款浏览器端的 Markdown 编辑器。</sub>
 * [react-markdown](https://github.com/rexxars/react-markdown): <sub>Render Markdown as React components </sub>
 * [vue-simplemde](https://github.com/F-loat/vue-simplemde): <sub>📝Vue-SimpleMDE - use simplemde with vue.js </sub>
 * [mavonEditor](https://github.com/hinesboy/mavonEditor): <sub>mavonEditor - A markdown editor based on Vue that supports a variety of personalized features</sub>
@@ -50,6 +50,7 @@
 
 #### **Awesome markdown tools**
 
+* [markmap](https://github.com/dundalek/markmap): <sub>Visualize markdown documents as mindmaps</sub>
 * [markdownlint](https://github.com/DavidAnson/markdownlint): <sub>A Node.js style checker and lint tool for Markdown/CommonMark files.</sub>
 * [**clean-mark**](https://github.com/croqaz/clean-mark): <sub>Convert an article into a clean text</sub>
 * [egoist/maid](https://github.com/egoist/maid): <sub>Markdown driven task runner.</sub>
