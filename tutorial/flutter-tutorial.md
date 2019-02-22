@@ -6,7 +6,7 @@
 
 ## 基础篇
 
-- [Flutter | Github])(https://github.com/flutter/flutter): <sub>Flutter makes it easy and fast to build beautiful mobile apps. </sub>
+- [Flutter | Github](https://github.com/flutter/flutter): <sub>Flutter makes it easy and fast to build beautiful mobile apps. </sub>
 - [Flutter Documentation](https://flutter.io/docs): <sub>The landing page for Flutter documentation.</sub>
 - [Flutter 教程](https://flutterchina.club/tutorials/): <sub>教你如何使用 Flutter 框架构建 iOS 和 Android 移动应用程序</sub>
 - [使用 Flutter 构建精美的界面](https://codelabs.developers.google.com/codelabs/flutter-cn/): <sub>使用 Flutter 构建精美的界面的简易教程</sub>

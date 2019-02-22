@@ -2,8 +2,11 @@
 
 ## 基础篇
 
-* [微信小程序简易教程 | 官方](https://developers.weixin.qq.com/miniprogram/dev/index.html)
-* [微信小程序开发者社区](https://developers.weixin.qq.com/)
+* [小程序简易教程 | 官方](https://developers.weixin.qq.com/miniprogram/dev/index.html)
+* [小程序框架| 官方](https://developers.weixin.qq.com/miniprogram/dev/framework/MINA.html)
+* [小程序组件| 官方](https://developers.weixin.qq.com/miniprogram/dev/component/)
+* [小程序 API | 官方](https://developers.weixin.qq.com/miniprogram/dev/api/)
+* [小程序开发者社区](https://developers.weixin.qq.com/)
 
 ## 开发资源
 

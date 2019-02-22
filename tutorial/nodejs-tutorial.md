@@ -87,6 +87,9 @@
 * [local-web-server](https://github.com/lwsjs/local-web-server): <sub>The modular HTTP2 web server for productive full-stack development</sub>
 * [how2](https://github.com/santinic/how2): <sub>stackoverflow from the terminal</sub>
 * [is-up-cli](https://github.com/sindresorhus/is-up-cli): <sub>Check whether a website is up or down</sub>
+* [fast-cli](https://github.com/sindresorhus/fast-cli): <sub>Test your download and upload speed using fast.com</sub>
+
+### 非终端
 
 * [carlo](https://github.com/GoogleChromeLabs/carlo): <sub>Web rendering surface for Node applications</sub>
 * [microjob](https://github.com/wilk/microjob): <sub>A tiny wrapper for turning Node.js worker threads into easy-to-use routines for heavy CPU loads. https://wilk.github.io/microjob/</sub>
