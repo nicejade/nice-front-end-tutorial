@@ -22,6 +22,7 @@
 * [**AI-ML-DL**](https://github.com/nicejade/nice-front-end-tutorial/blob/master/tutorial/ai-ml-dl-tutorial.md)
 * [**Pwa**](https://github.com/nicejade/nice-front-end-tutorial/blob/master/tutorial/pwa-tutorial.md)
 * [WebAssembly](https://github.com/nicejade/nice-front-end-tutorial/blob/master/tutorial/webAssembly.md)
+* [Flutter](https://github.com/nicejade/nice-front-end-tutorial/blob/master/tutorial/flutter-tutorial.md)
 
 ### 🎨 Front-End Tutorial
 
