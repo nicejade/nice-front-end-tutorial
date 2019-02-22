@@ -47,6 +47,7 @@
 
 - [Awesome-D3](https://github.com/wbkd/awesome-d3#readme): <sub>A list of D3 libraries, plugins and utilities.</sub>
 - [Awesome-Dataviz](https://github.com/fasouto/awesome-dataviz): <sub>📈 A curated list of awesome data visualization libraries and resources.</sub>
+- [Awesome-Design-Tools](https://github.com/LisaDziuba/Awesome-Design-Tools): <sub>The best design tools for everything.</sub>
 - [Awesome-Gulp](https://github.com/alferov/awesome-gulp): <sub>A curated list of awesome gulp resources, plugins, and boilerplfates for a better development workflow automation.</sub>
 - [Awesome-Npm](https://github.com/sindresorhus/awesome-npm): <sub>Awesome npm resources and tips</sub>
 - [Awesome-Puppeteer](https://github.com/transitive-bullshit/awesome-puppeteer): <sub>A curated list of awesome puppeteer resources.</sub>
