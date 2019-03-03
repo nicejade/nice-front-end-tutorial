@@ -352,3 +352,6 @@
 
 * [quicklink](https://github.com/GoogleChromeLabs/quicklink)
   > ⚡️Faster subsequent page-loads by prefetching in-viewport links during idle time
+
+* [web](https://github.com/pikapkg/web)
+  > 📦 ✨ Install npm dependencies that run directly in the browser. No Browserify, Webpack or import maps required.
