@@ -56,5 +56,6 @@
 
 ### Make Bots
 
+* [ItChat](https://github.com/littlecodersh/ItChat): <sub>A complete and graceful API for Wechat. 微信个人号接口、微信机器人及命令行微信，三十行即可自定义个人号机器人。 http://itchat.readthedocs.io</sub>
 * [botpress/botpress](https://github.com/botpress/botpress): <sub>The 🤖 platform that ⚡ thousands of bots worldwide https://botpress.io</sub>
 * [Yoctol/bottender](https://github.com/Yoctol/bottender): <sub>⚡️ Make Bots Your Way. Fast and Flexible. https://bottender.js.org</sub>

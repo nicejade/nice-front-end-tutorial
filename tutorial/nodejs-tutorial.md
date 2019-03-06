@@ -89,6 +89,7 @@
 * [how2](https://github.com/santinic/how2): <sub>stackoverflow from the terminal</sub>
 * [is-up-cli](https://github.com/sindresorhus/is-up-cli): <sub>Check whether a website is up or down</sub>
 * [fast-cli](https://github.com/sindresorhus/fast-cli): <sub>Test your download and upload speed using fast.com</sub>
+* [favicon-emoji](https://github.com/albinekb/favicon-emoji): <sub>🖼 Generate an emoji-favicon in your terminal</sub>
 
 ### 非终端
 
