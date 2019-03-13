@@ -90,6 +90,8 @@
 * [is-up-cli](https://github.com/sindresorhus/is-up-cli): <sub>Check whether a website is up or down</sub>
 * [fast-cli](https://github.com/sindresorhus/fast-cli): <sub>Test your download and upload speed using fast.com</sub>
 * [favicon-emoji](https://github.com/albinekb/favicon-emoji): <sub>🖼 Generate an emoji-favicon in your terminal</sub>
+* [nagibabel.js](https://github.com/fual/nagibabel.js): <sub>nagibabel.js is a blazing fast, zero configuration tool to remove bad code from your project.</sub>
+* [nativefier](https://github.com/jiahaog/nativefier): <sub>Make any web page a desktop application.</sub>
 
 ### 非终端
 

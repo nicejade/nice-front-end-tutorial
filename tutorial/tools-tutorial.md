@@ -66,6 +66,7 @@
 
 ### 打造桌面应用
 
+* [revery](https://github.com/revery-ui/revery): <sub>⚡️ Native, high-performance, cross-platform desktop apps - built with Reason! https://www.outrunlabs.com/revery/ </sub>
 * [electron](https://github.com/electron/electron): <sub>Build cross-platform desktop apps with JavaScript, HTML, and CSS https://electronjs.org(使用JavaScript，HTML和CSS构建跨平台桌面应用程序https://electronjs.org)</sub>
 * [nativefier](https://github.com/jiahaog/nativefier): <sub>Make any web page a desktop application( 使任何网页成为桌面应用程序 )</sub>
 * [react-native](https://github.com/facebook/react-native): <sub>A framework for building native apps with React. https://facebook.github.io/react-native/</sub>
@@ -96,6 +97,7 @@
 * [nodePPT](https://github.com/ksky521/nodeppt)： <sub>This is probably the best web presentation tool so far! http://js8.in/nodeppt</sub>
 * [**Cleaver 快速制作网页 PPT**](http://www.jeffjade.com/2015/10/15/2015-10-16-cleaver-make-ppt/): <sub>30-second slideshows for hackers http://jdan.github.io/cleaver</sub>
 * [**impress.js** ](https://github.com/impress/impress.js/): <sub>It's a presentation framework based on the power of CSS3 transforms and transitions in modern browsers and inspired by the idea behind prezi.com. http://impress.js.org</sub>
+* [remark](https://github.com/gnab/remark): <sub>A simple, in-browser, markdown-driven slideshow tool.</sub>
 * [**reveal**](https://github.com/hakimel/reveal.js): <sub>The HTML Presentation Framework https://revealjs.com</sub>
 * [bespoke-fx](https://github.com/ebow/bespoke-fx): <sub>CSS slide transitions for Bespoke.js </sub>
 * [slippy](https://github.com/Seldaek/slippy): <sub>HTML Presentations</sub>

@@ -3,10 +3,15 @@
 ## 基础篇
 
 * [Kubernetes 官网](https://kubernetes.io/)
+* [Kubernetes Github](https://github.com/kubernetes/kubernetes)
 * [Kubernetes 中文社区](https://www.kubernetes.org.cn/)
 * [Kubernetes 教程简介（英）](http://okigiveup.net/a-tutorial-introduction-to-kubernetes/)
 * [为什么 Kubernetes 是新的应用服务器（英）](https://developers.redhat.com/blog/2018/06/28/why-kubernetes-is-the-new-application-server/)
 
 ## 资源篇
 
+* [helm](https://github.com/helm/helm): <sub>The Kubernetes Package Manager https://helm.sh/</sub>
+* [charts](https://github.com/helm/charts): <sub>Curated applications for Kubernetes</sub>
+* [ingress-nginx](https://github.com/kubernetes/ingress-nginx): <sub>NGINX Ingress Controller for Kubernetes</sub>
+* [kubeflow](https://github.com/kubeflow/kubeflow): <sub>Machine Learning Toolkit for Kubernetes</sub>
 * [Tilt](https://github.com/windmilleng/tilt): <sub>Local Kubernetes development with no stress https://tilt.build/</sub>
