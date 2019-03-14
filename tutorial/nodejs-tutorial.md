@@ -105,6 +105,7 @@
 * [jsdom](https://github.com/jsdom/jsdom): <sub>A JavaScript implementation of the WHATWG DOM and HTML standards, for use with node.js</sub>
 * [taiko](https://github.com/getgauge/taiko): <sub>A node.js library to automate chrome/chromium browser https://taiko.gauge.org/</sub>
 * [randexp.js](https://github.com/fent/randexp.js): <sub>Create random strings that match a given regular expression. </sub>
+* [pino](https://github.com/pinojs/pino): <sub>🌲 super fast, all natural json logger 🌲 http://getpino.io</sub>
 
 * [capture-website](https://github.com/sindresorhus/capture-website): <sub>Capture screenshots of websites</sub>
 

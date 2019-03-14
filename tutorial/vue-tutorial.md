@@ -31,6 +31,7 @@
 
 * [11 Vue.js Component Libraries You Should Know In 2018](https://blog.bitsrc.io/11-vue-js-component-libraries-you-should-know-in-2018-3d35ad0ae37f)
 * [element](https://github.com/ElemeFE/element): <sub>A Vue.js 2.0 UI Toolkit for Web https://element.eleme.io/ </sub>
+* [buefy](https://github.com/buefy/buefy): <sub>Lightweight UI components for Vue.js based on Bulma https://buefy.org</sub>
 * [vuetify](https://github.com/vuetifyjs/vuetify): <sub>Material Component Framework for Vue.js 2 https://vuetifyjs.com</sub>
 * [bootstrap-vue](https://github.com/bootstrap-vue/bootstrap-vue): <sub>BootstrapVue provides one of the most comprehensive implementations of Bootstrap 4 components and grid system for Vue.js and with extensive and automated WAI-ARIA accessibility markup.</sub>
 * [cube-ui](https://github.com/didi/cube-ui): <sub>🔶 A fantastic mobile ui lib implement by Vue https://didi.github.io/cube-ui/</sub>
