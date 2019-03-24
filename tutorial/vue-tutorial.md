@@ -74,3 +74,4 @@
 * [vue-lazyload](https://github.com/hilongjw/vue-lazyload): <sub>A Vue.js plugin for lazyload your Image or Component in your application. http://hilongjw.github.io/vue-lazyload/</sub>
 * [vue-infinite-loading](https://github.com/PeachScript/vue-infinite-loading): <sub>An infinite scroll plugin for Vue.js. </sub>
 * [tiptap](https://github.com/scrumpy/tiptap): <sub>A rich-text editor for Vue.js https://tiptap.scrumpy.io/</sub>
+* [vue-virtual-scroller](https://github.com/Akryum/vue-virtual-scroller): <sub>⚡️ Blazing fast scrolling for any amount of data</sub>

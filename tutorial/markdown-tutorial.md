@@ -15,6 +15,7 @@
 * [作业部落 - 功能强大，速度流畅，全平台同步](https://www.zybuluo.com)
 * [Stackedit- 国外的在线 markdown 编辑器，功能强大，同步云盘](https://stackedit.io)
 * [Gitbook- 国外的在线 markdown 可编辑成书](https://www.gitbook.com)
+* [微信公众号排版编辑器](https://github.com/lyricat/wechat-format): <sub>转化 Markdown 到给微信特制的 HTML</sub>
 * [vnote](https://github.com/tamlok/vnote): <sub>A Vim-inspired note-taking application that knows programmers and Markdown better. https://tamlok.github.io/vnote</sub>
 * [lepture-editor](https://github.com/lepture/editor)
 * [Markdown-editor](https://github.com/jbt/markdown-editor)

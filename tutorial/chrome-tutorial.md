@@ -29,6 +29,7 @@
 
 * [Awesome Chrome 插件集锦](https://www.jeffjade.com/2017/01/23/118-chrome_awesome_plug-in/)
 * [Vimium~ 让您的 Chrome 起飞](http://www.jeffjade.com/2015/10/19/2015-10-18-chrome-vimium/)
+* [chrome-plugin-demo](https://github.com/sxei/chrome-plugin-demo): <sub>《Chrome 插件开发全攻略》配套完整 Demo</sub>
 
 ## 调试篇
 

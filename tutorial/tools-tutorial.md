@@ -47,6 +47,7 @@
 
 #### 终端
 
+* [bash-it](https://github.com/Bash-it/bash-it): <sub>A community Bash framework.</sub>
 * [Amp](https://github.com/jmacdonald/amp): <sub>A text editor for your terminal.</sub>
 
 ### 建站工具
