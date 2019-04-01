@@ -96,6 +96,7 @@
 ### 非终端
 
 * [carlo](https://github.com/GoogleChromeLabs/carlo): <sub>Web rendering surface for Node applications</sub>
+* [pill](https://github.com/rumkin/pill): <sub>Add dynamic content loading to static sites with only 1 KiB of JS</sub>
 * [microjob](https://github.com/wilk/microjob): <sub>A tiny wrapper for turning Node.js worker threads into easy-to-use routines for heavy CPU loads. https://wilk.github.io/microjob/</sub>
 * [yargs](https://github.com/yargs/yargs): <sub>yargs the modern, pirate-themed successor to optimist. http://yargs.js.org/</sub>
 * [commander.js](https://github.com/tj/commander.js/): <sub>node.js command-line interfaces made easy</sub>

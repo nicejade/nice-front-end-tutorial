@@ -39,6 +39,7 @@
 #### Markdown component
 
 * [vditor](https://github.com/b3log/vditor): <sub>♏ 一款浏览器端的 Markdown 编辑器。</sub>
+* [quill](https://github.com/quilljs/quill): <sub>Quill is a modern WYSIWYG editor built for compatibility and extensibility. https://quilljs.com</sub>
 * [react-markdown](https://github.com/rexxars/react-markdown): <sub>Render Markdown as React components </sub>
 * [vue-simplemde](https://github.com/F-loat/vue-simplemde): <sub>📝Vue-SimpleMDE - use simplemde with vue.js </sub>
 * [mavonEditor](https://github.com/hinesboy/mavonEditor): <sub>mavonEditor - A markdown editor based on Vue that supports a variety of personalized features</sub>
