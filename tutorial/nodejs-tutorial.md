@@ -110,4 +110,5 @@
 
 * [capture-website](https://github.com/sindresorhus/capture-website): <sub>Capture screenshots of websites</sub>
 
+* [pikapkg/web](https://github.com/pikapkg/web): <sub>📦 ✨ Run npm dependencies directly in the browser. No Browserify, Webpack or import maps required.</sub>
 * [depcheck](https://github.com/depcheck/depcheck): <sub>Check your npm module for unused dependencies</sub>
