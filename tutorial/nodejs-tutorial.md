@@ -91,6 +91,7 @@
 * [fast-cli](https://github.com/sindresorhus/fast-cli): <sub>Test your download and upload speed using fast.com</sub>
 * [favicon-emoji](https://github.com/albinekb/favicon-emoji): <sub>🖼 Generate an emoji-favicon in your terminal</sub>
 * [nagibabel.js](https://github.com/fual/nagibabel.js): <sub>nagibabel.js is a blazing fast, zero configuration tool to remove bad code from your project.</sub>
+* [npm-check](https://github.com/dylang/npm-check): <sub>Check for outdated, incorrect, and unused dependencies. </sub>
 * [nativefier](https://github.com/jiahaog/nativefier): <sub>Make any web page a desktop application.</sub>
 
 ### 非终端

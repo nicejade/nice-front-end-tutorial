@@ -9,6 +9,7 @@
 * [ECMA-262，第 5 版](http://yanhaijing.com/es5)
 * [JavaScript Promise 迷你书](https://github.com/liubin/promises-book/)
 * [awesome-javascript](https://github.com/sorrycc/awesome-javascript): <sub>🐢 A collection of awesome browser-side JavaScript libraries, resources and shiny things.</sub>
+* [javascript-tutorial-en](https://github.com/iliakan/javascript-tutorial-en): <sub>Modern JavaScript Tutorial https://javascript.info</sub>
 
 ## 进阶篇
 

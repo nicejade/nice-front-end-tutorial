@@ -37,6 +37,7 @@
 * [plotly.js](https://github.com/plotly/plotly.js): <sub>Open-source JavaScript charting library behind plot.ly and Dash</sub>
 * [highcharts](https://www.highcharts.com/): <sub>Make your data come alive. Highcharts makes it easy for developers to set up interactive charts in their web pages</sub>
 * [anychart](https://www.anychart.com/): <sub>AnyChart is a lightweight and robust JavaScript charting solution with great API and documentation. The chart types and unique features are numerous, and the library works easily with any development stack.</sub>
+* [x-spreadsheet](https://github.com/myliang/x-spreadsheet): <sub>A web-based JavaScript（canvas） spreadsheet https://myliang.github.io/x-spreadsheet</sub>
 * [Leaflet](https://github.com/Leaflet/Leaflet): <sub>🍃 JavaScript library for mobile-friendly interactive maps https://leafletjs.com</sub>
 * [williamngan/pts](https://github.com/williamngan/pts): <sub>A library for visualization and creative-coding https://ptsjs.org</sub>
 * [apexcharts.js](https://github.com/apexcharts/apexcharts.js): <sub>📊 Interactive and Modern SVG Charts https://apexcharts.com</sub>
