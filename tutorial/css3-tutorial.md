@@ -71,3 +71,4 @@
 * [谈谈一些有趣的 CSS 话题](https://github.com/chokcoco/iCSS): <sub>https://github.com/chokcoco/iCSS</sub>
 * [Houdini：CSS 领域最令人振奋的革新](https://zhuanlan.zhihu.com/p/20939640)
 * [linaria](https://github.com/callstack/linaria): <sub>Zero-runtime CSS in JS library https://linaria.now.sh</sub>
+* [csstree](https://github.com/csstree/csstree): <sub>A tool set for working with CSS including fast detailed parser, walker, generator and lexer based on W3C specs and browser implementations </sub>

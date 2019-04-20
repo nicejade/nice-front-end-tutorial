@@ -65,6 +65,8 @@
 * [jekyll](https://github.com/jekyll/jekyll): <sub>🌐 Jekyll is a blog-aware, static site generator in Ruby https://jekyllrb.com</sub>
 * [Ghost](https://github.com/TryGhost/Ghost): <sub>The platform for professional publishers https://ghost.org</sub>
 * [WordPress](https://wordpress.org/): <sub>WordPress is open source software you can use to create a beautiful website, blog, or app.</sub>
+* [eleventy](https://github.com/11ty/eleventy): <sub>A simpler static site generator. An alternative to Jekyll. Transforms a directory of templates (of varying types) into HTML.</sub>
+* [sergey](https://github.com/trys/sergey): <sub>A tiny lil' static site generator</sub>
 
 ### 打造桌面应用
 
@@ -359,3 +361,6 @@
 
 * [web](https://github.com/pikapkg/web)
   > 📦 ✨ Install npm dependencies that run directly in the browser. No Browserify, Webpack or import maps required.
+
+* [glicky](https://github.com/alex-saunders/glicky)
+  > 🐭 An in-browser task runner for modern web development（🐭用于现代 Web 开发的浏览器内任务运行器）
