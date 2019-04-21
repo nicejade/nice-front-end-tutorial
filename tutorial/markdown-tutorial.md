@@ -11,11 +11,12 @@
 
 #### 资源平台
 
-* [MarkEditor](https://www.markeditor.com/): <sub>好的写作体验，更好的效率利器</sub>
-* [作业部落 - 功能强大，速度流畅，全平台同步](https://www.zybuluo.com)
+* [MarkEditor](https://nicelinks.site/post/5b055142e93ed2618cfac124): <sub>好的写作体验，更好的效率利器</sub>
+* [作业部落 - 功能强大，速度流畅，全平台同步](https://nicelinks.site/post/5a5114df0b0ec0396863d7c1): <sub>Cmd Markdown 编辑阅读器，支持实时同步预览，区分写作和阅读模式，支持在线存储，分享文稿网址。</sub>
 * [Stackedit- 国外的在线 markdown 编辑器，功能强大，同步云盘](https://stackedit.io)
 * [Gitbook- 国外的在线 markdown 可编辑成书](https://www.gitbook.com)
 * [微信公众号排版编辑器](https://github.com/lyricat/wechat-format): <sub>转化 Markdown 到给微信特制的 HTML</sub>
+* [Typora](https://nicelinks.site/post/5cbc58707855f80ea42ea6a7): <sub>Typora is a cross-platform minimal markdown editor, providing seamless experience for both markdown readers and writers.</sub>
 * [vnote](https://github.com/tamlok/vnote): <sub>A Vim-inspired note-taking application that knows programmers and Markdown better. https://tamlok.github.io/vnote</sub>
 * [lepture-editor](https://github.com/lepture/editor)
 * [Markdown-editor](https://github.com/jbt/markdown-editor)
