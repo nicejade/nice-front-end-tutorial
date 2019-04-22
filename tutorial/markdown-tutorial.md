@@ -17,6 +17,7 @@
 * [Gitbook- 国外的在线 markdown 可编辑成书](https://www.gitbook.com)
 * [微信公众号排版编辑器](https://github.com/lyricat/wechat-format): <sub>转化 Markdown 到给微信特制的 HTML</sub>
 * [Typora](https://nicelinks.site/post/5cbc58707855f80ea42ea6a7): <sub>Typora is a cross-platform minimal markdown editor, providing seamless experience for both markdown readers and writers.</sub>
+* [notable](https://github.com/notable/notable): <sub>The markdown-based note-taking app that doesn't suck.</sub>
 * [vnote](https://github.com/tamlok/vnote): <sub>A Vim-inspired note-taking application that knows programmers and Markdown better. https://tamlok.github.io/vnote</sub>
 * [lepture-editor](https://github.com/lepture/editor)
 * [Markdown-editor](https://github.com/jbt/markdown-editor)

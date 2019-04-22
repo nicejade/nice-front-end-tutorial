@@ -26,6 +26,7 @@
 ## 插件篇
 
 * [prerender-loader](https://github.com/GoogleChromeLabs/prerender-loader): <sub>📰 Painless universal pre-rendering for Webpack. https://npm.im/prerender-loader</sub>
+* [webpack-deadcode-plugin](https://github.com/MQuy/webpack-deadcode-plugin): <sub>Webpack plugin to detect unused files and unused exports in used files</sub>
 * [guess-webpack](https://github.com/guess-js/guess/tree/master/packages/webpack): <sub>This package exports the GuessPlugin</sub>
 * [vuejs-templates/webpack](https://github.com/vuejs-templates/webpack): <sub>A full-featured Webpack + vue-loader setup with hot reload, linting, testing & css extraction.</sub>
 * [size-limit](https://github.com/ai/size-limit): <sub>Prevent JS libraries bloat. If you accidentally add a massive dependency, Size Limit will throw an error.</sub>
