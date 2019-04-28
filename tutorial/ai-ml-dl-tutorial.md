@@ -16,6 +16,8 @@
 * [Introducing the Facebook Field Guide to Machine Learning video series](https://research.fb.com/the-facebook-field-guide-to-machine-learning-video-series/)
 * [11 Javascript Machine Learning Libraries To Use In Your App](https://blog.bitsrc.io/11-javascript-machine-learning-libraries-to-use-in-your-app-c49772cca46c)
 * [Awesome Marchine Learning](https://github.com/shenwei356/awesome/blob/master/machine-learning.md)
+* [Awesome-Mobile-Machine-Learning](https://github.com/fritzlabs/Awesome-Mobile-Machine-Learning): <sub>A curated list of awesome mobile machine learning resources for iOS, Android, and edge devices. https://fritz.ai
+</sub>
 
 ### Related JS Libraries
 

@@ -26,12 +26,16 @@
 ### CSS 动画库
 
 * [**animate.css**](https://daneden.github.io/animate.css): <sub>Just-add-water CSS animations</sub>
+* [hint.css](https://github.com/chinchang/hint.css): <sub>A CSS only tooltip library for your lovely websites. https://kushagragour.in/lab/hint</sub>
+* [balloon.css](https://github.com/kazzkiq/balloon.css): <sub>Simple tooltips made of pure CSS. https://kazzkiq.github.io/balloon.css</sub>
+* [loaders.css](https://github.com/ConnorAtherton/loaders.css): <sub>Delightful, performance-focused pure css loading animations.</sub>
 * [Hover](https://github.com/IanLunn/Hover): <sub>A collection of CSS3 powered hover effects to be applied to links, buttons, logos, SVG, featured images and so on. Easily apply to your own elements, modify or just use for inspiration. Available in CSS, Sass, and LESS. http://ianlunn.github.io/Hover/</sub>
 
 ### JS 动画库
 
 * [**anime.js**](https://github.com/juliangarnier/anime): <sub>JavaScript Animation Engine http://animejs.com</sub>
 * [animateplus](https://github.com/bendc/animateplus): <sub>A+ animation module for the modern web</sub>
+* [vivus](https://github.com/maxwellito/vivus): <sub>JavaScript library to make drawing animation on SVG</sub>
 * [airbnb/lottie](https://github.com/airbnb/lottie/): <sub>Lottie for Android, iOS, React Native, and Web</sub>
 * [laxxx](https://github.com/alexfoxy/laxxx): <sub>Simple & light weight (2kb minified & zipped) vanilla javascript plugin to create smooth & beautiful animations when you scrolllll! Harness the power of the most intuitive interaction and make your websites come alive!</sub>
 * [popmotion](https://github.com/Popmotion/popmotion): <sub>Monorepo for Popmotion and Pose animation packages https://popmotion.io</sub>
