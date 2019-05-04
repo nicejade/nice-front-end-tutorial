@@ -53,6 +53,7 @@
 
 * [css-doodle](https://github.com/css-doodle/css-doodle): <sub>🎨 A web component for drawing patterns with CSS. </sub>
 * [popmotion](https://popmotion.io/): <sub>A functional, flexible JavaScript motion library</sub>
+* [instagram.css](https://github.com/picturepan2/instagram.css): <sub>Instagram.css - Complete set of Instagram filters in pure CSS</sub>
 * [uncss](https://github.com/uncss/uncss): <sub>Remove unused styles from CSS</sub>
 * [water.css](https://github.com/kognise/water.css): <sub>A just-add-css collection of styles to make simple websites just a little nicer </sub>
 * [css-blocks](https://github.com/linkedin/css-blocks): <sub>High performance, maintainable stylesheets. http://css-blocks.com/</sub>

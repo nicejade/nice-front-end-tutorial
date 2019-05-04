@@ -30,11 +30,13 @@
 * [Awesome Chrome 插件集锦](https://www.jeffjade.com/2017/01/23/118-chrome_awesome_plug-in/)
 * [Vimium~ 让您的 Chrome 起飞](http://www.jeffjade.com/2015/10/19/2015-10-18-chrome-vimium/)
 * [chrome-plugin-demo](https://github.com/sxei/chrome-plugin-demo): <sub>《Chrome 插件开发全攻略》配套完整 Demo</sub>
+* [ChromeAppHeroes](https://github.com/zhaoolee/ChromeAppHeroes): <sub>🌈谷粒-Chrome插件英雄榜, 为优秀的Chrome插件写一本中文说明书, 让Chrome插件英雄们造福人类~</sub>
 
 ## 调试篇
 
 * [各种真机远程调试方法汇总](https://github.com/jieyou/remote_inspect_web_on_real_device)
 * [chrome 调试 canvas](http://sentsin.com/web/253.html)
+* [liriliri/eruda](https://github.com/liriliri/eruda): <sub>Console for mobile browsers. https://eruda.liriliri.io</sub>
 * [chrome 移动版调试](https://developer.chrome.com/devtools/docs/mobile-emulation)
 * [chrome 调试](http://ued.taobao.org/blog/2012/06/debug-with-chrome-dev-tool)
 * [chrome 的调试](http://www.cnblogs.com/QLeelulu/archive/2011/08/28/2156402.html)
