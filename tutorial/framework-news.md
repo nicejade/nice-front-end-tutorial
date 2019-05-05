@@ -6,10 +6,13 @@
 * [hyperapp](https://github.com/jorgebucaran/hyperapp): <sub>1 kB JavaScript micro-framework for building declarative web applications</sub>
 * [ember.js](https://github.com/emberjs/ember.js): <sub>Ember.js - A JavaScript framework for creating ambitious web applications http://www.emberjs.com</sub>
 
+## 2019
+
+- [2019 年值得学习的顶级 JavaScript 框架与主题](https://juejin.im/post/5c3cbb91e51d4550932771ce): 原文：<sub>[Top JavaScript Frameworks and Topics to Learn in 2019](https://medium.com/javascript-scene/top-javascript-frameworks-and-topics-to-learn-in-2019-b4142f38df20)</sub>
+
 ## 2018
 
-## 第一季度
-
+- [2018年 JavaScript 明星项目](https://risingstars.js.org/2018/zh/)
 * [2017 年崛起的 JS 项目](https://juejin.im/post/5a633babf265da3e2a0dadcc): <sub>英文原文地址：[2017 JavaScript Rising Stars](https://risingstars.js.org/2017/en/)</sub>
 * [2018 前端值得关注的技术](https://juejin.im/post/5a519d305188257327396da5)
 * [10 things I love about Vue](https://medium.com/@dalaidunc/10-things-i-love-about-vue-505886ddaff2): 🌟🌟🌟⭐️
@@ -20,6 +23,8 @@
 * [JavaScript 2018: Things You Need To Know, and a Few You Can Skip](https://thenewstack.io/js-2018-things-need-know-can-skip/) ⭐️⭐️⭐️
 
 ## 2017
+
+- [2017年 JavaScript 明星项目](https://risingstars.js.org/2017/zh)
 
 ## 第四季度
 
