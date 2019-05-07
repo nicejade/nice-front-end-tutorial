@@ -35,6 +35,7 @@
 ## 调试篇
 
 * [各种真机远程调试方法汇总](https://github.com/jieyou/remote_inspect_web_on_real_device)
+* [devtools-frontend](https://github.com/ChromeDevTools/devtools-frontend): <sub>The Chrome DevTools UI</sub>
 * [chrome 调试 canvas](http://sentsin.com/web/253.html)
 * [liriliri/eruda](https://github.com/liriliri/eruda): <sub>Console for mobile browsers. https://eruda.liriliri.io</sub>
 * [chrome 移动版调试](https://developer.chrome.com/devtools/docs/mobile-emulation)

@@ -23,6 +23,7 @@
 
 ## 工具篇
 
+* [wasmerio/wasmer](https://github.com/wasmerio/wasmer): <sub>Universal WebAssembly runtime</sub>
 * [vugu](https://github.com/vugu/vugu): <sub>Vugu: A modern UI library for Go+WebAssembly (experimental) https://www.vugu.org/</sub>
 * [WebAssembly 的在线 IDE](https://webassembly.studio/): <sub>WebAssembly 的在线 IDE，支持 C / C ++ / Rust 程序在线编译成 WASM</sub>
 * [perlin-network/life](https://github.com/perlin-network/life): <sub>A secure WebAssembly VM catered for decentralized applications.</sub>

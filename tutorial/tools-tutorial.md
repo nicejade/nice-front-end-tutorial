@@ -366,3 +366,7 @@
 
 * [glicky](https://github.com/alex-saunders/glicky)
   > 🐭 An in-browser task runner for modern web development（🐭用于现代 Web 开发的浏览器内任务运行器）
+
+* [mercury-parser](https://github.com/postlight/mercury-parser)
+  > 📜 Extracting content from the chaos of the web. https://mercury.postlight.com/web-parser/ (📜从混乱的网络中提取内容。
+)

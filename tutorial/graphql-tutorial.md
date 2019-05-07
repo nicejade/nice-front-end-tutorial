@@ -15,6 +15,7 @@ GraphQL 既是一种用于 API 的查询语言也是一个满足你数据查询�
 ## 资源篇
 
 * [awesome-graphql](https://github.com/chentsulin/awesome-graphql): <sub>Awesome list of GraphQL & Relay</sub>
+* [imolorhe/altair](https://github.com/imolorhe/altair): <sub>✨⚡️ A beautiful feature-rich GraphQL Client for all platforms. https://altair.sirmuel.design</sub>
 * [graphql-engine](https://github.com/hasura/graphql-engine): <sub>Blazing fast, instant realtime GraphQL APIs on Postgres with fine grained access control https://hasura.io</sub>
 * [graphpack](https://github.com/glennreyes/graphpack): <sub>☄️ A minimalistic zero-config GraphQL server. </sub>
 * [quicktype](https://github.com/quicktype/quicktype): <sub>Generate types and converters from JSON, Schema, and GraphQL https://app.quicktype.io/</sub>
