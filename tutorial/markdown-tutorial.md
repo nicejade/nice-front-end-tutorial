@@ -11,6 +11,7 @@
 
 #### 资源平台
 
+* [markdown-online-editor](https://github.com/nicejade/markdown-online-editor): <sub>📝基于 Vue、Vditor，所构建的在线 Markdown 编辑器，支持流程图、甘特图、时序图、任务列表、HTML 自动转换为 Markdown 等功能。</sub>
 * [MarkEditor](https://nicelinks.site/post/5b055142e93ed2618cfac124): <sub>好的写作体验，更好的效率利器</sub>
 * [作业部落 - 功能强大，速度流畅，全平台同步](https://nicelinks.site/post/5a5114df0b0ec0396863d7c1): <sub>Cmd Markdown 编辑阅读器，支持实时同步预览，区分写作和阅读模式，支持在线存储，分享文稿网址。</sub>
 * [Stackedit- 国外的在线 markdown 编辑器，功能强大，同步云盘](https://stackedit.io)
