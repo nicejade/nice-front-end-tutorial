@@ -82,6 +82,7 @@
 ### 终端
 
 * [updtr](https://github.com/peerigon/updtr): <sub>Update outdated npm modules with zero pain™</sub>
+* [typescript-starter](https://github.com/bitjson/typescript-starter): <sub>Quickly create and configure a new library or Node.js project</sub>
 * [screenshoteer](https://github.com/vladocar/screenshoteer): <sub>Makes web screenshots and mobile emulations from the command line.</sub>
 * [antonmedv/fx](https://github.com/antonmedv/fx): <sub>Command-line JSON processing tool 🔥</sub>
 * [nodejs-dashboard ](https://github.com/FormidableLabs/nodejs-dashboard): <sub>Telemetry dashboard for node.js apps from the terminal!</sub>

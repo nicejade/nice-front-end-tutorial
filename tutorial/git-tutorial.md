@@ -24,6 +24,7 @@
 
 * [GitHub 漫游指南](https://github.com/phodal/github-roam)
 * [GitHub 秘籍](https://github.com/tiimgreen/github-cheat-sheet/blob/master/README.zh-cn.md)
+* [How-to-collaborate-on-github](https://github.com/eonist/How-to-collaborate-on-github): <sub>A mini book about collaborating on GitHub</sub>
 * [学习 Git 玩转 GitHub](http://www.extlight.com/2017/09/18/%E5%AD%A6%E4%B9%A0Git%E7%8E%A9%E8%BD%ACGitHub/)
 * [使用 git 和 github 进行协同开发流程](http://livoras.com/post/28)
 * [Github 全程指南 - 如何高效使用？](https://github.com/xirong/my-git/blob/master/how-to-use-github.md)

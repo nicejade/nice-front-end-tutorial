@@ -49,6 +49,7 @@
 
 #### 终端
 
+* [terminal](https://github.com/microsoft/terminal): <sub>The new Windows Terminal, and the original Windows console host -- all in the same place!</sub>
 * [butterfly](https://github.com/paradoxxxzero/butterfly): <sub>A web terminal based on websocket and tornado</sub>
 * [bash-it](https://github.com/Bash-it/bash-it): <sub>A community Bash framework.</sub>
 * [Amp](https://github.com/jmacdonald/amp): <sub>A text editor for your terminal.</sub>

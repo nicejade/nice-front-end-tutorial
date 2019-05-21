@@ -26,6 +26,7 @@
 ### CSS 动画库
 
 * [**animate.css**](https://daneden.github.io/animate.css): <sub>Just-add-water CSS animations</sub>
+* [typed.js](https://github.com/mattboldt/typed.js): <sub>A JavaScript Typing Animation Library</sub>
 * [hint.css](https://github.com/chinchang/hint.css): <sub>A CSS only tooltip library for your lovely websites. https://kushagragour.in/lab/hint</sub>
 * [balloon.css](https://github.com/kazzkiq/balloon.css): <sub>Simple tooltips made of pure CSS. https://kazzkiq.github.io/balloon.css</sub>
 * [loaders.css](https://github.com/ConnorAtherton/loaders.css): <sub>Delightful, performance-focused pure css loading animations.</sub>
@@ -53,6 +54,7 @@
 
 * [css-doodle](https://github.com/css-doodle/css-doodle): <sub>🎨 A web component for drawing patterns with CSS. </sub>
 * [popmotion](https://popmotion.io/): <sub>A functional, flexible JavaScript motion library</sub>
+* [cssfx](https://github.com/jolaleye/cssfx): <sub>✨ Beautifully simple click-to-copy CSS effects</sub>
 * [instagram.css](https://github.com/picturepan2/instagram.css): <sub>Instagram.css - Complete set of Instagram filters in pure CSS</sub>
 * [uncss](https://github.com/uncss/uncss): <sub>Remove unused styles from CSS</sub>
 * [water.css](https://github.com/kognise/water.css): <sub>A just-add-css collection of styles to make simple websites just a little nicer </sub>
