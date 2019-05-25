@@ -60,6 +60,7 @@
 * [vuepress](https://github.com/vuejs/vuepress): <sub>Minimalistic Vue-powered static site generator https://vuepress.vuejs.org/</sub>
 * [Docute](https://github.com/leptosia/docute): <sub>📜 Effortlessly documentation done right. https://docute.org/ </sub>
 * [gohugo](https://gohugo.io/): <sub>The world’s fastest framework for building websites</sub>
+* [gitfolio](https://github.com/imfunniee/gitfolio): <sub>:octocat: personal website + blog for every github user.</sub>
 * [letterpad/letterpad](https://github.com/letterpad/letterpad): <sub>Letterpad is an open-source and a high performant publishing engine for blogs built with react & graphql and runs ridiculously fast 🚀 https://letterpad.app/docs</sub>
 * [react-static](https://github.com/nozzle/react-static): <sub>⚛️ 🚀 A progressive static site generator for React. https://nozzle-react-static.netlify.com/</sub>
 * [docsify](https://github.com/docsifyjs/docsify): <sub>🃏 A magical documentation site generator. https://docsify.js.org</sub>
