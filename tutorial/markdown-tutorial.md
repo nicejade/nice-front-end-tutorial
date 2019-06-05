@@ -56,6 +56,7 @@
 #### **Awesome markdown tools**
 
 * [markmap](https://github.com/dundalek/markmap): <sub>Visualize markdown documents as mindmaps</sub>
+* [markvis](https://github.com/geekplux/markvis): <sub>make visualization in markdown. 📊📈 https://markvis.js.org</sub>
 * [markdownlint](https://github.com/DavidAnson/markdownlint): <sub>A Node.js style checker and lint tool for Markdown/CommonMark files.</sub>
 * [**clean-mark**](https://github.com/croqaz/clean-mark): <sub>Convert an article into a clean text</sub>
 * [egoist/maid](https://github.com/egoist/maid): <sub>Markdown driven task runner.</sub>

@@ -44,3 +44,9 @@
 * [Chrome 控制台使用总结](http://blog.damonare.cn/2016/09/09/Chrome控制台使用总结/)
 * [chrome console 命令详解](https://developer.chrome.com/devtools/docs/commandline-api)
 * [JavaScript 内存分析](https://github.com/CN-Chrome-DevTools/CN-Chrome-DevTools/blob/master/md/Performance-Profiling/JavaScript-Memory-Profiling.md)
+
+## 其他篇
+
+* [What’s the Difference Between Chromium and Chrome?](https://www.howtogeek.com/202825/what%E2%80%99s-the-difference-between-chromium-and-chrome/)
+
+

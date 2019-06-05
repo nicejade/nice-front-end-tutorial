@@ -47,6 +47,10 @@
 * [Visual Studio Code 配置指南](http://www.jianshu.com/p/64b3b9197945)
 * [code-server](https://github.com/codercom/code-server): <sub>Run VS Code on a remote server. https://coder.com/</sub>
 
+#### oni2
+
+* [oni2](https://github.com/onivim/oni2): <sub>Native, lightweight modal code editor. https://v2.onivim.io</sub>
+
 #### 终端
 
 * [terminal](https://github.com/microsoft/terminal): <sub>The new Windows Terminal, and the original Windows console host -- all in the same place!</sub>

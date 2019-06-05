@@ -1,6 +1,7 @@
 > The easiest way to think of their relationship is to visualize them as concentric circles with AI — the idea that came first — the largest, then machine learning — which blossomed later, and finally deep learning — which is driving today’s AI explosion — fitting inside both. [What’s the Difference Between Artificial Intelligence, Machine Learning, and Deep Learning?](https://blogs.nvidia.com/blog/2016/07/29/whats-difference-artificial-intelligence-machine-learning-deep-learning-ai/)
 
 * [机器学习与人工智能](https://www.bilibili.com/video/av20922906), 原版地址：[Machine Learning & Artificial Intelligence](https://www.youtube.com/watch?v=z-EtmaFJieY)
+* [AiLearning](https://github.com/apachecn/AiLearning): <sub>AiLearning: 机器学习 - MachineLearning - ML、深度学习 - DeepLearning - DL、自然语言处理 NLP</sub>
 
 ## **Artificial Intelligence**
 
