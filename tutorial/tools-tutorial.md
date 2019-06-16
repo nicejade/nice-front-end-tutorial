@@ -376,3 +376,6 @@
 * [mercury-parser](https://github.com/postlight/mercury-parser)
   > 📜 Extracting content from the chaos of the web. https://mercury.postlight.com/web-parser/ (📜从混乱的网络中提取内容。
 )
+
+* [python-shell](https://github.com/extrabacon/python-shell)
+ > Run Python scripts from Node.js with simple (but efficient) inter-process communication through stdio (通过stdio通过简单（但有效）的进程间通信从Node.js运行Python脚本)
