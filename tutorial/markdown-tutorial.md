@@ -62,3 +62,5 @@
 * [egoist/maid](https://github.com/egoist/maid): <sub>Markdown driven task runner.</sub>
 * [joeyespo/grip](https://github.com/joeyespo/grip): <sub>Preview GitHub Markdown files like Readme locally before committing them.</sub>
 * [mdast](https://github.com/syntax-tree/mdast): <sub>Markdown Abstract Syntax Tree format. https://unified.js.org</sub>
+* [markeye](https://github.com/vesparny/markeye): <sub>A previewer for Markdown files</sub>
+* [remark](https://github.com/gnab/remark): <sub>A simple, in-browser, markdown-driven slideshow tool. https://remarkjs.com</sub>
