@@ -3,10 +3,20 @@
 <h1 align="center">Nice Front-End Tutorial</h1>
 
 <div align="center">
-  <a href="https://twitter.com/intent/tweet?text=Cool:&url=https%3A%2F%2Fgithub.com%2Fnicejade%2Fnice-front-end-tutorial">
-    <img src="https://img.shields.io/twitter/url/https://github.com/nicejade/nice-front-end-tutorial/blob/master/assets/images/lotus.svg?style=for-the-badge" alt="twitter">
+  <a href="https://github.com/nicejade/puppeteer-robot">
+    <img src="https://img.shields.io/github/license/nicejade/nice-front-end-tutorial.svg" alt="LICENSE">
+  </a>
+  <a href="https://hacpai.com/article/1504767632550">
+   <img src="https://img.shields.io/badge/chat-on%20v2ex-brightgreen.svg" alt="Chat On Hacpai">
+  </a>
+  <a href="https://www.jeffjade.com/2017/09/28/127-nice-front-end-tutorial/?utm_source=github.com">
+    <img src="https://img.shields.io/badge/Blog-jeffjade.com-%23a696c8.svg" alt="Blog Homepage">
+  </a>
+  <a href="https://aboutme.lovejade.cn/?utm_source=github.com">
+    <img src="https://img.shields.io/badge/Author-nicejade-%23a696c8.svg" alt="Author nicejade">
   </a>
 </div>
+
 <div align="center">
   <strong>🌍 Constantly updated front-end resources, tutorials, opinions. </strong>
 </div>
