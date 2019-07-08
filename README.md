@@ -3,11 +3,17 @@
 <h1 align="center">Nice Front-End Tutorial</h1>
 
 <div align="center">
-  <a href="https://github.com/nicejade/puppeteer-robot">
+  <a href="https://github.com/nicejade/nice-front-end-tutorial">
     <img src="https://img.shields.io/github/license/nicejade/nice-front-end-tutorial.svg" alt="LICENSE">
   </a>
+  <a href="https://weibo.com/jeffjade">
+    <img src="https://img.shields.io/badge/WeiBo-jeffjade-red.svg?style=flat" alt="Nice Front-End Tutorial">
+  </a>
+  <a href="https://v2ex.com/t/449982#reply11">
+   <img src="https://img.shields.io/badge/Chat-on%20v2ex-brightgreen.svg" alt="Chat On V2ex">
+  </a>
   <a href="https://hacpai.com/article/1504767632550">
-   <img src="https://img.shields.io/badge/chat-on%20v2ex-brightgreen.svg" alt="Chat On Hacpai">
+   <img src="https://img.shields.io/badge/Chat-on%20hacpai-brightgreen.svg" alt="Chat On Hacpai">
   </a>
   <a href="https://www.jeffjade.com/2017/09/28/127-nice-front-end-tutorial/?utm_source=github.com">
     <img src="https://img.shields.io/badge/Blog-jeffjade.com-%23a696c8.svg" alt="Blog Homepage">
