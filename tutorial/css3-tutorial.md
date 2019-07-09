@@ -37,6 +37,7 @@
 * [**anime.js**](https://github.com/juliangarnier/anime): <sub>JavaScript Animation Engine http://animejs.com</sub>
 * [animateplus](https://github.com/bendc/animateplus): <sub>A+ animation module for the modern web</sub>
 * [vivus](https://github.com/maxwellito/vivus): <sub>JavaScript library to make drawing animation on SVG</sub>
+* [scenejs](https://github.com/daybrush/scenejs): <sub>🎬 Scene.js is JavaScript & CSS timeline-based animation library http://daybrush.com/scenejs</sub>
 * [ola](https://github.com/franciscop/ola): <sub>🌊 Smooth animation library for interpolating numbers</sub>
 * [airbnb/lottie](https://github.com/airbnb/lottie/): <sub>Lottie for Android, iOS, React Native, and Web</sub>
 * [laxxx](https://github.com/alexfoxy/laxxx): <sub>Simple & light weight (2kb minified & zipped) vanilla javascript plugin to create smooth & beautiful animations when you scrolllll! Harness the power of the most intuitive interaction and make your websites come alive!</sub>

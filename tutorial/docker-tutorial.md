@@ -24,6 +24,7 @@
 
 ## 相关篇
 
+* [lazydocker](https://github.com/jesseduffield/lazydocker): <sub>The lazier way to manage everything docker</sub>
 * [docker/compose](https://github.com/docker/compose): <sub>Define and run multi-container applications with Docker https://docs.docker.com/compose/</sub>
 * [docker/toolbox ](https://github.com/docker/toolbox): <sub>The Docker Toolbox https://docker.com/toolbox</sub>
 

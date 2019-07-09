@@ -38,6 +38,7 @@
 * [Deep Learning Models](https://github.com/rasbt/deeplearning-models): <sub>A collection of various deep learning architectures, models, and tips</sub>
 * [DeepLearning-500-questions](https://github.com/scutan90/DeepLearning-500-questions): <sub>深度学习500问，以问答形式对常用的概率知识、线性代数、机器学习、深度学习、计算机视觉等热点问题进行阐述，以帮助自己及有需要的读者。 全书分为15个章节，近20万字。由于水平有限，书中不妥之处恳请广大读者批评指正。</sub>
 * [Deep Learning Book Chinese Translation](https://github.com/exacity/deeplearningbook-chinese)
+* [deep-learning-drizzle](https://github.com/kmario23/deep-learning-drizzle): <sub>Drench yourself in Deep Learning, Reinforcement Learning, Machine Learning, Computer Vision, and NLP by learning from these exciting lectures!!  https://deep-learning-drizzle.github.io</sub>
 * [simplified-deeplearning](https://github.com/exacity/simplified-deeplearning): <sub>Simplified implementations of deep learning related works(DeepLearningBook 读书笔记 )</sub>
 
 ### Related JS Libraries
