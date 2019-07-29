@@ -388,4 +388,8 @@
   > 📜 Extracting content from the chaos of the web. https://mercury.postlight.com/web-parser/ (📜 从混乱的网络中提取内容。 )
 
 - [python-shell](https://github.com/extrabacon/python-shell)
+
   > Run Python scripts from Node.js with simple (but efficient) inter-process communication through stdio (通过 stdio 通过简单（但有效）的进程间通信从 Node.js 运行 Python 脚本)
+
+- [async-validator](https://github.com/yiminghe/async-validator)
+  > Validate form asynchronous. A variation of https://freeformsystems/async-validate 异步表单验证

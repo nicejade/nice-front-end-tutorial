@@ -44,6 +44,10 @@
 
 - [fastify](https://github.com/fastify/fastify): <sub>Fast and low overhead web framework, for Node.js https://www.fastify.io</sub>
 
+### nest
+
+- [nestjs/nest](https://github.com/nestjs/nest): <sub>A progressive Node.js framework for building efficient, scalable, and enterprise-grade server-side applications on top of TypeScript & JavaScript (ES6, ES7, ES8) 🚀 https://nestjs.com</sub>
+
 ### Hapi
 
 - [Hapi.js](https://github.com/hapijs/hapi): <sub>Server Framework for Node.js https://hapijs.com</sub>
