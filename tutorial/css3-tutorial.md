@@ -1,7 +1,8 @@
 ## 基础篇
 
-- [CSS 语法参考](http://tympanus.net/codrops/css_reference)
-- [CSS3 动画手册](http://isux.tencent.com/css3/index.html)
+- [CSS 入门教程 | MDN](https://developer.mozilla.org/zh-CN/docs/Web/Guide/CSS/Getting_started)
+- [CSS 基础教程 | MDN](https://developer.mozilla.org/zh-CN/docs/Learn/Getting_started_with_the_web/CSS_basics)
+- [CSS 基础教程 | W3School](https://www.w3school.com.cn/css/index.asp)
 
 ## 进阶篇
 
