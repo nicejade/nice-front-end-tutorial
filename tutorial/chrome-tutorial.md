@@ -9,18 +9,12 @@
 ## 进阶篇
 
 - [**如何更好地运用 Chrome (Google)** ](https://jeffjade.com/2017/05/01/122-how-to-better-use-google_chrome/)
-- [Chrome - 进阶](http://www.cnblogs.com/constantince/p/4579121.html)
-- [Chrome - 性能](http://www.cnblogs.com/constantince/p/4585983.html)
-- [Chrome - 性能进阶](http://www.cnblogs.com/constantince/p/4607497.html)
-- [Chrome - Console 控制台不完全指南](http://www.cnblogs.com/Wayou/p/chrome-console-tips-and-tricks.html)
-- [Chrome - Workspace 使浏览器变成 IDE](http://c7sky.com/chrome-devtools-workspace.html)
-- [network 面板](http://www.html-js.com/article/Nothing-blind%202975)
-- [chrome 开发工具快捷键](http://anti-code.com/devtools-cheatsheet)
-- [chrome 调试工具常用功能整理](http://www.html-js.com/article/2327)
-- [Chrome 开发工具 Workspace 使用](http://www.iinterest.net/2014/05/09/chrome-dev-tool-workspace)
-- [sass 调试 -w3cplus](http://www.w3cplus.com/sassguide/debug.html)
-- [如何更专业的使用 Chrome 开发者工具 -w3cplus](http://www.w3cplus.com/tools/how-to-use-chrome-devtools-like-a-pro.html)
-- [奇趣百科性能优化 (Chrome DevTools 中的 Timeline Profils 等工具使用介绍](https://xinranliu.me/2015-05-22-qiqu-performance)
+- [Chrome 控制台不完全指南](http://www.cnblogs.com/Wayou/p/chrome-console-tips-and-tricks.html)
+- [Chrome 开发者工具使用进阶](http://www.cnblogs.com/constantince/p/4579121.html)
+- [Chrome 开发者工具 | 性能](http://www.cnblogs.com/constantince/p/4585983.html)
+- [Chrome 开发者工具 | 性能进阶](http://www.cnblogs.com/constantince/p/4607497.html)
+- [如何更专业的使用 Chrome 开发者工具](http://www.w3cplus.com/tools/how-to-use-chrome-devtools-like-a-pro.html)
+- [JavaScript 内存分析](https://github.com/CN-Chrome-DevTools/CN-Chrome-DevTools/blob/master/md/Performance-Profiling/JavaScript-Memory-Profiling.md)
 
 ## 扩展篇
 
@@ -32,15 +26,13 @@
 ## 调试篇
 
 - [各种真机远程调试方法汇总](https://github.com/jieyou/remote_inspect_web_on_real_device)
+- [使用 Chrome 模拟移动设备](https://developer.chrome.com/devtools/docs/mobile-emulation)
+- [Console Utilities API Reference](https://developer.chrome.com/devtools/docs/commandline-api)
+
+### Github Repository
+
 - [devtools-frontend](https://github.com/ChromeDevTools/devtools-frontend): <sub>The Chrome DevTools UI</sub>
-- [chrome 调试 canvas](http://sentsin.com/web/253.html)
 - [liriliri/eruda](https://github.com/liriliri/eruda): <sub>Console for mobile browsers. https://eruda.liriliri.io</sub>
-- [chrome 移动版调试](https://developer.chrome.com/devtools/docs/mobile-emulation)
-- [chrome 调试](http://ued.taobao.org/blog/2012/06/debug-with-chrome-dev-tool)
-- [chrome 的调试](http://www.cnblogs.com/QLeelulu/archive/2011/08/28/2156402.html)
-- [Chrome 控制台使用总结](http://blog.damonare.cn/2016/09/09/Chrome控制台使用总结/)
-- [chrome console 命令详解](https://developer.chrome.com/devtools/docs/commandline-api)
-- [JavaScript 内存分析](https://github.com/CN-Chrome-DevTools/CN-Chrome-DevTools/blob/master/md/Performance-Profiling/JavaScript-Memory-Profiling.md)
 
 ## 其他篇
 
