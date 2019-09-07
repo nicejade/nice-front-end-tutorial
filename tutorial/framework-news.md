@@ -1,10 +1,11 @@
 ## Other Framework
 
-* [Rocket](https://github.com/SergioBenitez/Rocket): <sub>A web framework for Rust. https://rocket.rs/</sub>
-* [ionic](https://github.com/ionic-team/ionic): <sub>Build amazing native and progressive web apps with open web technologies. One app running on everything 🎉 https://ionicframework.com</sub>
-* [Tencent/omi](https://github.com/Tencent/omi): <sub>Next generation web framework in 4kb JavaScript (Web Components + JSX + Proxy + Store + Path Updating) http://omijs.org</sub>
-* [hyperapp](https://github.com/jorgebucaran/hyperapp): <sub>1 kB JavaScript micro-framework for building declarative web applications</sub>
-* [ember.js](https://github.com/emberjs/ember.js): <sub>Ember.js - A JavaScript framework for creating ambitious web applications http://www.emberjs.com</sub>
+- [svelte](https://github.com/sveltejs/svelte): <sub>Cybernetically enhanced web apps</sub>
+- [Rocket](https://github.com/SergioBenitez/Rocket): <sub>A web framework for Rust. https://rocket.rs/</sub>
+- [ionic](https://github.com/ionic-team/ionic): <sub>Build amazing native and progressive web apps with open web technologies. One app running on everything 🎉 https://ionicframework.com</sub>
+- [Tencent/omi](https://github.com/Tencent/omi): <sub>Next generation web framework in 4kb JavaScript (Web Components + JSX + Proxy + Store + Path Updating) http://omijs.org</sub>
+- [hyperapp](https://github.com/jorgebucaran/hyperapp): <sub>1 kB JavaScript micro-framework for building declarative web applications</sub>
+- [ember.js](https://github.com/emberjs/ember.js): <sub>Ember.js - A JavaScript framework for creating ambitious web applications http://www.emberjs.com</sub>
 
 ## 2019
 
@@ -12,7 +13,8 @@
 
 ## 2018
 
-- [2018年 JavaScript 明星项目](https://risingstars.js.org/2018/zh/)
+- [2018 年 JavaScript 明星项目](https://risingstars.js.org/2018/zh/)
+
 * [2017 年崛起的 JS 项目](https://juejin.im/post/5a633babf265da3e2a0dadcc): <sub>英文原文地址：[2017 JavaScript Rising Stars](https://risingstars.js.org/2017/en/)</sub>
 * [2018 前端值得关注的技术](https://juejin.im/post/5a519d305188257327396da5)
 * [10 things I love about Vue](https://medium.com/@dalaidunc/10-things-i-love-about-vue-505886ddaff2): 🌟🌟🌟⭐️
@@ -24,19 +26,19 @@
 
 ## 2017
 
-- [2017年 JavaScript 明星项目](https://risingstars.js.org/2017/zh)
+- [2017 年 JavaScript 明星项目](https://risingstars.js.org/2017/zh)
 
 ## 第四季度
 
-* [Top JavaScript Libraries & Tech to Learn in 2018](https://medium.com/javascript-scene/top-javascript-libraries-tech-to-learn-in-2018-c38028e028e6) 🌟🌟🌟⭐️
-* [Which JavaScript Frameworks Are the Fastest?](https://javascriptreport.com/js-frameworks-fastest/) 🌟🌟🌟⭐
-* [Web Frameworks: Conclusions](https://www.sitepen.com/blog/2017/11/10/web-frameworks-conclusions/) 🌟🌟🌟⭐️
-* [I just asked 23,000 developers what they think of JavaScript. Here’s what I learned.](https://medium.freecodecamp.org/i-just-asked-23-000-developers-what-they-think-of-javascript-heres-what-i-learned-9a06b61998fa) 🌟🌟🌟⭐️
+- [Top JavaScript Libraries & Tech to Learn in 2018](https://medium.com/javascript-scene/top-javascript-libraries-tech-to-learn-in-2018-c38028e028e6) 🌟🌟🌟⭐️
+- [Which JavaScript Frameworks Are the Fastest?](https://javascriptreport.com/js-frameworks-fastest/) 🌟🌟🌟⭐
+- [Web Frameworks: Conclusions](https://www.sitepen.com/blog/2017/11/10/web-frameworks-conclusions/) 🌟🌟🌟⭐️
+- [I just asked 23,000 developers what they think of JavaScript. Here’s what I learned.](https://medium.freecodecamp.org/i-just-asked-23-000-developers-what-they-think-of-javascript-heres-what-i-learned-9a06b61998fa) 🌟🌟🌟⭐️
 
 ---
 
 ## 相关库
 
-* [awesome-uikit](https://github.com/jaywcjlove/awesome-uikit): <sub>Collect JS Frameworks, Web components library and Admin Template.</sub>
-* [CompuIves/codesandbox-client](https://github.com/CompuIves/codesandbox-client): <sub>An online code editor tailored for web application development 🏖️ https://codesandbox.io</sub>
-* [storybook](https://github.com/storybooks/storybook): <sub>Interactive UI component dev & test: React, React Native, Vue, Angular https://storybook.js.org</sub>
+- [awesome-uikit](https://github.com/jaywcjlove/awesome-uikit): <sub>Collect JS Frameworks, Web components library and Admin Template.</sub>
+- [CompuIves/codesandbox-client](https://github.com/CompuIves/codesandbox-client): <sub>An online code editor tailored for web application development 🏖️ https://codesandbox.io</sub>
+- [storybook](https://github.com/storybooks/storybook): <sub>Interactive UI component dev & test: React, React Native, Vue, Angular https://storybook.js.org</sub>

@@ -10,6 +10,7 @@
 
 ## 周边篇
 
+- [WebAssemblyStudio](https://github.com/wasdk/WebAssemblyStudio): <sub>Learn, Teach, Work and Play in the WebAssembly Studio</sub>
 - [WebAssembly’s post-MVP future: A cartoon skill tree](https://hacks.mozilla.org/2018/10/webassemblys-post-mvp-future/)
 - [如何评论浏览器最新的 WebAssembly 字节码技术？](https://www.zhihu.com/question/31415286)
 - [Compile WebAssembly to JVM and other WASM tools ](https://github.com/cretz/asmble)

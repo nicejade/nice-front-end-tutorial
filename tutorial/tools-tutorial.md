@@ -78,6 +78,10 @@
 - [eleventy](https://github.com/11ty/eleventy): <sub>A simpler static site generator. An alternative to Jekyll. Transforms a directory of templates (of varying types) into HTML.</sub>
 - [sergey](https://github.com/trys/sergey): <sub>A tiny lil' static site generator</sub>
 
+### 构建论坛社区
+
+- [flarum/flarum](https://github.com/flarum/flarum): <sub>Simple forum software for building great communities.</sub>
+
 ### 打造桌面应用
 
 - [revery](https://github.com/revery-ui/revery): <sub>⚡️ Native, high-performance, cross-platform desktop apps - built with Reason! https://www.outrunlabs.com/revery/ </sub>
@@ -98,6 +102,8 @@
 - [concurrently](https://github.com/kimmobrunfeldt/concurrently): <sub>Run commands concurrently. Like `npm run watch-js & npm run watch-less` but better.</sub>
 - [mixn/carbon-now-cli](https://github.com/mixn/carbon-now-cli): <sub>🎨 Beautiful images of your code — from right inside your terminal.</sub>
 - [youtube-dl](https://github.com/rg3/youtube-dl): <sub>Command-line program to download videos from YouTube.com and other video sites http://rg3.github.io/youtube-dl/</sub>
+- [tiny-care-terminal](https://github.com/notwaldorf/tiny-care-terminal): <sub>💖💻 A little dashboard that tries to take care of you when you're using your terminal.</sub>
+- [tsl0922/ttyd](https://github.com/tsl0922/ttyd): <sub>Share your terminal over the web</sub>
 
 #### Terminal Search/finder
 

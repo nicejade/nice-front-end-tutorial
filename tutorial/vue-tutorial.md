@@ -25,6 +25,7 @@
 ## 资源篇
 
 - [vuejs/awesome-vue](https://github.com/vuejs/awesome-vue)
+- [OverVue](https://github.com/open-source-labs/OverVue): <sub>Prototyping Tool For Vue Devs 适用于 Vue 的原型工具</sub>
 - [VueJS 开发常见问题集锦](https://blog.beard.ink/JavaScript/VueJS-开发常见问题集锦/)
 
 ### UI 组件框架
@@ -46,6 +47,7 @@
 - [vuetifyjs](https://vuetifyjs.com/): <sub>Material Design Component Framework</sub>
 - [awesome-vue-cli3-example](https://github.com/nicejade/awesome-vue-cli3-example): <sub>🍑Awesome example for rapid Vue.js development using vue-cli3 .</sub>
 - [vue-boilerplate-template](https://github.com/nicejade/vue-boilerplate-template): <sub>🍎 Efficient development of web SPA using Vue.js(2.\*) + Webpack + Element-ui + Pwa + Vuex + Vuex-router + Vue-i18n + Dayjs + Lodash.</sub>
+- [vuestic-admin](https://github.com/epicmaxco/vuestic-admin): <sub>Free and Beautiful Vue.js Admin Template</sub>
 - [vuepress-web-app](https://github.com/nicejade/vuepress-web-app): <sub>📝 Web applications built with Vuepress https://nice.lovejade.cn/</sub>
 - [create-nuxt-app](https://github.com/nuxt-community/create-nuxt-app): <sub>Create Nuxt.js App in seconds.</sub>
 - [create-vue-app](https://github.com/vue-land/create-vue-app): <sub>Create Vue apps with no build configuration.</sub>
