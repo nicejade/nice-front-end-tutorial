@@ -85,6 +85,8 @@
 
 ### 终端
 
+- [nicejade/arya-jarvis]: <sub>🛠 Designed to save developers more time and energy.</sub>
+- [nexe/nexe](https://github.com/nexe/nexe): <sub>🎉 create a single executable out of your node.js apps</sub>
 - [updtr](https://github.com/peerigon/updtr): <sub>Update outdated npm modules with zero pain™</sub>
 - [typescript-starter](https://github.com/bitjson/typescript-starter): <sub>Quickly create and configure a new library or Node.js project</sub>
 - [screenshoteer](https://github.com/vladocar/screenshoteer): <sub>Makes web screenshots and mobile emulations from the command line.</sub>
