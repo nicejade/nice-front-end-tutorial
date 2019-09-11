@@ -86,6 +86,7 @@
 
 - [revery](https://github.com/revery-ui/revery): <sub>⚡️ Native, high-performance, cross-platform desktop apps - built with Reason! https://www.outrunlabs.com/revery/ </sub>
 - [electron](https://github.com/electron/electron): <sub>Build cross-platform desktop apps with JavaScript, HTML, and CSS https://electronjs.org(使用JavaScript，HTML和CSS构建跨平台桌面应用程序https://electronjs.org)</sub>
+- [zserge/lorca](https://github.com/zserge/lorca): <sub>Build cross-platform modern desktop apps in Go + HTML5（使用 Go + HTML5 构建跨平台的现代桌面应用程序）</sub>
 - [nativefier](https://github.com/jiahaog/nativefier): <sub>Make any web page a desktop application( 使任何网页成为桌面应用程序 )</sub>
 - [react-native](https://github.com/facebook/react-native): <sub>A framework for building native apps with React. https://facebook.github.io/react-native/</sub>
 - [vuido](https://github.com/mimecorg/vuido): <sub>Native desktop applications using Vue.js( 使用 Vue.js 的本机桌面应用程序 ). https://vuido.mimec.org/</sub>
