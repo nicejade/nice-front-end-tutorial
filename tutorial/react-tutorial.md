@@ -28,6 +28,7 @@
 - [Ant Design](https://ant.design/)
 - [React material UI](http://material-ui.com/#)
 - [React amazeui UI](http://amazeui.org/react)
+- [chakra-ui](https://github.com/chakra-ui/chakra-ui): <sub>⚡️Simple, Modular & Accessible UI Components for your React Applications https://chakra-ui.com</sub>
 - [PrimeReact UI](https://www.primefaces.org/primereact/#/): <sub>Your Favorite UI Framework for REACT</sub>
 - [RSUITE](https://rsuitejs.com/): <sub>一套 React 的 UI 组件库</sub>
 - [react-native-elements](https://github.com/react-native-training/react-native-elements): <sub>Cross Platform React Native UI Toolkit</sub>

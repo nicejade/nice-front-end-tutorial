@@ -25,6 +25,7 @@
 ## 工具篇
 
 - [wasmerio/wasmer](https://github.com/wasmerio/wasmer): <sub>Universal WebAssembly runtime</sub>
+- [wasmtime](https://github.com/CraneStation/wasmtime): <sub>Standalone JIT-style runtime for WebAssembly, using Cranelift</sub>
 - [AssemblyScript](https://github.com/AssemblyScript/assemblyscript): <sub>Definitely not a TypeScript to WebAssembly compiler 🚀 https://assemblyscript.org</sub>
 - [vugu](https://github.com/vugu/vugu): <sub>Vugu: A modern UI library for Go+WebAssembly (experimental) https://www.vugu.org/</sub>
 - [WebAssembly 的在线 IDE](https://webassembly.studio/): <sub>WebAssembly 的在线 IDE，支持 C / C ++ / Rust 程序在线编译成 WASM</sub>
