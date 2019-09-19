@@ -100,6 +100,7 @@
 - [nagibabel.js](https://github.com/fual/nagibabel.js): <sub>nagibabel.js is a blazing fast, zero configuration tool to remove bad code from your project.</sub>
 - [npm-check](https://github.com/dylang/npm-check): <sub>Check for outdated, incorrect, and unused dependencies. </sub>
 - [nativefier](https://github.com/jiahaog/nativefier): <sub>Make any web page a desktop application.</sub>
+- [js-fire](https://github.com/hobochild/js-fire): <sub>A javascript clone of google/python-fire 🔥</sub>
 
 ### 非终端
 
