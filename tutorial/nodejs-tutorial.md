@@ -101,6 +101,8 @@
 - [npm-check](https://github.com/dylang/npm-check): <sub>Check for outdated, incorrect, and unused dependencies. </sub>
 - [nativefier](https://github.com/jiahaog/nativefier): <sub>Make any web page a desktop application.</sub>
 - [js-fire](https://github.com/hobochild/js-fire): <sub>A javascript clone of google/python-fire 🔥</sub>
+- [Inquirer](https://github.com/SBoudrias/Inquirer.js): <sub>A collection of common interactive command line user interfaces.</sub>
+- [sindresorhus/ora](https://github.com/sindresorhus/ora): <sub>Elegant terminal spinner</sub>
 
 ### 非终端
 
