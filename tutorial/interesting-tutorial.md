@@ -40,3 +40,5 @@
 - [micromatch](https://github.com/micromatch/micromatch): <sub>Highly optimized wildcard and glob matching library. Faster, drop-in replacement to minimatch and multimatch. Used by babel core, yarn, jest, browser-sync, documentation.js, stylelint, nyc, and many others! </sub>
 - [tracking.js](https://github.com/eduardolundgren/tracking.js): <sub>A modern approach for Computer Vision on the web http://trackingjs.com</sub>
 - [comicgen](https://github.com/gramener/comicgen): <sub>Create comics for your website or app. https://gramener.com/comicgen</sub>
+- [fangzesheng/free-api](https://github.com/fangzesheng/free-api): <sub>收集免费的接口服务,做一个 api 的搬运工</sub>
+- [emojicode](https://github.com/emojicode/emojicode): <sub>😀😜🔂 World’s only programming language that’s bursting with emojis</sub>
