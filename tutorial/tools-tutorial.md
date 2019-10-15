@@ -297,10 +297,6 @@
 
   > A better way for new feature introduction and step-by-step users guide for your website and project. ( 为您的网站和项目提供新功能介绍和分步用户指南的更好方法 ) http://introjs.com
 
-- [chalk](https://github.com/chalk/chalk)
-
-  > 🖍 Terminal string styling done right (🖍 终端字符串造型完成 )
-
 - [shelljs](https://github.com/shelljs/shelljs)
 
   > 🐚 Portable Unix shell commands for Node.js http://shelljs.org (Node.js 的 Portable Unix shell 命令 )

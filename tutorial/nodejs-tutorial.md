@@ -100,9 +100,15 @@
 - [nagibabel.js](https://github.com/fual/nagibabel.js): <sub>nagibabel.js is a blazing fast, zero configuration tool to remove bad code from your project.</sub>
 - [npm-check](https://github.com/dylang/npm-check): <sub>Check for outdated, incorrect, and unused dependencies. </sub>
 - [nativefier](https://github.com/jiahaog/nativefier): <sub>Make any web page a desktop application.</sub>
-- [js-fire](https://github.com/hobochild/js-fire): <sub>A javascript clone of google/python-fire 🔥</sub>
 - [Inquirer](https://github.com/SBoudrias/Inquirer.js): <sub>A collection of common interactive command line user interfaces.</sub>
 - [sindresorhus/ora](https://github.com/sindresorhus/ora): <sub>Elegant terminal spinner</sub>
+
+#### For CLI Library
+
+- [commander.js](https://github.com/tj/commander.js/): <sub>node.js command-line interfaces made easy</sub>
+- [js-fire](https://github.com/hobochild/js-fire): <sub>A javascript clone of google/python-fire 🔥</sub>
+- [sindresorhus/ora](https://github.com/sindresorhus/ora): <sub>Elegant terminal spinner</sub>
+- [chalk](https://github.com/chalk/chalk): <sub>🖍 Terminal string styling done right.</sub>
 
 ### 非终端
 
@@ -110,7 +116,6 @@
 - [pill](https://github.com/rumkin/pill): <sub>Add dynamic content loading to static sites with only 1 KiB of JS</sub>
 - [microjob](https://github.com/wilk/microjob): <sub>A tiny wrapper for turning Node.js worker threads into easy-to-use routines for heavy CPU loads. https://wilk.github.io/microjob/</sub>
 - [yargs](https://github.com/yargs/yargs): <sub>yargs the modern, pirate-themed successor to optimist. http://yargs.js.org/</sub>
-- [commander.js](https://github.com/tj/commander.js/): <sub>node.js command-line interfaces made easy</sub>
 - [shelljs](https://github.com/shelljs/shelljs): <sub>🐚 Portable Unix shell commands for Node.js http://shelljs.org</sub>
 - [server.js](https://github.com/franciscop/server): <sub>🖥 Simple and powerful server for Node.js https://serverjs.io/</sub>
 - [node-qrcode](https://github.com/soldair/node-qrcode): <sub>qr code generator</sub>

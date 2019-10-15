@@ -16,3 +16,7 @@
 - [ingress-nginx](https://github.com/kubernetes/ingress-nginx): <sub>NGINX Ingress Controller for Kubernetes</sub>
 - [kubeflow](https://github.com/kubeflow/kubeflow): <sub>Machine Learning Toolkit for Kubernetes</sub>
 - [Tilt](https://github.com/windmilleng/tilt): <sub>Local Kubernetes development with no stress https://tilt.build/</sub>
+
+### Node.js
+
+- [kubesail/deploy-node-app](https://github.com/kubesail/deploy-node-app): <sub>Deploy your node.js app to Kubernetes with a single command. No config required.</sub>
