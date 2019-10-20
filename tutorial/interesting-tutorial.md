@@ -42,3 +42,4 @@
 - [comicgen](https://github.com/gramener/comicgen): <sub>Create comics for your website or app. https://gramener.com/comicgen</sub>
 - [fangzesheng/free-api](https://github.com/fangzesheng/free-api): <sub>收集免费的接口服务,做一个 api 的搬运工</sub>
 - [emojicode](https://github.com/emojicode/emojicode): <sub>😀😜🔂 World’s only programming language that’s bursting with emojis</sub>
+- [KnowledgeGraphData](https://github.com/ownthink/KnowledgeGraphData): <sub>史上最大规模 1.4 亿中文知识图谱开源下载</sub>

@@ -54,6 +54,10 @@
 
 - [oni2](https://github.com/onivim/oni2): <sub>Native, lightweight modal code editor. https://v2.onivim.io</sub>
 
+#### 富文本
+
+- [braft-editor](https://github.com/margox/braft-editor): <sub>美观易用的 React 富文本编辑器，基于 draft-js 开发，https://braft.margox.cn/</sub>
+
 #### 终端
 
 - [gokcehan/lf](https://github.com/gokcehan/lf): <sub>Terminal file manager https://godoc.org/github.com/gokcehan/lf</sub>

@@ -55,6 +55,7 @@
 
 ## 周边篇
 
+- [sanitize.css](https://github.com/csstools/sanitize.css): <sub>A best-practices CSS foundation https://csstools.github.io/sanitize.css</sub>
 - [css-doodle](https://github.com/css-doodle/css-doodle): <sub>🎨 A web component for drawing patterns with CSS. </sub>
 - [CSS-Inspiration](https://github.com/chokcoco/CSS-Inspiration): <sub>CSS Inspiration，在这里找到写 CSS 的灵感!</sub>
 - [popmotion](https://popmotion.io/): <sub>A functional, flexible JavaScript motion library</sub>

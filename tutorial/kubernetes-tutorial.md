@@ -16,6 +16,7 @@
 - [ingress-nginx](https://github.com/kubernetes/ingress-nginx): <sub>NGINX Ingress Controller for Kubernetes</sub>
 - [kubeflow](https://github.com/kubeflow/kubeflow): <sub>Machine Learning Toolkit for Kubernetes</sub>
 - [Tilt](https://github.com/windmilleng/tilt): <sub>Local Kubernetes development with no stress https://tilt.build/</sub>
+- [fluentd-kubernetes-daemonset](https://github.com/fluent/fluentd-kubernetes-daemonset): <sub>Fluentd daemonset for Kubernetes and it Docker image</sub>
 
 ### Node.js
 
