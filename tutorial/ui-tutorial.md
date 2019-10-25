@@ -33,6 +33,7 @@
 - [wiredjs/wired-elements](https://github.com/wiredjs/wired-elements)：<sub>Collection of elements that appear hand drawn. Great for wireframes. https://wiredjs.com</sub>
 - [nhnent/tui.calendar](https://github.com/nhnent/tui.calendar): <sub>🍞📅A JavaScript calendar that everything you need. http://ui.toast.com/tui-calendar</sub>
 - [tippyjs](https://github.com/atomiks/tippyjs): <sub>Highly customizable tooltip and popover library https://atomiks.github.io/tippyjs</sub>
+- [kenwheeler/slick](https://github.com/kenwheeler/slick): <sub>the last carousel you'll ever need</sub>
 
 ### 可视化
 

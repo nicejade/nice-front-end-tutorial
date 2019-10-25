@@ -7,8 +7,7 @@
 - [Awesome-Deep-Learning-Papers](https://github.com/terryum/awesome-deep-learning-papers): <sub>The most cited deep learning papers.</sub>
 - [Awesome-Deeplearning-Resources](https://github.com/endymecy/awesome-deeplearning-resources): <sub>Deep Learning and deep reinforcement learning research papers and some codes</sub>
 - [Awesome-Machine-Learning](https://github.com/josephmisiti/awesome-machine-learning): <sub>A curated list of awesome Machine Learning frameworks, libraries and software.</sub>
-- [Awesome-Machine-Learning-Cn](https://github.com/jobbole/awesome-machine-learning-cn): <sub>机器学习资源大全中文版，包括机器学习领域的框架、
-库以及软件</sub>
+- [Awesome-Machine-Learning-Cn](https://github.com/jobbole/awesome-machine-learning-cn): <sub>机器学习资源大全中文版，包括机器学习领域的框架、库以及软件</sub>
 - [Awesome-Machine-Learning-On-Source-Code](https://github.com/src-d/awesome-machine-learning-on-source-code): <sub>Cool links & research papers related to Machine Learning applied to source code (MLonCode)</sub>
 - [Awesome-Nlp](https://github.com/keon/awesome-nlp): <sub>📖 A curated list of resources dedicated to Natural Language Processing (NLP)</sub>
 - [Awesome-Project-Ideas](https://github.com/NirantK/awesome-project-ideas): <sub>Curated list of Machine Learning, NLP, Vision, Recommender Systems Project Ideas</sub>
@@ -42,6 +41,7 @@
 
 - [Awesome-Web-Design](https://github.com/nicolesaidy/awesome-web-design): <sub>🎨 A curated list of awesome resources for digital designers.</sub>
 - [Awesome-Performance-Optimization](https://github.com/davidsonfellipe/awesome-wpo): <sub>📝 A curated list of Web Performance Optimization. Everyone can contribute here!</sub>
+- [awesome-roadmaps](https://github.com/orsanawwad/awesome-roadmaps): <sub>View roadmaps about developer roles to help you learn</sub>
 
 ### ⚔️ Tools
 
@@ -74,8 +74,7 @@
 
 - [Awesome-Datebase](https://github.com/numetriclabz/awesome-db): <sub>A curated list of amazingly awesome database libraries, resources and shiny things by numetriclabz.com</sub>
 - [Awesome-Mysql](https://github.com/shlomi-noach/awesome-mysql): <sub>A curated list of awesome MySQL software, libraries, tools and resources</sub>
-- [Awesome-Mongodb](https://github.com/ramnes/awesome-mongodb): <sub>🍃 A curated list of awesome MongoDB resources, libraries, tools and applications
-</sub>
+- [Awesome-Mongodb](https://github.com/ramnes/awesome-mongodb): <sub>🍃 A curated list of awesome MongoDB resources, libraries, tools and applications </sub>
 - [Awesome-Postgres](https://github.com/dhamaniasad/awesome-postgres): <sub>A curated list of awesome PostgreSQL software, libraries, tools and resources, inspired by awesome-mysql</sub>
 
 ## 🎣 Awesome Front-Back-End List
@@ -107,8 +106,7 @@
 
 ### 💻 System
 
-- [Awesome-linux](https://github.com/aleksandar-todorovic/awesome-linux): <sub>🐧 A list of awesome projects and resources that make Linux even more awesome.
-</sub>
+- [Awesome-linux](https://github.com/aleksandar-todorovic/awesome-linux): <sub>🐧 A list of awesome projects and resources that make Linux even more awesome. </sub>
 - [Awesome-Mac](https://github.com/jaywcjlove/awesome-mac): <sub> Now we have become very big, Different from the original idea. Collect premium software in various categories.</sub>
 - [Awesome-MacOS](https://github.com/iCHAIT/awesome-macOS): <sub> A curated list of awesome applications, softwares, tools and shiny things for macOS.</sub>
 - [Awesome-Macos-Command-Line](https://github.com/herrbischoff/awesome-macos-command-line): <sub>Use your macOS terminal shell to do awesome things.</sub>
@@ -117,7 +115,7 @@
 ## 🌷 Awesome Other Wizards List
 
 - [Awesome-Actions](https://github.com/sdras/awesome-actions): <sub>A curated list of awesome actions to use on GitHub</sub>
-- [Awesome-Algorithm](https://github.com/apachecn/awesome-algorithm): <sub>LeetCode, HackRank, 剑指offer, classic algorithm implementation</sub>
+- [Awesome-Algorithm](https://github.com/apachecn/awesome-algorithm): <sub>LeetCode, HackRank, 剑指 offer, classic algorithm implementation</sub>
 - [Awesome-Piracy](https://github.com/Igglybuff/awesome-piracy): <sub>A curated list of awesome warez and piracy links</sub>
 - [Awesome-Algolia](https://github.com/algolia/awesome-algolia): <sub>🔍👋 START HERE! A curated list of Algolia libraries, resources and projects.</sub>
 - [Awesome-Awesome](https://github.com/emijrp/awesome-awesome): <sub>A curated list of awesome curated lists of many topics.</sub>
@@ -134,7 +132,7 @@
 - [Awesome-Math](https://github.com/rossant/awesome-math): <sub>A curated list of awesome mathematics resources</sub>
 - [Awesome-Flutter](https://github.com/Solido/awesome-flutter): <sub>An awesome list that curates the best Flutter libraries, tools, tutorials, articles and more.</sub>
 - [Awesome-Github](https://github.com/Kikobeats/awesome-github): <sub>An exquisite list of awesome :octocat: secrets.</sub>
-- [Awesome-Github-Vue](https://github.com/opendigg/awesome-github-vue): <sub>Vue相关开源项目库汇总</sub>
+- [Awesome-Github-Vue](https://github.com/opendigg/awesome-github-vue): <sub>Vue 相关开源项目库汇总</sub>
 - [Awesome-README](https://github.com/matiassingers/awesome-readme): <sub>A curated list of awesome READMEs</sub>
 - [Awesome-Resources](https://github.com/lyfeyaj/awesome-resources): <sub>Awesome resources for coding and learning: open source projects, websites, books e.g.</sub>
 - [Awesome-Talks](https://github.com/JanVanRyswyck/awesome-talks): <sub>Awesome online talks and screencasts</sub>

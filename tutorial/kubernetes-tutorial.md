@@ -6,6 +6,7 @@
 - [Kubernetes Github](https://github.com/kubernetes/kubernetes)
 - [Kubernetes 中文社区](https://www.kubernetes.org.cn/)
 - [Kubernetes 教程简介（英）](http://okigiveup.net/a-tutorial-introduction-to-kubernetes/)
+- [kubernetes-basicLearning](https://github.com/knrt10/kubernetes-basicLearning): <sub>Understand kubernetes step by step. A simple repo for beginners 🔥</sub>
 - [为什么 Kubernetes 是新的应用服务器（英）](https://developers.redhat.com/blog/2018/06/28/why-kubernetes-is-the-new-application-server/)
 
 ## 资源篇
@@ -17,6 +18,7 @@
 - [kubeflow](https://github.com/kubeflow/kubeflow): <sub>Machine Learning Toolkit for Kubernetes</sub>
 - [Tilt](https://github.com/windmilleng/tilt): <sub>Local Kubernetes development with no stress https://tilt.build/</sub>
 - [fluentd-kubernetes-daemonset](https://github.com/fluent/fluentd-kubernetes-daemonset): <sub>Fluentd daemonset for Kubernetes and it Docker image</sub>
+- [kubernetes-up-and-running/kuard](https://github.com/kubernetes-up-and-running/kuard): <sub>Demo app for Kubernetes Up and Running book</sub>
 
 ### Node.js
 

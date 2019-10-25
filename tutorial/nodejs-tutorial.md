@@ -11,6 +11,7 @@
 
 ## 进阶篇
 
+- [yjhjstz/deep-into-node](https://github.com/yjhjstz/deep-into-node): <sub>深入理解 Node.js：核心思想与源码分析</sub>
 - [Node.js Tutorials and Resources](https://blog.risingstack.com/)
 - [NodeJS 的代码调试和性能调优](http://www.barretlee.com/blog/2015/10/07/debug-nodejs-in-command-line)
 - [理解 NodeJS](http://debuggable.com/posts/understanding-node-js:4bd98440-45e4-4a9a-8ef7-0f7ecbdd56cb)

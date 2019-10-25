@@ -14,6 +14,7 @@
 - [100-Days-Of-ML-Code](https://github.com/Avik-Jain/100-Days-Of-ML-Code): <sub>100 Days of ML Coding</sub>
 - [Google 机器学习速成课程](https://developers.google.com/machine-learning/crash-course/)
 - [Machine Learning Guides](https://developers.google.com/machine-learning/guides/)
+- [machine-learning-yearning-cn](https://github.com/deeplearning-ai/machine-learning-yearning-cn): <sub>Machine Learning Yearning 中文版 - 《机器学习训练秘籍》 - Andrew Ng 著</sub>
 - [Introducing the Facebook Field Guide to Machine Learning video series](https://research.fb.com/the-facebook-field-guide-to-machine-learning-video-series/)
 - [11 Javascript Machine Learning Libraries To Use In Your App](https://blog.bitsrc.io/11-javascript-machine-learning-libraries-to-use-in-your-app-c49772cca46c)
 - [Awesome Marchine Learning](https://github.com/shenwei356/awesome/blob/master/machine-learning.md)
