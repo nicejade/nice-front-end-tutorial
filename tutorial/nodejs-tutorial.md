@@ -103,6 +103,9 @@
 - [nativefier](https://github.com/jiahaog/nativefier): <sub>Make any web page a desktop application.</sub>
 - [Inquirer](https://github.com/SBoudrias/Inquirer.js): <sub>A collection of common interactive command line user interfaces.</sub>
 - [sindresorhus/ora](https://github.com/sindresorhus/ora): <sub>Elegant terminal spinner</sub>
+- [release-it](https://github.com/release-it/release-it): <sub>🚀 Automate versioning and package publishing</sub>
+- [ReLaXed](https://github.com/RelaxedJS/ReLaXed): <sub>Create PDF documents using web technologies</sub>
+- [documentation](https://github.com/documentationjs/documentation): <sub>📖 documentation for modern JavaScript http://documentation.js.org</sub>
 
 #### For CLI Library
 

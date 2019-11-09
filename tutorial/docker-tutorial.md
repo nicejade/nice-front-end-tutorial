@@ -36,3 +36,4 @@
 
 - [nodejs/docker-node](https://github.com/nodejs/docker-node)
 - [docker-puppeteer](https://github.com/buildkite/docker-puppeteer): <sub>A minimal Docker image for Puppeteer. https://hub.docker.com/r/buildkite/puppeteer/</sub>
+- [docker-mailserver](https://github.com/tomav/docker-mailserver): <sub>A fullstack but simple mailserver (smtp, imap, antispam, antivirus, ssl...) using Docker.</sub>
