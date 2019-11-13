@@ -12,6 +12,7 @@
 > Machine Learning — An Approach to Achieve Artificial Intelligence
 
 - [100-Days-Of-ML-Code](https://github.com/Avik-Jain/100-Days-Of-ML-Code): <sub>100 Days of ML Coding</sub>
+- [practicalAI](https://github.com/practicalAI/practicalAI): <sub>📚 A practical approach to machine learning. https://practicalai.me</sub>
 - [Google 机器学习速成课程](https://developers.google.com/machine-learning/crash-course/)
 - [Machine Learning Guides](https://developers.google.com/machine-learning/guides/)
 - [machine-learning-yearning-cn](https://github.com/deeplearning-ai/machine-learning-yearning-cn): <sub>Machine Learning Yearning 中文版 - 《机器学习训练秘籍》 - Andrew Ng 著</sub>

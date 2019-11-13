@@ -17,6 +17,7 @@
 
 ## Github Repository
 
+- [free-programming-books](https://github.com/EbookFoundation/free-programming-books): <sub>📚 Freely available programming books https://ebookfoundation.github.io/free-programming-books/</sub>
 - [personal-website](https://github.com/github/personal-website): <sub>Code that'll help you kickstart a personal website that showcases your work as a software developer. https://github.dev</sub>
 - [canvas-sketch](https://github.com/mattdesl/canvas-sketch): <sub>A framework for making generative artwork in JavaScript and the browser.</sub>
 - [devdocs](https://github.com/freeCodeCamp/devdocs): <sub>API Documentation Browser https://devdocs.io/</sub>

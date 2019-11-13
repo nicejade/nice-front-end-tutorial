@@ -86,7 +86,7 @@
 
 ### 终端
 
-- [nicejade/arya-jarvis]: <sub>🛠 Designed to save developers more time and energy.</sub>
+- [nicejade/arya-jarvis](https://github.com/nicejade/arya-jarvis): <sub>🛠 Designed to save developers more time and energy. https://arya.lovejade.cn/</sub>
 - [nexe/nexe](https://github.com/nexe/nexe): <sub>🎉 create a single executable out of your node.js apps</sub>
 - [updtr](https://github.com/peerigon/updtr): <sub>Update outdated npm modules with zero pain™</sub>
 - [typescript-starter](https://github.com/bitjson/typescript-starter): <sub>Quickly create and configure a new library or Node.js project</sub>
