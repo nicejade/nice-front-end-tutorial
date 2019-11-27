@@ -59,6 +59,7 @@
 - [css-doodle](https://github.com/css-doodle/css-doodle): <sub>🎨 A web component for drawing patterns with CSS. </sub>
 - [CSS-Inspiration](https://github.com/chokcoco/CSS-Inspiration): <sub>CSS Inspiration，在这里找到写 CSS 的灵感!</sub>
 - [popmotion](https://popmotion.io/): <sub>A functional, flexible JavaScript motion library</sub>
+- [goober](https://github.com/cristianbote/goober): <sub>🥜 goober, a less than 1KB 🎉css-in-js alternative with a familiar API</sub>
 - [cssfx](https://github.com/jolaleye/cssfx): <sub>✨ Beautifully simple click-to-copy CSS effects</sub>
 - [instagram.css](https://github.com/picturepan2/instagram.css): <sub>Instagram.css - Complete set of Instagram filters in pure CSS</sub>
 - [uncss](https://github.com/uncss/uncss): <sub>Remove unused styles from CSS</sub>

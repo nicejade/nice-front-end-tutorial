@@ -45,3 +45,4 @@
 - [emojicode](https://github.com/emojicode/emojicode): <sub>😀😜🔂 World’s only programming language that’s bursting with emojis</sub>
 - [KnowledgeGraphData](https://github.com/ownthink/KnowledgeGraphData): <sub>史上最大规模 1.4 亿中文知识图谱开源下载</sub>
 - [wix/Detox](https://github.com/wix/Detox): <sub>Gray box end-to-end testing and automation framework for mobile apps</sub>
+- [RSSHub](https://github.com/DIYgod/RSSHub): <sub>🍰 万物皆可 RSS https://docs.rsshub.app</sub>
