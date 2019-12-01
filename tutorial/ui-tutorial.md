@@ -34,6 +34,8 @@
 - [nhnent/tui.calendar](https://github.com/nhnent/tui.calendar): <sub>🍞📅A JavaScript calendar that everything you need. http://ui.toast.com/tui-calendar</sub>
 - [tippyjs](https://github.com/atomiks/tippyjs): <sub>Highly customizable tooltip and popover library https://atomiks.github.io/tippyjs</sub>
 - [kenwheeler/slick](https://github.com/kenwheeler/slick): <sub>the last carousel you'll ever need</sub>
+- [scrollreveal](https://github.com/scrollreveal/scrollreveal): <sub>Animate elements as they scroll into view. https://scrollrevealjs.org</sub>
+- [ScrollMagic](https://github.com/janpaepke/ScrollMagic): <sub>The javascript library for magical scroll interactions. http://ScrollMagic.io</sub>
 
 ### 可视化
 

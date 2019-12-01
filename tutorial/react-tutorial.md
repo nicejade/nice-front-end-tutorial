@@ -56,6 +56,7 @@
 - [react-move](https://github.com/react-tools/react-move): <sub>React Move 🌀 Beautiful, data-driven animations for React https://react-move.js.org</sub>
 - [react-motion](https://github.com/chenglou/react-motion): <sub>A spring that solves your animation problems.</sub>
 - [react-pdf](https://github.com/diegomura/react-pdf): <sub>📄 Create PDF files using React</sub>
+- [swr](https://github.com/zeit/swr): <sub>React Hooks library for remote data fetching https://swr.now.sh</sub>
 
 ## 周边篇
 

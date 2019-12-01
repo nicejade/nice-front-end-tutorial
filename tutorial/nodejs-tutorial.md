@@ -128,6 +128,8 @@
 - [randexp.js](https://github.com/fent/randexp.js): <sub>Create random strings that match a given regular expression. </sub>
 - [pino](https://github.com/pinojs/pino): <sub>🌲 super fast, all natural json logger 🌲 http://getpino.io</sub>
 - [nodegit](https://github.com/nodegit/nodegit): <sub>Native Node bindings to Git. https://nodegit.org</sub>
+- [gpu.js](https://github.com/gpujs/gpu.js): <sub>GPU Accelerated JavaScript https://gpu.rocks</sub>
+- [agenda](https://github.com/agenda/agenda): <sub>Lightweight job scheduling for Node.js http://agendajs.com | [Agenda Dashboard](https://github.com/agenda/agendash)</sub>
 
 - [capture-website](https://github.com/sindresorhus/capture-website): <sub>Capture screenshots of websites</sub>
 
