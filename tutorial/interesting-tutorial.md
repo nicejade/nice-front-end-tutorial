@@ -1,6 +1,5 @@
 ## 那些有趣 / 有意思
 
-- [ruanyf/weekly](https://github.com/ruanyf/weekly): <sub>技术分享周刊，每周五发布</sub>
 - [纯前端实现人脸识别 - 提取 - 合成](http://refined-x.com/2017/09/06/纯前端实现人脸识别-提取-合成)
 - [Serverless 实战：打造个人阅读追踪系统](http://insights.thoughtworks.cn/serverless-combat/)
 - [我也来打造一个个人阅读追踪系统](https://juejin.im/post/59d975b6f265da065f04d8ff)
@@ -17,7 +16,6 @@
 
 ## Github Repository
 
-- [free-programming-books](https://github.com/EbookFoundation/free-programming-books): <sub>📚 Freely available programming books https://ebookfoundation.github.io/free-programming-books/</sub>
 - [personal-website](https://github.com/github/personal-website): <sub>Code that'll help you kickstart a personal website that showcases your work as a software developer. https://github.dev</sub>
 - [canvas-sketch](https://github.com/mattdesl/canvas-sketch): <sub>A framework for making generative artwork in JavaScript and the browser.</sub>
 - [devdocs](https://github.com/freeCodeCamp/devdocs): <sub>API Documentation Browser https://devdocs.io/</sub>
@@ -25,7 +23,6 @@
 - [Carbon](https://github.com/dawnlabs/carbon): <sub>🎨 Create and share beautiful images of your source code https://dawnlabs.io/carbon</sub>
 - [Gatsby](https://github.com/gatsbyjs/gatsby): <sub>atom_symbol📄🚀 Blazing fast static site generator for React https://www.gatsbyjs.org</sub>
 - [taskbook](https://github.com/klauscfhq/taskbook): <sub>📓 Tasks, boards & notes for the command-line habitat</sub>
-- [chinese-independent-developer ](https://github.com/1c7/chinese-independent-developer): <sub>👩🏿‍💻👨🏾‍💻👩🏼‍💻👨🏽‍💻👩🏻‍💻 中国独立开发者项目列表 -- 分享大家都在做什么</sub>
 - [withspectrum/spectrum ](https://github.com/withspectrum/spectrum): <sub>Simple, powerful online communities. https://spectrum.chat</sub>
 - [QingWei-Li/docsify](https://github.com/QingWei-Li/docsify): <sub>🃏 A magical documentation site generator. https://docsify.js.org</sub>
 - [yangxuanxc/wechat_friends](https://github.com/yangxuanxc/wechat_friends): <sub>微信好友信息分析并可视化以及自动回复微信消息</sub>
@@ -46,3 +43,10 @@
 - [KnowledgeGraphData](https://github.com/ownthink/KnowledgeGraphData): <sub>史上最大规模 1.4 亿中文知识图谱开源下载</sub>
 - [wix/Detox](https://github.com/wix/Detox): <sub>Gray box end-to-end testing and automation framework for mobile apps</sub>
 - [RSSHub](https://github.com/DIYgod/RSSHub): <sub>🍰 万物皆可 RSS https://docs.rsshub.app</sub>
+
+### 项目列表类
+
+- [free-programming-books](https://github.com/EbookFoundation/free-programming-books): <sub>📚 Freely available programming books https://ebookfoundation.github.io/free-programming-books/</sub>
+- [GitHub-Chinese-Top-Charts](https://github.com/kon9chunkit/GitHub-Chinese-Top-Charts)：<sub>🇨🇳 GitHub 中文排行榜，帮助你发现高分优秀中文项目、更高效地吸收国人的优秀经验成果；榜单每周更新一次，敬请关注！</sub>
+- [chinese-independent-developer ](https://github.com/1c7/chinese-independent-developer): <sub>👩🏿‍💻👨🏾‍💻👩🏼‍💻👨🏽‍💻👩🏻‍💻 中国独立开发者项目列表 -- 分享大家都在做什么</sub>
+- [ruanyf/weekly](https://github.com/ruanyf/weekly): <sub>技术分享周刊，每周五发布</sub>
