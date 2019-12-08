@@ -46,7 +46,12 @@
 
 ### 项目列表类
 
+- [Best-websites-a-programmer-should-visit](https://github.com/sdmg15/Best-websites-a-programmer-should-visit): <sub>🔗 Some useful websites for programmers.</sub>
+- [public-apis](https://github.com/public-apis/public-apis): <sub>A collective list of free APIs for use in software and web development. https://ultimatecourses.com</sub>
+- [build-your-own-x](https://github.com/danistefanovic/build-your-own-x): <sub>🤓 Build your own (insert technology here) https://twitter.com/danistefanovic</sub>
+- [project-based-learning](https://github.com/tuvtran/project-based-learning): <sub>Curated list of project-based tutorials</sub>
 - [free-programming-books](https://github.com/EbookFoundation/free-programming-books): <sub>📚 Freely available programming books https://ebookfoundation.github.io/free-programming-books/</sub>
 - [GitHub-Chinese-Top-Charts](https://github.com/kon9chunkit/GitHub-Chinese-Top-Charts)：<sub>🇨🇳 GitHub 中文排行榜，帮助你发现高分优秀中文项目、更高效地吸收国人的优秀经验成果；榜单每周更新一次，敬请关注！</sub>
 - [chinese-independent-developer ](https://github.com/1c7/chinese-independent-developer): <sub>👩🏿‍💻👨🏾‍💻👩🏼‍💻👨🏽‍💻👩🏻‍💻 中国独立开发者项目列表 -- 分享大家都在做什么</sub>
 - [ruanyf/weekly](https://github.com/ruanyf/weekly): <sub>技术分享周刊，每周五发布</sub>
+- [HelloGitHub](https://github.com/521xueweihan/HelloGitHub): <sub>:octocat: Find pearls on open-source seashore 分享 GitHub 上有趣、入门级的开源项目</sub>

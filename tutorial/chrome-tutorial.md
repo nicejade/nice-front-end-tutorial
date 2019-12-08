@@ -33,6 +33,7 @@
 
 - [devtools-frontend](https://github.com/ChromeDevTools/devtools-frontend): <sub>The Chrome DevTools UI</sub>
 - [liriliri/eruda](https://github.com/liriliri/eruda): <sub>Console for mobile browsers. https://eruda.liriliri.io</sub>
+- [GoogleChrome/lighthouse-ci](https://github.com/GoogleChrome/lighthouse-ci): <sub>Automate running Lighthouse for every commit, viewing the changes, and preventing regressions</sub>
 
 ## 其他篇
 

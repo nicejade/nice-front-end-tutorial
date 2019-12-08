@@ -20,6 +20,7 @@
 - [fluentd-kubernetes-daemonset](https://github.com/fluent/fluentd-kubernetes-daemonset): <sub>Fluentd daemonset for Kubernetes and it Docker image</sub>
 - [kubernetes-up-and-running/kuard](https://github.com/kubernetes-up-and-running/kuard): <sub>Demo app for Kubernetes Up and Running book</sub>
 - [openshift/origin](https://github.com/openshift/origin): <sub>The self-managing, auto-upgrading, Kubernetes distribution for everyone http://www.openshift.org</sub>
+- [tektoncd/pipeline](https://github.com/tektoncd/pipeline): <sub>A K8s-native Pipeline resource. https://tekton.dev</sub>
 
 ### Node.js
 
