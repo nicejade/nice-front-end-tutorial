@@ -66,6 +66,7 @@
 - [bash-it](https://github.com/Bash-it/bash-it): <sub>A community Bash framework.</sub>
 - [Amp](https://github.com/jmacdonald/amp): <sub>A text editor for your terminal.</sub>
 - [facebook/fb-adb](https://github.com/facebook/fb-adb): <sub>A better shell for Android devices.</sub>
+- [subfinder](https://github.com/projectdiscovery/subfinder): <sub>Subfinder is a subdomain discovery tool that discovers valid subdomains for websites. Designed as a passive framework to be useful for bug bounties and safe for penetration testing.</sub>
 
 ### 建站工具
 
@@ -157,7 +158,8 @@
 
 - [styled-email-components](https://github.com/sergeybekrin/styled-email-components): <sub>💌 styled-components for emails</sub>
 - [SparkPost/heml](https://github.com/SparkPost/heml)
-- [mjmlio/mjml](https://github.com/mjmlio/mjml)
+- [mjmlio/mjml](https://github.com/mjmlio/mjml): <sub>MJML: the only framework that makes responsive-email https://easy mjml.io</sub>
+- [maizzle/maizzle](https://github.com/maizzle/maizzle): <sub>HTML email development framework. https://maizzle.com</sub>
 - [Cerberus](https://github.com/TedGoas/Cerberus): <sub>A few simple, but solid patterns for responsive HTML email templates and newsletters. Even in Outlook and Gmail. http://tedgoas.github.io/Cerberus</sub>
 - [Responsive Email Template](https://github.com/nicejade/responsive-email-template)
 - [Open Source Email Templates](https://www.sendwithus.com/resources/templates)
@@ -407,4 +409,8 @@
   > Validate form asynchronous. A variation of https://freeformsystems/async-validate 异步表单验证
 
 - [leader-line](https://github.com/anseki/leader-line)
+
   > Draw a leader line in your web page. http://anseki.github.io/leader-line 在网页上绘制引导线
+
+- [kitze/JSUI](https://github.com/kitze/JSUI)
+  > A powerful UI toolkit for managing JavaScript apps（强大的 UI 工具包，用于管理 JavaScript 应用）

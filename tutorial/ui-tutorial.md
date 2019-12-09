@@ -42,6 +42,7 @@
 - [d3](https://github.com/d3/d3): <sub>Bring data to life with SVG, Canvas and HTML. 📊📈🎉 https://d3js.org</sub>
 - [antvis/g6](https://github.com/antvis/g6): <sub>A Graph Visualization Framework in JavaScript</sub>
 - [incubator-echarts](https://github.com/apache/incubator-echarts): <sub>A powerful, interactive charting and visualization library for browser http://echarts.baidu.com/</sub>
+- [alyssaxuu/flowy](https://github.com/alyssaxuu/flowy): <sub>The minimal javascript library to create flowcharts ✨</sub>
 - [plotly.js](https://github.com/plotly/plotly.js): <sub>Open-source JavaScript charting library behind plot.ly and Dash</sub>
 - [highcharts](https://www.highcharts.com/): <sub>Make your data come alive. Highcharts makes it easy for developers to set up interactive charts in their web pages</sub>
 - [anychart](https://www.anychart.com/): <sub>AnyChart is a lightweight and robust JavaScript charting solution with great API and documentation. The chart types and unique features are numerous, and the library works easily with any development stack.</sub>
