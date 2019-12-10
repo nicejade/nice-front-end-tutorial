@@ -44,6 +44,7 @@
 - [incubator-echarts](https://github.com/apache/incubator-echarts): <sub>A powerful, interactive charting and visualization library for browser http://echarts.baidu.com/</sub>
 - [alyssaxuu/flowy](https://github.com/alyssaxuu/flowy): <sub>The minimal javascript library to create flowcharts ✨</sub>
 - [plotly.js](https://github.com/plotly/plotly.js): <sub>Open-source JavaScript charting library behind plot.ly and Dash</sub>
+- [blocks/blocks](https://github.com/blocks/blocks): <sub>A JSX-based page builder for creating beautiful websites without writing code https://blocks-ui.com</sub>
 - [highcharts](https://www.highcharts.com/): <sub>Make your data come alive. Highcharts makes it easy for developers to set up interactive charts in their web pages</sub>
 - [anychart](https://www.anychart.com/): <sub>AnyChart is a lightweight and robust JavaScript charting solution with great API and documentation. The chart types and unique features are numerous, and the library works easily with any development stack.</sub>
 - [x-spreadsheet](https://github.com/myliang/x-spreadsheet): <sub>A web-based JavaScript（canvas） spreadsheet https://myliang.github.io/x-spreadsheet</sub>
