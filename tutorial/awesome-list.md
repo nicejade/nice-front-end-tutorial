@@ -11,6 +11,7 @@
 - [Awesome-Machine-Learning-On-Source-Code](https://github.com/src-d/awesome-machine-learning-on-source-code): <sub>Cool links & research papers related to Machine Learning applied to source code (MLonCode)</sub>
 - [Awesome-Nlp](https://github.com/keon/awesome-nlp): <sub>📖 A curated list of resources dedicated to Natural Language Processing (NLP)</sub>
 - [Awesome-Project-Ideas](https://github.com/NirantK/awesome-project-ideas): <sub>Curated list of Machine Learning, NLP, Vision, Recommender Systems Project Ideas</sub>
+- [awesome-tensorflow](https://github.com/jtoy/awesome-tensorflow): <sub>TensorFlow - A curated list of dedicated resources http://tensorflow.org</sub>
 
 ## 🎨 Awesome Front-End List
 

@@ -21,6 +21,7 @@
 - [kubernetes-up-and-running/kuard](https://github.com/kubernetes-up-and-running/kuard): <sub>Demo app for Kubernetes Up and Running book</sub>
 - [openshift/origin](https://github.com/openshift/origin): <sub>The self-managing, auto-upgrading, Kubernetes distribution for everyone http://www.openshift.org</sub>
 - [tektoncd/pipeline](https://github.com/tektoncd/pipeline): <sub>A K8s-native Pipeline resource. https://tekton.dev</sub>
+- [fission/fission](https://github.com/fission/fission): <sub>Fast and Simple Serverless Functions for Kubernetes</sub>
 
 ### Node.js
 

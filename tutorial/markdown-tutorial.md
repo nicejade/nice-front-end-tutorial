@@ -40,7 +40,7 @@
 
 #### Markdown component
 
-- [vditor](https://github.com/b3log/vditor): <sub>♏ 一款浏览器端的 Markdown 编辑器。</sub>
+- [vditor](https://github.com/Vanessa219/vditor): <sub>♏ 一款浏览器端的 Markdown 编辑器。</sub>
 - [b3log/lute](https://github.com/b3log/lute): <sub>🎼 一款结构化的 Markdown 引擎，支持 Go 和 JavaScript。</sub>
 - [quill](https://github.com/quilljs/quill): <sub>Quill is a modern WYSIWYG editor built for compatibility and extensibility. https://quilljs.com</sub>
 - [react-markdown](https://github.com/rexxars/react-markdown): <sub>Render Markdown as React components </sub>
