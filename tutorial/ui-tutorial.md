@@ -42,6 +42,7 @@
 - [d3](https://github.com/d3/d3): <sub>Bring data to life with SVG, Canvas and HTML. 📊📈🎉 https://d3js.org</sub>
 - [antvis/g6](https://github.com/antvis/g6): <sub>A Graph Visualization Framework in JavaScript</sub>
 - [incubator-echarts](https://github.com/apache/incubator-echarts): <sub>A powerful, interactive charting and visualization library for browser http://echarts.baidu.com/</sub>
+- [metafizzy/zdog](https://github.com/metafizzy/zdog): <sub>Flat, round, designer-friendly pseudo-3D engine for canvas & SVG https://zzz.dog</sub>
 - [alyssaxuu/flowy](https://github.com/alyssaxuu/flowy): <sub>The minimal javascript library to create flowcharts ✨</sub>
 - [plotly.js](https://github.com/plotly/plotly.js): <sub>Open-source JavaScript charting library behind plot.ly and Dash</sub>
 - [blocks/blocks](https://github.com/blocks/blocks): <sub>A JSX-based page builder for creating beautiful websites without writing code https://blocks-ui.com</sub>

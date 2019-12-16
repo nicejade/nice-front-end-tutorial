@@ -14,6 +14,10 @@
 
 源地址：https://github.com/trimstray/the-book-of-secret-knowledge
 
+## [Web Development In 2020](https://github.com/andrews1022/web-development-2020-course-list)
+
+作者： andrews1022 https://github.com/andrews1022
+
 ## [Roadmap to becoming a web developer in 2018](https://github.com/kamranahmedse/developer-roadmap)
 
 作者： Kamran Ahmed https://github.com/kamranahmedse
@@ -80,8 +84,8 @@
 
 资源下载 :
 
-* [PDF 版](http://pan.baidu.com/s/1c0frhIS)
-* [MOBI 版](https://www.gitbook.com/book/dwqs/frontenddevhandbook/details)
+- [PDF 版](http://pan.baidu.com/s/1c0frhIS)
+- [MOBI 版](https://www.gitbook.com/book/dwqs/frontenddevhandbook/details)
 
 ## [前端开发笔记本](https://github.com/helloqingfeng/Awsome-Front-End-learning-resource/tree/master/03-FEND_Note-master)
 
