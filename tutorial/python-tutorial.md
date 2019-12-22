@@ -9,19 +9,43 @@
 - [Python 官方网站](https://www.python.org/)
 - [Python 官方中文教程](https://docs.python.org/zh-cn/3/tutorial/index.html)
 - [Python 基础教程 | 菜鸟](https://www.runoob.com/python/python-tutorial.html)
+- [The Hitchhiker’s Guide to Python!](https://docs.python-guide.org/)
+- [Python - 100 天从新手到大师](https://github.com/jackfrued/Python-100-Days)
+- [中文 Python 笔记](https://github.com/lijin-THU/notes-python)
 - [Python 教程 | Github](https://github.com/geekcomputers/Python)
+
+### 示例篇
+
+- [My Python Examples](https://github.com/geekcomputers/Python)
+
+### 资源篇
+
+- [vinta/awesome-python](https://github.com/vinta/awesome-python): <sub>A curated list of awesome Python frameworks, libraries, software and resources https://awesome-python.com</sub>
+- [jobbole/awesome-python-cn](https://github.com/jobbole/awesome-python-cn): <sub>Python 资源大全中文版，包括：Web 框架、网络爬虫、模板引擎、数据库、数据可视化、图片处理等，由伯乐在线持续更新。</sub>
 
 ## 进阶篇
 
+- [interactive-coding-challenges](https://github.com/donnemartin/interactive-coding-challenges): <sub>120+ interactive Python coding interview challenges (algorithms and data structures). Includes Anki flashcards.</sub>
 - [TheAlgorithms/Python](https://github.com/TheAlgorithms/Python): <sub>All algorithms implemented in Python (for education)</sub>
-
-## 人工智能
-
-> Artificial Intelligence
+- [faif/python-patterns](https://github.com/faif/python-patterns): <sub>A collection of design patterns/idioms in Python</sub>
 
 ## 深度学习
 
+- [tensorflow/tensorflow](https://github.com/tensorflow/tensorflow): <sub>An Open Source Machine Learning Framework for Everyone https://tensorflow.org</sub>
+- [fastai/fastai](https://github.com/fastai/fastai): <sub>The fastai deep learning library, plus lessons and tutorials http://docs.fast.ai</sub>
+- [keras-team/keras](https://github.com/keras-team/keras): <sub>Deep Learning for humans http://keras.io</sub>
+- [BVLC/caffe](https://github.com/BVLC/caffe): <sub>Caffe: a fast open framework for deep learning.</sub>
+- [pytorch/pytorch](https://github.com/pytorch/pytorch): <sub>Tensors and Dynamic neural networks in Python with strong GPU acceleration https://pytorch.org</sub>
+- [apache/incubator-mxnet](https://github.com/apache/incubator-mxnet): <sub>Apache MXNet (incubating) for Deep Learning</sub>
+- [tensorlayer/tensorlayer](https://github.com/tensorlayer/tensorlayer): <sub>Deep Learning and Reinforcement Learning Library for Scientists 🔥</sub>
+
+## 机器学习
+
+- [scikit-learn/scikit-learn](https://github.com/scikit-learn/scikit-learn): <sub>scikit-learn: machine learning in Python https://scikit-learn.org</sub>
+
 ## 机器人
+
+- [python-telegram-bot](https://github.com/python-telegram-bot/python-telegram-bot): <sub>We have made you a wrapper you can't refuse https://python-telegram-bot.org</sub>
 
 ## 数据科学
 
@@ -30,3 +54,9 @@
 ## 周边篇
 
 - [docker-library/python](https://github.com/docker-library/python): <sub>Docker Official Image packaging for Python</sub>
+
+## 工具库
+
+- [nvbn/thefuck](https://github.com/nvbn/thefuck): <sub>Magnificent app which corrects your previous console command.</sub>
+- [locustio/locust](https://github.com/locustio/locust): <sub>Scalable user load testing tool written in Python</sub>
+- [joeyespo/grip](https://github.com/joeyespo/grip): <sub>Preview GitHub Markdown files like Readme locally before committing them.</sub>
