@@ -2,7 +2,7 @@
 
 [Python](https://www.python.org/) 在诞生之初，因为其功能不好，运转功率低，不支持多核，根本没有并发性可言，在计算功能不那么好的年代，一直没有火爆起来，甚至很多人根本不知道有这门语言。随着时代的发展，物理硬件功能不断提高，而软件的复杂性也不断增大，开发效率越来越被企业重视，因此，Python 逐渐得到越来越多开发者的亲睐；在 12~14 年，云计算升温，大量创业公司和互联网巨头挤进云计算领域，[Python](https://www.python.org/) 就此异军突起；随后几年，备受关注的**人工智能**、**机器学习**、**数据科学**、**机器人**，其首选开发语言也是 Python。至此，Python 炙手可热，成为最受欢迎编程语言之一。
 
-[Python](https://www.python.org/) 不仅入门容易、功能强大；而且适用领域极为广泛；对于前端工程师而言，使用它能够很容易构建 Web 应用，依托于它强大的功能库，也能快速打造些趁手工具；随着大前端的日益演进，在完成模块化、工程化之后，走向自动化、智能化也是必然趋势；鉴于这一点，则更有必要对 [Python](https://www.python.org/)、算法、数学等加以学习。
+[Python](https://www.python.org/) 不仅入门容易、功能强大；而且适用领域极为广泛；对于前端工程师而言，使用它能够很容易构建 Web 应用，依托于它强大的功能库，也能快速打造些趁手工具；随着大前端的日益演进，在完成模块化、工程化之后，走向自动化、智能化也是必然趋势；鉴于这一点，则更有必要对 [Python](https://www.python.org/)、算法、数学等加以学习（于 2019 年 12 月 22 日）。
 
 ## 基础篇
 
@@ -16,7 +16,10 @@
 
 ### 示例篇
 
-- [My Python Examples](https://github.com/geekcomputers/Python)
+- [30-seconds-of-python](https://github.com/30-seconds/30-seconds-of-python): <sub>Short Python code snippets for all your development needs</sub>
+- [geekcomputers/Python](https://github.com/geekcomputers/Python): <sub>My Python Examples</sub>
+- [interesting-python](https://github.com/Alfred1984/interesting-python): <sub>有趣的 Python 爬虫和 Python 数据分析小项目</sub>
+- [trekhleb/learn-python](https://github.com/trekhleb/learn-python): <sub>📚 Playground and cheatsheet for learning Python. Collection of Python scripts that are split by topics and contain code examples with explanations.</sub>
 
 ### 资源篇
 
@@ -47,10 +50,13 @@
 - [rasbt/python-machine-learning-book](https://github.com/rasbt/python-machine-learning-book): <sub>Python Machine Learning book code repository</sub>
 - [scikit-learn/scikit-learn](https://github.com/scikit-learn/scikit-learn): <sub>scikit-learn: machine learning in Python https://scikit-learn.org</sub>
 - [dmlc/xgboost](https://github.com/dmlc/xgboost): <sub>Scalable, Portable and Distributed Gradient Boosting (GBDT, GBRT or GBM) Library, for Python, R, Java, Scala, C++ and more. Runs on single machine, Hadoop, Spark, Flink and DataFlow https://xgboost.ai</sub>
+- [tensorlayer/tensorlayer](https://github.com/tensorlayer/tensorlayer): <sub>Deep Learning and Reinforcement Learning Library for Scientists 🔥</sub>
 
 ## 机器人
 
 - [python-telegram-bot](https://github.com/python-telegram-bot/python-telegram-bot): <sub>We have made you a wrapper you can't refuse https://python-telegram-bot.org</sub>
+- [gunthercox/ChatterBot](https://github.com/gunthercox/ChatterBot): <sub>ChatterBot is a machine learning, conversational dialog engine for creating chat bots.</sub>
+- [sfyc23/EverydayWechat](https://github.com/sfyc23/EverydayWechat): <sub>微信助手：1.每日定时给好友（女友）发送定制消息。2.机器人自动回复好友。3.群助手功能（例如：查询垃圾分类、天气、日历、电影实时票房、快递物流、PM2.5 等）</sub>
 
 ## 数据科学
 
@@ -60,9 +66,12 @@
 
 - [docker-library/python](https://github.com/docker-library/python): <sub>Docker Official Image packaging for Python</sub>
 - [google/python-fire](https://github.com/google/python-fire): <sub>Python Fire is a library for automatically generating command line interfaces (CLIs) from absolutely any Python object.</sub>
+- [Miserlou/Zappa](https://github.com/Miserlou/Zappa): <sub>Serverless Python https://blog.zappa.io</sub>
+- [google-api-python-client](https://github.com/googleapis/google-api-python-client): <sub>🐍 The official Python client library for Google's discovery based APIs. </sub>
 
 ## 工具库
 
 - [nvbn/thefuck](https://github.com/nvbn/thefuck): <sub>Magnificent app which corrects your previous console command.</sub>
 - [locustio/locust](https://github.com/locustio/locust): <sub>Scalable user load testing tool written in Python</sub>
 - [joeyespo/grip](https://github.com/joeyespo/grip): <sub>Preview GitHub Markdown files like Readme locally before committing them.</sub>
+- [lancopku/pkuseg-python](https://github.com/lancopku/pkuseg-python): <sub>pkuseg 多领域中文分词工具; The pkuseg toolkit for multi-domain Chinese word segmentation</sub>

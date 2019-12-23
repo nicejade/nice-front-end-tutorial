@@ -67,3 +67,4 @@
 - [Chatie/wechaty](https://github.com/Chatie/wechaty): <sub>WeChat Bot SDK for Individual Account, Powered by TypeScript, Docker, and 💖</sub>
 - [botpress/botpress](https://github.com/botpress/botpress): <sub>The 🤖 platform that ⚡ thousands of bots worldwide https://botpress.io</sub>
 - [Yoctol/bottender](https://github.com/Yoctol/bottender): <sub>⚡️ Make Bots Your Way. Fast and Flexible. https://bottender.js.org</sub>
+- [axa-group/nlp.js](https://github.com/axa-group/nlp.js): <sub>⚡️ A framework for building conversational user interfaces.</sub>
