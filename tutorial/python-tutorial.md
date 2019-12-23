@@ -22,6 +22,8 @@
 
 - [vinta/awesome-python](https://github.com/vinta/awesome-python): <sub>A curated list of awesome Python frameworks, libraries, software and resources https://awesome-python.com</sub>
 - [jobbole/awesome-python-cn](https://github.com/jobbole/awesome-python-cn): <sub>Python 资源大全中文版，包括：Web 框架、网络爬虫、模板引擎、数据库、数据可视化、图片处理等，由伯乐在线持续更新。</sub>
+- [gto76/python-cheatsheet](https://github.com/gto76/python-cheatsheet): <sub>Comprehensive Python Cheatsheet</sub>
+- [mahmoud/awesome-python-applications](https://github.com/mahmoud/awesome-python-applications): <sub>💿 Free software that works great, and also happens to be open-source Python. </sub>
 
 ## 进阶篇
 
@@ -41,7 +43,10 @@
 
 ## 机器学习
 
+- [fchollet/deep-learning-with-python-notebooks](https://github.com/fchollet/deep-learning-with-python-notebooks): <sub>Jupyter notebooks for the code samples of the book "Deep Learning with Python"</sub>
+- [rasbt/python-machine-learning-book](https://github.com/rasbt/python-machine-learning-book): <sub>Python Machine Learning book code repository</sub>
 - [scikit-learn/scikit-learn](https://github.com/scikit-learn/scikit-learn): <sub>scikit-learn: machine learning in Python https://scikit-learn.org</sub>
+- [dmlc/xgboost](https://github.com/dmlc/xgboost): <sub>Scalable, Portable and Distributed Gradient Boosting (GBDT, GBRT or GBM) Library, for Python, R, Java, Scala, C++ and more. Runs on single machine, Hadoop, Spark, Flink and DataFlow https://xgboost.ai</sub>
 
 ## 机器人
 
@@ -54,6 +59,7 @@
 ## 周边篇
 
 - [docker-library/python](https://github.com/docker-library/python): <sub>Docker Official Image packaging for Python</sub>
+- [google/python-fire](https://github.com/google/python-fire): <sub>Python Fire is a library for automatically generating command line interfaces (CLIs) from absolutely any Python object.</sub>
 
 ## 工具库
 

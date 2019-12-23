@@ -35,74 +35,75 @@
 
 ### 🐉 The Future
 
-* [**AI-ML-DL**](https://github.com/nicejade/nice-front-end-tutorial/blob/master/tutorial/ai-ml-dl-tutorial.md)
-* [**Pwa**](https://github.com/nicejade/nice-front-end-tutorial/blob/master/tutorial/pwa-tutorial.md)
-* [WebAssembly](https://github.com/nicejade/nice-front-end-tutorial/blob/master/tutorial/webAssembly.md)
-* [Flutter ✨](https://github.com/nicejade/nice-front-end-tutorial/blob/master/tutorial/flutter-tutorial.md)
+- [**AI-ML-DL**](https://github.com/nicejade/nice-front-end-tutorial/blob/master/tutorial/ai-ml-dl-tutorial.md)
+- [Flutter ✨](https://github.com/nicejade/nice-front-end-tutorial/blob/master/tutorial/flutter-tutorial.md)
+- [**Pwa**](https://github.com/nicejade/nice-front-end-tutorial/blob/master/tutorial/pwa-tutorial.md)
+- [Python ✨](https://github.com/nicejade/nice-front-end-tutorial/blob/master/tutorial/python-tutorial.md)
+- [WebAssembly](https://github.com/nicejade/nice-front-end-tutorial/blob/master/tutorial/webAssembly.md)
 
 ### 🎨 Front-End Tutorial
 
-* [大前端综合](https://github.com/nicejade/nice-front-end-tutorial/blob/master/tutorial/front-end-tutorial.md)
-* [EcmaScript](https://github.com/nicejade/nice-front-end-tutorial/blob/master/tutorial/ecmascript-tutorial.md)
-* [Html(5)](https://github.com/nicejade/nice-front-end-tutorial/blob/master/tutorial/html-tutorial.md)
-* [Css(3)](https://github.com/nicejade/nice-front-end-tutorial/blob/master/tutorial/css3-tutorial.md)
-* [Framework News](https://github.com/nicejade/nice-front-end-tutorial/blob/master/tutorial/framework-news.md)
-* [Vue](https://github.com/nicejade/nice-front-end-tutorial/blob/master/tutorial/vue-tutorial.md)
-* [React](https://github.com/nicejade/nice-front-end-tutorial/blob/master/tutorial/react-tutorial.md)
-* [Angular](https://github.com/nicejade/nice-front-end-tutorial/blob/master/tutorial/angular-tutorial.md)
-* [快应用 ✨](https://github.com/nicejade/nice-front-end-tutorial/blob/master/tutorial/quickapp-tutorial.md)
-* [微信小程序 ✨](https://github.com/nicejade/nice-front-end-tutorial/blob/master/tutorial/wechat-mini-program-tutorial.md)
-* [Webpack](https://github.com/nicejade/nice-front-end-tutorial/blob/master/tutorial/webpack-tutorial.md)
-* [Gulp](https://github.com/nicejade/nice-front-end-tutorial/blob/master/tutorial/gulp-tutorial.md)
-* [UI UI UI](https://github.com/nicejade/nice-front-end-tutorial/blob/master/tutorial/ui-tutorial.md)
-* [Optimization](https://github.com/nicejade/nice-front-end-tutorial/blob/master/tutorial/optimization-tutorial.md)
-* [Testing](https://github.com/nicejade/nice-front-end-tutorial/blob/master/tutorial/testing-tutorial.md)
+- [大前端综合](https://github.com/nicejade/nice-front-end-tutorial/blob/master/tutorial/front-end-tutorial.md)
+- [EcmaScript](https://github.com/nicejade/nice-front-end-tutorial/blob/master/tutorial/ecmascript-tutorial.md)
+- [Html(5)](https://github.com/nicejade/nice-front-end-tutorial/blob/master/tutorial/html-tutorial.md)
+- [Css(3)](https://github.com/nicejade/nice-front-end-tutorial/blob/master/tutorial/css3-tutorial.md)
+- [Framework News](https://github.com/nicejade/nice-front-end-tutorial/blob/master/tutorial/framework-news.md)
+- [Vue](https://github.com/nicejade/nice-front-end-tutorial/blob/master/tutorial/vue-tutorial.md)
+- [React](https://github.com/nicejade/nice-front-end-tutorial/blob/master/tutorial/react-tutorial.md)
+- [Angular](https://github.com/nicejade/nice-front-end-tutorial/blob/master/tutorial/angular-tutorial.md)
+- [快应用 ✨](https://github.com/nicejade/nice-front-end-tutorial/blob/master/tutorial/quickapp-tutorial.md)
+- [微信小程序 ✨](https://github.com/nicejade/nice-front-end-tutorial/blob/master/tutorial/wechat-mini-program-tutorial.md)
+- [Webpack](https://github.com/nicejade/nice-front-end-tutorial/blob/master/tutorial/webpack-tutorial.md)
+- [Gulp](https://github.com/nicejade/nice-front-end-tutorial/blob/master/tutorial/gulp-tutorial.md)
+- [UI UI UI](https://github.com/nicejade/nice-front-end-tutorial/blob/master/tutorial/ui-tutorial.md)
+- [Optimization](https://github.com/nicejade/nice-front-end-tutorial/blob/master/tutorial/optimization-tutorial.md)
+- [Testing](https://github.com/nicejade/nice-front-end-tutorial/blob/master/tutorial/testing-tutorial.md)
 
 ### 👽 Back-End Tutorial
 
-* [Nodejs](https://github.com/nicejade/nice-front-end-tutorial/blob/master/tutorial/nodejs-tutorial.md)
-* [Nginx](https://github.com/nicejade/nice-front-end-tutorial/blob/master/tutorial/nginx-tutorial.md)
-* [Mongodb](https://github.com/nicejade/nice-front-end-tutorial/blob/master/tutorial/mongodb-tutorial.md)
-* [Redis](https://github.com/nicejade/nice-front-end-tutorial/blob/master/tutorial/redis-tutorial.md)
+- [Nodejs](https://github.com/nicejade/nice-front-end-tutorial/blob/master/tutorial/nodejs-tutorial.md)
+- [Nginx](https://github.com/nicejade/nice-front-end-tutorial/blob/master/tutorial/nginx-tutorial.md)
+- [Mongodb](https://github.com/nicejade/nice-front-end-tutorial/blob/master/tutorial/mongodb-tutorial.md)
+- [Redis](https://github.com/nicejade/nice-front-end-tutorial/blob/master/tutorial/redis-tutorial.md)
 
 ### 🎣 Front-Back-End Tutorial
 
-* [Tools](https://github.com/nicejade/nice-front-end-tutorial/blob/master/tutorial/tools-tutorial.md)
-* [Chrome](https://github.com/nicejade/nice-front-end-tutorial/blob/master/tutorial/chrome-tutorial.md)
-* [Git & Github](https://github.com/nicejade/nice-front-end-tutorial/blob/master/tutorial/git-tutorial.md)
-* [Markdown](https://github.com/nicejade/nice-front-end-tutorial/blob/master/tutorial/markdown-tutorial.md)
-* [Docker](https://github.com/nicejade/nice-front-end-tutorial/blob/master/tutorial/docker-tutorial.md)
-* [Kubernetes](https://github.com/nicejade/nice-front-end-tutorial/blob/master/tutorial/kubernetes-tutorial.md)
-* [GraphQL](https://github.com/nicejade/nice-front-end-tutorial/blob/master/tutorial/graphql-tutorial.md)
-* [Web Security](https://github.com/nicejade/nice-front-end-tutorial/blob/master/tutorial/web-security-tutorial.md)
+- [Tools](https://github.com/nicejade/nice-front-end-tutorial/blob/master/tutorial/tools-tutorial.md)
+- [Chrome](https://github.com/nicejade/nice-front-end-tutorial/blob/master/tutorial/chrome-tutorial.md)
+- [Git & Github](https://github.com/nicejade/nice-front-end-tutorial/blob/master/tutorial/git-tutorial.md)
+- [Markdown](https://github.com/nicejade/nice-front-end-tutorial/blob/master/tutorial/markdown-tutorial.md)
+- [Docker](https://github.com/nicejade/nice-front-end-tutorial/blob/master/tutorial/docker-tutorial.md)
+- [Kubernetes](https://github.com/nicejade/nice-front-end-tutorial/blob/master/tutorial/kubernetes-tutorial.md)
+- [GraphQL](https://github.com/nicejade/nice-front-end-tutorial/blob/master/tutorial/graphql-tutorial.md)
+- [Web Security](https://github.com/nicejade/nice-front-end-tutorial/blob/master/tutorial/web-security-tutorial.md)
 
 ### 🌷 Other Wizards List
 
-* [Awesome List 👏](https://github.com/nicejade/nice-front-end-tutorial/blob/master/tutorial/awesome-list.md)
-* [Front-end Channel](https://github.com/nicejade/nice-front-end-tutorial/blob/master/tutorial/front-end-channel.md)
-* [Resume & Interviews](https://github.com/nicejade/nice-front-end-tutorial/blob/master/tutorial/resume-interviews-tutorial.md)
-* [Interesting](https://github.com/nicejade/nice-front-end-tutorial/blob/master/tutorial/interesting-tutorial.md)
+- [Awesome List 👏](https://github.com/nicejade/nice-front-end-tutorial/blob/master/tutorial/awesome-list.md)
+- [Front-end Channel](https://github.com/nicejade/nice-front-end-tutorial/blob/master/tutorial/front-end-channel.md)
+- [Resume & Interviews](https://github.com/nicejade/nice-front-end-tutorial/blob/master/tutorial/resume-interviews-tutorial.md)
+- [Interesting](https://github.com/nicejade/nice-front-end-tutorial/blob/master/tutorial/interesting-tutorial.md)
 
 ## 相关链接
 
-* [**倾城之链**](https://nicelinks.site?utm_source=github)
-* [About Me](https://aboutme.lovejade.cn/?utm_source=github)
-* [个人博客](https://www.jeffjade.com/nicelinks?utm_source=github)
-* [静轩之别苑](https://quickapp.lovejade.cn/nicelinks?utm_source=github)
-* [静晴轩别苑](https://nice.lovejade.cn/?utm_source=github)
-* [吾意静晴轩](https://docz.lovejade.cn/?utm_source=github)
-* [天意人间舫](https://blog.lovejade.cn/?utm_source=github)
-* [新浪微博](https://weibo.com/jeffjade?utm_source=github)
-* [知乎主页](https://www.zhihu.com/people/yang-qiong-pu/)
-* [简书主页](https://www.jianshu.com/u/9aae3d8f4c3d)
-* [SegmentFault](https://segmentfault.com/u/jeffjade)
-* [Twitter](https://twitter.com/nicejadeyang)
-* [Facebook](https://www.facebook.com/yang.gang.jade)
+- [**倾城之链**](https://nicelinks.site?utm_source=github)
+- [About Me](https://aboutme.lovejade.cn/?utm_source=github)
+- [个人博客](https://www.jeffjade.com/nicelinks?utm_source=github)
+- [静轩之别苑](https://quickapp.lovejade.cn/nicelinks?utm_source=github)
+- [静晴轩别苑](https://nice.lovejade.cn/?utm_source=github)
+- [吾意静晴轩](https://docz.lovejade.cn/?utm_source=github)
+- [天意人间舫](https://blog.lovejade.cn/?utm_source=github)
+- [新浪微博](https://weibo.com/jeffjade?utm_source=github)
+- [知乎主页](https://www.zhihu.com/people/yang-qiong-pu/)
+- [简书主页](https://www.jianshu.com/u/9aae3d8f4c3d)
+- [SegmentFault](https://segmentfault.com/u/jeffjade)
+- [Twitter](https://twitter.com/nicejadeyang)
+- [Facebook](https://www.facebook.com/yang.gang.jade)
 
 | 微信公众号 | 前端微信群 | 推荐 Web 应用 |
 | --- | --- | --- |
 | 😉 静晴轩 | ✨ 大前端联盟 | 🎉 倾城之链 |
-| ![静晴轩](https://image.nicelinks.site/qrcode_jqx.jpg) | ![倾城之链](https://image.nicelinks.site/wqycx-weixin.png?ver=1) |<img src="https://image.nicelinks.site/nice-links.png" width="300px" alt="倾城之链"></img>|
+| ![静晴轩](https://image.nicelinks.site/qrcode_jqx.jpg) | ![倾城之链](https://image.nicelinks.site/wqycx-weixin.png?ver=1) | <img src="https://image.nicelinks.site/nice-links.png" width="300px" alt="倾城之链"></img> |
 
 ## 许可执照
 
