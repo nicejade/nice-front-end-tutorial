@@ -14,11 +14,24 @@
 - [中文 Python 笔记](https://github.com/lijin-THU/notes-python)
 - [Python 教程 | Github](https://github.com/geekcomputers/Python)
 
+### 工具篇
+
+- 生产力工具
+  - [pypa/pipenv](https://github.com/pypa/pipenv): <sub>Python Development Workflow for Humans.</sub>
+  - [pyenv/pyenv](https://github.com/pyenv/pyenv): <sub>Simple Python version management</sub>
+  - [pypa/pip](https://github.com/pypa/pip): <sub>The Python package installer https://pip.pypa.io</sub>
+  - [utahta/pythonbrew](https://github.com/utahta/pythonbrew): <sub>Python Environment manager</sub>
+- 有用工具库
+  - [pyecharts/pyecharts](https://github.com/pyecharts/pyecharts): <sub>🎨 Python Echarts Plotting Library</sub>
+  - [lincolnloop/python-qrcode](https://github.com/lincolnloop/python-qrcode): <sub>Python QR Code image generator</sub>
+  - [python-prompt-toolkit](https://github.com/prompt-toolkit/python-prompt-toolkit): <sub>Library for building powerful interactive command line applications in Python</sub>
+
 ### 示例篇
 
 - [30-seconds-of-python](https://github.com/30-seconds/30-seconds-of-python): <sub>Short Python code snippets for all your development needs</sub>
 - [geekcomputers/Python](https://github.com/geekcomputers/Python): <sub>My Python Examples</sub>
 - [interesting-python](https://github.com/Alfred1984/interesting-python): <sub>有趣的 Python 爬虫和 Python 数据分析小项目</sub>
+- [realpython/python-guide](https://github.com/realpython/python-guide): <sub>Python best practices guidebook, written for humans. 中文版：[Python 最佳实践指南](https://github.com/Prodesire/Python-Guide-CN)</sub>
 - [trekhleb/learn-python](https://github.com/trekhleb/learn-python): <sub>📚 Playground and cheatsheet for learning Python. Collection of Python scripts that are split by topics and contain code examples with explanations.</sub>
 
 ### 资源篇
@@ -27,6 +40,7 @@
 - [jobbole/awesome-python-cn](https://github.com/jobbole/awesome-python-cn): <sub>Python 资源大全中文版，包括：Web 框架、网络爬虫、模板引擎、数据库、数据可视化、图片处理等，由伯乐在线持续更新。</sub>
 - [gto76/python-cheatsheet](https://github.com/gto76/python-cheatsheet): <sub>Comprehensive Python Cheatsheet</sub>
 - [mahmoud/awesome-python-applications](https://github.com/mahmoud/awesome-python-applications): <sub>💿 Free software that works great, and also happens to be open-source Python. </sub>
+- [dloss/python-pentest-tools](https://github.com/dloss/python-pentest-tools): <sub>Python tools for penetration testers</sub>
 
 ## 进阶篇
 
@@ -60,6 +74,8 @@
 
 ## 数据科学
 
+- [pandas-dev/pandas](https://github.com/pandas-dev/pandas): <sub>powerful Python data analysis toolkit.</sub>
+- [biolab/orange3](https://github.com/biolab/orange3): <sub>🍊 📊 💡 Orange: Interactive data analysis https://orange.biolab.si</sub>
 - [jakevdp/PythonDataScienceHandbook](https://github.com/jakevdp/PythonDataScienceHandbook): <sub>Python Data Science Handbook: full text in Jupyter Notebooks</sub>
 
 ## 周边篇
@@ -69,7 +85,7 @@
 - [Miserlou/Zappa](https://github.com/Miserlou/Zappa): <sub>Serverless Python https://blog.zappa.io</sub>
 - [google-api-python-client](https://github.com/googleapis/google-api-python-client): <sub>🐍 The official Python client library for Google's discovery based APIs. </sub>
 
-## 工具库
+## 相关工具库
 
 - [nvbn/thefuck](https://github.com/nvbn/thefuck): <sub>Magnificent app which corrects your previous console command.</sub>
 - [locustio/locust](https://github.com/locustio/locust): <sub>Scalable user load testing tool written in Python</sub>
