@@ -21,6 +21,8 @@
   - [pyenv/pyenv](https://github.com/pyenv/pyenv): <sub>Simple Python version management</sub>
   - [pypa/pip](https://github.com/pypa/pip): <sub>The Python package installer https://pip.pypa.io</sub>
   - [utahta/pythonbrew](https://github.com/utahta/pythonbrew): <sub>Python Environment manager</sub>
+  - [cookiecutter/cookiecutter](https://github.com/cookiecutter/cookiecutter): <sub>A command-line utility that creates projects from cookiecutters (project templates), e.g. Python package projects, jQuery plugin projects.</sub>
+  - [sloria/doitlive](https://github.com/sloria/doitlive): <sub>doitlive is a tool for live presentations in the terminal. It reads a file of shell commands and replays the commands in a fake terminal session as you type random characters.</sub>
 - 有用工具库
   - [pyecharts/pyecharts](https://github.com/pyecharts/pyecharts): <sub>🎨 Python Echarts Plotting Library</sub>
   - [lincolnloop/python-qrcode](https://github.com/lincolnloop/python-qrcode): <sub>Python QR Code image generator</sub>
