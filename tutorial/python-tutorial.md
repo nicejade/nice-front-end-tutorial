@@ -16,13 +16,17 @@
 
 ### 工具篇
 
-- 生产力工具
+- Python 环境管理工具
   - [pypa/pipenv](https://github.com/pypa/pipenv): <sub>Python Development Workflow for Humans.</sub>
   - [pyenv/pyenv](https://github.com/pyenv/pyenv): <sub>Simple Python version management</sub>
   - [pypa/pip](https://github.com/pypa/pip): <sub>The Python package installer https://pip.pypa.io</sub>
   - [utahta/pythonbrew](https://github.com/utahta/pythonbrew): <sub>Python Environment manager</sub>
+- 生产力工具
   - [cookiecutter/cookiecutter](https://github.com/cookiecutter/cookiecutter): <sub>A command-line utility that creates projects from cookiecutters (project templates), e.g. Python package projects, jQuery plugin projects.</sub>
+  - [nvbn/thefuck](https://github.com/nvbn/thefuck): <sub>Magnificent app which corrects your previous console command.</sub>
   - [sloria/doitlive](https://github.com/sloria/doitlive): <sub>doitlive is a tool for live presentations in the terminal. It reads a file of shell commands and replays the commands in a fake terminal session as you type random characters.</sub>
+  - [facebook/PathPicker](https://github.com/facebook/PathPicker): <sub>PathPicker accepts a wide range of input -- output from git commands, grep results, searches -- pretty much anything.After parsing the input, PathPicker presents you with a nice UI to select which files you're interested in.</sub>
+  - [mooz/percol](https://github.com/mooz/percol): <sub>adds flavor of interactive filtering to the traditional pipe concept of UNIX shell</sub>
 - 有用工具库
   - [pyecharts/pyecharts](https://github.com/pyecharts/pyecharts): <sub>🎨 Python Echarts Plotting Library</sub>
   - [lincolnloop/python-qrcode](https://github.com/lincolnloop/python-qrcode): <sub>Python QR Code image generator</sub>
@@ -89,7 +93,7 @@
 
 ## 相关工具库
 
-- [nvbn/thefuck](https://github.com/nvbn/thefuck): <sub>Magnificent app which corrects your previous console command.</sub>
 - [locustio/locust](https://github.com/locustio/locust): <sub>Scalable user load testing tool written in Python</sub>
 - [joeyespo/grip](https://github.com/joeyespo/grip): <sub>Preview GitHub Markdown files like Readme locally before committing them.</sub>
 - [lancopku/pkuseg-python](https://github.com/lancopku/pkuseg-python): <sub>pkuseg 多领域中文分词工具; The pkuseg toolkit for multi-domain Chinese word segmentation</sub>
+- [jakubroztocil/httpie](https://github.com/jakubroztocil/httpie): <sub>As easy as HTTPie /aitch-tee-tee-pie/ 🥧 Modern command line HTTP client – user-friendly curl alternative with intuitive UI, JSON support, syntax highlighting, wget-like downloads, extensions, etc.</sub>
