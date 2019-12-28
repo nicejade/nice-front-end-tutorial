@@ -9,6 +9,7 @@
 ## 进阶篇
 
 - [Authentication Best Practices for Vue](https://blog.sqreen.io/authentication-best-practices-vue/)
+- [逐行剖析 Vue.js 源码](https://github.com/NLRX-WJC/Learn-Vue-Source-Code)
 - [如何写一手漂亮的 Vue](http://jeffjade.com/2017/03/11/120-how-to-write-vue-better/?me)
 - [Vue 2.0 源码学习](https://segmentfault.com/a/1190000007484936)
 - [vue2.0 源码分析之理解响应式架构](https://segmentfault.com/a/1190000007334535)

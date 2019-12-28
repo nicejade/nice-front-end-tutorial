@@ -86,6 +86,7 @@
 - [WordPress](https://wordpress.org/): <sub>WordPress is open source software you can use to create a beautiful website, blog, or app.</sub>
 - [eleventy](https://github.com/11ty/eleventy): <sub>A simpler static site generator. An alternative to Jekyll. Transforms a directory of templates (of varying types) into HTML.</sub>
 - [sergey](https://github.com/trys/sergey): <sub>A tiny lil' static site generator</sub>
+- [outline/outline](https://github.com/outline/outline): <sub>The fastest wiki and knowledge base for growing teams. Beautiful, feature rich, markdown compatible and open source. https://getoutline.com</sub>
 
 ### 构建论坛社区
 
