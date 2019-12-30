@@ -21,6 +21,7 @@
 ## 资源篇
 
 - [Awesome React](https://github.com/enaqx/awesome-react)
+- [awesome-react-components](https://github.com/brillout/awesome-react-components): <sub>Curated List of React Components & Libraries.</sub>
 - [11 React Component Libraries You Should Know In 2018](https://blog.bitsrc.io/11-react-component-libraries-you-should-know-178eb1dd6aa4)
 
 ### UI 组件框架

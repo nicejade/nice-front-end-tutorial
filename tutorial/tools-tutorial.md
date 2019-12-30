@@ -67,6 +67,7 @@
 - [Amp](https://github.com/jmacdonald/amp): <sub>A text editor for your terminal.</sub>
 - [facebook/fb-adb](https://github.com/facebook/fb-adb): <sub>A better shell for Android devices.</sub>
 - [subfinder](https://github.com/projectdiscovery/subfinder): <sub>Subfinder is a subdomain discovery tool that discovers valid subdomains for websites. Designed as a passive framework to be useful for bug bounties and safe for penetration testing.</sub>
+- [ogham/exa](https://github.com/ogham/exa): <sub>A modern version of ‘ls’.</sub>
 
 ### 建站工具
 

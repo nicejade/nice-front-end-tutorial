@@ -31,6 +31,7 @@
   - [pyecharts/pyecharts](https://github.com/pyecharts/pyecharts): <sub>🎨 Python Echarts Plotting Library</sub>
   - [lincolnloop/python-qrcode](https://github.com/lincolnloop/python-qrcode): <sub>Python QR Code image generator</sub>
   - [python-prompt-toolkit](https://github.com/prompt-toolkit/python-prompt-toolkit): <sub>Library for building powerful interactive command line applications in Python</sub>
+  - [xlwings/xlwings](https://github.com/xlwings/xlwings): <sub>xlwings is a BSD-licensed Python library that makes it easy to call Python from Excel and vice versa. It works with Microsoft Excel on Windows and Mac.</sub>
 
 ### 示例篇
 
@@ -39,6 +40,7 @@
 - [interesting-python](https://github.com/Alfred1984/interesting-python): <sub>有趣的 Python 爬虫和 Python 数据分析小项目</sub>
 - [realpython/python-guide](https://github.com/realpython/python-guide): <sub>Python best practices guidebook, written for humans. 中文版：[Python 最佳实践指南](https://github.com/Prodesire/Python-Guide-CN)</sub>
 - [trekhleb/learn-python](https://github.com/trekhleb/learn-python): <sub>📚 Playground and cheatsheet for learning Python. Collection of Python scripts that are split by topics and contain code examples with explanations.</sub>
+- [jackzhenguo/python-small-examples](https://github.com/jackzhenguo/python-small-examples): <sub>Python 有趣的小例子一网打尽。Python 基础、Python 坑点、Python 字符串和正则、Python 绘图、Python 日期和文件、Web 开发、数据科学、机器学习、深度学习、TensorFlow、Pytorch，一切都是简单易懂的小例子。</sub>
 
 ### 资源篇
 
