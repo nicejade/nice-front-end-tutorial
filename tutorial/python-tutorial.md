@@ -41,6 +41,7 @@
 - [realpython/python-guide](https://github.com/realpython/python-guide): <sub>Python best practices guidebook, written for humans. 中文版：[Python 最佳实践指南](https://github.com/Prodesire/Python-Guide-CN)</sub>
 - [trekhleb/learn-python](https://github.com/trekhleb/learn-python): <sub>📚 Playground and cheatsheet for learning Python. Collection of Python scripts that are split by topics and contain code examples with explanations.</sub>
 - [jackzhenguo/python-small-examples](https://github.com/jackzhenguo/python-small-examples): <sub>Python 有趣的小例子一网打尽。Python 基础、Python 坑点、Python 字符串和正则、Python 绘图、Python 日期和文件、Web 开发、数据科学、机器学习、深度学习、TensorFlow、Pytorch，一切都是简单易懂的小例子。</sub>
+- [zhaipro/easy12306](https://github.com/zhaipro/easy12306): <sub>使用机器学习算法完成对 12306 验证码的自动识别</sub>
 
 ### 资源篇
 

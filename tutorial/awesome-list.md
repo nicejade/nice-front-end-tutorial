@@ -124,6 +124,7 @@
 - [Awesome-Creative-Coding](https://github.com/terkelg/awesome-creative-coding): <sub>🎨 Creative Coding: Generative Art, Data visualization, Interaction Design, Resources.</sub>
 - [Awesome-Cli-Apps](https://github.com/agarrharr/awesome-cli-apps): <sub>🖥 📊 🕹 🛠 A curated list of command line apps</sub>
 - [Awesome-Developer-Streams](https://github.com/bnb/awesome-developer-streams): <sub>👩🏿‍💻👨🏾‍💻👩🏼‍💻👨🏽‍💻👩🏻‍💻 Awesome Developers, Streaming</sub>
+- [Awesome Competitive Programming](https://github.com/lnishan/awesome-competitive-programming): <sub>💎 A curated list of awesome Competitive Programming, Algorithm and Data Structure resources</sub>
 - [Awesome-For-Beginners](https://github.com/MunGell/awesome-for-beginners): <sub>A list of awesome beginners-friendly projects.</sub>
 - [Awesome-List](https://github.com/sindresorhus/awesome): <sub>😎 Curated list of awesome lists</sub>
 - [Awesome-Hacking](https://github.com/carpedm20/awesome-hacking): <sub>A curated list of awesome Hacking tutorials, tools and resources</sub>
