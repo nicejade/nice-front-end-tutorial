@@ -22,6 +22,7 @@
   - [pypa/pip](https://github.com/pypa/pip): <sub>The Python package installer https://pip.pypa.io</sub>
   - [utahta/pythonbrew](https://github.com/utahta/pythonbrew): <sub>Python Environment manager</sub>
 - 生产力工具
+  - [psf/black](https://github.com/psf/black): <sub>The uncompromising Python code formatter.</sub>
   - [cookiecutter/cookiecutter](https://github.com/cookiecutter/cookiecutter): <sub>A command-line utility that creates projects from cookiecutters (project templates), e.g. Python package projects, jQuery plugin projects.</sub>
   - [nvbn/thefuck](https://github.com/nvbn/thefuck): <sub>Magnificent app which corrects your previous console command.</sub>
   - [sloria/doitlive](https://github.com/sloria/doitlive): <sub>doitlive is a tool for live presentations in the terminal. It reads a file of shell commands and replays the commands in a fake terminal session as you type random characters.</sub>
