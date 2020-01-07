@@ -1,0 +1,38 @@
+**导语**：**Serverless 面向未来的运维方式**；网络应用正在慢慢改变世界，但是大多数互联网企业仍然无法顺畅交付工程，更不用说敏捷开发和快速迭代了。**所以我们必须从根本上简化应用工程的交付和操作**。
+
+这就是**无服务器架构**所提供的 ServerLess 建立在下一代公共云服务之上，该服务仅在使用时自动扩容和收费。当规模， 所用容量和成本管理实现自动化时，可节省 99% 的成本管理。
+
+无服务器架构是全新的，因此我们需要改变先前对老架构和工作流的看法。serverless 的目标是**以一种简单，强大而优雅的使用体验为开发者，团队提供开发和运行 serverless 应用程序所需的所有工具**。
+
+## 基础篇
+
+- [ServerLess 官方网站](https://serverless.com/)
+- [Serverless Framework - GitHub](https://github.com/serverless/serverless)
+
+### 教程文章
+
+- [深入浅出 Serverless：优势、意义与应用](https://serverlesscloud.cn/blog/2019-12-09-serverless-means-applications/)
+- [探索 Serverless 中的前端开发模式]()
+- [浅析基于 Serverless 的前后端一体化框架](https://yq.aliyun.com/articles/706958)
+- [如何开发自己的第一个 Serverless Component](https://serverlesscloud.cn/best-practice/2019-12-12-how-write-first-serverless-component/)
+
+### 实践示例
+
+- [用 Serverless 搭建个人静态相册网站](https://serverlesscloud.cn/best-practice/2019-12-13-Build-personal-album-website-with-serverless/)
+- [Docsify + Serverless Framework 快速创建个人博客系统](https://serverlesscloud.cn/best-practice/2019-12-14-docsify-with-serverless/)
+
+## 资源生态
+
+### 官方
+
+- [ServerLess 中文技术社区](https://serverlesscloud.cn/)
+- [ServerLess 命令行工具](https://serverless.com/cli/): <sub>使用 YAML + CLI 开发应用并将其快速部署到云端。</sub>
+- [ServerLess 插件](https://serverless.com/plugins/): <sub>提供 1000+ Framework CLI 插件，帮助开发者快速定义自己的工作流。</sub>
+- [ServerLess 组件](https://serverless.com/components/): <sub>通过更加简单的担建，快速部署常见的 Serverless 应用。</sub>
+
+### 其他
+
+- [阿里云 - 无服务器计算和应用场景](https://serverless.aliyun.com/)
+- [腾讯云 - Serverless 微服务平台](https://cloud.tencent.com/product/tsf-serverless)
+- [腾讯云 serverless 的专栏](https://cloud.tencent.com/developer/column/1196)
+- [InfoQ Serverless Topic](https://www.infoq.cn/topic/Serverless)
