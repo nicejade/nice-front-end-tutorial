@@ -10,6 +10,7 @@
 - [Serverless Framework - GitHub](https://github.com/serverless/serverless)
 - [ServerLess 官方文档](https://serverless.com/cn/framework/docs/)
 - [Serverless 架构应用开发指南](https://github.com/phodal/serverless)
+- [Serverless 官方示例](https://github.com/serverless/examples)
 
 ### 教程文章
 
@@ -20,12 +21,14 @@
 
 ### 实践示例
 
+- [Serverless Official Site](https://github.com/serverless/site): <sub>🌎 Serverless.com – 100% serverless website built w/ React, Gatsby, AWS Lambda & the Serverless Framework https://serverless.com</sub>
 - [用 Serverless 搭建个人静态相册网站](https://serverlesscloud.cn/best-practice/2019-12-13-Build-personal-album-website-with-serverless/)
 - [Docsify + Serverless Framework 快速创建个人博客系统](https://serverlesscloud.cn/best-practice/2019-12-14-docsify-with-serverless/)
 
 ## 资源生态
 
 - [anaibol/awesome-serverless](https://github.com/anaibol/awesome-serverless): <sub>☁️ A curated list of awesome services, solutions and resources for serverless / nobackend applications.</sub>
+- [pmuens/awesome-serverless](https://github.com/pmuens/awesome-serverless): <sub>DEPRECATED: Curated list of resources related to serverless computing and serverless architectures.</sub>
 
 ### 官方
 
@@ -48,4 +51,9 @@
 - [openfaas/faas](https://github.com/openfaas/faas): <sub>OpenFaaS - Serverless Functions Made Simple https://openfaas.com</sub>
 - [aws/chalice](https://github.com/aws/chalice): <sub>Python Serverless Microframework for AWS</sub>
 - [awslabs/serverless-application-model](https://github.com/awslabs/serverless-application-model): <sub>AWS Serverless Application Model (SAM) is an open-source framework for building serverless applications</sub>
+- [dherault/serverless-offline](https://github.com/dherault/serverless-offline): <sub>Emulate AWS λ and API Gateway locally when developing your Serverless project</sub>
 - [kubeless/kubeless](https://github.com/kubeless/kubeless): <sub>Kubernetes Native Serverless Framework https://kubeless.io</sub>
+- [serverless/serverless-graphql](https://github.com/serverless/serverless-graphql): <sub>Serverless GraphQL Examples for AWS AppSync and Apollo</sub>
+- [adieuadieu/serverless-chrome](https://github.com/adieuadieu/serverless-chrome): <sub>🌐 Run headless Chrome/Chromium on AWS Lambda</sub>
+- [CSS-Tricks/serverless](https://github.com/CSS-Tricks/serverless): <sub>The Power of Serverless for Front-End Developers https://serverless.css-tricks.com</sub>
+- [serverless-heaven/serverless-webpack](https://github.com/serverless-heaven/serverless-webpack): <sub>Serverless plugin to bundle your lambdas with Webpack</sub>
