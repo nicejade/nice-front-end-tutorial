@@ -32,3 +32,4 @@
 - [perlin-network/life](https://github.com/perlin-network/life): <sub>A secure WebAssembly VM catered for decentralized applications.</sub>
 - [wasm-pack ](https://github.com/rustwasm/wasm-pack): <sub>📦✨ your favorite rust -> wasm workflow tool! rustwasm.github.io/wasm-pack</sub>
 - [wasm-micro-runtime](https://github.com/bytecodealliance/wasm-micro-runtime): <sub>WebAssembly Micro Runtime (WAMR)</sub>
+- [google/schism](https://github.com/google/schism): <sub>A self-hosting Scheme to WebAssembly compiler</sub>

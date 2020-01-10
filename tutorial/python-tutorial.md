@@ -75,6 +75,7 @@
 - [scikit-learn/scikit-learn](https://github.com/scikit-learn/scikit-learn): <sub>scikit-learn: machine learning in Python https://scikit-learn.org</sub>
 - [dmlc/xgboost](https://github.com/dmlc/xgboost): <sub>Scalable, Portable and Distributed Gradient Boosting (GBDT, GBRT or GBM) Library, for Python, R, Java, Scala, C++ and more. Runs on single machine, Hadoop, Spark, Flink and DataFlow https://xgboost.ai</sub>
 - [tensorlayer/tensorlayer](https://github.com/tensorlayer/tensorlayer): <sub>Deep Learning and Reinforcement Learning Library for Scientists 🔥</sub>
+- [mlflow/mlflow](https://github.com/mlflow/mlflow): <sub>Open source platform for the machine learning lifecycle https://mlflow.org</sub>
 
 ## 机器人
 
@@ -101,3 +102,4 @@
 - [joeyespo/grip](https://github.com/joeyespo/grip): <sub>Preview GitHub Markdown files like Readme locally before committing them.</sub>
 - [lancopku/pkuseg-python](https://github.com/lancopku/pkuseg-python): <sub>pkuseg 多领域中文分词工具; The pkuseg toolkit for multi-domain Chinese word segmentation</sub>
 - [jakubroztocil/httpie](https://github.com/jakubroztocil/httpie): <sub>As easy as HTTPie /aitch-tee-tee-pie/ 🥧 Modern command line HTTP client – user-friendly curl alternative with intuitive UI, JSON support, syntax highlighting, wget-like downloads, extensions, etc.</sub>
+- [django/django](https://github.com/django/django): <sub>The Web framework for perfectionists with deadlines. https://djangoproject.com</sub>

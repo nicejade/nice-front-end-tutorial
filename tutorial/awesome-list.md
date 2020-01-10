@@ -139,3 +139,4 @@
 - [Awesome-Resources](https://github.com/lyfeyaj/awesome-resources): <sub>Awesome resources for coding and learning: open source projects, websites, books e.g.</sub>
 - [Awesome-Talks](https://github.com/JanVanRyswyck/awesome-talks): <sub>Awesome online talks and screencasts</sub>
 - [Awesome-Docsify](https://github.com/docsifyjs/awesome-docsify): <sub>💖 A curated list of awesome things related to docsify</sub>
+- [wesbos/awesome-uses](https://github.com/wesbos/awesome-uses): <sub>A site for this repo is currently being built. Please check out the website branch and add yourself in there!</sub>
