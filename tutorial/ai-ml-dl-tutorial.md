@@ -22,6 +22,7 @@
 - [Awesome Marchine Learning](https://github.com/shenwei356/awesome/blob/master/machine-learning.md)
 - [Awesome-Mobile-Machine-Learning](https://github.com/fritzlabs/Awesome-Mobile-Machine-Learning): <sub>A curated list of awesome mobile machine learning resources for iOS, Android, and edge devices. https://fritz.ai </sub>
 - [uber/manifold](https://github.com/uber/manifold): <sub>A model-agnostic visual debugging tool for machine learning http://manifold.mlvis.io</sub>
+- [marcotcr/lime](https://github.com/marcotcr/lime): <sub>Lime: Explaining the predictions of any machine learning classifier</sub>
 
 ### Related JS Libraries
 

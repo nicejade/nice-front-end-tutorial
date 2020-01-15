@@ -80,6 +80,7 @@
 - [Bitsofcode](https://bitsofco.de/)
 - [Css Tricks](https://css-tricks.com/)
 - [Blog - Advanced Web Machinery](https://advancedweb.hu/)
+- [Personal blog by Dan Abramov.](https://github.com/gaearon/overreacted.io)
 - [Designmodo: Web Design Blog and Shop](https://designmodo.com/)
 - [Noupe - THE magazine for webworkers and site owners](https://www.noupe.com/)
 - [Pragmatists blog](https://blog.pragmatists.com/)
