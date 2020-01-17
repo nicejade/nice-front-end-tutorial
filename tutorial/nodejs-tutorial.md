@@ -34,6 +34,7 @@
 
 - [Awesome Awesome Node.js](https://github.com/bnb/awesome-awesome-nodejs): <sub>🐢🚀 An Awesome list of Awesome lists related to Node.js.</sub>
 - [awesome-nodejs](https://github.com/sindresorhus/awesome-nodejs): <sub>⚡️ Delightful Node.js packages and resources https://node.cool</sub>
+- [nodebestpractices](https://github.com/goldbergyoni/nodebestpractices): <sub>✅ The largest Node.js best practices list (December 2019)</sub>
 
 ## 框架篇
 

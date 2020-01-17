@@ -1,6 +1,8 @@
 ## Other Framework
 
 - [svelte](https://github.com/sveltejs/svelte): <sub>Cybernetically enhanced web apps</sub>
+- [quasar](https://github.com/quasarframework/quasar): <sub>Quasar Framework - Build high-performance VueJS user interfaces in record time https://quasar.dev</sub>
+- [single-spa](https://github.com/CanopyTax/single-spa): <sub>Microfrontends made easy https://single-spa.js.org</sub>
 - [Rocket](https://github.com/SergioBenitez/Rocket): <sub>A web framework for Rust. https://rocket.rs/</sub>
 - [ionic](https://github.com/ionic-team/ionic): <sub>Build amazing native and progressive web apps with open web technologies. One app running on everything 🎉 https://ionicframework.com</sub>
 - [Tencent/omi](https://github.com/Tencent/omi): <sub>Next generation web framework in 4kb JavaScript (Web Components + JSX + Proxy + Store + Path Updating) http://omijs.org</sub>
