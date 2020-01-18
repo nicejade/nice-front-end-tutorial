@@ -29,6 +29,7 @@
 ### 国外
 
 - [A JS tip per day! ](http://www.jstips.co)
+- [DeveloperDrive.com](https://www.developerdrive.com/)
 - [CodePen - Front End Developer Playground](https://codepen.io/)
 - [Reloading – Medium](https://medium.com/reloading)
 - [Cybersecurity – Medium](https://medium.com/topic/cybersecurity)
@@ -80,6 +81,7 @@
 - [Bitsofcode](https://bitsofco.de/)
 - [Css Tricks](https://css-tricks.com/)
 - [Blog - Advanced Web Machinery](https://advancedweb.hu/)
+- [bradgarropy](https://bradgarropy.com/blog)
 - [Personal blog by Dan Abramov.](https://github.com/gaearon/overreacted.io)
 - [Designmodo: Web Design Blog and Shop](https://designmodo.com/)
 - [Noupe - THE magazine for webworkers and site owners](https://www.noupe.com/)
