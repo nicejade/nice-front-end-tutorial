@@ -57,6 +57,7 @@
 - [interactive-coding-challenges](https://github.com/donnemartin/interactive-coding-challenges): <sub>120+ interactive Python coding interview challenges (algorithms and data structures). Includes Anki flashcards.</sub>
 - [TheAlgorithms/Python](https://github.com/TheAlgorithms/Python): <sub>All algorithms implemented in Python (for education)</sub>
 - [faif/python-patterns](https://github.com/faif/python-patterns): <sub>A collection of design patterns/idioms in Python</sub>
+- [bregman-arie/devops-exercises](https://github.com/bregman-arie/devops-exercises): <sub>Linux, Jenkins, AWS, SRE, Prometheus, Docker, Python, Ansible, Git, Kubernetes, Terraform, OpenStack, SQL, NoSQL, Azure, GCP, DNS, Elastic, Network, Virtualization</sub>
 
 ## 深度学习
 
@@ -67,6 +68,7 @@
 - [pytorch/pytorch](https://github.com/pytorch/pytorch): <sub>Tensors and Dynamic neural networks in Python with strong GPU acceleration https://pytorch.org</sub>
 - [apache/incubator-mxnet](https://github.com/apache/incubator-mxnet): <sub>Apache MXNet (incubating) for Deep Learning</sub>
 - [tensorlayer/tensorlayer](https://github.com/tensorlayer/tensorlayer): <sub>Deep Learning and Reinforcement Learning Library for Scientists 🔥</sub>
+- [google/trax](https://github.com/google/trax): <sub>Trax — your path to advanced deep learning</sub>
 
 ## 机器学习
 

@@ -125,6 +125,7 @@
 - [Awesome-Cli-Apps](https://github.com/agarrharr/awesome-cli-apps): <sub>🖥 📊 🕹 🛠 A curated list of command line apps</sub>
 - [Awesome-Developer-Streams](https://github.com/bnb/awesome-developer-streams): <sub>👩🏿‍💻👨🏾‍💻👩🏼‍💻👨🏽‍💻👩🏻‍💻 Awesome Developers, Streaming</sub>
 - [Awesome Competitive Programming](https://github.com/lnishan/awesome-competitive-programming): <sub>💎 A curated list of awesome Competitive Programming, Algorithm and Data Structure resources</sub>
+- [Awesome-Docsify](https://github.com/docsifyjs/awesome-docsify): <sub>💖 A curated list of awesome things related to docsify</sub>
 - [Awesome-For-Beginners](https://github.com/MunGell/awesome-for-beginners): <sub>A list of awesome beginners-friendly projects.</sub>
 - [Awesome-List](https://github.com/sindresorhus/awesome): <sub>😎 Curated list of awesome lists</sub>
 - [Awesome-Hacking](https://github.com/carpedm20/awesome-hacking): <sub>A curated list of awesome Hacking tutorials, tools and resources</sub>
@@ -138,5 +139,4 @@
 - [Awesome-README](https://github.com/matiassingers/awesome-readme): <sub>A curated list of awesome READMEs</sub>
 - [Awesome-Resources](https://github.com/lyfeyaj/awesome-resources): <sub>Awesome resources for coding and learning: open source projects, websites, books e.g.</sub>
 - [Awesome-Talks](https://github.com/JanVanRyswyck/awesome-talks): <sub>Awesome online talks and screencasts</sub>
-- [Awesome-Docsify](https://github.com/docsifyjs/awesome-docsify): <sub>💖 A curated list of awesome things related to docsify</sub>
 - [wesbos/awesome-uses](https://github.com/wesbos/awesome-uses): <sub>A site for this repo is currently being built. Please check out the website branch and add yourself in there!</sub>

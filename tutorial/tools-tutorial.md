@@ -1,5 +1,6 @@
 ### 综合
 
+- [jlevy/the-art-of-command-line](https://github.com/jlevy/the-art-of-command-line): <sub>Master the command line, in one page</sub>
 - [the-book-of-secret-knowledge](https://github.com/trimstray/the-book-of-secret-knowledge): <sub>💫 A collection of awesome lists, manuals, blogs, hacks, one-liners, cli/web tools and more. Especially for System and Network Administrators, DevOps, Pentesters or Security Researchers.</sub>
 - [工具武装的前端开发工程师](https://juejin.im/post/57dc98532e958a00545eace9)
 - [GitHub 上整理的一些工具，求补充](https://segmentfault.com/q/1010000002404545)
