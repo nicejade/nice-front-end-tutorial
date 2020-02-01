@@ -69,6 +69,7 @@
 - [apache/incubator-mxnet](https://github.com/apache/incubator-mxnet): <sub>Apache MXNet (incubating) for Deep Learning</sub>
 - [tensorlayer/tensorlayer](https://github.com/tensorlayer/tensorlayer): <sub>Deep Learning and Reinforcement Learning Library for Scientists 🔥</sub>
 - [google/trax](https://github.com/google/trax): <sub>Trax — your path to advanced deep learning</sub>
+- [openai/spinningup](https://github.com/openai/spinningup): <sub>An educational resource to help anyone learn deep reinforcement learning.</sub>
 
 ## 机器学习
 

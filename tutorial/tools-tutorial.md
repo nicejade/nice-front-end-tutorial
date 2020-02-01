@@ -416,4 +416,8 @@
   > Draw a leader line in your web page. http://anseki.github.io/leader-line 在网页上绘制引导线
 
 - [kitze/JSUI](https://github.com/kitze/JSUI)
+
   > A powerful UI toolkit for managing JavaScript apps（强大的 UI 工具包，用于管理 JavaScript 应用）
+
+- [lirantal/is-website-vulnerable](https://github.com/lirantal/is-website-vulnerable)
+  > finds publicly known security vulnerabilities in a website's frontend JavaScript libraries（在网站的前端 JavaScript 库中发现公开的安全漏洞）

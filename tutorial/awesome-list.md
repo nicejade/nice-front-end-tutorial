@@ -25,6 +25,7 @@
 - [Awesome-Service-Workers](https://github.com/TalAter/awesome-service-workers): <sub>🔩 A collection of awesome resources for learning Service Workers</sub>
 - [Awesome-SVG](https://github.com/willianjusten/awesome-svg): <sub>A curated list of SVG.</sub>
 - [Awesome-WebGL](https://github.com/sjfricke/awesome-webgl): <sub>A curated list of awesome WebGL libraries, resources and much more.</sub>
+- [Awesome-Web-Animation](https://github.com/sergey-pimenov/awesome-web-animation): <sub>A list of awesome web animation libraries, books, apps etc.</sub>
 
 ### 🚈 Framework
 
