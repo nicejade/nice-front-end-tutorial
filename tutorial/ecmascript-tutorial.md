@@ -29,6 +29,7 @@
 
 - [A list of funny and tricky JavaScript examples](https://github.com/denysdovhan/wtfjs#readme)
 - [30 seconds of code](https://github.com/Chalarangelo/30-seconds-of-code): <sub>Curated collection of useful Javascript snippets that you can understand in 30 seconds or less. https://30secondsofcode.org/</sub>
+- [azl397985856/leetcode](https://github.com/azl397985856/leetcode): <sub>LeetCode Solutions: A Record of My Problem Solving Journey.( leetcode 题解，记录自己的 leetcode 解题之路。)</sub>
 - [javascript-questions](https://github.com/lydiahallie/javascript-questions): <sub>A long list of (advanced) JavaScript questions, and their explanations ✨ Updated weekly!</sub>
 - [JavaScript Factory Functions with ES6+](https://medium.com/javascript-scene/javascript-factory-functions-with-es6-4d224591a8b1)
 - [Dynamic import()](https://developers.google.com/web/updates/2017/11/dynamic-import)

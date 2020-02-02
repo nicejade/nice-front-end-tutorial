@@ -18,3 +18,4 @@
 - [30-seconds-of-interviews](https://github.com/fejes713/30-seconds-of-interviews): <sub>A curated collection of common interview questions to help you prepare for your next interview. https://30secondsofinterviews.org</sub>
 - [InterviewMap](https://github.com/InterviewMap/InterviewMap): <sub>Build the best interview map. The current content includes JS, network, browser related, performance optimization, security, framework, Git, data structure, algorithm, etc. https://yuchengkai.cn/docs/</sub>
 - [devops-interview-questions](https://github.com/bregman-arie/devops-interview-questions): <sub>Linux, Jenkins, AWS, SRE, Prometheus, Docker, Python, Ansible, Git, Kubernetes, Terraform, OpenStack, SQL, NoSQL, Azure, GCP</sub>
+- [haizlin/fe-interview](https://github.com/haizlin/fe-interview): <sub>前端面试每日 3+1，以面试题来驱动学习，提倡每日学习与思考，每天进步一点！每天早上 5 点纯手工发布面试题（死磕自己，愉悦大家）</sub>
