@@ -43,6 +43,7 @@
 - [trekhleb/learn-python](https://github.com/trekhleb/learn-python): <sub>📚 Playground and cheatsheet for learning Python. Collection of Python scripts that are split by topics and contain code examples with explanations.</sub>
 - [jackzhenguo/python-small-examples](https://github.com/jackzhenguo/python-small-examples): <sub>Python 有趣的小例子一网打尽。Python 基础、Python 坑点、Python 字符串和正则、Python 绘图、Python 日期和文件、Web 开发、数据科学、机器学习、深度学习、TensorFlow、Pytorch，一切都是简单易懂的小例子。</sub>
 - [zhaipro/easy12306](https://github.com/zhaipro/easy12306): <sub>使用机器学习算法完成对 12306 验证码的自动识别</sub>
+- [tangyudi/Ai-learn](https://github.com/tangyudi/Ai-learn): <sub>人工智能学习路线图，整理近 200 个实战案例与项目，免费提供配套教材，零基础入门，就业实战！包括：Python，数学，机器学习，数据分析，深度学习，计算机视觉，自然语言处理等热门领域</sub>
 
 ### 资源篇
 
@@ -58,6 +59,7 @@
 - [TheAlgorithms/Python](https://github.com/TheAlgorithms/Python): <sub>All algorithms implemented in Python (for education)</sub>
 - [faif/python-patterns](https://github.com/faif/python-patterns): <sub>A collection of design patterns/idioms in Python</sub>
 - [bregman-arie/devops-exercises](https://github.com/bregman-arie/devops-exercises): <sub>Linux, Jenkins, AWS, SRE, Prometheus, Docker, Python, Ansible, Git, Kubernetes, Terraform, OpenStack, SQL, NoSQL, Azure, GCP, DNS, Elastic, Network, Virtualization</sub>
+- [TheAlgorithms/Python](https://github.com/TheAlgorithms/Python): <sub>All Algorithms implemented in Python https://travis-ci.com/TheAlgorithms/Python</sub>
 
 ## 深度学习
 
