@@ -16,6 +16,10 @@
 - [如何优雅的为 PWA 注册 Service Worker](https://zhuanlan.zhihu.com/p/28161855)
 - [PWA 轻度实践：使用 service worker 对静态资源进行全缓存](http://foio.github.io/service-worker-cache/)
 
+## 工具篇
+
+- [pwa-builder/PWABuilder](https://github.com/pwa-builder/PWABuilder): <sub>Vue / Nuxt frontend site for PWABuilder http://pwabuilder.com</sub>
+
 ## News
 
 - [Progressive Web Apps on the Desktop](https://developers.google.com/web/updates/2018/05/dpwa): <sub>自 Chrome 67 开始，提供了桌面 PWA 功能，即可以把网页变成桌面应用，能够离线使用，并且 Windows 和 Mac 都支持。</sub>

@@ -24,6 +24,7 @@
 - [Parallel programming in JavaScript](https://itnext.io/achieving-parallelism-in-javascript-using-web-workers-8f921f2d26db)
 - [The Comprehensive Guide to JavaScript Design Patterns](https://www.toptal.com/javascript/comprehensive-guide-javascript-design-patterns)
 - [javascript-design-patterns-for-humans](https://github.com/sohamkamani/javascript-design-patterns-for-humans): <sub>An ultra-simplified explanation of design patterns implemented in javascript</sub>
+- [jonasschmedtmann/complete-javascript-course](https://github.com/jonasschmedtmann/complete-javascript-course): <sub>Starter files, final projects and FAQ for my Complete JavaScript course</sub>
 
 ## 相关篇
 
