@@ -19,6 +19,7 @@
 ## 工具篇
 
 - [pwa-builder/PWABuilder](https://github.com/pwa-builder/PWABuilder): <sub>Vue / Nuxt frontend site for PWABuilder http://pwabuilder.com</sub>
+- [pwa-builder/pwa-install](https://github.com/pwa-builder/pwa-install): <sub>Web Component from the PWABuilder team that brings an awesome "install" experience to your Progressive Web App!</sub>
 
 ## News
 

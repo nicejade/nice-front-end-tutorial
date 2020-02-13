@@ -51,6 +51,10 @@
 - [code-server](https://github.com/codercom/code-server): <sub>Run VS Code on a remote server. https://coder.com/</sub>
 - [sshcode](https://github.com/cdr/sshcode): <sub>Run VS Code on any server over SSH.</sub>
 
+### Visual Editor
+
+- [premieroctet/openchakra](https://github.com/premieroctet/openchakra): <sub>⚡️ Visual editor for Chakra UI https://openchakra.app</sub>
+
 #### oni2
 
 - [oni2](https://github.com/onivim/oni2): <sub>Native, lightweight modal code editor. https://v2.onivim.io</sub>
@@ -93,6 +97,7 @@
 ### 构建论坛社区
 
 - [flarum/flarum](https://github.com/flarum/flarum): <sub>Simple forum software for building great communities.</sub>
+- [88250/symphony](https://github.com/88250/symphony): <sub>🎶 一款用 Java 实现的现代化社区（论坛/BBS/社交网络/博客）平台。 https://sym.b3log.org</sub>
 
 ### 打造桌面应用
 
