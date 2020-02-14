@@ -29,6 +29,7 @@
   - [facebook/PathPicker](https://github.com/facebook/PathPicker): <sub>PathPicker accepts a wide range of input -- output from git commands, grep results, searches -- pretty much anything.After parsing the input, PathPicker presents you with a nice UI to select which files you're interested in.</sub>
   - [mooz/percol](https://github.com/mooz/percol): <sub>adds flavor of interactive filtering to the traditional pipe concept of UNIX shell</sub>
 - 有用工具库
+  - [timothycrosley/isort](https://github.com/timothycrosley/isort): <sub>A Python utility / library to sort imports.</sub>
   - [pyecharts/pyecharts](https://github.com/pyecharts/pyecharts): <sub>🎨 Python Echarts Plotting Library</sub>
   - [lincolnloop/python-qrcode](https://github.com/lincolnloop/python-qrcode): <sub>Python QR Code image generator</sub>
   - [python-prompt-toolkit](https://github.com/prompt-toolkit/python-prompt-toolkit): <sub>Library for building powerful interactive command line applications in Python</sub>
@@ -72,6 +73,7 @@
 - [tensorlayer/tensorlayer](https://github.com/tensorlayer/tensorlayer): <sub>Deep Learning and Reinforcement Learning Library for Scientists 🔥</sub>
 - [google/trax](https://github.com/google/trax): <sub>Trax — your path to advanced deep learning</sub>
 - [openai/spinningup](https://github.com/openai/spinningup): <sub>An educational resource to help anyone learn deep reinforcement learning.</sub>
+- [microsoft/DeepSpeed](https://github.com/microsoft/DeepSpeed): <sub>DeepSpeed is a deep learning optimization library that makes distributed training easy, efficient, and effective.</sub>
 
 ## 机器学习
 
@@ -81,6 +83,7 @@
 - [dmlc/xgboost](https://github.com/dmlc/xgboost): <sub>Scalable, Portable and Distributed Gradient Boosting (GBDT, GBRT or GBM) Library, for Python, R, Java, Scala, C++ and more. Runs on single machine, Hadoop, Spark, Flink and DataFlow https://xgboost.ai</sub>
 - [tensorlayer/tensorlayer](https://github.com/tensorlayer/tensorlayer): <sub>Deep Learning and Reinforcement Learning Library for Scientists 🔥</sub>
 - [mlflow/mlflow](https://github.com/mlflow/mlflow): <sub>Open source platform for the machine learning lifecycle https://mlflow.org</sub>
+- [OpenMined/PySyft](https://github.com/OpenMined/PySyft): <sub>A library for encrypted, privacy preserving machine learning</sub>
 
 ## 机器人
 

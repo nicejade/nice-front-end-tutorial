@@ -25,6 +25,7 @@
 ## 工具篇
 
 - [wasmerio/wasmer](https://github.com/wasmerio/wasmer): <sub>Universal WebAssembly runtime</sub>
+- [wasm3/wasm3](https://github.com/wasm3/wasm3): <sub>🚀 The fastest WebAssembly interpreter</sub>
 - [wasmtime](https://github.com/CraneStation/wasmtime): <sub>Standalone JIT-style runtime for WebAssembly, using Cranelift</sub>
 - [AssemblyScript](https://github.com/AssemblyScript/assemblyscript): <sub>Definitely not a TypeScript to WebAssembly compiler 🚀 https://assemblyscript.org</sub>
 - [vugu](https://github.com/vugu/vugu): <sub>Vugu: A modern UI library for Go+WebAssembly (experimental) https://www.vugu.org/</sub>
