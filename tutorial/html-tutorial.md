@@ -16,4 +16,5 @@
 
 ## 周边篇
 
+- [samdutton/simpl](https://github.com/samdutton/simpl): <sub>Simplest possible examples of HTML, CSS and Javascript: https://simpl.info</sub>
 - [What’s New in HTML 5.2?](https://bitsofco.de/whats-new-in-html-5-2/)

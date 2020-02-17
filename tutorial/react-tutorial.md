@@ -35,6 +35,7 @@
 - [react-native-elements](https://github.com/react-native-training/react-native-elements): <sub>Cross Platform React Native UI Toolkit</sub>
 - [evergreen](https://github.com/segmentio/evergreen): <sub>🌲 Evergreen React UI Framework by Segment https://evergreen.surge.sh/</sub>
 - [grommet/grommet](https://github.com/grommet/grommet): <sub>a react-based framework that provides accessibility, modularity, responsiveness, and theming in a tidy package https://grommet.io</sub>
+- [nitin42/terminal-in-react](https://github.com/nitin42/terminal-in-react): <sub>👨‍💻 A component that renders a terminal</sub>
 
 ### 工具类插件
 
