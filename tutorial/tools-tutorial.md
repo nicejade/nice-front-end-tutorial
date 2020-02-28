@@ -171,6 +171,7 @@
 - [Cerberus](https://github.com/TedGoas/Cerberus): <sub>A few simple, but solid patterns for responsive HTML email templates and newsletters. Even in Outlook and Gmail. http://tedgoas.github.io/Cerberus</sub>
 - [Responsive Email Template](https://github.com/nicejade/responsive-email-template)
 - [Open Source Email Templates](https://www.sendwithus.com/resources/templates)
+- [maizzle/framework](https://github.com/maizzle/framework): <sub>HTML email development framework. https://maizzle.com</sub>
 
 ### JS 在线演示
 
@@ -425,4 +426,20 @@
   > A powerful UI toolkit for managing JavaScript apps（强大的 UI 工具包，用于管理 JavaScript 应用）
 
 - [lirantal/is-website-vulnerable](https://github.com/lirantal/is-website-vulnerable)
+
   > finds publicly known security vulnerabilities in a website's frontend JavaScript libraries（在网站的前端 JavaScript 库中发现公开的安全漏洞）
+
+- [IonicaBizau/scrape-it](https://github.com/IonicaBizau/scrape-it)
+
+  > 🔮 A Node.js scraper for humans. （适用于人类的 Node.js 抓取工具。）
+
+- [Stuk/jszip](https://github.com/Stuk/jszip)
+
+  > Create, read and edit .zip files with Javascript http://stuartk.com/jszip (使用 Javascript 创建，读取和编辑.zip 文件)
+
+- [eligrey/FileSaver.js](https://github.com/eligrey/FileSaver.js)
+
+  > An HTML5 saveAs() FileSaver implementation (HTML5 saveAs() FileSaver 实现)
+
+- [ai/nanoid](https://github.com/ai/nanoid)
+  > A tiny (118 bytes), secure, URL-friendly, unique string ID generator for JavaScript (微型（118 字节），安全，友好的 URL，唯一的字符串 ID 生成器，用于 JavaScript)

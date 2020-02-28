@@ -44,6 +44,7 @@
 - [vmap.phodal.com](https://vmap.phodal.com/) - 基于 GitHub 的 O2O 应用，寻找身边的 GitHub 大牛，根据你填写的公司位置查找
 - [jekyllthemes](https://github.com/mattvh/jekyllthemes) - 一些好看的 jekyll 主题
 - [gitential.com](https://gitential.com/) - Analytics for Git
+- [github/gitignore](https://github.com/github/gitignore) - A collection of useful .gitignore templates
 
 ## GitHub Rank
 
