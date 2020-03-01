@@ -107,8 +107,10 @@
 
 ## 相关工具库
 
+- [mherrmann/helium](https://github.com/mherrmann/helium): <sub>Selenium-python, 50% easier. Helium is the best Python library for web automation.</sub>
 - [locustio/locust](https://github.com/locustio/locust): <sub>Scalable user load testing tool written in Python</sub>
 - [joeyespo/grip](https://github.com/joeyespo/grip): <sub>Preview GitHub Markdown files like Readme locally before committing them.</sub>
 - [lancopku/pkuseg-python](https://github.com/lancopku/pkuseg-python): <sub>pkuseg 多领域中文分词工具; The pkuseg toolkit for multi-domain Chinese word segmentation</sub>
+- [home-assistant/home-assistant](https://github.com/home-assistant/home-assistant): <sub>🏡 Open source home automation that puts local control and privacy first</sub>
 - [jakubroztocil/httpie](https://github.com/jakubroztocil/httpie): <sub>As easy as HTTPie /aitch-tee-tee-pie/ 🥧 Modern command line HTTP client – user-friendly curl alternative with intuitive UI, JSON support, syntax highlighting, wget-like downloads, extensions, etc.</sub>
 - [django/django](https://github.com/django/django): <sub>The Web framework for perfectionists with deadlines. https://djangoproject.com</sub>

@@ -66,6 +66,7 @@
 - [water.css](https://github.com/kognise/water.css): <sub>A just-add-css collection of styles to make simple websites just a little nicer </sub>
 - [css-blocks](https://github.com/linkedin/css-blocks): <sub>High performance, maintainable stylesheets. http://css-blocks.com/</sub>
 - [smooth-code/xstyled](https://github.com/smooth-code/xstyled): <sub>Consistent theme based CSS for styled-components & emotion 💅👩‍🎤</sub>
+- [pattle/simpsons-in-css](https://github.com/pattle/simpsons-in-css): <sub>Simpsons characters in CSS</sub>
 - [bouncejs 触摸库](http://bouncejs.com)
 - [browserhacks](http://browserhacks.com)
 - [腾讯 css3 动画制作工具](http://isux.tencent.com/css3/tools.html)

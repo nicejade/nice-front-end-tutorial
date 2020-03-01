@@ -442,4 +442,8 @@
   > An HTML5 saveAs() FileSaver implementation (HTML5 saveAs() FileSaver 实现)
 
 - [ai/nanoid](https://github.com/ai/nanoid)
+
   > A tiny (118 bytes), secure, URL-friendly, unique string ID generator for JavaScript (微型（118 字节），安全，友好的 URL，唯一的字符串 ID 生成器，用于 JavaScript)
+
+- [swc-project/swc](https://github.com/swc-project/swc)
+  > Super-fast typescript / javascript compiler written in rust (用 Rust 编写的超快速打字稿/ JavaScript 编译器)

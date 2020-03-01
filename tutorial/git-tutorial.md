@@ -65,6 +65,7 @@
 - [git-dude](https://github.com/sickill/git-dude) - git commit 通知
 - [gitee](https://github.com/Nightonke/Gitee) - Gitee, OS X status bar application for Github 漂亮的 GitHub 数据统计工具，还有 notifications 功能
 - [GitHubFolderDownloader](https://github.com/VahidN/GitHubFolderDownloader) - 可以下载一个仓库的单个文件夹的桌面工具
+- [go-gitea/gitea](https://github.com/go-gitea/gitea): <sub>Git with a cup of tea, painless self-hosted git service</sub>
 
 ## Git 库
 
