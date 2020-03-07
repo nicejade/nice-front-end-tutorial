@@ -46,6 +46,7 @@
 - [VelocityJS](https://github.com/julianshapiro/velocity): <sub>Accelerated JavaScript animation. http://VelocityJS.org</sub>
 - [tween.js](https://github.com/tweenjs/tween.js): <sub>JavaScript tweening engine for easy animations, incorporating optimised Robert Penner's equations.</sub>
 - [WOW](https://github.com/matthieua/WOW): <sub>Reveal CSS animation as you scroll down a page http://mynameismatthieu.com/WOW/</sub>
+- [hsnaydd/moveTo](https://github.com/hsnaydd/moveTo): <sub>A lightweight scroll animation javascript library without any dependency</sub>
 
 ## 规范篇
 
