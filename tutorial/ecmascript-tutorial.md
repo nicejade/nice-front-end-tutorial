@@ -9,6 +9,7 @@
 - [JavaScript Promise 迷你书](https://github.com/liubin/promises-book/)
 - [awesome-javascript](https://github.com/sorrycc/awesome-javascript): <sub>🐢 A collection of awesome browser-side JavaScript libraries, resources and shiny things.</sub>
 - [javascript-tutorial-en](https://github.com/javascript-tutorial/en.javascript.info): <sub>Modern JavaScript Tutorial https://javascript.info</sub>
+- [anbang/javascript-notes](https://github.com/anbang/javascript-notes): <sub>安邦的 JavaScript 学习笔记</sub>
 
 ## 进阶篇
 

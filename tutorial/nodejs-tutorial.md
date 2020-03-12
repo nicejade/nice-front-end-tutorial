@@ -76,6 +76,10 @@
 
 - [Nestjs](https://nestjs.com/): A progressive Node.js framework for building efficient and scalable server-side applications on top of TypeScript & JavaScript (ES6 / ES7 / ES8) heavily inspired by Angular 🚀 ⚡️
 
+### Backpack
+
+- [jaredpalmer/backpack](https://github.com/jaredpalmer/backpack): <sub>🎒 Backpack is a minimalistic build system for Node.js projects.</sub>
+
 ## 资讯篇
 
 - [NodeJS 10: The New, The Changed, and the Deprecated](https://auth0.com/blog/nodejs-10-new-changes-deprecations/)
