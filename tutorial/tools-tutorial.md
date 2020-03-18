@@ -149,10 +149,6 @@
 - [Jenkins 教程 ( 易百 )](http://www.yiibai.com/jenkins/)
 - [「Jenkins+Git+Maven+Shell+Tomcat 持续集成」经典教程](https://segmentfault.com/a/1190000002895521)
 
-### Charles
-
-- [Charles 从入门到精通](http://blog.devtang.com/2015/11/14/charles-introduction/)
-
 ### Fiddler
 
 - [Fiddler 调式使用知多少 ( 一深入研究](http://www.cnblogs.com/tugenhua0707/)p/4623317.html

@@ -13,6 +13,7 @@
 - [Python - 100 天从新手到大师](https://github.com/jackfrued/Python-100-Days)
 - [中文 Python 笔记](https://github.com/lijin-THU/notes-python)
 - [Python 教程 | Github](https://github.com/geekcomputers/Python)
+- [Comprehensive Python Cheatsheet](https://github.com/gto76/python-cheatsheet)
 
 ### 工具篇
 
@@ -115,3 +116,4 @@
 - [jakubroztocil/httpie](https://github.com/jakubroztocil/httpie): <sub>As easy as HTTPie /aitch-tee-tee-pie/ 🥧 Modern command line HTTP client – user-friendly curl alternative with intuitive UI, JSON support, syntax highlighting, wget-like downloads, extensions, etc.</sub>
 - [django/django](https://github.com/django/django): <sub>The Web framework for perfectionists with deadlines. https://djangoproject.com</sub>
 - [3b1b/manim](https://github.com/3b1b/manim): <sub>Animation engine for explanatory math videos</sub>
+- [gwen001/pentest-tools](https://github.com/gwen001/pentest-tools): <sub>Custom pentesting tools</sub>

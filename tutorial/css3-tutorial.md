@@ -65,6 +65,7 @@
 - [instagram.css](https://github.com/picturepan2/instagram.css): <sub>Instagram.css - Complete set of Instagram filters in pure CSS</sub>
 - [uncss](https://github.com/uncss/uncss): <sub>Remove unused styles from CSS</sub>
 - [water.css](https://github.com/kognise/water.css): <sub>A just-add-css collection of styles to make simple websites just a little nicer </sub>
+- [QiShaoXuan/css_tricks](https://github.com/QiShaoXuan/css_tricks): <sub>Some CSS tricks,一些 CSS 常用样式</sub>
 - [JNKKKK/MoreToggles.css](https://github.com/JNKKKK/MoreToggles.css): <sub>A pure CSS library that provides you with a variety of nice-looking toggles</sub>
 - [css-blocks](https://github.com/linkedin/css-blocks): <sub>High performance, maintainable stylesheets. http://css-blocks.com/</sub>
 - [smooth-code/xstyled](https://github.com/smooth-code/xstyled): <sub>Consistent theme based CSS for styled-components & emotion 💅👩‍🎤</sub>
