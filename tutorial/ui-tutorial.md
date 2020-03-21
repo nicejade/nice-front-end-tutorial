@@ -42,6 +42,7 @@
 - [d3](https://github.com/d3/d3): <sub>Bring data to life with SVG, Canvas and HTML. 📊📈🎉 https://d3js.org</sub>
 - [antvis/g6](https://github.com/antvis/g6): <sub>A Graph Visualization Framework in JavaScript</sub>
 - [incubator-echarts](https://github.com/apache/incubator-echarts): <sub>A powerful, interactive charting and visualization library for browser http://echarts.baidu.com/</sub>
+- [leeoniya/uPlot](https://github.com/leeoniya/uPlot): <sub>📈 A small, fast chart for time series, lines, areas, ohlc & bars</sub>
 - [metafizzy/zdog](https://github.com/metafizzy/zdog): <sub>Flat, round, designer-friendly pseudo-3D engine for canvas & SVG https://zzz.dog</sub>
 - [alyssaxuu/flowy](https://github.com/alyssaxuu/flowy): <sub>The minimal javascript library to create flowcharts ✨</sub>
 - [AnalyticalGraphicsInc/cesium](https://github.com/AnalyticalGraphicsInc/cesium): <sub>An open-source JavaScript library for world-class 3D globes and maps 🌎</sub>

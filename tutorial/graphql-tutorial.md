@@ -24,6 +24,7 @@ GraphQL 既是一种用于 API 的查询语言也是一个满足你数据查询�
 - [graphql-editor/graphql-zeus](https://github.com/graphql-editor/graphql-zeus): <sub>GraphQL client and GraphQL code generator with GraphQL autocomplete library generation ⚡⚡⚡ for browser,nodejs and react native</sub>
 - [kamilkisiela/graphql-config](https://github.com/kamilkisiela/graphql-config): <sub>One configuration for all your GraphQL tools (supported by most tools, editors & IDEs) https://graphql-config.com</sub>
 - [quicktype/quicktype](https://github.com/quicktype/quicktype): <sub>Generate types and converters from JSON, Schema, and GraphQL</sub>
+- [samdenty/gqless](https://github.com/samdenty/gqless): <sub>A GraphQL client without queries ✨</sub>
 
 ## 插件篇
 

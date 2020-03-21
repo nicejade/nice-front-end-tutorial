@@ -45,6 +45,7 @@
 - [wix/Detox](https://github.com/wix/Detox): <sub>Gray box end-to-end testing and automation framework for mobile apps</sub>
 - [RSSHub](https://github.com/DIYgod/RSSHub): <sub>🍰 万物皆可 RSS https://docs.rsshub.app</sub>
 - [golang-for-nodejs-developers](https://github.com/miguelmota/golang-for-nodejs-developers): <sub>Examples of Golang compared to Node.js for learning</sub>
+- [luruke/browser-2020](https://github.com/luruke/browser-2020): <sub>Things you can do with a browser in 2020 ☕️</sub>
 
 ### 项目列表类
 

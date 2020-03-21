@@ -35,6 +35,7 @@
   - [lincolnloop/python-qrcode](https://github.com/lincolnloop/python-qrcode): <sub>Python QR Code image generator</sub>
   - [python-prompt-toolkit](https://github.com/prompt-toolkit/python-prompt-toolkit): <sub>Library for building powerful interactive command line applications in Python</sub>
   - [xlwings/xlwings](https://github.com/xlwings/xlwings): <sub>xlwings is a BSD-licensed Python library that makes it easy to call Python from Excel and vice versa. It works with Microsoft Excel on Windows and Mac.</sub>
+  - [psf/requests](https://github.com/psf/requests): <sub>A simple, yet elegant HTTP library.</sub>
 
 ### 示例篇
 

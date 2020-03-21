@@ -370,10 +370,6 @@
 
   > ☑️ JavaScript fluent validation library （ JavaScript 流畅的验证库。） . https://imbrn.github.io/v8n
 
-- [vialer-js](https://github.com/vialer/vialer-js)
-
-  > Pluggable WebRTC communication platform( 可插拔的 WebRTC 通信平台 ). https://vialer-js.io
-
 - [between.js](https://github.com/sasha240100/between.js)
 
   > Lightweight JavaScript (ES6) tweening engine https://between.js.org/
