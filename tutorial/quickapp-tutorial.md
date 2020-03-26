@@ -38,6 +38,7 @@
 
 #### 快应用教程
 
+- [vivo 快应用官方博客](https://quickapp.vivo.com.cn/?utm_source=quickapp.lovejade.cn)
 - [「快应用」开发体验纪要](https://nice.lovejade.cn/zh/article/develop-quick-app-experience-notes.html)
 - [快应用脚手架，为优雅而生](https://nice.lovejade.cn/zh/article/quickapp-boilerplate-template.html)
 - [Prettier 插件为更漂亮快应用代码](https://quickapp.lovejade.cn/prettier-quickapp-plugin/)
@@ -137,7 +138,6 @@
 #### 其他新闻
 
 - [快应用开放平台接口，可支持第三方的 DSL](https://mp.weixin.qq.com/s/1IHGbVtcDPYPP41yNOHyPA): <sub>2019-04-16</sub>
-- [2018 年快应用行业报告](http://pic-test.kss.ksyun.com/quickapp_statistics/pdf/2018年快应用行业报告-preview.pdf)
 
 ### 快应用审核规范
 
