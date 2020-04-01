@@ -94,6 +94,7 @@
 - [sergey](https://github.com/trys/sergey): <sub>A tiny lil' static site generator</sub>
 - [outline/outline](https://github.com/outline/outline): <sub>The fastest wiki and knowledge base for growing teams. Beautiful, feature rich, markdown compatible and open source. https://getoutline.com</sub>
 - [mkdocs/mkdocs](https://github.com/mkdocs/mkdocs): <sub>Project documentation with Markdown.</sub>
+- [squidfunk/mkdocs-material](https://github.com/squidfunk/mkdocs-material): <sub>A Material Design theme for MkDocs</sub>
 
 ### 构建论坛社区
 

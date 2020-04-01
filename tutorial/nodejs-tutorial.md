@@ -111,6 +111,7 @@
 - [release-it](https://github.com/release-it/release-it): <sub>🚀 Automate versioning and package publishing</sub>
 - [ReLaXed](https://github.com/RelaxedJS/ReLaXed): <sub>Create PDF documents using web technologies</sub>
 - [documentation](https://github.com/documentationjs/documentation): <sub>📖 documentation for modern JavaScript http://documentation.js.org</sub>
+- [voidcosmos/npkill](https://github.com/voidcosmos/npkill): <sub>List any node_modules directories in your system, as well as the space they take up. You can then select which ones you want to erase to free up space.</sub>
 
 #### For CLI Library
 
@@ -135,6 +136,7 @@
 - [nodegit](https://github.com/nodegit/nodegit): <sub>Native Node bindings to Git. https://nodegit.org</sub>
 - [gpu.js](https://github.com/gpujs/gpu.js): <sub>GPU Accelerated JavaScript https://gpu.rocks</sub>
 - [agenda](https://github.com/agenda/agenda): <sub>Lightweight job scheduling for Node.js http://agendajs.com | [Agenda Dashboard](https://github.com/agenda/agendash)</sub>
+- [google-auth-library-nodejs](https://github.com/googleapis/google-auth-library-nodejs): <sub>🔑 Google Auth Library for Node.js</sub>
 
 - [capture-website](https://github.com/sindresorhus/capture-website): <sub>Capture screenshots of websites</sub>
 
