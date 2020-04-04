@@ -43,6 +43,7 @@
 - [30-seconds-of-python](https://github.com/30-seconds/30-seconds-of-python): <sub>Short Python code snippets for all your development needs</sub>
 - [geekcomputers/Python](https://github.com/geekcomputers/Python): <sub>My Python Examples</sub>
 - [nicejade/play-with-python](https://github.com/nicejade/play-with-python): <sub>学习 Python & 实战练习，以便能更好的玩 Python 相关技能、工具。</sub>
+- [eat_tensorflow2_in_30_days](https://github.com/lyhue1991/eat_tensorflow2_in_30_days): <sub>Tensorflow2.0 🍎🍊 is delicious, just eat it! 😋😋</sub>
 - [interesting-python](https://github.com/Alfred1984/interesting-python): <sub>有趣的 Python 爬虫和 Python 数据分析小项目</sub>
 - [realpython/python-guide](https://github.com/realpython/python-guide): <sub>Python best practices guidebook, written for humans. 中文版：[Python 最佳实践指南](https://github.com/Prodesire/Python-Guide-CN)</sub>
 - [trekhleb/learn-python](https://github.com/trekhleb/learn-python): <sub>📚 Playground and cheatsheet for learning Python. Collection of Python scripts that are split by topics and contain code examples with explanations.</sub>
@@ -108,6 +109,7 @@
 - [google/python-fire](https://github.com/google/python-fire): <sub>Python Fire is a library for automatically generating command line interfaces (CLIs) from absolutely any Python object.</sub>
 - [Miserlou/Zappa](https://github.com/Miserlou/Zappa): <sub>Serverless Python https://blog.zappa.io</sub>
 - [google-api-python-client](https://github.com/googleapis/google-api-python-client): <sub>🐍 The official Python client library for Google's discovery based APIs. </sub>
+- [donnemartin/system-design-primer](https://github.com/donnemartin/system-design-primer): <sub>Learn how to design large-scale systems. Prep for the system design interview. Includes Anki flashcards.</sub>
 
 ## 相关工具库
 

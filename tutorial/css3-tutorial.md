@@ -61,6 +61,7 @@
 - [CSS-Inspiration](https://github.com/chokcoco/CSS-Inspiration): <sub>CSS Inspiration，在这里找到写 CSS 的灵感!</sub>
 - [popmotion](https://popmotion.io/): <sub>A functional, flexible JavaScript motion library</sub>
 - [goober](https://github.com/cristianbote/goober): <sub>🥜 goober, a less than 1KB 🎉css-in-js alternative with a familiar API</sub>
+- [nyancss/nyancss](https://github.com/nyancss/nyancss): <sub>🌈 Write plain CSS while reaping benefits of CSS-in-JS https://nyancss.com</sub>
 - [cssfx](https://github.com/jolaleye/cssfx): <sub>✨ Beautifully simple click-to-copy CSS effects</sub>
 - [instagram.css](https://github.com/picturepan2/instagram.css): <sub>Instagram.css - Complete set of Instagram filters in pure CSS</sub>
 - [uncss](https://github.com/uncss/uncss): <sub>Remove unused styles from CSS</sub>

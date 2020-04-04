@@ -74,6 +74,10 @@
 - [subfinder](https://github.com/projectdiscovery/subfinder): <sub>Subfinder is a subdomain discovery tool that discovers valid subdomains for websites. Designed as a passive framework to be useful for bug bounties and safe for penetration testing.</sub>
 - [ogham/exa](https://github.com/ogham/exa): <sub>A modern version of ‘ls’.</sub>
 
+### 搜索引擎
+
+- [meilisearch/MeiliSearch](https://github.com/meilisearch/MeiliSearch): <sub>Lightning Fast, Ultra Relevant, and Typo-Tolerant Search Engine https://docs.meilisearch.com/</sub>
+
 ### 建站工具
 
 - [vuepress](https://github.com/vuejs/vuepress): <sub>Minimalistic Vue-powered static site generator https://vuepress.vuejs.org/</sub>
