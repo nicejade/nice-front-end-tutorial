@@ -44,6 +44,7 @@
 - [geekcomputers/Python](https://github.com/geekcomputers/Python): <sub>My Python Examples</sub>
 - [nicejade/play-with-python](https://github.com/nicejade/play-with-python): <sub>学习 Python & 实战练习，以便能更好的玩 Python 相关技能、工具。</sub>
 - [eat_tensorflow2_in_30_days](https://github.com/lyhue1991/eat_tensorflow2_in_30_days): <sub>Tensorflow2.0 🍎🍊 is delicious, just eat it! 😋😋</sub>
+- [examples-of-web-crawlers](https://github.com/shengqiangzhang/examples-of-web-crawlers): <sub>一些非常有趣的 python 爬虫例子,对新手比较友好,主要爬取淘宝、天猫、微信、豆瓣、QQ 等网站。(Some interesting examples of python crawlers that are friendly to beginners. </sub>
 - [interesting-python](https://github.com/Alfred1984/interesting-python): <sub>有趣的 Python 爬虫和 Python 数据分析小项目</sub>
 - [realpython/python-guide](https://github.com/realpython/python-guide): <sub>Python best practices guidebook, written for humans. 中文版：[Python 最佳实践指南](https://github.com/Prodesire/Python-Guide-CN)</sub>
 - [trekhleb/learn-python](https://github.com/trekhleb/learn-python): <sub>📚 Playground and cheatsheet for learning Python. Collection of Python scripts that are split by topics and contain code examples with explanations.</sub>
@@ -66,6 +67,7 @@
 - [faif/python-patterns](https://github.com/faif/python-patterns): <sub>A collection of design patterns/idioms in Python</sub>
 - [bregman-arie/devops-exercises](https://github.com/bregman-arie/devops-exercises): <sub>Linux, Jenkins, AWS, SRE, Prometheus, Docker, Python, Ansible, Git, Kubernetes, Terraform, OpenStack, SQL, NoSQL, Azure, GCP, DNS, Elastic, Network, Virtualization</sub>
 - [TheAlgorithms/Python](https://github.com/TheAlgorithms/Python): <sub>All Algorithms implemented in Python https://travis-ci.com/TheAlgorithms/Python</sub>
+- [leisurelicht/wtfpython-cn](https://github.com/leisurelicht/wtfpython-cn): <sub>一些有趣且鲜为人知的 Python 特性.</sub>
 
 ## 深度学习
 

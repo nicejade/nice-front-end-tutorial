@@ -64,3 +64,5 @@
 - [mdast](https://github.com/syntax-tree/mdast): <sub>Markdown Abstract Syntax Tree format. https://unified.js.org</sub>
 - [markeye](https://github.com/vesparny/markeye): <sub>A previewer for Markdown files</sub>
 - [remark](https://github.com/gnab/remark): <sub>A simple, in-browser, markdown-driven slideshow tool. https://remarkjs.com</sub>
+- [88250/lute-docx](https://github.com/88250/lute-docx): <sub>📝 一款将 Markdown 文本转换为 Word 文档 (.docx) 的小工具。</sub>
+- [mdnice/sitdown](https://github.com/mdnice/sitdown): <sub>turn html to nice markdown</sub>
