@@ -3,6 +3,7 @@
 ## 🐉 Awesome Future Technology List
 
 - [Awesome-Bots](https://github.com/GetStoryline/awesome-bots): <sub>The most awesome list about bots ⭐️🤖</sub>
+- [AwesomeDatascience](https://github.com/academic/awesome-datascience): <sub>📝 An awesome Data Science repository to learn and apply for real world problems.</sub>
 - [Awesome-Deep-Learning](https://github.com/ChristosChristofidis/awesome-deep-learning): <sub>A curated list of awesome Deep Learning tutorials, projects and communities.</sub>
 - [Awesome-Deep-Learning-Papers](https://github.com/terryum/awesome-deep-learning-papers): <sub>The most cited deep learning papers.</sub>
 - [Awesome-Deeplearning-Resources](https://github.com/endymecy/awesome-deeplearning-resources): <sub>Deep Learning and deep reinforcement learning research papers and some codes</sub>
@@ -140,5 +141,6 @@
 - [Awesome-Github-Vue](https://github.com/opendigg/awesome-github-vue): <sub>Vue 相关开源项目库汇总</sub>
 - [Awesome-README](https://github.com/matiassingers/awesome-readme): <sub>A curated list of awesome READMEs</sub>
 - [Awesome-Resources](https://github.com/lyfeyaj/awesome-resources): <sub>Awesome resources for coding and learning: open source projects, websites, books e.g.</sub>
+- [AwesomeSeeds](https://github.com/88250/awesome-seeds): <sub>🌱 发现新鲜有趣的小型开源项目，欢迎投稿！</sub>
 - [Awesome-Talks](https://github.com/JanVanRyswyck/awesome-talks): <sub>Awesome online talks and screencasts</sub>
-- [wesbos/awesome-uses](https://github.com/wesbos/awesome-uses): <sub>A site for this repo is currently being built. Please check out the website branch and add yourself in there!</sub>
+- [AwesomeUses](https://github.com/wesbos/awesome-uses): <sub>A site for this repo is currently being built. Please check out the website branch and add yourself in there!</sub>
