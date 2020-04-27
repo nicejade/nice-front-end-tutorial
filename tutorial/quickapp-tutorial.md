@@ -38,7 +38,6 @@
 
 #### 快应用教程
 
-- [vivo 快应用官方博客](https://quickapp.vivo.com.cn/?utm_source=quickapp.lovejade.cn)
 - [「快应用」开发体验纪要](https://nice.lovejade.cn/zh/article/develop-quick-app-experience-notes.html)
 - [快应用脚手架，为优雅而生](https://nice.lovejade.cn/zh/article/quickapp-boilerplate-template.html)
 - [Prettier 插件为更漂亮快应用代码](https://quickapp.lovejade.cn/prettier-quickapp-plugin/)
@@ -82,6 +81,7 @@
 
 - [vivoquickapp/apex-ui](https://github.com/vivoquickapp/apex-ui): <sub>apex ui quickapp ui components library（Apex-UI 组件库）</sub>
 - [Quist-UI | 快应用 UI 组件库](https://github.com/JDsecretFE/quist-ui): <sub>快应用 UI 组件库，简洁，易用，高效</sub>
+- [vivo 卡片组件库](https://vivoquickapp.github.io/vivo-cards-suits/): <sub>vivo 卡片开发组件库是由 vivo 官方开发的一套包含个入口 UI 规范的组件库，可供开发者便捷快速开发能够在 vivo 手机上线的卡片项目。</sub>
 
 ### 示例篇
 
@@ -93,7 +93,8 @@
 
 #### 工具篇
 
-- [快应用官方 IDE](https://www.quickapp.cn/docCenter/IDEPublicity): <sub>更推荐使用 `Vscode` + `Terminal`</sub>
+- [快应用官方 IDE](https://www.quickapp.cn/docCenter/IDEPublicity): <sub>简单易用 灵活扩展 全面支持联盟标准规范</sub>
+- [快应用在线编辑器](https://editor.quickapp.cn/?utm_source=awesome-quickapp): <sub>在线编辑，实时预览，支持手机真机查看</sub>
 - [vue-hap-tools](https://github.com/Youjingyu/vue-hap-tools): <sub>一个抹平 vue.js 与快应用差异性的工具，现已支持 vue.js 的大部分常用特性、vue-router、vuex。</sub>
 - [deepkolos/hap-types](https://github.com/deepkolos/hap-types): <sub>快应用接口定义文档转的 d.ts 定义包，用在 TS 编写快应用时，编辑器可给出提示</sub>
 
@@ -109,6 +110,8 @@
 
 当您的手机系统尚未内置快应用运行平台，或您想在开发过程中体验快应用尚未正式发布的新功能、新特性，您可以安装 快应用预览版。这是一个包含了快应用基础功能的 `Android` 应用程序。下载安装成功后，通过快应用调试器可以选择在快应用预览版运行 rpk 包，开发测试对应平台的 `api` 和功能。
 
+- [快应用预览版 v1070](https://statres.quickapp.cn/quickapp/quickapptool/release/platform/quickapp_platform_preview_release_v1070.apk)
+- [快应用预览版 v1060](https://github.com/nicejade/awesome-quickapp/blob/master/resources/quickapp_platform_preview_release_v1060.apk?raw=true)
 - [快应用预览版 v1050](https://github.com/nicejade/awesome-quickapp/blob/master/resources/quickapp_platform_preview_release_v1050.apk?raw=true)
 - [快应用预览版 v1040](https://github.com/nicejade/awesome-quickapp/blob/master/resources/quickapp_platform_preview_release_v1040.apk?raw=true)
 - [快应用预览版 v1030](https://github.com/nicejade/awesome-quickapp/blob/master/resources/quickapp_platform_preview_release_v1030.apk?raw=true)
@@ -131,6 +134,8 @@
 
 #### 版本新闻
 
+- [快应用 v1070 上线](https://doc.quickapp.cn/changelog/1070.html): <sub>2019-04-23</sub>
+- [快应用 v1060 上线](https://doc.quickapp.cn/changelog/1060.html): <sub>2019-12-03</sub>
 - [快应用 v1050 上线](https://doc.quickapp.cn/changelog/1050.html): <sub>2019-07-03</sub>
 - [快应用 v1040 上线](https://doc.quickapp.cn/changelog/1040.html)： <sub>2019-02-22</sub>
 - [快应用 v1030 上线](https://doc.quickapp.cn/changelog/1030.html)： <sub>2018-11-28</sub>
@@ -138,6 +143,7 @@
 #### 其他新闻
 
 - [快应用开放平台接口，可支持第三方的 DSL](https://mp.weixin.qq.com/s/1IHGbVtcDPYPP41yNOHyPA): <sub>2019-04-16</sub>
+- [2018 年快应用行业报告](http://pic-test.kss.ksyun.com/quickapp_statistics/pdf/2018年快应用行业报告-preview.pdf)
 
 ### 快应用审核规范
 
