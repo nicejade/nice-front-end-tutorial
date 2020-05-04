@@ -81,6 +81,7 @@
 ### 建站工具
 
 - [vuepress](https://github.com/vuejs/vuepress): <sub>Minimalistic Vue-powered static site generator https://vuepress.vuejs.org/</sub>
+- [vuejs/vitepress](https://github.com/vuejs/vitepress): <sub>Vite & Vue powered static site generator</sub>
 - [facebook/docusaurus](https://github.com/facebook/docusaurus): <sub>Easy to maintain open source documentation websites. https://docusaurus.io</sub>
 - [Docz](https://github.com/pedronauck/docz): <sub>✍🏻It has never been so easy to document your things! https://docz.site</sub>
 - [Docute](https://github.com/leptosia/docute): <sub>📜 Effortlessly documentation done right. https://docute.org/ </sub>

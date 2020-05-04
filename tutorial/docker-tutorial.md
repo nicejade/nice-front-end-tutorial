@@ -22,6 +22,10 @@
 - [使用 Docker 和 Elasticsearch 构建全文搜索应用程序](https://blog.patricktriest.com/text-search-docker-elasticsearch/): <sub>Open-source web app using Elasticsearch and Docker to search through the contents of 100 classic novels. https://search.patricktriest.com/</sub>
 - [Docker Vue Node Nginx Mongodb Redis](https://github.com/nicejade/docker-vue-node-nginx-mongodb-redis): <sub>🐉An awesome boilerplate, Integration Docker, Vue2.\*, Node, Nginx, Mongodb and Redis in one, Designed to build & develop your web applications more efficient.</sub>
 
+## 资源篇
+
+- [awesome-compose](https://github.com/docker/awesome-compose): <sub>Awesome Docker Compose samples</sub>
+
 ## 相关篇
 
 - [lazydocker](https://github.com/jesseduffield/lazydocker): <sub>The lazier way to manage everything docker</sub>

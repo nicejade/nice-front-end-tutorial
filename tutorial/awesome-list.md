@@ -4,6 +4,7 @@
 
 - [Awesome-Bots](https://github.com/GetStoryline/awesome-bots): <sub>The most awesome list about bots ⭐️🤖</sub>
 - [AwesomeDatascience](https://github.com/academic/awesome-datascience): <sub>📝 An awesome Data Science repository to learn and apply for real world problems.</sub>
+- [AwesomeCompose](https://github.com/docker/awesome-compose): <sub>Awesome Docker Compose samples</sub>
 - [Awesome-Deep-Learning](https://github.com/ChristosChristofidis/awesome-deep-learning): <sub>A curated list of awesome Deep Learning tutorials, projects and communities.</sub>
 - [Awesome-Deep-Learning-Papers](https://github.com/terryum/awesome-deep-learning-papers): <sub>The most cited deep learning papers.</sub>
 - [Awesome-Deeplearning-Resources](https://github.com/endymecy/awesome-deeplearning-resources): <sub>Deep Learning and deep reinforcement learning research papers and some codes</sub>
