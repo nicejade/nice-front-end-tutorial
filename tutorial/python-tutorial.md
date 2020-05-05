@@ -92,6 +92,7 @@
 - [tensorlayer/tensorlayer](https://github.com/tensorlayer/tensorlayer): <sub>Deep Learning and Reinforcement Learning Library for Scientists 🔥</sub>
 - [mlflow/mlflow](https://github.com/mlflow/mlflow): <sub>Open source platform for the machine learning lifecycle https://mlflow.org</sub>
 - [OpenMined/PySyft](https://github.com/OpenMined/PySyft): <sub>A library for encrypted, privacy preserving machine learning</sub>
+- [Unity-Technologies/ml-agents](https://github.com/Unity-Technologies/ml-agents): <sub>Unity Machine Learning Agents Toolkit https://unity3d.ai</sub>
 
 ## 机器人
 

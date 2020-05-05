@@ -445,4 +445,8 @@
   > A tiny (118 bytes), secure, URL-friendly, unique string ID generator for JavaScript (微型（118 字节），安全，友好的 URL，唯一的字符串 ID 生成器，用于 JavaScript)
 
 - [swc-project/swc](https://github.com/swc-project/swc)
+
   > Super-fast typescript / javascript compiler written in rust (用 Rust 编写的超快速打字稿/ JavaScript 编译器)
+
+- [crabbly/Print.js](https://github.com/crabbly/Print.js)
+  > A tiny javascript library to help printing from the web.(一个小型的 JavaScript 库，可帮助您从网络上进行打印。)
