@@ -46,6 +46,8 @@
 - [RSSHub](https://github.com/DIYgod/RSSHub): <sub>🍰 万物皆可 RSS https://docs.rsshub.app</sub>
 - [golang-for-nodejs-developers](https://github.com/miguelmota/golang-for-nodejs-developers): <sub>Examples of Golang compared to Node.js for learning</sub>
 - [luruke/browser-2020](https://github.com/luruke/browser-2020): <sub>Things you can do with a browser in 2020 ☕️</sub>
+- [yinxin630/fiora](https://github.com/yinxin630/fiora): <sub>An interesting chat application power by socket.io, koa, mongodb and react https://fiora.suisuijiang.com</sub>
+- [side-project-marketing](https://github.com/portable-cto/side-project-marketing): <sub>A checklist of tactics for marketing your side projects.</sub>
 
 ### 项目列表类
 
@@ -58,3 +60,4 @@
 - [chinese-independent-developer ](https://github.com/1c7/chinese-independent-developer): <sub>👩🏿‍💻👨🏾‍💻👩🏼‍💻👨🏽‍💻👩🏻‍💻 中国独立开发者项目列表 -- 分享大家都在做什么</sub>
 - [ruanyf/weekly](https://github.com/ruanyf/weekly): <sub>技术分享周刊，每周五发布</sub>
 - [HelloGitHub](https://github.com/521xueweihan/HelloGitHub): <sub>:octocat: Find pearls on open-source seashore 分享 GitHub 上有趣、入门级的开源项目</sub>
+- [design-resources-for-developers](https://github.com/bradtraversy/design-resources-for-developers): <sub>Curated list of design and UI resources from stock photos, web templates, CSS frameworks, UI libraries, tools and much more</sub>

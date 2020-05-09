@@ -46,6 +46,12 @@
 - [gitential.com](https://gitential.com/) - Analytics for Git
 - [github/gitignore](https://github.com/github/gitignore) - A collection of useful .gitignore templates
 
+## Github Actions
+
+### 工具
+
+- [nektos/act](https://github.com/nektos/act): <sub>Run your GitHub Actions locally 🚀</sub>
+
 ## GitHub Rank
 
 - [GitHub Rank (China)](http://githubrank.com/) - GitHub 上中国程序员的排名网站，根据 follower

@@ -47,6 +47,7 @@
 - [alyssaxuu/flowy](https://github.com/alyssaxuu/flowy): <sub>The minimal javascript library to create flowcharts ✨</sub>
 - [AnalyticalGraphicsInc/cesium](https://github.com/AnalyticalGraphicsInc/cesium): <sub>An open-source JavaScript library for world-class 3D globes and maps 🌎</sub>
 - [plotly.js](https://github.com/plotly/plotly.js): <sub>Open-source JavaScript charting library behind plot.ly and Dash</sub>
+- [beizhedenglong/rough-charts](https://github.com/beizhedenglong/rough-charts): <sub>📈 A responsive, composable react charting library with a hand-drawn style.</sub>
 - [blocks/blocks](https://github.com/blocks/blocks): <sub>A JSX-based page builder for creating beautiful websites without writing code https://blocks-ui.com</sub>
 - [highcharts](https://www.highcharts.com/): <sub>Make your data come alive. Highcharts makes it easy for developers to set up interactive charts in their web pages</sub>
 - [anychart](https://www.anychart.com/): <sub>AnyChart is a lightweight and robust JavaScript charting solution with great API and documentation. The chart types and unique features are numerous, and the library works easily with any development stack.</sub>
