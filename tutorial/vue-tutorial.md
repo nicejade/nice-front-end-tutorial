@@ -49,6 +49,7 @@
 - [vuetifyjs](https://vuetifyjs.com/): <sub>Material Design Component Framework</sub>
 - [awesome-vue-cli3-example](https://github.com/nicejade/awesome-vue-cli3-example): <sub>🍑Awesome example for rapid Vue.js development using vue-cli3 .</sub>
 - [vue-boilerplate-template](https://github.com/nicejade/vue-boilerplate-template): <sub>🍎 Efficient development of web SPA using Vue.js(2.\*) + Webpack + Element-ui + Pwa + Vuex + Vuex-router + Vue-i18n + Dayjs + Lodash.</sub>
+- [pikapkg/snowpack](https://github.com/pikapkg/snowpack): <sub>The fastest dev environment for modern web apps. https://snowpack.dev</sub>
 - [vuestic-admin](https://github.com/epicmaxco/vuestic-admin): <sub>Free and Beautiful Vue.js Admin Template</sub>
 - [vuepress-web-app](https://github.com/nicejade/vuepress-web-app): <sub>📝 Web applications built with Vuepress https://nice.lovejade.cn/</sub>
 - [create-nuxt-app](https://github.com/nuxt-community/create-nuxt-app): <sub>Create Nuxt.js App in seconds.</sub>

@@ -113,6 +113,7 @@
 - [ReLaXed](https://github.com/RelaxedJS/ReLaXed): <sub>Create PDF documents using web technologies</sub>
 - [documentation](https://github.com/documentationjs/documentation): <sub>📖 documentation for modern JavaScript http://documentation.js.org</sub>
 - [voidcosmos/npkill](https://github.com/voidcosmos/npkill): <sub>List any node_modules directories in your system, as well as the space they take up. You can then select which ones you want to erase to free up space.</sub>
+- [sindresorhus/terminal-image](https://github.com/sindresorhus/terminal-image): <sub>Display images in the terminal</sub>
 
 #### For CLI Library
 
@@ -120,6 +121,7 @@
 - [js-fire](https://github.com/hobochild/js-fire): <sub>A javascript clone of google/python-fire 🔥</sub>
 - [sindresorhus/ora](https://github.com/sindresorhus/ora): <sub>Elegant terminal spinner</sub>
 - [chalk](https://github.com/chalk/chalk): <sub>🖍 Terminal string styling done right.</sub>
+- [sindresorhus/log-update](https://github.com/sindresorhus/log-update): <sub>Log by overwriting the previous output in the terminal. Useful for rendering progress bars, animations, etc.</sub>
 
 ### 非终端
 

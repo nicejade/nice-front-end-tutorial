@@ -56,6 +56,7 @@
 - [williamngan/pts](https://github.com/williamngan/pts): <sub>A library for visualization and creative-coding https://ptsjs.org</sub>
 - [apexcharts.js](https://github.com/apexcharts/apexcharts.js): <sub>📊 Interactive and Modern SVG Charts https://apexcharts.com</sub>
 - [processing/p5.js](https://github.com/processing/p5.js): <sub>p5.js is a client-side JS platform that empowers artists, designers, students, and anyone to learn to code and express themselves creatively on the web. It is based on the core principles of Processing. http://twitter.com/p5xjs — http://p5js.org</sub>
+- [alibaba/butterfly](https://github.com/alibaba/butterfly): <sub>🦋Butterfly，A JavaScript Diagramming library which concentrate on flow layout field</sub>
 
 ### 布局篇
 

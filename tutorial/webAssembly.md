@@ -35,3 +35,4 @@
 - [wasm-micro-runtime](https://github.com/bytecodealliance/wasm-micro-runtime): <sub>WebAssembly Micro Runtime (WAMR)</sub>
 - [google/schism](https://github.com/google/schism): <sub>A self-hosting Scheme to WebAssembly compiler</sub>
 - [wasm3/wasm3](https://github.com/wasm3/wasm3): <sub>🚀 The fastest WebAssembly interpreter</sub>
+- [lys-lang/lys](https://github.com/lys-lang/lys): <sub>⚜︎ A language that compiles to WebAssembly https://lys-lang.dev</sub>

@@ -55,6 +55,10 @@
 
 - [premieroctet/openchakra](https://github.com/premieroctet/openchakra): <sub>⚡️ Visual editor for Chakra UI https://openchakra.app</sub>
 
+### Lite
+
+- [rxi/lite](https://github.com/rxi/lite): <sub>A lightweight text editor written in Lua</sub>
+
 #### oni2
 
 - [oni2](https://github.com/onivim/oni2): <sub>Native, lightweight modal code editor. https://v2.onivim.io</sub>
