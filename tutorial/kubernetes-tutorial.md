@@ -23,6 +23,7 @@
 - [tektoncd/pipeline](https://github.com/tektoncd/pipeline): <sub>A K8s-native Pipeline resource. https://tekton.dev</sub>
 - [fission/fission](https://github.com/fission/fission): <sub>Fast and Simple Serverless Functions for Kubernetes</sub>
 - [cloudnativelabs/kube-shell](https://github.com/cloudnativelabs/kube-shell): <sub>Kubernetes shell: An integrated shell for working with the Kubernetes</sub>
+- [pingcap/chaos-mesh](https://github.com/pingcap/chaos-mesh): <sub>A Chaos Engineering Platform for Kubernetes</sub>
 
 ### Node.js
 
