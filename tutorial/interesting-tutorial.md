@@ -48,6 +48,7 @@
 - [luruke/browser-2020](https://github.com/luruke/browser-2020): <sub>Things you can do with a browser in 2020 ☕️</sub>
 - [yinxin630/fiora](https://github.com/yinxin630/fiora): <sub>An interesting chat application power by socket.io, koa, mongodb and react https://fiora.suisuijiang.com</sub>
 - [side-project-marketing](https://github.com/portable-cto/side-project-marketing): <sub>A checklist of tactics for marketing your side projects.</sub>
+- [LingDong-/shan-shui-inf](https://github.com/LingDong-/shan-shui-inf): <sub>Procedurally generated Chinese landscape painting.（程序生成的中国山水画）</sub>
 
 ### 项目列表类
 

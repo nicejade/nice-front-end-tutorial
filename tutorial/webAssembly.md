@@ -21,6 +21,7 @@
 - [人脸、人眼检测 (WebAssembly ASM JS)](https://websightjs.com/index.html)
 - [Unity tutorial game ](http://webassembly.org/demo/)
 - [A minimal WebAssembly virtual DOM to build C++ SPA](https://github.com/mbasso/asm-dom)
+- [ffmpegwasm/ffmpeg.wasm](https://github.com/ffmpegwasm/ffmpeg.wasm): <sub>FFmpeg for browser and node, powered by WebAssembly</sub>
 
 ## 工具篇
 

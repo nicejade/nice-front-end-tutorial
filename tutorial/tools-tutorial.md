@@ -133,6 +133,7 @@
 - [youtube-dl](https://github.com/rg3/youtube-dl): <sub>Command-line program to download videos from YouTube.com and other video sites http://rg3.github.io/youtube-dl/</sub>
 - [tiny-care-terminal](https://github.com/notwaldorf/tiny-care-terminal): <sub>💖💻 A little dashboard that tries to take care of you when you're using your terminal.</sub>
 - [tsl0922/ttyd](https://github.com/tsl0922/ttyd): <sub>Share your terminal over the web</sub>
+- [Eugeny/terminus](https://github.com/Eugeny/terminus): <sub>A terminal for a more modern age</sub>
 
 #### Terminal Search/finder
 

@@ -63,6 +63,10 @@
 - [rollup](https://github.com/rollup/rollup): <sub>Next-generation ES module bundler https://rollupjs.org</sub>
 - [fastpack](https://github.com/fastpack/fastpack): <sub>Pack JS code fast & easy http://fastpack.io</sub>
 
+## Compiler
+
+- [the-super-tiny-compiler](https://github.com/jamiebuilds/the-super-tiny-compiler): <sub>⛄ Possibly the smallest compiler ever</sub>
+
 ---
 
 ## [TypeScript](https://github.com/Microsoft/TypeScript)
