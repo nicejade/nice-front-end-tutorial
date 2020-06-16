@@ -84,6 +84,8 @@
 
 ### 建站工具
 
+#### Static Site Generator
+
 - [vuepress](https://github.com/vuejs/vuepress): <sub>Minimalistic Vue-powered static site generator https://vuepress.vuejs.org/</sub>
 - [vuejs/vitepress](https://github.com/vuejs/vitepress): <sub>Vite & Vue powered static site generator</sub>
 - [facebook/docusaurus](https://github.com/facebook/docusaurus): <sub>Easy to maintain open source documentation websites. https://docusaurus.io</sub>
@@ -94,16 +96,19 @@
 - [letterpad/letterpad](https://github.com/letterpad/letterpad): <sub>Letterpad is an open-source and a high performant publishing engine for blogs built with react & graphql and runs ridiculously fast 🚀 https://letterpad.app/docs</sub>
 - [react-static](https://github.com/nozzle/react-static): <sub>⚛️ 🚀 A progressive static site generator for React. https://nozzle-react-static.netlify.com/</sub>
 - [docsify](https://github.com/docsifyjs/docsify): <sub>🃏 A magical documentation site generator. https://docsify.js.org</sub>
-- [b3log/solo](https://github.com/b3log/solo): <sub>🎸 A small and beautiful Java blogging system. 一款小而美的 Java 博客系统。 https://solo.b3log.org</sub>
 - [Hexo](https://github.com/hexojs/hexo): <sub>A fast, simple & powerful blog framework, powered by Node.js. https://hexo.io</sub>
 - [jekyll](https://github.com/jekyll/jekyll): <sub>🌐 Jekyll is a blog-aware, static site generator in Ruby https://jekyllrb.com</sub>
-- [Ghost](https://github.com/TryGhost/Ghost): <sub>The platform for professional publishers https://ghost.org</sub>
-- [WordPress](https://wordpress.org/): <sub>WordPress is open source software you can use to create a beautiful website, blog, or app.</sub>
 - [eleventy](https://github.com/11ty/eleventy): <sub>A simpler static site generator. An alternative to Jekyll. Transforms a directory of templates (of varying types) into HTML.</sub>
 - [sergey](https://github.com/trys/sergey): <sub>A tiny lil' static site generator</sub>
 - [outline/outline](https://github.com/outline/outline): <sub>The fastest wiki and knowledge base for growing teams. Beautiful, feature rich, markdown compatible and open source. https://getoutline.com</sub>
 - [mkdocs/mkdocs](https://github.com/mkdocs/mkdocs): <sub>Project documentation with Markdown.</sub>
 - [squidfunk/mkdocs-material](https://github.com/squidfunk/mkdocs-material): <sub>A Material Design theme for MkDocs</sub>
+
+#### Blog System
+
+- [Ghost](https://github.com/TryGhost/Ghost): <sub>The platform for professional publishers https://ghost.org</sub>
+- [WordPress](https://wordpress.org/): <sub>WordPress is open source software you can use to create a beautiful website, blog, or app.</sub>
+- [88250/solo](https://github.com/88250/solo): <sub>🎸 A small and beautiful Java blogging system. 一款小而美的 Java 博客系统。 https://solo.b3log.org</sub>
 
 ### 构建论坛社区
 
