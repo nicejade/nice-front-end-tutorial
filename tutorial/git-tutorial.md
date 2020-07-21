@@ -92,6 +92,10 @@
 - [tig](https://github.com/jonas/tig): <sub>Text-mode interface for git https://jonas.github.io/tig/</sub>
 - [cli/cli](https://github.com/cli/cli): <sub>The GitHub CLI https://cli.github.com</sub>
 
+## Github 装饰工具
+
+- [anuraghazra/github-readme-stats](https://github.com/anuraghazra/github-readme-stats): <sub>Dynamically generated stats for your github readmes</sub>
+
 ## Github 浏览器插件
 
 - [octotree](https://github.com/buunguyen/octotree) - 浏览器扩展，树状格式显示 GitHub 的代码

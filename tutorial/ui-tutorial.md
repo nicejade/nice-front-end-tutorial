@@ -24,6 +24,7 @@
 
 ## 组件篇
 
+- [shoelace-style/shoelace](https://github.com/shoelace-style/shoelace): <sub>A collection of professionally designed, every day UI components built on a framework-agnostic technology.</sub>
 - [PhotoSwipe](https://github.com/dimsemenov/PhotoSwipe): <sub>JavaScript image gallery for mobile and desktop, modular, framework independent</sub>
 - [moveable](https://github.com/daybrush/moveable): <sub>↔️ ↕️ 🔄 Moveable! Draggable! Resizable! Scalable! Rotatable! Warpable! https://daybrush.com/moveable</sub>
 - [draggable](https://github.com/Shopify/draggable): <sub>The JavaScript Drag & Drop library your grandparents warned you about. https://shopify.github.io/draggable</sub>
@@ -36,6 +37,7 @@
 - [kenwheeler/slick](https://github.com/kenwheeler/slick): <sub>the last carousel you'll ever need</sub>
 - [scrollreveal](https://github.com/scrollreveal/scrollreveal): <sub>Animate elements as they scroll into view. https://scrollrevealjs.org</sub>
 - [ScrollMagic](https://github.com/janpaepke/ScrollMagic): <sub>The javascript library for magical scroll interactions. http://ScrollMagic.io</sub>
+- [rcbyr/keen-slider](https://github.com/rcbyr/keen-slider): <sub>The HTML touch slider carousel with the most native feeling</sub>
 
 ### 可视化
 
