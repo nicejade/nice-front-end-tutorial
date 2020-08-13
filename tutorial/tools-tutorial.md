@@ -463,4 +463,8 @@
   > A tiny javascript library to help printing from the web.(一个小型的 JavaScript 库，可帮助您从网络上进行打印。)
 
 - [posva/catimg](https://github.com/posva/catimg)
+
   > 🦦 Insanely fast image printing in your terminal（terminal 在终端上疯狂地快速打印图像）
+
+- [pixijs/pixi.js](https://github.com/pixijs/pixi.js)
+  > The HTML5 Creation Engine: Create beautiful digital content with the fastest, most flexible 2D WebGL renderer.（HTML5 创建引擎：使用最快，最灵活的 2D WebGL 渲染器创建精美的数字内容。）
