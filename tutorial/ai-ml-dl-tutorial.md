@@ -44,6 +44,7 @@
 - [Deep Learning Book Chinese Translation](https://github.com/exacity/deeplearningbook-chinese)
 - [deep-learning-drizzle](https://github.com/kmario23/deep-learning-drizzle): <sub>Drench yourself in Deep Learning, Reinforcement Learning, Machine Learning, Computer Vision, and NLP by learning from these exciting lectures!! https://deep-learning-drizzle.github.io</sub>
 - [simplified-deeplearning](https://github.com/exacity/simplified-deeplearning): <sub>Simplified implementations of deep learning related works(DeepLearningBook 读书笔记 )</sub>
+- [fastai/fastai](https://github.com/fastai/fastai): <sub>The fastai deep learning library, plus lessons and tutorials</sub>
 
 ### Related JS Libraries
 
