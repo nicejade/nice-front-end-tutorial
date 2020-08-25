@@ -1,5 +1,6 @@
 ## 基础篇
 
+- [nodejs/nodejs.dev](https://github.com/nodejs/nodejs.dev): <sub>A new Node.js resource built using Gatsby.js with React.js, TypeScript, Emotion, and Remark.</sub>
 - [Node.js API 文档](http://nodejs.cn/api/)
 - [Node 初学者入门](http://www.nodebeginner.org/index-zh-cn.html)
 - [Node.js 包教不包会](https://github.com/alsotang/node-lessons)

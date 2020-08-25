@@ -76,3 +76,4 @@
 - [TypeScript 中文网](https://www.tslang.cn/index.html): <sub>TypeScript 是 JavaScript 的超集，它编译为纯 JavaScript</sub>
 - [TypeScript 入门教程](https://ts.xcatliu.com/)：<sub>从 JavaScript 程序员的角度总结思考，循序渐进的理解 TypeScript。</sub>
 - [typescript-book](https://github.com/basarat/typescript-book): <sub>📚 The definitive guide to TypeScript and possibly the best TypeScript book 📖. Free and Open Source 🌹</sub>
+- [airbnb/ts-migrate](https://github.com/airbnb/ts-migrate): <sub>A tool to help migrate JavaScript code quickly and conveniently to TypeScript</sub>

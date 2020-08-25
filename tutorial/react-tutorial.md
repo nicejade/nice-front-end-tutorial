@@ -73,3 +73,4 @@
 - [create-react-app-buildpack](https://github.com/mars/create-react-app-buildpack): <sub>⚛️ Heroku Buildpack for create-react-app: static hosting for React.js web apps</sub>
 - [umijs/umi](https://github.com/umijs/umi): <sub>🌋 Pluggable enterprise-level react application framework. https://umijs.org/ </sub>
 - [jaredpalmer/razzle](https://github.com/jaredpalmer/razzle): <sub>✨ Create server-rendered universal JavaScript applications with no configuration</sub>
+- [gsoft-inc/craco](https://github.com/gsoft-inc/craco): <sub>Create React App Configuration Override, an easy and comprehensible configuration layer for create-react-app</sub>
