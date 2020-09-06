@@ -16,6 +16,7 @@
 
 ## Github Repository
 
+- [GoogleChrome/web.dev](https://github.com/GoogleChrome/web.dev): <sub>The frontend, backend, and content source code for web.dev https://web.dev</sub>
 - [home-assistant](https://github.com/home-assistant/home-assistant): <sub>🏡 Open source home automation that puts local control and privacy first https://home-assistant.io</sub>
 - [personal-website](https://github.com/github/personal-website): <sub>Code that'll help you kickstart a personal website that showcases your work as a software developer. https://github.dev</sub>
 - [canvas-sketch](https://github.com/mattdesl/canvas-sketch): <sub>A framework for making generative artwork in JavaScript and the browser.</sub>

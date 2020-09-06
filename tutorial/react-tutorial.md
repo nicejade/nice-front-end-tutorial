@@ -37,6 +37,7 @@
 - [grommet/grommet](https://github.com/grommet/grommet): <sub>a react-based framework that provides accessibility, modularity, responsiveness, and theming in a tidy package https://grommet.io</sub>
 - [nitin42/terminal-in-react](https://github.com/nitin42/terminal-in-react): <sub>👨‍💻 A component that renders a terminal</sub>
 - [coreui/coreui-free-react-admin-template](https://github.com/coreui/coreui-free-react-admin-template): <sub>CoreUI React is free React admin template based on Bootstrap 4 https://coreui.io/react</sub>
+- [bumbag/bumbag-ui](https://github.com/bumbag/bumbag-ui): <sub>Build accessible & themeable React applications with your Bumbag 👝 https://bumbag.style</sub>
 
 ### 工具类插件
 

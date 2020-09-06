@@ -42,6 +42,7 @@
 ### EggJs
 
 - [eggjs](https://github.com/eggjs/egg): <sub>🥚 Born to build better enterprise frameworks and apps with Node.js & Koa https://eggjs.org</sub>
+  - [ykfe/egg-react-ssr](https://github.com/ykfe/egg-react-ssr): <sub>最小而美的 Egg + React + SSR 服务端渲染应用骨架，同时支持 JS 和 TS https://ykfe.surge.sh</sub>
 
 ### fastify
 

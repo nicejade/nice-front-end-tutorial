@@ -19,6 +19,7 @@
 ## 资源篇
 
 - [awesome-flutter](https://github.com/Solido/awesome-flutter): <sub>An awesome list that curates the best Flutter libraries, tools, tutorials, articles and more.</sub>
+- [FirebaseExtended/flutterfire](https://github.com/FirebaseExtended/flutterfire): <sub>🔥 A collection of Firebase plugins for Flutter apps.</sub>
 - [flutter-go](https://github.com/alibaba/flutter-go): <sub>flutter 开发者帮助 APP，包含 flutter 常用 140+ 组件的 demo 演示与中文文档</sub>
 - [Flutter 学习指南](https://zhuanlan.zhihu.com/flutter): <sub>知乎 Flutter 学习指南</sub>
 - [flutter-boilerplate-project](https://github.com/zubairehman/flutter-boilerplate-project): <sub>A boilerplate project created in flutter using MobX and Provider.</sub>
