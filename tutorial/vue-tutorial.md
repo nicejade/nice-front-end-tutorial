@@ -65,6 +65,7 @@
 - [Vue Router](https://router.vuejs.org/): <sub>🚦 The official router for Vue.js. http://router.vuejs.org/</sub>
 - [Vuex](https://vuex.vuejs.org/): <sub>🗃️ Centralized State Management for Vue.js. https://vuex.vuejs.org</sub>
 - [Vue SSR](https://ssr.vuejs.org/): <sub>Vue.js Server-Side Rendering Guide</sub>
+- [yyx990803/vue-lit](https://github.com/yyx990803/vue-lit): <sub>Proof of concept custom elements "framework"</sub>
 - [jaredpalmer/razzle](https://github.com/jaredpalmer/razzle): <sub>✨ Create server-rendered universal JavaScript applications with no configuration</sub>
 - [alpinejs/alpine](https://github.com/alpinejs/alpine): <sub>A rugged, minimal framework for composing JavaScript behavior in your markup.</sub>
 - [vue-test-utils ](https://github.com/vuejs/vue-test-utils): <sub>🔬 Utilities for testing Vue components https://vue-test-utils.vuejs.org</sub>
@@ -83,3 +84,7 @@
 - [vue-infinite-loading](https://github.com/PeachScript/vue-infinite-loading): <sub>An infinite scroll plugin for Vue.js. </sub>
 - [tiptap](https://github.com/scrumpy/tiptap): <sub>A rich-text editor for Vue.js https://tiptap.scrumpy.io/</sub>
 - [vue-virtual-scroller](https://github.com/Akryum/vue-virtual-scroller): <sub>⚡️ Blazing fast scrolling for any amount of data</sub>
+
+### Vite
+
+- [pikax/zipe](https://github.com/pikax/zipe): <sub>flutter docker image with full android sdk.</sub>

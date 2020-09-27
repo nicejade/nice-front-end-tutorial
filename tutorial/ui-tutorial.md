@@ -60,10 +60,15 @@
 - [processing/p5.js](https://github.com/processing/p5.js): <sub>p5.js is a client-side JS platform that empowers artists, designers, students, and anyone to learn to code and express themselves creatively on the web. It is based on the core principles of Processing. http://twitter.com/p5xjs — http://p5js.org</sub>
 - [alibaba/butterfly](https://github.com/alibaba/butterfly): <sub>🦋Butterfly，A JavaScript Diagramming library which concentrate on flow layout field</sub>
 - [daybrush/moveable](https://github.com/daybrush/moveable): <sub>Moveable! Draggable! Resizable! Scalable! Rotatable! Warpable! Pinchable! Groupable! Snappable!</sub>
+- [retejs/rete](https://github.com/retejs/rete): <sub>JavaScript framework for visual programming and creating node editor</sub>
 
 ### 布局篇
 
 - [Magic-Grid](https://github.com/e-oj/Magic-Grid): <sub>A simple, lightweight Javascript library for dynamic grid layouts</sub>
+
+### 在线绘制
+
+- [excalidraw/excalidraw](https://github.com/excalidraw/excalidraw): <sub>Virtual whiteboard for sketching hand-drawn like diagrams</sub>
 
 ### 其他篇
 

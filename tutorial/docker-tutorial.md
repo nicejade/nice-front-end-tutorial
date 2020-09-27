@@ -41,5 +41,6 @@
 
 - [nodejs/docker-node](https://github.com/nodejs/docker-node)
 - [docker-puppeteer](https://github.com/buildkite/docker-puppeteer): <sub>A minimal Docker image for Puppeteer. https://hub.docker.com/r/buildkite/puppeteer/</sub>
+- [matsp/docker-flutter](https://github.com/matsp/docker-flutter): <sub>flutter docker image with full android sdk</sub>
 - [docker-mailserver](https://github.com/tomav/docker-mailserver): <sub>A fullstack but simple mailserver (smtp, imap, antispam, antivirus, ssl...) using Docker.</sub>
 - [NVAITC/ai-lab](https://github.com/NVAITC/ai-lab): <sub>All-in-one AI container for rapid prototyping </sub>

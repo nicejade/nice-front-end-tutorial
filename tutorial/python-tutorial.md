@@ -13,6 +13,7 @@
 - [Python - 100 天从新手到大师](https://github.com/jackfrued/Python-100-Days)
 - [中文 Python 笔记](https://github.com/lijin-THU/notes-python)
 - [Python 教程 | Github](https://github.com/geekcomputers/Python)
+- [良心的 Python 教程 | Github](https://github.com/TwoWater/Python)
 - [Comprehensive Python Cheatsheet](https://github.com/gto76/python-cheatsheet)
 
 ### 工具篇
@@ -37,6 +38,7 @@
   - [python-prompt-toolkit](https://github.com/prompt-toolkit/python-prompt-toolkit): <sub>Library for building powerful interactive command line applications in Python</sub>
   - [xlwings/xlwings](https://github.com/xlwings/xlwings): <sub>xlwings is a BSD-licensed Python library that makes it easy to call Python from Excel and vice versa. It works with Microsoft Excel on Windows and Mac.</sub>
   - [psf/requests](https://github.com/psf/requests): <sub>A simple, yet elegant HTTP library.</sub>
+  - [gnebbia/kb](https://github.com/gnebbia/kb): <sub>A minimalist command line knowledge base manager</sub>
 
 ### 示例篇
 
