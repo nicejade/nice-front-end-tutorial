@@ -1,6 +1,7 @@
 ## Other Framework
 
 - [AMP a web component framework to easily create user-first web experiences - amp.dev](https://amp.dev/zh_cn/): <sub>Whether you are a publisher, e-commerce company, storyteller, advertiser or email sender, AMP makes it easy to create great experiences on the web. Use AMP to build websites, stories, ads and emails. [AMP - 倾城之链](https://nicelinks.site/post/5f75ea02cda9de27bd93a919)</sub>
+- [blitz-js/blitz](https://github.com/blitz-js/blitz): <sub>⚡️The Fullstack React Framework — built on Next.js https://blitzjs.com/</sub>
 - [svelte](https://github.com/sveltejs/svelte): <sub>Cybernetically enhanced web apps</sub>
 - [quasar](https://github.com/quasarframework/quasar): <sub>Quasar Framework - Build high-performance VueJS user interfaces in record time https://quasar.dev</sub>
 - [ryansolid/solid](https://github.com/ryansolid/solid): <sub>A declarative, efficient, and flexible JavaScript library for building user interfaces.</sub>

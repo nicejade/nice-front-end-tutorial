@@ -143,6 +143,7 @@
 - [agenda](https://github.com/agenda/agenda): <sub>Lightweight job scheduling for Node.js http://agendajs.com | [Agenda Dashboard](https://github.com/agenda/agendash)</sub>
 - [google-auth-library-nodejs](https://github.com/googleapis/google-auth-library-nodejs): <sub>🔑 Google Auth Library for Node.js</sub>
 - [tinify/tinify-nodejs](https://github.com/tinify/tinify-nodejs): <sub>Node.js client for the Tinify API.</sub>
+- [web-push-libs/web-push](https://github.com/web-push-libs/web-push): <sub>Web Push library for Node.js</sub>
 
 - [capture-website](https://github.com/sindresorhus/capture-website): <sub>Capture screenshots of websites</sub>
 
