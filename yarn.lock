@@ -1030,8 +1030,8 @@ to-regex-range@^5.0.1:
     is-number "^7.0.0"
 
 tree-kill@^1.2.0:
-  version "1.2.1"
-  resolved "https://registry.npmjs.org/tree-kill/-/tree-kill-1.2.1.tgz#5398f374e2f292b9dcc7b2e71e30a5c3bb6c743a"
+  version "1.2.2"
+  resolved "https://registry.yarnpkg.com/tree-kill/-/tree-kill-1.2.2.tgz#4ca09a9092c88b73a7cdc5e8a01b507b0790a0cc"
 
 tslib@^1.9.0:
   version "1.10.0"
