@@ -89,6 +89,12 @@
 - [Node.js as Backend: Best Use Cases, Tools & Limitations](https://medium.com/dailyjs/node-js-as-backend-best-use-cases-tools-limitations-9c65165a5bac)
 - [12 common JavaScript questions answered](http://www.creativebloq.com/features/12-common-javascript-questions-answered)
 
+## 版本管理工具
+
+- [nvm-sh/nvm](https://github.com/nvm-sh/nvm): <sub>Node Version Manager - POSIX-compliant bash script to manage multiple active node.js versions</sub>
+- [tj/n](https://github.com/tj/n): <sub>Node version management</sub>
+- [Schniz/fnm](https://github.com/Schniz/fnm): <sub>🚀 Fast and simple Node.js version manager, built in Rust</sub>
+
 ## 有用的库
 
 ### 终端

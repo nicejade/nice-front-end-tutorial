@@ -30,6 +30,10 @@
 - [weapp-doc](https://github.com/tencentyun/weapp-doc): <sub>小程序配置指引、升级方案</sub>
 - [微信小程序可视化设计工具](http://www.coolsite360.com/wxapp/): <sub>集成小程序所有组件，在线进行小程序 UI 设计，支持 Flex 布局，可导出符合小程序标准的代码供后续开发</sub>
 
+## 工具库
+
+- [F-loat/mpvue-wxParse](https://github.com/F-loat/mpvue-wxParse): <sub>📰 适用于 Mpvue 的微信小程序富文本解析自定义组件</sub>
+
 ## 小程序商店
 
 - [微信小程序商店 | w3cschool](https://www.w3cschool.cn/miniapp#)

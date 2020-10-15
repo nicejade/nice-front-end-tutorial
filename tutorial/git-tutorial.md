@@ -62,6 +62,7 @@
 ## Git 相关 UI 库
 
 - [nicoespeon/gitgraph.js](https://github.com/nicoespeon/gitgraph.js): <sub>👋 [Looking for maintainers] - A JavaScript library to draw pretty git graphs in the browser</sub>
+- [tomgi/git_stats](https://github.com/tomgi/git_stats): <sub>GitStats is a git repository statistics generator.</sub>
 
 ## 桌面工具
 

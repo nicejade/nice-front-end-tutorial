@@ -30,6 +30,7 @@
 - [Sublime Text](https://www.sublimetext.com/): <sub>A sophisticated text editor for code, markup and prose. 具体可参见 [SublimeText 下写作利器之 MarkdownEditing](https://jeffjade.com/2015/08/28/2015-08-28-Write-Morkdown/)</sub>
 - [Dillinger](https://dillinger.io/): <sub>Dillinger is an online cloud based HTML5 filled Markdown Editor. Sync with Dropbox, Github, Google Drive or OneDrive. Convert HTML to Markdown. 100% Open Source!</sub>
 - [小书匠编辑器](http://soft.xiaoshujiang.com/)
+- [rstudio/bookdown](https://github.com/rstudio/bookdown): <sub>Authoring Books and Technical Documents with R Markdown</sub>
 
 ### 相关库
 
