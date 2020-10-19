@@ -38,6 +38,7 @@
 - [scrollreveal](https://github.com/scrollreveal/scrollreveal): <sub>Animate elements as they scroll into view. https://scrollrevealjs.org</sub>
 - [ScrollMagic](https://github.com/janpaepke/ScrollMagic): <sub>The javascript library for magical scroll interactions. http://ScrollMagic.io</sub>
 - [rcbyr/keen-slider](https://github.com/rcbyr/keen-slider): <sub>The HTML touch slider carousel with the most native feeling</sub>
+- [web-padawan/vanilla-colorful](https://github.com/web-padawan/vanilla-colorful): <sub>A tiny color picker custom element for modern web apps (2.7 KB) 🎨</sub>
 
 ### 可视化
 

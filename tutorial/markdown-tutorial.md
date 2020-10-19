@@ -31,6 +31,7 @@
 - [Dillinger](https://dillinger.io/): <sub>Dillinger is an online cloud based HTML5 filled Markdown Editor. Sync with Dropbox, Github, Google Drive or OneDrive. Convert HTML to Markdown. 100% Open Source!</sub>
 - [小书匠编辑器](http://soft.xiaoshujiang.com/)
 - [rstudio/bookdown](https://github.com/rstudio/bookdown): <sub>Authoring Books and Technical Documents with R Markdown</sub>
+- [siyuan-note/siyuan](https://github.com/siyuan-note/siyuan): <sub>📕 思源笔记是一款 Markdown 块级引用和双向链接的网状笔记应用，支持 Windows、Mac 和 Linux，可在浏览器上直接使用，支持移动端适配。</sub>
 
 ### 相关库
 

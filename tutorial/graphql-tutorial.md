@@ -27,6 +27,7 @@ GraphQL 既是一种用于 API 的查询语言也是一个满足你数据查询�
 - [quicktype/quicktype](https://github.com/quicktype/quicktype): <sub>Generate types and converters from JSON, Schema, and GraphQL</sub>
 - [samdenty/gqless](https://github.com/samdenty/gqless): <sub>A GraphQL client without queries ✨</sub>
 - [mswjs/msw](https://github.com/mswjs/msw): <sub>Seamless REST/GraphQL API mocking library for browser and Node.</sub>
+- [prisma-labs/graphql-request](https://github.com/prisma-labs/graphql-request): <sub>Minimal GraphQL client supporting Node and browsers for scripts or simple apps</sub>
 
 ## 插件篇
 

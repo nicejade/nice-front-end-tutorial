@@ -26,6 +26,7 @@
 
 ### CSS 动画库
 
+- [animate-css/animate.css](https://github.com/animate-css/animate.css): <sub>🍿 A cross-browser library of CSS animations. As easy to use as an easy thing.</sub>
 - [**animate.css**](https://daneden.github.io/animate.css): <sub>Just-add-water CSS animations</sub>
 - [typed.js](https://github.com/mattboldt/typed.js): <sub>A JavaScript Typing Animation Library</sub>
 - [hint.css](https://github.com/chinchang/hint.css): <sub>A CSS only tooltip library for your lovely websites. https://kushagragour.in/lab/hint</sub>
