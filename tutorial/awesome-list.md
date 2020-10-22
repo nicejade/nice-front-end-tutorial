@@ -146,3 +146,4 @@
 - [AwesomeSeeds](https://github.com/88250/awesome-seeds): <sub>🌱 发现新鲜有趣的小型开源项目，欢迎投稿！</sub>
 - [Awesome-Talks](https://github.com/JanVanRyswyck/awesome-talks): <sub>Awesome online talks and screencasts</sub>
 - [AwesomeUses](https://github.com/wesbos/awesome-uses): <sub>A site for this repo is currently being built. Please check out the website branch and add yourself in there!</sub>
+- [Awesome-Workflow-Engines](https://github.com/meirwah/awesome-workflow-engines): <sub>A curated list of awesome open source workflow engines</sub>

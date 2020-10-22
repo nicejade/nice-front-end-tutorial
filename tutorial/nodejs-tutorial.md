@@ -100,6 +100,7 @@
 ### 终端
 
 - [nicejade/arya-jarvis](https://github.com/nicejade/arya-jarvis): <sub>🛠 Designed to save developers more time and energy. https://arya.lovejade.cn/</sub>
+- [oclif/oclif](https://github.com/oclif/oclif): <sub>Node.js Open CLI Framework. Built with 💜 by Heroku.</sub>
 - [carloscuesta/gitmoji-cli](https://github.com/carloscuesta/gitmoji-cli): <sub>A gitmoji interactive command line tool for using emojis on commits. 💻</sub>
 - [nexe/nexe](https://github.com/nexe/nexe): <sub>🎉 create a single executable out of your node.js apps</sub>
 - [updtr](https://github.com/peerigon/updtr): <sub>Update outdated npm modules with zero pain™</sub>
