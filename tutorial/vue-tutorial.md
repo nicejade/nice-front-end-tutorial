@@ -88,3 +88,4 @@
 ### Vite
 
 - [pikax/zipe](https://github.com/pikax/zipe): <sub>flutter docker image with full android sdk.</sub>
+- [antfu/vite-plugin-pwa](https://github.com/antfu/vite-plugin-pwa): <sub>Zero-config PWA for Vite</sub>

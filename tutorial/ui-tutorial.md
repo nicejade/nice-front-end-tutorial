@@ -39,6 +39,7 @@
 - [ScrollMagic](https://github.com/janpaepke/ScrollMagic): <sub>The javascript library for magical scroll interactions. http://ScrollMagic.io</sub>
 - [rcbyr/keen-slider](https://github.com/rcbyr/keen-slider): <sub>The HTML touch slider carousel with the most native feeling</sub>
 - [web-padawan/vanilla-colorful](https://github.com/web-padawan/vanilla-colorful): <sub>A tiny color picker custom element for modern web apps (2.7 KB) 🎨</sub>
+- [nolanlawson/emoji-picker-element](https://github.com/nolanlawson/emoji-picker-element): <sub>A lightweight emoji picker for the modern web</sub>
 
 ### 可视化
 
@@ -62,6 +63,7 @@
 - [alibaba/butterfly](https://github.com/alibaba/butterfly): <sub>🦋Butterfly，A JavaScript Diagramming library which concentrate on flow layout field</sub>
 - [daybrush/moveable](https://github.com/daybrush/moveable): <sub>Moveable! Draggable! Resizable! Scalable! Rotatable! Warpable! Pinchable! Groupable! Snappable!</sub>
 - [retejs/rete](https://github.com/retejs/rete): <sub>JavaScript framework for visual programming and creating node editor</sub>
+- [bradley/Blotter](https://github.com/bradley/Blotter): <sub>A JavaScript API for drawing unconventional text effects on the web. https://blotter.js.org/</sub>
 
 ### 布局篇
 
@@ -70,6 +72,7 @@
 ### 在线绘制
 
 - [excalidraw/excalidraw](https://github.com/excalidraw/excalidraw): <sub>Virtual whiteboard for sketching hand-drawn like diagrams</sub>
+- [wozhishilaonanhai/dragUI](https://github.com/wozhishilaonanhai/dragUI): <sub>基于 vuedraggable.js + uni 的可视化拖拽编程，自动生成项目，自动生成代码，自行导入第三方组件</sub>
 
 ### 其他篇
 
