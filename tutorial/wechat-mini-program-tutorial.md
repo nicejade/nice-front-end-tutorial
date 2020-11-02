@@ -33,6 +33,7 @@
 ## 工具库
 
 - [F-loat/mpvue-wxParse](https://github.com/F-loat/mpvue-wxParse): <sub>📰 适用于 Mpvue 的微信小程序富文本解析自定义组件</sub>
+- [tensorflow/tfjs-wechat](https://github.com/tensorflow/tfjs-wechat): <sub>WeChat Mini-program plugin for TensorFlow.js</sub>
 
 ## 小程序商店
 
