@@ -8,14 +8,14 @@
 
 > 🃏 令人愉快的 JavaScript 测试 (🃏 Delightful JavaScript Testing) https://facebook.github.io/jest/
 
-* [jest-puppeteer](https://github.com/smooth-code/jest-puppeteer): <sub>Run your tests using Jest & Puppeteer 🎪✨</sub>
+- [jest-puppeteer](https://github.com/smooth-code/jest-puppeteer): <sub>Run your tests using Jest & Puppeteer 🎪✨</sub>
 
 #### [MochaJs](https://mochajs.org/)
 
 > ☕️ simple, flexible, fun javascript test framework for node.js & the browser （node.js 和浏览器的简单，灵活，有趣的 javascript 测试框架）https://mochajs.org
 
 - [测试框架 Mocha 实例教程](https://www.ruanyifeng.com/blog/2015/12/a-mocha-tutorial-of-examples.html)
-- [用Mocha和Chai对JavaScript进行单元测试](https://github.com/JChehe/blog/blob/master/translation/%E7%94%A8Mocha%E5%92%8CChai%E5%AF%B9JavaScript%E8%BF%9B%E8%A1%8C%E5%8D%95%E5%85%83%E6%B5%8B%E8%AF%95.md)
+- [用 Mocha 和 Chai 对 JavaScript 进行单元测试](https://github.com/JChehe/blog/blob/master/translation/%E7%94%A8Mocha%E5%92%8CChai%E5%AF%B9JavaScript%E8%BF%9B%E8%A1%8C%E5%8D%95%E5%85%83%E6%B5%8B%E8%AF%95.md)
 
 ## 负载测试
 
@@ -23,14 +23,13 @@
 
 > 用 Python 编写的可扩展的用户负载测试工具 (Scalable user load testing tool written in Python) http://locust.io
 
-* [Load Testing with Locust.io & Docker Swarm](https://wheniwork.engineering/load-testing-with-locust-io-docker-swarm-d78a2602997a)
-* [【LocustPlus 序】漫谈服务端性能测试](http://debugtalk.com/post/locustplus-talk-about-performance-test/)
-* [深入浅出开源性能测试工具 Locust（使用篇）](http://debugtalk.com/post/head-first-locust-user-guide/)
+- [Load Testing with Locust.io & Docker Swarm](https://wheniwork.engineering/load-testing-with-locust-io-docker-swarm-d78a2602997a)
+- [【LocustPlus 序】漫谈服务端性能测试](http://debugtalk.com/post/locustplus-talk-about-performance-test/)
+- [深入浅出开源性能测试工具 Locust（使用篇）](http://debugtalk.com/post/head-first-locust-user-guide/)
 
 #### [vegeta](https://github.com/tsenart/vegeta)
 
->Vegeta是一种多功能的HTTP负载测试工具，需要以恒定的请求率来钻取HTTP服务。它既可以用作命令行实用程序，也可以用作库。 (Vegeta is a versatile HTTP load testing tool built out of a need to drill HTTP services with a constant request rate. It can be used both as a command line utility and a library).
-
+> Vegeta 是一种多功能的 HTTP 负载测试工具，需要以恒定的请求率来钻取 HTTP 服务。它既可以用作命令行实用程序，也可以用作库。 (Vegeta is a versatile HTTP load testing tool built out of a need to drill HTTP services with a constant request rate. It can be used both as a command line utility and a library).
 
 #### [Cypress](https://github.com/cypress-io/cypress)
 
@@ -62,6 +61,8 @@
 
 > WebPageTest 是一款非常强大的 Web 页面性能评测工具 , 最早是在 AOL 内部使用的，现在已经开源了。在该网站输入你的 url，就会生成 1 个 url 加载的时间瀑布图，对所有加载的资源 (css,js,image 等等 ) 列出优化的清单。
 
+- [jlfwong/speedscope](https://github.com/jlfwong/speedscope): <sub>🔬 A fast, interactive web-based viewer for performance profiles. https://www.speedscope.app</sub>
+
 ## 代码检查类
 
 #### CSS Lint
@@ -76,7 +77,7 @@
 
 #### [axe-core](https://github.com/dequelabs/axe-core)
 
->Accessibility engine for automated Web UI testing（Axe 是一个用于可访问性测试的开源规则库。它的开发旨在使开发人员能够自行进行自动化可访问性测试，并避免其他自动化辅助功能工具的常见缺陷） http://cn.vuejs.org/v2/guide/
+> Accessibility engine for automated Web UI testing（Axe 是一个用于可访问性测试的开源规则库。它的开发旨在使开发人员能够自行进行自动化可访问性测试，并避免其他自动化辅助功能工具的常见缺陷） http://cn.vuejs.org/v2/guide/
 
 ## 网页抓包
 
@@ -104,14 +105,14 @@
 >
 > Most things that you can do manually in the browser can be done using Puppeteer! Here are a few examples to get you started:
 >
-> * Generate screenshots and PDFs of pages. Crawl a SPA and generate pre-rendered content (i.e. "SSR").
+> - Generate screenshots and PDFs of pages. Crawl a SPA and generate pre-rendered content (i.e. "SSR").
 
-* Scrape content from websites.
-* Automate form submission, UI testing, keyboard input, etc.
-* Create an up-to-date, automated testing environment. Run your tests directly in the latest version of Chrome using the latest JavaScript and browser features.
-* Capture a timeline trace of your site to help diagnose performance issues.
+- Scrape content from websites.
+- Automate form submission, UI testing, keyboard input, etc.
+- Create an up-to-date, automated testing environment. Run your tests directly in the latest version of Chrome using the latest JavaScript and browser features.
+- Capture a timeline trace of your site to help diagnose performance issues.
 
-  * [awesome-puppeteer](https://github.com/transitive-bullshit/awesome-puppeteer): <sub>A curated list of awesome puppeteer resources.</sub>
+  - [awesome-puppeteer](https://github.com/transitive-bullshit/awesome-puppeteer): <sub>A curated list of awesome puppeteer resources.</sub>
 
 #### [lighthouse](https://github.com/GoogleChrome/lighthouse)
 
@@ -242,5 +243,3 @@ Grunt.js 是一个 Javascript Task Runner(Javascript 任务运行器 ), 其基�
 #### Leakage
 
 [Leakage](https://github.com/andywer/leakage), Memory Leak Testing for Node, Write leakage tests using Mocha or another test runner of your choice. ( Node 的内存泄漏测试, 使用 Mocha 或您选择的其他测试运行器编写泄漏测试。)
-
-
