@@ -76,6 +76,7 @@
 - [tensorflow/tensorflow](https://github.com/tensorflow/tensorflow): <sub>An Open Source Machine Learning Framework for Everyone https://tensorflow.org</sub>
 - [tensorflow/models](https://github.com/tensorflow/models): <sub>Models and examples built with TensorFlow</sub>
 - [google/trax](https://github.com/google/trax): <sub>Trax — your path to advanced deep learning</sub>
+- [lutzroeder/netron](https://github.com/lutzroeder/netron): <sub>Visualizer for neural network, deep learning, and machine learning models https://www.lutzroeder.com/netron</sub>
 - [fastai/fastai](https://github.com/fastai/fastai): <sub>The fastai deep learning library, plus lessons and tutorials http://docs.fast.ai</sub>
 - [keras-team/keras](https://github.com/keras-team/keras): <sub>Deep Learning for humans http://keras.io</sub>
 - [BVLC/caffe](https://github.com/BVLC/caffe): <sub>Caffe: a fast open framework for deep learning.</sub>

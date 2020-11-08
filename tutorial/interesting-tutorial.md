@@ -52,6 +52,7 @@
 - [LingDong-/shan-shui-inf](https://github.com/LingDong-/shan-shui-inf): <sub>Procedurally generated Chinese landscape painting.（程序生成的中国山水画）</sub>
 - [shidenggui/bloghub](https://github.com/shidenggui/bloghub): <sub>一群自由而有趣的灵魂，终将在此相遇 | 独立个人博客推荐导航 https://bloghub.fun/</sub>
 - [chartjs/Chart.js](https://github.com/chartjs/Chart.js): <sub>Simple HTML5 Charts using the <canvas> tag https://www.chartjs.org/</sub>
+- [erebe/personal-server](https://github.com/erebe/personal-server): <sub>Personal server configuration with k3s</sub>
 
 ### 项目列表类
 
