@@ -31,6 +31,7 @@
 
 ### UI 组件框架
 
+- [element-plus/element-plus](https://github.com/element-plus/element-plus): <sub>🎉 A Vue.js 3.0 UI Library</sub>
 - [11 Vue.js Component Libraries You Should Know In 2018](https://blog.bitsrc.io/11-vue-js-component-libraries-you-should-know-in-2018-3d35ad0ae37f)
 - [element](https://github.com/ElemeFE/element): <sub>A Vue.js 2.0 UI Toolkit for Web https://element.eleme.io/ </sub>
 - [buefy](https://github.com/buefy/buefy): <sub>Lightweight UI components for Vue.js based on Bulma https://buefy.org</sub>

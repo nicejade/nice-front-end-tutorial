@@ -57,6 +57,7 @@
 
 ## 周边篇
 
+- [jareware/css-architecture](https://github.com/jareware/css-architecture): <sub>8 simple rules for a robust, scalable CSS architecture</sub>
 - [css-doodle](https://github.com/css-doodle/css-doodle): <sub>🎨 A web component for drawing patterns with CSS. </sub>
 - [CSS-Inspiration](https://github.com/chokcoco/CSS-Inspiration): <sub>CSS Inspiration，在这里找到写 CSS 的灵感!</sub>
 - [JNKKKK/MoreToggles.css](https://github.com/JNKKKK/MoreToggles.css): <sub>A pure CSS library that provides you with a variety of nice-looking toggles</sub>
