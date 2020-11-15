@@ -136,6 +136,7 @@
 - [Awesome-Health](https://github.com/prabhic/awesome-health): <sub>A curated list of health resources</sub>
 - [Awesome-Interview-Questions](https://github.com/MaximAbramchuck/awesome-interview-questions): <sub>:octocat: A curated awesome list of lists of interview questions. Feel free to contribute! 🎓 </sub>
 - [Awesome-Jamstack](https://github.com/automata/awesome-jamstack): <sub>Carefully curated list of awesome JAMstack resources</sub>
+- [AwesomeLightningNetwork](https://github.com/bcongdon/awesome-lightning-network): <sub>⚡ A curated list of awesome Lightning Network projects for developers and crypto enthusiasts</sub>
 - [Awesome-Math](https://github.com/rossant/awesome-math): <sub>A curated list of awesome mathematics resources</sub>
 - [Awesome-Flutter](https://github.com/Solido/awesome-flutter): <sub>An awesome list that curates the best Flutter libraries, tools, tutorials, articles and more.</sub>
 - [Awesome-Github](https://github.com/Kikobeats/awesome-github): <sub>An exquisite list of awesome :octocat: secrets.</sub>

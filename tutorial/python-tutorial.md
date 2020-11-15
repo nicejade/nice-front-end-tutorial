@@ -9,6 +9,7 @@
 - [Python 官方网站](https://www.python.org/)
 - [Python 官方中文教程](https://docs.python.org/zh-cn/3/tutorial/index.html)
 - [Python 基础教程 | 菜鸟](https://www.runoob.com/python/python-tutorial.html)
+- [Asabeneh/30-Days-Of-Python](https://github.com/Asabeneh/30-Days-Of-Python): <sub>30 days of Python programming challenge is a step by step guide to learn Python programming language in 30 days.</sub>
 - [The Hitchhiker’s Guide to Python!](https://docs.python-guide.org/)
 - [Python - 100 天从新手到大师](https://github.com/jackfrued/Python-100-Days)
 - [中文 Python 笔记](https://github.com/lijin-THU/notes-python)

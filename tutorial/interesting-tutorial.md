@@ -54,6 +54,7 @@
 - [chartjs/Chart.js](https://github.com/chartjs/Chart.js): <sub>Simple HTML5 Charts using the <canvas> tag https://www.chartjs.org/</sub>
 - [erebe/personal-server](https://github.com/erebe/personal-server): <sub>Personal server configuration with k3s</sub>
 - [mifi/editly](https://github.com/mifi/editly): <sub>Slick, declarative command line video editing & API</sub>
+- [chatwoot/chatwoot](https://github.com/chatwoot/chatwoot): <sub>Open-source live chat software, an alternative to Intercom, Zendesk, Drift, Crisp etc. 🔥💬</sub>
 
 ### 项目列表类
 

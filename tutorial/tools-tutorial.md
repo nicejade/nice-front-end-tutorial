@@ -69,6 +69,7 @@
 
 #### 终端
 
+- [starship/starship](https://github.com/starship/starship): <sub>☄🌌️ The minimal, blazing-fast, and infinitely customizable prompt for any shell!</sub>
 - [gokcehan/lf](https://github.com/gokcehan/lf): <sub>Terminal file manager https://godoc.org/github.com/gokcehan/lf</sub>
 - [terminal](https://github.com/microsoft/terminal): <sub>The new Windows Terminal, and the original Windows console host -- all in the same place!</sub>
 - [butterfly](https://github.com/paradoxxxzero/butterfly): <sub>A web terminal based on websocket and tornado</sub>

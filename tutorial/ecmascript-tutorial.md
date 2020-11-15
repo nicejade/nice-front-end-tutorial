@@ -2,6 +2,7 @@
 
 - [JavaScript 基础教程 | MDN](https://developer.mozilla.org/zh-CN/docs/Web/JavaScript)
 - [JavaScript 指南 | MDN](https://developer.mozilla.org/zh-CN/docs/Web/JavaScript/Guide)
+- [microsoft/Web-Dev-For-Beginners](https://github.com/microsoft/Web-Dev-For-Beginners): <sub>24 Lessons, 12 Weeks, Get Started as a Web Developer</sub>
 - [JavaScript 教程 | W3school](https://www.w3school.com.cn/js/index.asp)
 - [阮一峰 JavaScript](http://javascript.ruanyifeng.com)
 - [阮一峰 ES66](http://es6.ruanyifeng.com)
