@@ -138,6 +138,7 @@
 - [Awesome-Jamstack](https://github.com/automata/awesome-jamstack): <sub>Carefully curated list of awesome JAMstack resources</sub>
 - [AwesomeLightningNetwork](https://github.com/bcongdon/awesome-lightning-network): <sub>⚡ A curated list of awesome Lightning Network projects for developers and crypto enthusiasts</sub>
 - [Awesome-Math](https://github.com/rossant/awesome-math): <sub>A curated list of awesome mathematics resources</sub>
+- [AwesomeFish](https://github.com/jorgebucaran/awesome.fish): <sub>A curation of plugins, prompts, and resources for the fish shell. 🐚🍤 https://git.io/awsm.fish</sub>
 - [Awesome-Flutter](https://github.com/Solido/awesome-flutter): <sub>An awesome list that curates the best Flutter libraries, tools, tutorials, articles and more.</sub>
 - [Awesome-Github](https://github.com/Kikobeats/awesome-github): <sub>An exquisite list of awesome :octocat: secrets.</sub>
 - [Awesome-Github-Profile-Readme](https://github.com/abhisheknaiidu/awesome-github-profile-readme): <sub>😎 A curated list of awesome Github Profile READMEs 📝</sub>
