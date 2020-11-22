@@ -22,6 +22,7 @@
 - [Vimium~ 让您的 Chrome 起飞](http://www.jeffjade.com/2015/10/19/2015-10-18-chrome-vimium/)
 - [chrome-plugin-demo](https://github.com/sxei/chrome-plugin-demo): <sub>《Chrome 插件开发全攻略》配套完整 Demo</sub>
 - [ChromeAppHeroes](https://github.com/zhaoolee/ChromeAppHeroes): <sub>🌈 谷粒-Chrome 插件英雄榜, 为优秀的 Chrome 插件写一本中文说明书, 让 Chrome 插件英雄们造福人类~</sub>
+- [alyssaxuu/screenity](https://github.com/alyssaxuu/screenity): <sub>The most powerful screen recorder & annotation tool for Chrome 🎥</sub>
 
 ## 调试篇
 

@@ -55,6 +55,7 @@
 - [mdx-deck](https://github.com/jxnblk/mdx-deck): <sub>♠️ MDX-based presentation decks https://jxnblk.com/mdx-deck</sub>
 - [**mdx-js/mdx**](https://github.com/mdx-js/mdx): <sub>MDX is a JSX in Markdown loader, parser, and renderer for ambitious projects. It combines the readability of Markdown with the expressivity of JSX. The best of both worlds. 🌐</sub>
 - [ok-mdx](https://github.com/jxnblk/ok-mdx): <sub>Browser-based MDX editor https://jxnblk.com/ok-mdx/</sub>
+- [hashicorp/next-mdx-remote](https://github.com/hashicorp/next-mdx-remote): <sub>Load mdx content from anywhere through getStaticProps in next.js</sub>
 
 #### **Awesome markdown tools**
 
