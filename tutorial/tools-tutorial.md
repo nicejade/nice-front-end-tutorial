@@ -78,6 +78,7 @@
 - [facebook/fb-adb](https://github.com/facebook/fb-adb): <sub>A better shell for Android devices.</sub>
 - [subfinder](https://github.com/projectdiscovery/subfinder): <sub>Subfinder is a subdomain discovery tool that discovers valid subdomains for websites. Designed as a passive framework to be useful for bug bounties and safe for penetration testing.</sub>
 - [ogham/exa](https://github.com/ogham/exa): <sub>A modern version of ‘ls’.</sub>
+- [soimort/translate-shell](https://github.com/soimort/translate-shell): <sub>💬 Command-line translator using Google Translate, Bing Translator, Yandex.Translate, etc.</sub>
 
 ### 搜索引擎
 
