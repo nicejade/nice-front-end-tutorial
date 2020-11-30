@@ -106,6 +106,7 @@
 - [mkdocs/mkdocs](https://github.com/mkdocs/mkdocs): <sub>Project documentation with Markdown.</sub>
 - [squidfunk/mkdocs-material](https://github.com/squidfunk/mkdocs-material): <sub>A Material Design theme for MkDocs</sub>
 - [getzola/zola](https://github.com/getzola/zola): <sub>A fast static site generator in a single binary with everything built-in. https://getzola.org</sub>
+- [xcatliu/pagic](https://github.com/xcatliu/pagic): <sub>A static site generator powered by Deno + React</sub>
 
 #### Blog System
 

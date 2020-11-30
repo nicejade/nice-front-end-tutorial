@@ -16,6 +16,10 @@
 
 ## 进阶篇
 
+## 插件篇
+
+- [appspector/flutter-plugin](https://github.com/appspector/flutter-plugin): <sub>Flutter plugin for AppSpector SDK. With AppSpector you can remotely debug your app running in the same room or on another continent in real-time.</sub>
+
 ## 资源篇
 
 - [awesome-flutter](https://github.com/Solido/awesome-flutter): <sub>An awesome list that curates the best Flutter libraries, tools, tutorials, articles and more.</sub>
