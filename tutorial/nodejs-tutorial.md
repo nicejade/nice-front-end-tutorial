@@ -90,6 +90,10 @@
 - [Node.js as Backend: Best Use Cases, Tools & Limitations](https://medium.com/dailyjs/node-js-as-backend-best-use-cases-tools-limitations-9c65165a5bac)
 - [12 common JavaScript questions answered](http://www.creativebloq.com/features/12-common-javascript-questions-answered)
 
+## 调试
+
+- [node-inspector/node-inspector](https://github.com/node-inspector/node-inspector): <sub>Node.js debugger based on Blink Developer Tools</sub>
+
 ## 版本管理工具
 
 - [nvm-sh/nvm](https://github.com/nvm-sh/nvm): <sub>Node Version Manager - POSIX-compliant bash script to manage multiple active node.js versions</sub>

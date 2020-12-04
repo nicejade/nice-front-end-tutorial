@@ -40,6 +40,7 @@
 - [**markedjs/marked**](https://github.com/markedjs/marked): <sub>A markdown parser and compiler. Built for speed. https://marked.js.org/</sub>
 - [remarkjs/remark](https://github.com/remarkjs/remark): <sub>Markdown processor powered by plugins part of the @unifiedjs collective https://remark.js.org/</sub>
 - [turndown](https://github.com/domchristie/turndown): <sub>🛏 An HTML to Markdown converter written in JavaScript http://domchristie.github.io/turndown </sub>
+- [rsms/markdown-wasm](https://github.com/rsms/markdown-wasm): <sub>Markdown parser and HTML generator implemented in WebAssembly, based on md4c</sub>
 
 #### Markdown component
 

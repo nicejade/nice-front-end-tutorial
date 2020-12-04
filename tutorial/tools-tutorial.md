@@ -22,6 +22,7 @@
 - [MacOS Setup Guide](http://sourabhbajaj.com/mac-setup/)
 - [Best-App ](https://github.com/hzlzh/Best-App): <sub>收集 & 推荐优秀的 Apps/ 硬件 / 技巧 / 周边等</sub>
 - [Louiszhai/tool](https://github.com/Louiszhai/tool): <sub>开发效率提升：Mac 生产力工具链推荐</sub>
+- [itsuhane/SwitchKey](https://github.com/itsuhane/SwitchKey): <sub>Automatically activate the correct input source.</sub>
 
 ### [Chrome](https://github.com/nicejade/nice-front-end-tutorial/blob/master/tutorial/chrome-tutorial.md)
 
