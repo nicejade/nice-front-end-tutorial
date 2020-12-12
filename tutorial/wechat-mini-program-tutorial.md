@@ -34,6 +34,7 @@
 
 - [F-loat/mpvue-wxParse](https://github.com/F-loat/mpvue-wxParse): <sub>📰 适用于 Mpvue 的微信小程序富文本解析自定义组件</sub>
 - [tensorflow/tfjs-wechat](https://github.com/tensorflow/tfjs-wechat): <sub>WeChat Mini-program plugin for TensorFlow.js</sub>
+- [lizhiyao/sentry-miniapp](https://github.com/lizhiyao/sentry-miniapp): <sub>Sentry 小程序/小游戏 SDK：用于小程序/小游戏平台的 Sentry SDK（目前支持微信、字节跳动、支付宝、钉钉、QQ、百度小程序，微信、QQ 小游戏）</sub>
 
 ## 小程序商店
 

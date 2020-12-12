@@ -155,6 +155,7 @@
 
 - [adamzap/landslide](https://github.com/adamzap/landslide): <sub>Generate HTML5 slideshows from markdown, ReST, or textile</sub>
 - [fusuma](https://github.com/hiroppy/fusuma): <sub>✍️Easily make slides with markdown.</sub>
+- [googleworkspace/md2googleslides](https://github.com/googleworkspace/md2googleslides): <sub>Generate Google Slides from markdown</sub>
 - [nodePPT](https://github.com/ksky521/nodeppt)： <sub>This is probably the best web presentation tool so far! http://js8.in/nodeppt</sub>
 - [**Cleaver 快速制作网页 PPT**](http://www.jeffjade.com/2015/10/15/2015-10-16-cleaver-make-ppt/): <sub>30-second slideshows for hackers http://jdan.github.io/cleaver</sub>
 - [**impress.js** ](https://github.com/impress/impress.js/): <sub>It's a presentation framework based on the power of CSS3 transforms and transitions in modern browsers and inspired by the idea behind prezi.com. http://impress.js.org</sub>
@@ -163,6 +164,7 @@
 - [bespoke-fx](https://github.com/ebow/bespoke-fx): <sub>CSS slide transitions for Bespoke.js </sub>
 - [slippy](https://github.com/Seldaek/slippy): <sub>HTML Presentations</sub>
 - [big](https://github.com/tmcw/big): <sub>presentations for busy messy hackers http://macwright.org/big/demo.html</sub>
+- [presenta-software/presenta-lib](https://github.com/presenta-software/presenta-lib): <sub>A javascript library to build expressive web presentations in seconds.</sub>
 
 ### Jenkins
 
@@ -472,4 +474,8 @@
   > 🦦 Insanely fast image printing in your terminal（terminal 在终端上疯狂地快速打印图像）
 
 - [pixijs/pixi.js](https://github.com/pixijs/pixi.js)
+
   > The HTML5 Creation Engine: Create beautiful digital content with the fastest, most flexible 2D WebGL renderer.（HTML5 创建引擎：使用最快，最灵活的 2D WebGL 渲染器创建精美的数字内容。）
+
+- [sivan/heti](https://github.com/sivan/heti)
+  > 赫蹏（hètí）是专为中文内容展示设计的排版样式增强。它基于通行的中文排版规范而来，可以为网站的读者带来更好的文章阅读体验。
