@@ -55,6 +55,7 @@
 - [erebe/personal-server](https://github.com/erebe/personal-server): <sub>Personal server configuration with k3s</sub>
 - [mifi/editly](https://github.com/mifi/editly): <sub>Slick, declarative command line video editing & API</sub>
 - [chatwoot/chatwoot](https://github.com/chatwoot/chatwoot): <sub>Open-source live chat software, an alternative to Intercom, Zendesk, Drift, Crisp etc. 🔥💬</sub>
+- [RobinLinus/snapdrop](https://github.com/RobinLinus/snapdrop): <sub>A Progressive Web App for local file sharing</sub>
 
 ### 项目列表类
 
