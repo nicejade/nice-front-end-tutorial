@@ -60,6 +60,7 @@
 
 ## Pack JavaScript
 
+- [snowpackjs/snowpack](https://github.com/snowpackjs/snowpack): <sub>WASM-powered frontend build tool. Fast, lightweight, unbundled ESM. ✌️</sub>
 - [parcel](https://github.com/parcel-bundler/parcel): <sub>📦🚀 Blazing fast, zero configuration web application bundler https://parceljs.org</sub>
 - [rollup](https://github.com/rollup/rollup): <sub>Next-generation ES module bundler https://rollupjs.org</sub>
 - [fastpack](https://github.com/fastpack/fastpack): <sub>Pack JS code fast & easy http://fastpack.io</sub>

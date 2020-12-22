@@ -105,6 +105,10 @@
 - [gunthercox/ChatterBot](https://github.com/gunthercox/ChatterBot): <sub>ChatterBot is a machine learning, conversational dialog engine for creating chat bots.</sub>
 - [sfyc23/EverydayWechat](https://github.com/sfyc23/EverydayWechat): <sub>微信助手：1.每日定时给好友（女友）发送定制消息。2.机器人自动回复好友。3.群助手功能（例如：查询垃圾分类、天气、日历、电影实时票房、快递物流、PM2.5 等）</sub>
 
+## 自动化
+
+- [microsoft/playwright-python](https://github.com/microsoft/playwright-python): <sub>Python version of the Playwright testing and automation library. https://playwright.dev/</sub>
+
 ## 数据科学
 
 - [pandas-dev/pandas](https://github.com/pandas-dev/pandas): <sub>powerful Python data analysis toolkit.</sub>

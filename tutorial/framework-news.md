@@ -14,6 +14,11 @@
 - [Tencent/omi](https://github.com/Tencent/omi): <sub>Next generation web framework in 4kb JavaScript (Web Components + JSX + Proxy + Store + Path Updating) http://omijs.org</sub>
 - [hyperapp](https://github.com/jorgebucaran/hyperapp): <sub>1 kB JavaScript micro-framework for building declarative web applications</sub>
 - [ember.js](https://github.com/emberjs/ember.js): <sub>Ember.js - A JavaScript framework for creating ambitious web applications http://www.emberjs.com</sub>
+- [yisar/fre](https://github.com/yisar/fre): <sub>👻 Tiny Coroutine framework with Fiber. https://fre.js.org/</sub>
+
+### 桌面应用
+
+- [nodegui/react-nodegui](https://github.com/nodegui/react-nodegui): <sub>Build performant, native and cross-platform desktop applications with native React + powerful CSS like styling.🚀 https://react.nodegui.org/</sub>
 
 ## 2019
 
