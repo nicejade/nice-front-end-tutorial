@@ -40,6 +40,8 @@
   - [xlwings/xlwings](https://github.com/xlwings/xlwings): <sub>xlwings is a BSD-licensed Python library that makes it easy to call Python from Excel and vice versa. It works with Microsoft Excel on Windows and Mac.</sub>
   - [psf/requests](https://github.com/psf/requests): <sub>A simple, yet elegant HTTP library.</sub>
   - [gnebbia/kb](https://github.com/gnebbia/kb): <sub>A minimalist command line knowledge base manager</sub>
+  - [willmcgugan/rich](https://github.com/willmcgugan/rich): <sub>Rich is a Python library for rich text and beautiful formatting in the terminal.</sub>
+  - [amueller/word_cloud](https://github.com/amueller/word_cloud): <sub>A little word cloud generator in Python</sub>
 
 ### 示例篇
 
