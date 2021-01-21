@@ -58,6 +58,7 @@
 - [RobinLinus/snapdrop](https://github.com/RobinLinus/snapdrop): <sub>A Progressive Web App for local file sharing</sub>
 - [chanind/hanzi-writer](https://github.com/chanind/hanzi-writer): <sub>Chinese character stroke order animations and practice quizzes</sub>
 - [itorr/nbnhhsh](https://github.com/itorr/nbnhhsh): <sub>😩「能不能好好说话？」 拼音首字母缩写翻译工具</sub>
+- [pavlobu/deskreen](https://github.com/pavlobu/deskreen): <sub>Deskreen turns any device with a web browser to a second screen for your computer http://www.deskreen.com/</sub>
 
 ### 项目列表类
 

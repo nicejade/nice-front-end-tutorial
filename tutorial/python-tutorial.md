@@ -78,6 +78,7 @@
 
 - [tensorflow/tensorflow](https://github.com/tensorflow/tensorflow): <sub>An Open Source Machine Learning Framework for Everyone https://tensorflow.org</sub>
 - [tensorflow/models](https://github.com/tensorflow/models): <sub>Models and examples built with TensorFlow</sub>
+- [tensorflow/graphics](https://github.com/tensorflow/graphics): <sub>TensorFlow Graphics: Differentiable Graphics Layers for TensorFlow</sub>
 - [google/trax](https://github.com/google/trax): <sub>Trax — your path to advanced deep learning</sub>
 - [lutzroeder/netron](https://github.com/lutzroeder/netron): <sub>Visualizer for neural network, deep learning, and machine learning models https://www.lutzroeder.com/netron</sub>
 - [fastai/fastai](https://github.com/fastai/fastai): <sub>The fastai deep learning library, plus lessons and tutorials http://docs.fast.ai</sub>
