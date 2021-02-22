@@ -36,6 +36,7 @@
 ### 🐉 The Future
 
 - [**AI-ML-DL**](https://github.com/nicejade/nice-front-end-tutorial/blob/master/tutorial/ai-ml-dl-tutorial.md)
+- [Deno ✨](https://github.com/nicejade/nice-front-end-tutorial/blob/master/tutorial/deno-tutorial.md)
 - [Flutter ✨](https://github.com/nicejade/nice-front-end-tutorial/blob/master/tutorial/flutter-tutorial.md)
 - [**Pwa**](https://github.com/nicejade/nice-front-end-tutorial/blob/master/tutorial/pwa-tutorial.md)
 - [Python ✨](https://github.com/nicejade/nice-front-end-tutorial/blob/master/tutorial/python-tutorial.md)

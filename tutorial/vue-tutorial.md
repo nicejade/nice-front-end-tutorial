@@ -1,3 +1,5 @@
+**导语：** [VueJS](https://nicelinks.site/redirect?https://vuejs.org/) 是一款友好的、多用途且高性能的渐进式 `JavaScript` 框架；它能帮助你创建可维护性和可测试性更强的代码库；它具有许多令人难以抗拒的优势，诸如极其**易用**，如果你已经会了 HTML、CSS、JavaScript？即刻阅读指南开始构建应用！非常**灵活**，不断繁荣的生态系统，可以在一个库和一套完整框架之间自如伸缩。十分**高效**，20kB min+gzip 运行大小，超快虚拟 DOM ，最省心的优化。经过几年的发展，`Vue` 在构建`原生应用`、`小程序`等方面，也是大放异彩，成为时下发展最为迅猛的开放框架，堪称业界无冕之王。── 出自[倾城之链 | Vue.js - The Progressive JavaScript Framework](https://nicelinks.site/post/5b1a221c0526c920d6dfaada)。
+
 ## 基础篇
 
 - [**Vue 官方文档**](https://cn.vuejs.org/)
