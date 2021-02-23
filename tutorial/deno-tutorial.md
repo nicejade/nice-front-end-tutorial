@@ -26,6 +26,10 @@
 
 - [denolib/awesome-deno](https://github.com/denolib/awesome-deno): <sub>Curated list of awesome things related to Deno</sub>
 
+### Online Playgrounds
+
+[deno.town](https://deno.town/): <sub>A web REPL for experimenting with the Deno API</sub>
+
 ### 教程文章
 
 - [Deno 运行时入门教程：Node.js 的替代品](https://www.ruanyifeng.com/blog/2020/01/deno-intro.html)
@@ -34,5 +38,9 @@
 ### 项目实践
 
 - [nicejade/nicelinks-weekly](https://github.com/nicejade/nicelinks-weekly): <sub>基于 Deno、TypeScript 编写，一键生成「倾城之链（旨在云集全球优质网站）」周刊文章，每周五发布。</sub>
+
+### Deno 资源
+
+- [The React Framework in Deno](https://alephjs.org/): <sub>The Full-stack Framework for React and other in Deno.</sub>
 
 ## 进阶篇
