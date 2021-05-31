@@ -61,6 +61,8 @@
 
 - [vinta/awesome-python](https://github.com/vinta/awesome-python): <sub>A curated list of awesome Python frameworks, libraries, software and resources https://awesome-python.com</sub>
 - [jobbole/awesome-python-cn](https://github.com/jobbole/awesome-python-cn): <sub>Python 资源大全中文版，包括：Web 框架、网络爬虫、模板引擎、数据库、数据可视化、图片处理等，由伯乐在线持续更新。</sub>
+- [100-Days-Of-ML-Code](https://github.com/MLEveryday/100-Days-Of-ML-Code): <sub>100-Days-Of-ML-Code 中文版</sub>
+- [burness/tensorflow-101](https://github.com/burness/tensorflow-101): <sub>learn code with tensorflow.</sub>
 - [gto76/python-cheatsheet](https://github.com/gto76/python-cheatsheet): <sub>Comprehensive Python Cheatsheet</sub>
 - [mahmoud/awesome-python-applications](https://github.com/mahmoud/awesome-python-applications): <sub>💿 Free software that works great, and also happens to be open-source Python. </sub>
 - [dloss/python-pentest-tools](https://github.com/dloss/python-pentest-tools): <sub>Python tools for penetration testers</sub>
