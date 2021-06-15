@@ -18,7 +18,7 @@
 - [uni-app](https://github.com/dcloudio/uni-app): <sub>使用 Vue.js 开发跨平台应用的前端框架 </sub>
 - [westore](https://github.com/dntzhang/westore): <sub>世界上最小却强大的小程序框架? - 100 多行代码搞定全局状态管理和跨页通讯</sub>
 - [minapp](https://github.com/qiu8310/minapp): <sub>重新定义微信小程序的开发 https://qiu8310.github.io/minapp/</sub>
-- [wepy](https://github.com/Tencent/wepy): <sub>小程序组件化开发框架 https://tencent.github.io/wepy/</sub>
+- [wepy](https://github.com/Tencent/wepy): <sub>小程序组件化开发框架。</sub>
 - [mpvue](https://github.com/Meituan-Dianping/mpvue): <sub>基于 Vue.js 的小程序开发框架，从底层支持 Vue.js 语法和构建工具体系。 http://mpvue.com</sub>
 - [weui-wxss](https://github.com/Tencent/weui-wxss): <sub>A UI library by WeChat official design team, includes the most useful widgets/modules.</sub>
 - [tina](https://github.com/tinajs/tina): <sub>💃 一款轻巧的渐进式微信小程序框架 https://tina.js.org</sub>
