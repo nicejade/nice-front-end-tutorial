@@ -33,6 +33,7 @@
 ### 教程文章
 
 - [Deno 运行时入门教程：Node.js 的替代品](https://www.ruanyifeng.com/blog/2020/01/deno-intro.html)
+- [Full Deno tutorials with example](https://lyty.dev/deno/deno-tutorial.html)
 - [Getting Started With Deno – Deno.js Tutorial 2020](https://dotnetcrunch.in/getting-started-with-deno/)
 
 ### 项目实践
