@@ -12,9 +12,6 @@
   <a href="https://v2ex.com/t/449982#reply11">
    <img src="https://img.shields.io/badge/Chat-on%20v2ex-brightgreen.svg" alt="Chat On V2ex">
   </a>
-  <a href="https://hacpai.com/article/1504767632550">
-   <img src="https://img.shields.io/badge/Chat-on%20hacpai-brightgreen.svg" alt="Chat On Hacpai">
-  </a>
   <a href="https://www.jeffjade.com/2017/09/28/127-nice-front-end-tutorial/?utm_source=github.com">
     <img src="https://img.shields.io/badge/Blog-jeffjade.com-%23a696c8.svg" alt="Blog Homepage">
   </a>
@@ -30,6 +27,10 @@
 ## 目标与哲学
 
 众所周知，前端发展如火如荼，日新月异，而且很长一段时间内都将如此。这份由[晚晴幽草轩轩主](https://jeffjade.com/?utm_source=nice-front-end-tutorial)正在维护的教程列表；旨在为`前端学习`，`技能提升`，`视野扩展`，`资料查找`等行个方便。将会在日常工作探索、学习中，持续保持更新，增新优之章，除旧失之文；尽可能使得这份列表保持简练，以避免信息过重且冗杂；望其能在浩如烟海的讯息中，堪有所用。详细说明，可参见：[与时俱进版前端资源教程](https://www.jeffjade.com/2017/09/28/127-nice-front-end-tutorial/)。
+
+<br />
+
+**温馨提示**：近年来，由于注意力不在前端和后台开发方面，因此本仓库鲜有更新；有在[逍遥自在轩](https://niceshare.site/?ref=github.com)记录**生活和工作中频繁使用的工具、软件和服务**，敬请关注。
 
 ## 分类目录
 
@@ -50,6 +51,7 @@
 - [Html(5)](https://github.com/nicejade/nice-front-end-tutorial/blob/master/tutorial/html-tutorial.md)
 - [Css(3)](https://github.com/nicejade/nice-front-end-tutorial/blob/master/tutorial/css3-tutorial.md)
 - [Framework News](https://github.com/nicejade/nice-front-end-tutorial/blob/master/tutorial/framework-news.md)
+- [Svelte 👍](https://www.svelte.cn/)
 - [Vue](https://github.com/nicejade/nice-front-end-tutorial/blob/master/tutorial/vue-tutorial.md)
 - [React](https://github.com/nicejade/nice-front-end-tutorial/blob/master/tutorial/react-tutorial.md)
 - [Angular](https://github.com/nicejade/nice-front-end-tutorial/blob/master/tutorial/angular-tutorial.md)
@@ -88,24 +90,19 @@
 
 ## 相关链接
 
-- [**倾城之链**](https://nicelinks.site?utm_source=github)
-- [About Me](https://aboutme.lovejade.cn/?utm_source=github)
-- [个人博客](https://www.jeffjade.com/nicelinks?utm_source=github)
-- [静轩之别苑](https://quickapp.lovejade.cn/nicelinks?utm_source=github)
-- [静晴轩别苑](https://nice.lovejade.cn/?utm_source=github)
-- [吾意静晴轩](https://docz.lovejade.cn/?utm_source=github)
-- [天意人间舫](https://blog.lovejade.cn/?utm_source=github)
-- [新浪微博](https://weibo.com/jeffjade?utm_source=github)
-- [知乎主页](https://www.zhihu.com/people/yang-qiong-pu/)
-- [简书主页](https://www.jianshu.com/u/9aae3d8f4c3d)
+## 相关链接
+
+- [逍遥自在轩](https://niceshare.site/?ref=github.com)
+- [晚晴幽草轩](https://www.jeffjade.com/nicelinks?ref=github.com)
+- [缘知随心庭](https://fine.niceshare.site/?ref=github.com)
+- [静轩之别苑](https://quickapp.lovejade.cn/?ref=github.com)
+- [悠然宜想亭](https://forum.lovejade.cn//?ref=github.com)
+- [静晴轩别苑](https://nice.lovejade.cn/?ref=github.com)
+- [天意人间舫](https://blog.lovejade.cn/?ref=github.com)
+- [新浪微博](https://weibo.com/jeffjade?ref=github.com)
 - [SegmentFault](https://segmentfault.com/u/jeffjade)
 - [Twitter](https://twitter.com/nicejadeyang)
-- [Facebook](https://www.facebook.com/yang.gang.jade)
-
-| 微信公众号 | 前端微信群 | 推荐 Web 应用 | 推荐小程序 |
-| :-: | :-: | :-: | :-: |
-| 😉 静晴轩 | ✨ 大前端联盟 | 🎉 倾城之链 | 🌊 倾城之链 |
-| ![静晴轩](https://image.nicelinks.site/qrcode_jqx.jpg) | ![倾城之链](https://image.nicelinks.site/wqycx-weixin.png?ver=1) | <img src="https://image.nicelinks.site/nice-links.png" width="300px" alt="倾城之链"></img> | <img src="https://camo.githubusercontent.com/a4d1e07fce0639d0a43ebdb4074c5c1e67978934/68747470733a2f2f696d6167652e6e6963656c696e6b732e736974652f6e6963656c696e6b732d6d696e6970726f6772616d2d636f64652e6a706567" width="300px" alt="倾城之链"></img> |
+- [Facebook](https://www.facebook.com/nice.jade.yang)
 
 ## 许可执照
 
