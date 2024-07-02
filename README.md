@@ -30,7 +30,7 @@
 
 <br />
 
-**温馨提示**：近年来，由于注意力不在前端和后台开发方面，因此本仓库鲜有更新；有在[逍遥自在轩](https://niceshare.site/?ref=github.com)记录**生活和工作中频繁使用的工具、软件和服务**，敬请关注。
+**温馨提示**：近年来，由于注意力已不在前端、后台开发方面，因此本仓库鲜有更新；有在[逍遥自在轩](https://niceshare.site/?ref=github.com)记录**生活和工作中频繁使用的工具、软件和服务**，敬请关注。
 
 ## 分类目录
 
@@ -90,8 +90,6 @@
 
 ## 相关链接
 
-## 相关链接
-
 - [逍遥自在轩](https://niceshare.site/?ref=github.com)
 - [晚晴幽草轩](https://www.jeffjade.com/nicelinks?ref=github.com)
 - [缘知随心庭](https://fine.niceshare.site/?ref=github.com)
@@ -108,4 +106,4 @@
 
 [MIT](http://opensource.org/licenses/MIT)
 
-Copyright (c) 2018-present, [nicejade](https://aboutme.lovejade.cn/?utm_source=nice-front-end-tutorial)
+Copyright (c) 2018-present, [nicejade](https://fine.niceshare.site/?ref=github.com)
