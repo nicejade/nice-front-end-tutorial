@@ -12,7 +12,7 @@
 
 ## 工具库
 
-* [yandex/gixy](https://github.com/yandex/gixy): <sub>Nginx configuration static analyzer</sub>
+* [dvershinin/gixy](https://github.com/dvershinin/gixy): <sub>Nginx configuration static analyzer</sub>
 
 ## 周边篇
 
