@@ -203,7 +203,7 @@
 - [js 在线编辑 - hcharts](http://code.hcharts.cn)
 - [js 在线编辑 - jsdm](http://jsdm.com)
 - [sql 在线编辑 - sqlfiddle](http://sqlfiddle.com)
-- [mozilla 在线编辑器](https://thimble.mozilla.org)
+- [Coddy HTML Playground](https://coddy.tech/playground/html)
 
 ### iconfont
 
